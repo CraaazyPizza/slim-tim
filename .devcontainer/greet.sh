@@ -12,10 +12,9 @@ cat <<'EOF'
                  CORRECTIONS.md           what turned out to be wrong
                  UNFINISHED_BUSINESS.md   things nobody has done yet
 
-  Never coded before? claude, codex and gemini are all installed — type one, log
-  in with your own subscription, and paste a question from README.md. Or install
-  the matching extension from the Extensions panel if you prefer a sidebar.
-  gemini is the best of the three at reading these images.
+  Never coded before? Type  claude  or  codex  or  gemini  below and log in with a
+  subscription you already have. All three are installed. Then paste one of the
+  questions from README.md. gemini is the best of them at reading these images.
   Read AGENTS.md before trusting any AI about what is in an image here — this
   footage makes them hallucinate, and that is not a figure of speech.
 

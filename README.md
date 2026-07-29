@@ -64,11 +64,11 @@ that I haven't caught. If you find one, brilliant, tell me.
    download. You can run things, install things, break things: it isn't your machine
    and it isn't mine, so there is nothing you can wreck. Bin it and click again for
    a fresh one.
-3. If you have a **Claude, ChatGPT or Gemini subscription**: click **Extensions** in
-   the left sidebar, install **Claude Code**, **Codex** or **Gemini Code Assist**,
-   and log in with your account. All three are installed as terminal commands too —
-   `claude`, `codex`, `gemini` — so you can just type one. Any of them works; if you
-   have a choice, see the note about Gemini and images below.
+3. If you have a **Claude, ChatGPT or Gemini subscription**: open the terminal at the
+   bottom of the screen and type **`claude`**, **`codex`** or **`gemini`**. All three
+   are already installed. It'll walk you through logging in with the account you
+   already have. Any of them works; if you have a choice, there's a note about Gemini
+   and images below.
 4. Ask it things. That's it. It can read every file here, pull frames out of the
    videos, run the scripts, and show you what came out.
 5. **Found something? Just say: "commit this and submit it to the repo."** The AI

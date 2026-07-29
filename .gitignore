@@ -41,3 +41,7 @@ venv/
 Thumbs.db
 ~$*
 *.swp
+
+# The channel monitor's rolling logs. Its snapshots are data and are kept;
+# the run logs churn on every cron tick and carry nothing.
+watch/*.log

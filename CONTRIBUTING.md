@@ -1,9 +1,9 @@
 # Contributing
 
 Short version: **just put it in.** Setup is in the README — click the Codespaces
-badge, install the Claude Code, Codex or Gemini extension if you have a
-subscription, and tell it *"commit this and submit it to the repo."* You don't need
-to know git.
+badge, type `claude`, `codex` or `gemini` in the terminal to log in with a
+subscription you already have, and tell it *"commit this and submit it to the
+repo."* You don't need to know git.
 
 Prefer your own machine? `git clone`, then `bin/setup`. It pins the same
 dependencies the Codespace uses and warns you if your ffmpeg won't reproduce the
