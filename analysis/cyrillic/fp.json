@@ -1,0 +1,2108 @@
+[
+ {
+  "font": "Berenis ADF Pro Bold",
+  "file": "/usr/share/fonts/truetype/adf/BerenisADFPro-Bold.otf",
+  "chi2": 23.537366416049217,
+  "xh_cap": 0.5833333333333334,
+  "w_cap": 15.79861111111111,
+  "stem_cap": 0.2152777777777778,
+  "obow_cap": 0.2013888888888889
+ },
+ {
+  "font": "C059 Roman",
+  "file": "/usr/share/fonts/type1/urw-base35/C059-Roman.t1",
+  "chi2": 32.02259755649375,
+  "xh_cap": 0.6875,
+  "w_cap": 15.88888888888889,
+  "stem_cap": 0.1597222222222222,
+  "obow_cap": 0.14583333333333334
+ },
+ {
+  "font": "C059 Italic",
+  "file": "/usr/share/fonts/type1/urw-base35/C059-Italic.t1",
+  "chi2": 32.49997692120194,
+  "xh_cap": 0.6736111111111112,
+  "w_cap": 15.48611111111111,
+  "stem_cap": 0.1527777777777778,
+  "obow_cap": 0.13194444444444445
+ },
+ {
+  "font": "Berenis ADF Pro BoldItalic",
+  "file": "/usr/share/fonts/truetype/adf/BerenisADFPro-BoldItalic.otf",
+  "chi2": 32.9918899754972,
+  "xh_cap": 0.5833333333333334,
+  "w_cap": 15.041666666666666,
+  "stem_cap": 0.20833333333333334,
+  "obow_cap": 0.18055555555555555
+ },
+ {
+  "font": "Linux Libertine O Semibold Italic",
+  "file": "/usr/share/fonts/opentype/linux-libertine/LinLibertine_RZI.otf",
+  "chi2": 34.49333844731537,
+  "xh_cap": 0.7,
+  "w_cap": 16.79230769230769,
+  "stem_cap": 0.18461538461538463,
+  "obow_cap": 0.19230769230769232
+ },
+ {
+  "font": "Nimbus Roman Italic",
+  "file": "/usr/share/fonts/opentype/urw-base35/NimbusRoman-Italic.otf",
+  "chi2": 38.15483739266487,
+  "xh_cap": 0.6818181818181818,
+  "w_cap": 15.507575757575758,
+  "stem_cap": 0.14393939393939395,
+  "obow_cap": 0.11363636363636363
+ },
+ {
+  "font": "Linux Libertine Display O Regular",
+  "file": "/usr/share/fonts/opentype/linux-libertine/LinLibertine_DR.otf",
+  "chi2": 38.18406888673806,
+  "xh_cap": 0.6564885496183206,
+  "w_cap": 15.83206106870229,
+  "stem_cap": 0.11450381679389313,
+  "obow_cap": 0.11450381679389313
+ },
+ {
+  "font": "Linux Libertine O Semibold",
+  "file": "/usr/share/fonts/opentype/linux-libertine/LinLibertine_RZ.otf",
+  "chi2": 38.5624596355026,
+  "xh_cap": 0.7,
+  "w_cap": 17.415384615384614,
+  "stem_cap": 0.19230769230769232,
+  "obow_cap": 0.18461538461538463
+ },
+ {
+  "font": "Nimbus Roman Regular",
+  "file": "/usr/share/fonts/type1/urw-base35/NimbusRoman-Regular.t1",
+  "chi2": 38.72433380464547,
+  "xh_cap": 0.696969696969697,
+  "w_cap": 15.765151515151516,
+  "stem_cap": 0.1590909090909091,
+  "obow_cap": 0.12878787878787878
+ },
+ {
+  "font": "Linux Biolinum O Regular",
+  "file": "/usr/share/fonts/opentype/linux-libertine/LinBiolinum_R.otf",
+  "chi2": 38.830278884348516,
+  "xh_cap": 0.6870229007633588,
+  "w_cap": 16.083969465648856,
+  "stem_cap": 0.1297709923664122,
+  "obow_cap": 0.1297709923664122
+ },
+ {
+  "font": "Linux Biolinum O Italic",
+  "file": "/usr/share/fonts/opentype/linux-libertine/LinBiolinum_RI.otf",
+  "chi2": 38.98307989566476,
+  "xh_cap": 0.6870229007633588,
+  "w_cap": 16.068702290076335,
+  "stem_cap": 0.1297709923664122,
+  "obow_cap": 0.13740458015267176
+ },
+ {
+  "font": "Linux Libertine O Regular",
+  "file": "/usr/share/fonts/opentype/linux-libertine/LinLibertine_R.otf",
+  "chi2": 39.874332340724834,
+  "xh_cap": 0.6976744186046512,
+  "w_cap": 16.643410852713178,
+  "stem_cap": 0.13178294573643412,
+  "obow_cap": 0.13953488372093023
+ },
+ {
+  "font": "STIXGeneral Italic",
+  "file": "/usr/share/fonts/opentype/stix/STIXGeneral-Italic.otf",
+  "chi2": 41.055533128884946,
+  "xh_cap": 0.6842105263157895,
+  "w_cap": 15.428571428571429,
+  "stem_cap": 0.14285714285714285,
+  "obow_cap": 0.12781954887218044
+ },
+ {
+  "font": "STIX Italic",
+  "file": "/usr/share/fonts/opentype/stix-word/STIX-Italic.otf",
+  "chi2": 41.055533128884946,
+  "xh_cap": 0.6842105263157895,
+  "w_cap": 15.428571428571429,
+  "stem_cap": 0.14285714285714285,
+  "obow_cap": 0.12781954887218044
+ },
+ {
+  "font": "P052 Roman",
+  "file": "/usr/share/fonts/opentype/urw-base35/P052-Roman.otf",
+  "chi2": 44.07194336737555,
+  "xh_cap": 0.697841726618705,
+  "w_cap": 16.151079136690647,
+  "stem_cap": 0.12949640287769784,
+  "obow_cap": 0.12949640287769784
+ },
+ {
+  "font": "Comfortaa Bold",
+  "file": "/usr/share/fonts/truetype/comfortaa/Comfortaa-Bold.ttf",
+  "chi2": 46.52872154598865,
+  "xh_cap": 0.7115384615384616,
+  "w_cap": 17.01923076923077,
+  "stem_cap": 0.1346153846153846,
+  "obow_cap": 0.1282051282051282
+ },
+ {
+  "font": "Lato Semibold",
+  "file": "/usr/share/fonts/truetype/lato/Lato-Semibold.ttf",
+  "chi2": 46.973716776342926,
+  "xh_cap": 0.7172413793103448,
+  "w_cap": 16.06206896551724,
+  "stem_cap": 0.16551724137931034,
+  "obow_cap": 0.15172413793103448
+ },
+ {
+  "font": "Nimbus Roman Bold Italic",
+  "file": "/usr/share/fonts/opentype/urw-base35/NimbusRoman-BoldItalic.otf",
+  "chi2": 47.8834215327658,
+  "xh_cap": 0.6992481203007519,
+  "w_cap": 15.819548872180452,
+  "stem_cap": 0.20300751879699247,
+  "obow_cap": 0.18045112781954886
+ },
+ {
+  "font": "STIX Regular",
+  "file": "/usr/share/fonts/opentype/stix-word/STIX-Regular.otf",
+  "chi2": 48.58469230380437,
+  "xh_cap": 0.7121212121212122,
+  "w_cap": 15.787878787878787,
+  "stem_cap": 0.15151515151515152,
+  "obow_cap": 0.13636363636363635
+ },
+ {
+  "font": "STIXGeneral Regular",
+  "file": "/usr/share/fonts/opentype/stix/STIXGeneral-Regular.otf",
+  "chi2": 48.58469230380437,
+  "xh_cap": 0.7121212121212122,
+  "w_cap": 15.787878787878787,
+  "stem_cap": 0.15151515151515152,
+  "obow_cap": 0.13636363636363635
+ },
+ {
+  "font": "STIX Math Regular",
+  "file": "/usr/share/fonts/opentype/stix-word/STIXMath-Regular.otf",
+  "chi2": 48.58469230380437,
+  "xh_cap": 0.7121212121212122,
+  "w_cap": 15.787878787878787,
+  "stem_cap": 0.15151515151515152,
+  "obow_cap": 0.13636363636363635
+ },
+ {
+  "font": "Lato Medium",
+  "file": "/usr/share/fonts/truetype/lato/Lato-Medium.ttf",
+  "chi2": 50.51449632718039,
+  "xh_cap": 0.7202797202797203,
+  "w_cap": 16.195804195804197,
+  "stem_cap": 0.14685314685314685,
+  "obow_cap": 0.13986013986013987
+ },
+ {
+  "font": "Lato Bold",
+  "file": "/usr/share/fonts/truetype/lato/Lato-Bold.ttf",
+  "chi2": 51.215655125163686,
+  "xh_cap": 0.7222222222222222,
+  "w_cap": 16.291666666666668,
+  "stem_cap": 0.1875,
+  "obow_cap": 0.1736111111111111
+ },
+ {
+  "font": "EB Garamond SC 08 Regular",
+  "file": "/usr/share/fonts/woff/ebgaramond/EBGaramondSC08-Regular.woff",
+  "chi2": 51.91386859604255,
+  "xh_cap": 0.6363636363636364,
+  "w_cap": 14.643939393939394,
+  "stem_cap": 0.12121212121212122,
+  "obow_cap": 0.12121212121212122
+ },
+ {
+  "font": "EB Garamond SC 12 Regular",
+  "file": "/usr/share/fonts/truetype/ebgaramond/EBGaramondSC12-Regular.ttf",
+  "chi2": 51.91386859604255,
+  "xh_cap": 0.6363636363636364,
+  "w_cap": 14.643939393939394,
+  "stem_cap": 0.12121212121212122,
+  "obow_cap": 0.12121212121212122
+ },
+ {
+  "font": "EB Garamond 12 Regular",
+  "file": "/usr/share/fonts/truetype/ebgaramond/EBGaramond12-Regular.ttf",
+  "chi2": 51.91386859604255,
+  "xh_cap": 0.6363636363636364,
+  "w_cap": 14.643939393939394,
+  "stem_cap": 0.12121212121212122,
+  "obow_cap": 0.12121212121212122
+ },
+ {
+  "font": "Cantarell Bold",
+  "file": "/usr/share/fonts/opentype/cantarell/Cantarell-Bold.otf",
+  "chi2": 52.151130291175704,
+  "xh_cap": 0.7266187050359713,
+  "w_cap": 16.712230215827336,
+  "stem_cap": 0.18705035971223022,
+  "obow_cap": 0.18705035971223022
+ },
+ {
+  "font": "Lato Regular",
+  "file": "/usr/share/fonts/truetype/lato/Lato-Regular.ttf",
+  "chi2": 53.2339851743684,
+  "xh_cap": 0.7202797202797203,
+  "w_cap": 16.146853146853147,
+  "stem_cap": 0.13986013986013987,
+  "obow_cap": 0.13286713286713286
+ },
+ {
+  "font": "Linux Biolinum O Bold",
+  "file": "/usr/share/fonts/opentype/linux-libertine/LinBiolinum_RB.otf",
+  "chi2": 53.48336384559846,
+  "xh_cap": 0.6870229007633588,
+  "w_cap": 17.977099236641223,
+  "stem_cap": 0.22137404580152673,
+  "obow_cap": 0.22137404580152673
+ },
+ {
+  "font": "Tinos Regular",
+  "file": "/usr/share/fonts/truetype/croscore/Tinos-Regular.ttf",
+  "chi2": 55.8867525314181,
+  "xh_cap": 0.7175572519083969,
+  "w_cap": 15.83206106870229,
+  "stem_cap": 0.13740458015267176,
+  "obow_cap": 0.1297709923664122
+ },
+ {
+  "font": "FreeSerif Regular",
+  "file": "/usr/share/fonts/opentype/freefont/FreeSerif.otf",
+  "chi2": 56.06427819331303,
+  "xh_cap": 0.7121212121212122,
+  "w_cap": 15.333333333333334,
+  "stem_cap": 0.15151515151515152,
+  "obow_cap": 0.13636363636363635
+ },
+ {
+  "font": "EB Garamond 08 Regular",
+  "file": "/usr/share/fonts/opentype/ebgaramond/EBGaramond08-Regular.otf",
+  "chi2": 56.274155882590975,
+  "xh_cap": 0.6515151515151515,
+  "w_cap": 14.643939393939394,
+  "stem_cap": 0.12121212121212122,
+  "obow_cap": 0.12121212121212122
+ },
+ {
+  "font": "Berenis ADF Pro Math Regular",
+  "file": "/usr/share/fonts/truetype/adf/BerenisADFProMath-Regular.otf",
+  "chi2": 56.60384794209221,
+  "xh_cap": 0.5833333333333334,
+  "w_cap": 13.95138888888889,
+  "stem_cap": 0.14583333333333334,
+  "obow_cap": 0.13194444444444445
+ },
+ {
+  "font": "Berenis ADF Pro Regular",
+  "file": "/usr/share/fonts/truetype/adf/BerenisADFPro-Regular.otf",
+  "chi2": 56.60384794209221,
+  "xh_cap": 0.5833333333333334,
+  "w_cap": 13.95138888888889,
+  "stem_cap": 0.14583333333333334,
+  "obow_cap": 0.13194444444444445
+ },
+ {
+  "font": "Nimbus Roman Bold",
+  "file": "/usr/share/fonts/type1/urw-base35/NimbusRoman-Bold.t1",
+  "chi2": 56.8013605051504,
+  "xh_cap": 0.706766917293233,
+  "w_cap": 16.25563909774436,
+  "stem_cap": 0.21804511278195488,
+  "obow_cap": 0.20300751879699247
+ },
+ {
+  "font": "Lato Heavy",
+  "file": "/usr/share/fonts/truetype/lato/Lato-Heavy.ttf",
+  "chi2": 57.52942674545613,
+  "xh_cap": 0.7191780821917808,
+  "w_cap": 16.171232876712327,
+  "stem_cap": 0.2054794520547945,
+  "obow_cap": 0.1917808219178082
+ },
+ {
+  "font": "Tinos Italic",
+  "file": "/usr/share/fonts/truetype/croscore/Tinos-Italic.ttf",
+  "chi2": 58.72538874245298,
+  "xh_cap": 0.7175572519083969,
+  "w_cap": 15.633587786259541,
+  "stem_cap": 0.13740458015267176,
+  "obow_cap": 0.1297709923664122
+ },
+ {
+  "font": "Linux Libertine O Italic",
+  "file": "/usr/share/fonts/opentype/linux-libertine/LinLibertine_RI.otf",
+  "chi2": 58.97016320572451,
+  "xh_cap": 0.6923076923076923,
+  "w_cap": 15.2,
+  "stem_cap": 0.12307692307692308,
+  "obow_cap": 0.12307692307692308
+ },
+ {
+  "font": "WenQuanYi Zen Hei Regular",
+  "file": "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
+  "chi2": 59.92147930350397,
+  "xh_cap": 0.7241379310344828,
+  "w_cap": 16.124137931034483,
+  "stem_cap": 0.1310344827586207,
+  "obow_cap": 0.1310344827586207
+ },
+ {
+  "font": "Charis SIL Regular",
+  "file": "/usr/share/fonts/truetype/charis/CharisSIL-Regular.ttf",
+  "chi2": 60.33034034590391,
+  "xh_cap": 0.7388059701492538,
+  "w_cap": 16.761194029850746,
+  "stem_cap": 0.14925373134328357,
+  "obow_cap": 0.15671641791044777
+ },
+ {
+  "font": "P052 Bold",
+  "file": "/usr/share/fonts/opentype/urw-base35/P052-Bold.otf",
+  "chi2": 60.800095915962444,
+  "xh_cap": 0.7194244604316546,
+  "w_cap": 15.726618705035971,
+  "stem_cap": 0.2014388489208633,
+  "obow_cap": 0.2014388489208633
+ },
+ {
+  "font": "Cantarell Regular",
+  "file": "/usr/share/fonts/opentype/cantarell/Cantarell-Regular.otf",
+  "chi2": 61.232927284456224,
+  "xh_cap": 0.7194244604316546,
+  "w_cap": 16.165467625899282,
+  "stem_cap": 0.1223021582733813,
+  "obow_cap": 0.11510791366906475
+ },
+ {
+  "font": "P052 Bold Italic",
+  "file": "/usr/share/fonts/opentype/urw-base35/P052-BoldItalic.otf",
+  "chi2": 61.48617360615553,
+  "xh_cap": 0.7194244604316546,
+  "w_cap": 15.273381294964029,
+  "stem_cap": 0.17985611510791366,
+  "obow_cap": 0.16546762589928057
+ },
+ {
+  "font": "Tinos Bold Italic",
+  "file": "/usr/share/fonts/truetype/croscore/Tinos-BoldItalic.ttf",
+  "chi2": 62.32921337178496,
+  "xh_cap": 0.7175572519083969,
+  "w_cap": 16.068702290076335,
+  "stem_cap": 0.21374045801526717,
+  "obow_cap": 0.1984732824427481
+ },
+ {
+  "font": "Linux Libertine O Bold",
+  "file": "/usr/share/fonts/opentype/linux-libertine/LinLibertine_RB.otf",
+  "chi2": 62.607987301135466,
+  "xh_cap": 0.7054263565891473,
+  "w_cap": 18.124031007751938,
+  "stem_cap": 0.21705426356589147,
+  "obow_cap": 0.2248062015503876
+ },
+ {
+  "font": "STIX Bold Italic",
+  "file": "/usr/share/fonts/opentype/stix-word/STIX-BoldItalic.otf",
+  "chi2": 63.66084818889216,
+  "xh_cap": 0.7089552238805971,
+  "w_cap": 15.671641791044776,
+  "stem_cap": 0.21641791044776118,
+  "obow_cap": 0.1865671641791045
+ },
+ {
+  "font": "STIXGeneral Bold Italic",
+  "file": "/usr/share/fonts/opentype/stix/STIXGeneral-BoldItalic.otf",
+  "chi2": 63.66084818889216,
+  "xh_cap": 0.7089552238805971,
+  "w_cap": 15.671641791044776,
+  "stem_cap": 0.21641791044776118,
+  "obow_cap": 0.1865671641791045
+ },
+ {
+  "font": "FreeSerif Italic",
+  "file": "/usr/share/fonts/truetype/freefont/FreeSerifItalic.ttf",
+  "chi2": 64.42822978792753,
+  "xh_cap": 0.7022900763358778,
+  "w_cap": 14.778625954198473,
+  "stem_cap": 0.1450381679389313,
+  "obow_cap": 0.13740458015267176
+ },
+ {
+  "font": "Liberation Serif Regular",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationSerif-Regular.ttf",
+  "chi2": 66.48272489307473,
+  "xh_cap": 0.732824427480916,
+  "w_cap": 15.83206106870229,
+  "stem_cap": 0.13740458015267176,
+  "obow_cap": 0.1297709923664122
+ },
+ {
+  "font": "Liberation Serif Italic",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationSerif-Italic.ttf",
+  "chi2": 69.32136110410961,
+  "xh_cap": 0.732824427480916,
+  "w_cap": 15.633587786259541,
+  "stem_cap": 0.13740458015267176,
+  "obow_cap": 0.1297709923664122
+ },
+ {
+  "font": "Go Medium Italic",
+  "file": "/usr/share/fonts/fonts-go/Go-Medium-Italic.ttf",
+  "chi2": 69.59468203166982,
+  "xh_cap": 0.7517241379310344,
+  "w_cap": 16.46896551724138,
+  "stem_cap": 0.1724137931034483,
+  "obow_cap": 0.1793103448275862
+ },
+ {
+  "font": "Comfortaa Regular",
+  "file": "/usr/share/fonts/truetype/comfortaa/Comfortaa-Regular.ttf",
+  "chi2": 69.65953134651716,
+  "xh_cap": 0.7133757961783439,
+  "w_cap": 16.85987261146497,
+  "stem_cap": 0.10191082802547771,
+  "obow_cap": 0.09554140127388536
+ },
+ {
+  "font": "Lato Semibold Italic",
+  "file": "/usr/share/fonts/truetype/lato/Lato-SemiboldItalic.ttf",
+  "chi2": 70.42839387393624,
+  "xh_cap": 0.7172413793103448,
+  "w_cap": 14.793103448275861,
+  "stem_cap": 0.15862068965517243,
+  "obow_cap": 0.14482758620689656
+ },
+ {
+  "font": "Tinos Bold",
+  "file": "/usr/share/fonts/truetype/croscore/Tinos-Bold.ttf",
+  "chi2": 70.52816467477183,
+  "xh_cap": 0.7175572519083969,
+  "w_cap": 16.53435114503817,
+  "stem_cap": 0.22900763358778625,
+  "obow_cap": 0.21374045801526717
+ },
+ {
+  "font": "Go Medium Regular",
+  "file": "/usr/share/fonts/fonts-go/Go-Medium.ttf",
+  "chi2": 70.95962659149976,
+  "xh_cap": 0.7517241379310344,
+  "w_cap": 16.379310344827587,
+  "stem_cap": 0.1793103448275862,
+  "obow_cap": 0.1793103448275862
+ },
+ {
+  "font": "URW Bookman Light",
+  "file": "/usr/share/fonts/type1/urw-base35/URWBookman-Light.t1",
+  "chi2": 71.05719334950496,
+  "xh_cap": 0.7426470588235294,
+  "w_cap": 17.955882352941178,
+  "stem_cap": 0.14705882352941177,
+  "obow_cap": 0.15441176470588236
+ },
+ {
+  "font": "URW Bookman Light Italic",
+  "file": "/usr/share/fonts/type1/urw-base35/URWBookman-LightItalic.t1",
+  "chi2": 71.19218042570763,
+  "xh_cap": 0.7426470588235294,
+  "w_cap": 17.772058823529413,
+  "stem_cap": 0.13970588235294118,
+  "obow_cap": 0.15441176470588236
+ },
+ {
+  "font": "Liberation Serif Bold Italic",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationSerif-BoldItalic.ttf",
+  "chi2": 72.9251857334416,
+  "xh_cap": 0.732824427480916,
+  "w_cap": 16.068702290076335,
+  "stem_cap": 0.21374045801526717,
+  "obow_cap": 0.1984732824427481
+ },
+ {
+  "font": "Go Mono Bold Italic",
+  "file": "/usr/share/fonts/fonts-go/Go-Mono-Bold-Italic.ttf",
+  "chi2": 73.68792246274928,
+  "xh_cap": 0.7517241379310344,
+  "w_cap": 16.572413793103447,
+  "stem_cap": 0.19310344827586207,
+  "obow_cap": 0.21379310344827587
+ },
+ {
+  "font": "Lato Bold Italic",
+  "file": "/usr/share/fonts/truetype/lato/Lato-BoldItalic.ttf",
+  "chi2": 73.7942150218129,
+  "xh_cap": 0.7291666666666666,
+  "w_cap": 15.020833333333334,
+  "stem_cap": 0.18055555555555555,
+  "obow_cap": 0.1736111111111111
+ },
+ {
+  "font": "Go Mono Bold",
+  "file": "/usr/share/fonts/fonts-go/Go-Mono-Bold.ttf",
+  "chi2": 74.01273579067411,
+  "xh_cap": 0.7517241379310344,
+  "w_cap": 16.49655172413793,
+  "stem_cap": 0.19310344827586207,
+  "obow_cap": 0.20689655172413793
+ },
+ {
+  "font": "FreeSerif Bold Italic",
+  "file": "/usr/share/fonts/opentype/freefont/FreeSerifBoldItalic.otf",
+  "chi2": 74.38255817575772,
+  "xh_cap": 0.7089552238805971,
+  "w_cap": 15.097014925373134,
+  "stem_cap": 0.21641791044776118,
+  "obow_cap": 0.1865671641791045
+ },
+ {
+  "font": "Lato Heavy Italic",
+  "file": "/usr/share/fonts/truetype/lato/Lato-HeavyItalic.ttf",
+  "chi2": 75.06342880516097,
+  "xh_cap": 0.7191780821917808,
+  "w_cap": 14.917808219178083,
+  "stem_cap": 0.19863013698630136,
+  "obow_cap": 0.1917808219178082
+ },
+ {
+  "font": "Gentium Book Plus Regular",
+  "file": "/usr/share/fonts/truetype/gentiumplus/GentiumBookPlus-Regular.ttf",
+  "chi2": 76.48883913401839,
+  "xh_cap": 0.7560975609756098,
+  "w_cap": 17.3739837398374,
+  "stem_cap": 0.14634146341463414,
+  "obow_cap": 0.15447154471544716
+ },
+ {
+  "font": "Go Italic",
+  "file": "/usr/share/fonts/fonts-go/Go-Italic.ttf",
+  "chi2": 76.59260494757845,
+  "xh_cap": 0.7517241379310344,
+  "w_cap": 16.255172413793105,
+  "stem_cap": 0.13793103448275862,
+  "obow_cap": 0.14482758620689656
+ },
+ {
+  "font": "C059 Bold Italic",
+  "file": "/usr/share/fonts/type1/urw-base35/C059-BdIta.t1",
+  "chi2": 76.74648656055223,
+  "xh_cap": 0.6875,
+  "w_cap": 17.59722222222222,
+  "stem_cap": 0.25,
+  "obow_cap": 0.22916666666666666
+ },
+ {
+  "font": "Go Regular",
+  "file": "/usr/share/fonts/fonts-go/Go-Regular.ttf",
+  "chi2": 77.73843771268899,
+  "xh_cap": 0.7517241379310344,
+  "w_cap": 15.89655172413793,
+  "stem_cap": 0.14482758620689656,
+  "obow_cap": 0.14482758620689656
+ },
+ {
+  "font": "Go Mono Italic",
+  "file": "/usr/share/fonts/fonts-go/Go-Mono-Italic.ttf",
+  "chi2": 78.09091478695372,
+  "xh_cap": 0.7517241379310344,
+  "w_cap": 16.517241379310345,
+  "stem_cap": 0.1310344827586207,
+  "obow_cap": 0.14482758620689656
+ },
+ {
+  "font": "Go Mono Regular",
+  "file": "/usr/share/fonts/fonts-go/Go-Mono.ttf",
+  "chi2": 78.54434513115456,
+  "xh_cap": 0.7517241379310344,
+  "w_cap": 16.427586206896553,
+  "stem_cap": 0.1310344827586207,
+  "obow_cap": 0.14482758620689656
+ },
+ {
+  "font": "Lato Medium Italic",
+  "file": "/usr/share/fonts/truetype/lato/Lato-MediumItalic.ttf",
+  "chi2": 78.58172193198895,
+  "xh_cap": 0.7222222222222222,
+  "w_cap": 14.79861111111111,
+  "stem_cap": 0.1388888888888889,
+  "obow_cap": 0.13194444444444445
+ },
+ {
+  "font": "Lato Black",
+  "file": "/usr/share/fonts/truetype/lato/Lato-Black.ttf",
+  "chi2": 80.53017549183632,
+  "xh_cap": 0.7241379310344828,
+  "w_cap": 16.406896551724138,
+  "stem_cap": 0.23448275862068965,
+  "obow_cap": 0.2206896551724138
+ },
+ {
+  "font": "Liberation Serif Bold",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf",
+  "chi2": 81.12413703642846,
+  "xh_cap": 0.732824427480916,
+  "w_cap": 16.53435114503817,
+  "stem_cap": 0.22900763358778625,
+  "obow_cap": 0.21374045801526717
+ },
+ {
+  "font": "Carlito Bold",
+  "file": "/usr/share/fonts/truetype/crosextra/Carlito-Bold.ttf",
+  "chi2": 81.44711779607162,
+  "xh_cap": 0.7615384615384615,
+  "w_cap": 16.66923076923077,
+  "stem_cap": 0.19230769230769232,
+  "obow_cap": 0.2
+ },
+ {
+  "font": "Gentium Plus Regular",
+  "file": "/usr/share/fonts/truetype/gentiumplus/GentiumPlus-Regular.ttf",
+  "chi2": 81.48729854919932,
+  "xh_cap": 0.7560975609756098,
+  "w_cap": 16.975609756097562,
+  "stem_cap": 0.13008130081300814,
+  "obow_cap": 0.12195121951219512
+ },
+ {
+  "font": "Lato Italic",
+  "file": "/usr/share/fonts/truetype/lato/Lato-Italic.ttf",
+  "chi2": 81.82404978513222,
+  "xh_cap": 0.7152777777777778,
+  "w_cap": 14.756944444444445,
+  "stem_cap": 0.125,
+  "obow_cap": 0.11805555555555555
+ },
+ {
+  "font": "Charis SIL Italic",
+  "file": "/usr/share/fonts/truetype/charis/CharisSIL-Italic.ttf",
+  "chi2": 81.9461528069482,
+  "xh_cap": 0.753731343283582,
+  "w_cap": 15.626865671641792,
+  "stem_cap": 0.14925373134328357,
+  "obow_cap": 0.14925373134328357
+ },
+ {
+  "font": "DejaVu Serif Book",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf",
+  "chi2": 82.56497872387703,
+  "xh_cap": 0.7534246575342466,
+  "w_cap": 17.616438356164384,
+  "stem_cap": 0.13013698630136986,
+  "obow_cap": 0.14383561643835616
+ },
+ {
+  "font": "Noto Serif Display Regular",
+  "file": "/usr/share/fonts/truetype/noto/NotoSerifDisplay-Regular.ttf",
+  "chi2": 82.73797671365254,
+  "xh_cap": 0.7622377622377622,
+  "w_cap": 17.111888111888113,
+  "stem_cap": 0.13986013986013987,
+  "obow_cap": 0.13286713286713286
+ },
+ {
+  "font": "Noto Serif Regular",
+  "file": "/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf",
+  "chi2": 82.89667017645222,
+  "xh_cap": 0.7622377622377622,
+  "w_cap": 17.16083916083916,
+  "stem_cap": 0.13986013986013987,
+  "obow_cap": 0.13286713286713286
+ },
+ {
+  "font": "DejaVu Serif Italic",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Italic.ttf",
+  "chi2": 83.19853547377477,
+  "xh_cap": 0.7534246575342466,
+  "w_cap": 17.95205479452055,
+  "stem_cap": 0.136986301369863,
+  "obow_cap": 0.14383561643835616
+ },
+ {
+  "font": "Noto Serif Italic",
+  "file": "/usr/share/fonts/truetype/noto/NotoSerif-Italic.ttf",
+  "chi2": 83.33167732597471,
+  "xh_cap": 0.7622377622377622,
+  "w_cap": 16.48951048951049,
+  "stem_cap": 0.13986013986013987,
+  "obow_cap": 0.14685314685314685
+ },
+ {
+  "font": "Noto Serif Display Italic",
+  "file": "/usr/share/fonts/truetype/noto/NotoSerifDisplay-Italic.ttf",
+  "chi2": 83.66128755080501,
+  "xh_cap": 0.7622377622377622,
+  "w_cap": 16.426573426573427,
+  "stem_cap": 0.13986013986013987,
+  "obow_cap": 0.14685314685314685
+ },
+ {
+  "font": "Charis SIL Bold",
+  "file": "/usr/share/fonts/truetype/charis/CharisSIL-Bold.ttf",
+  "chi2": 84.92626777481999,
+  "xh_cap": 0.746268656716418,
+  "w_cap": 18.059701492537314,
+  "stem_cap": 0.208955223880597,
+  "obow_cap": 0.22388059701492538
+ },
+ {
+  "font": "Go Bold",
+  "file": "/usr/share/fonts/fonts-go/Go-Bold.ttf",
+  "chi2": 85.26750136660444,
+  "xh_cap": 0.7586206896551724,
+  "w_cap": 16.882758620689657,
+  "stem_cap": 0.20689655172413793,
+  "obow_cap": 0.21379310344827587
+ },
+ {
+  "font": "Go Bold Italic",
+  "file": "/usr/share/fonts/fonts-go/Go-Bold-Italic.ttf",
+  "chi2": 85.32417803786137,
+  "xh_cap": 0.7586206896551724,
+  "w_cap": 16.97241379310345,
+  "stem_cap": 0.20689655172413793,
+  "obow_cap": 0.21379310344827587
+ },
+ {
+  "font": "Roboto Medium",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/Roboto-Medium.ttf",
+  "chi2": 85.57640519602906,
+  "xh_cap": 0.7692307692307693,
+  "w_cap": 16.377622377622377,
+  "stem_cap": 0.17482517482517482,
+  "obow_cap": 0.16783216783216784
+ },
+ {
+  "font": "Carlito Regular",
+  "file": "/usr/share/fonts/truetype/crosextra/Carlito-Regular.ttf",
+  "chi2": 86.198867063319,
+  "xh_cap": 0.765625,
+  "w_cap": 16.4609375,
+  "stem_cap": 0.140625,
+  "obow_cap": 0.140625
+ },
+ {
+  "font": "DejaVu Serif Condensed Italic",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSerifCondensed-Italic.ttf",
+  "chi2": 86.26904309712954,
+  "xh_cap": 0.7534246575342466,
+  "w_cap": 16.15068493150685,
+  "stem_cap": 0.1232876712328767,
+  "obow_cap": 0.13013698630136986
+ },
+ {
+  "font": "STIXGeneral Bold",
+  "file": "/usr/share/fonts/opentype/stix/STIXGeneral-Bold.otf",
+  "chi2": 86.64037123070517,
+  "xh_cap": 0.725925925925926,
+  "w_cap": 16.096296296296295,
+  "stem_cap": 0.23703703703703705,
+  "obow_cap": 0.21481481481481482
+ },
+ {
+  "font": "STIX Bold",
+  "file": "/usr/share/fonts/opentype/stix-word/STIX-Bold.otf",
+  "chi2": 86.64037123070517,
+  "xh_cap": 0.725925925925926,
+  "w_cap": 16.096296296296295,
+  "stem_cap": 0.23703703703703705,
+  "obow_cap": 0.21481481481481482
+ },
+ {
+  "font": "Carlito Bold Italic",
+  "file": "/usr/share/fonts/truetype/crosextra/Carlito-BoldItalic.ttf",
+  "chi2": 87.33980490053138,
+  "xh_cap": 0.7674418604651163,
+  "w_cap": 16.635658914728683,
+  "stem_cap": 0.1937984496124031,
+  "obow_cap": 0.1937984496124031
+ },
+ {
+  "font": "Gentium Plus Bold",
+  "file": "/usr/share/fonts/truetype/gentiumplus/GentiumPlus-Bold.ttf",
+  "chi2": 87.8635925116811,
+  "xh_cap": 0.7560975609756098,
+  "w_cap": 18.16260162601626,
+  "stem_cap": 0.1951219512195122,
+  "obow_cap": 0.2032520325203252
+ },
+ {
+  "font": "Roboto Medium Italic",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/Roboto-MediumItalic.ttf",
+  "chi2": 88.70735221756573,
+  "xh_cap": 0.7692307692307693,
+  "w_cap": 15.972027972027972,
+  "stem_cap": 0.16783216783216784,
+  "obow_cap": 0.16083916083916083
+ },
+ {
+  "font": "Charis SIL Bold Italic",
+  "file": "/usr/share/fonts/truetype/charis/CharisSIL-BoldItalic.ttf",
+  "chi2": 88.71889841872023,
+  "xh_cap": 0.7611940298507462,
+  "w_cap": 16.791044776119403,
+  "stem_cap": 0.208955223880597,
+  "obow_cap": 0.208955223880597
+ },
+ {
+  "font": "C059 Bold",
+  "file": "/usr/share/fonts/opentype/urw-base35/C059-Bold.otf",
+  "chi2": 88.89070134520327,
+  "xh_cap": 0.7013888888888888,
+  "w_cap": 18.0,
+  "stem_cap": 0.25,
+  "obow_cap": 0.24305555555555555
+ },
+ {
+  "font": "Noto Sans Regular",
+  "file": "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf",
+  "chi2": 89.03424704866597,
+  "xh_cap": 0.7622377622377622,
+  "w_cap": 16.944055944055943,
+  "stem_cap": 0.1258741258741259,
+  "obow_cap": 0.1258741258741259
+ },
+ {
+  "font": "Carlito Italic",
+  "file": "/usr/share/fonts/truetype/crosextra/Carlito-Italic.ttf",
+  "chi2": 90.49641036452044,
+  "xh_cap": 0.765625,
+  "w_cap": 16.296875,
+  "stem_cap": 0.1328125,
+  "obow_cap": 0.1328125
+ },
+ {
+  "font": "Lato Black Italic",
+  "file": "/usr/share/fonts/truetype/lato/Lato-BlackItalic.ttf",
+  "chi2": 91.14717624450188,
+  "xh_cap": 0.7310344827586207,
+  "w_cap": 15.144827586206896,
+  "stem_cap": 0.2206896551724138,
+  "obow_cap": 0.21379310344827587
+ },
+ {
+  "font": "Roboto Bold Italic",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/Roboto-BoldItalic.ttf",
+  "chi2": 92.4618553598608,
+  "xh_cap": 0.7692307692307693,
+  "w_cap": 16.174825174825173,
+  "stem_cap": 0.1958041958041958,
+  "obow_cap": 0.1888111888111888
+ },
+ {
+  "font": "Roboto Bold",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/Roboto-Bold.ttf",
+  "chi2": 93.02523243472052,
+  "xh_cap": 0.7692307692307693,
+  "w_cap": 16.594405594405593,
+  "stem_cap": 0.20279720279720279,
+  "obow_cap": 0.1958041958041958
+ },
+ {
+  "font": "Noto Sans Mono Regular",
+  "file": "/usr/share/fonts/truetype/noto/NotoSansMono-Regular.ttf",
+  "chi2": 93.80620452228673,
+  "xh_cap": 0.7622377622377622,
+  "w_cap": 16.6013986013986,
+  "stem_cap": 0.11888111888111888,
+  "obow_cap": 0.1258741258741259
+ },
+ {
+  "font": "Noto Sans Display Regular",
+  "file": "/usr/share/fonts/truetype/noto/NotoSansDisplay-Regular.ttf",
+  "chi2": 93.81335567565623,
+  "xh_cap": 0.7622377622377622,
+  "w_cap": 16.0,
+  "stem_cap": 0.1258741258741259,
+  "obow_cap": 0.1258741258741259
+ },
+ {
+  "font": "DejaVu Serif Condensed",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSerifCondensed.ttf",
+  "chi2": 93.96078112523331,
+  "xh_cap": 0.7534246575342466,
+  "w_cap": 15.856164383561644,
+  "stem_cap": 0.11643835616438356,
+  "obow_cap": 0.13013698630136986
+ },
+ {
+  "font": "Noto Sans Italic",
+  "file": "/usr/share/fonts/truetype/noto/NotoSans-Italic.ttf",
+  "chi2": 95.11819096671027,
+  "xh_cap": 0.7622377622377622,
+  "w_cap": 15.888111888111888,
+  "stem_cap": 0.1258741258741259,
+  "obow_cap": 0.1258741258741259
+ },
+ {
+  "font": "Cantarell Extra Bold",
+  "file": "/usr/share/fonts/opentype/cantarell/Cantarell-ExtraBold.otf",
+  "chi2": 97.13518133888675,
+  "xh_cap": 0.7338129496402878,
+  "w_cap": 17.25179856115108,
+  "stem_cap": 0.2446043165467626,
+  "obow_cap": 0.2517985611510791
+ },
+ {
+  "font": "Comfortaa Light",
+  "file": "/usr/share/fonts/truetype/comfortaa/Comfortaa-Light.ttf",
+  "chi2": 97.18108505048343,
+  "xh_cap": 0.7133757961783439,
+  "w_cap": 16.828025477707005,
+  "stem_cap": 0.07643312101910828,
+  "obow_cap": 0.07643312101910828
+ },
+ {
+  "font": "Gentium Plus Bold Italic",
+  "file": "/usr/share/fonts/truetype/gentiumplus/GentiumPlus-BoldItalic.ttf",
+  "chi2": 97.6326422155659,
+  "xh_cap": 0.7741935483870968,
+  "w_cap": 15.814516129032258,
+  "stem_cap": 0.18548387096774194,
+  "obow_cap": 0.1774193548387097
+ },
+ {
+  "font": "Roboto Regular",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/Roboto-Regular.ttf",
+  "chi2": 98.65026444739772,
+  "xh_cap": 0.7746478873239436,
+  "w_cap": 16.253521126760564,
+  "stem_cap": 0.13380281690140844,
+  "obow_cap": 0.1267605633802817
+ },
+ {
+  "font": "Open Sans Semibold Italic",
+  "file": "/usr/share/fonts/truetype/open-sans/OpenSans-SemiboldItalic.ttf",
+  "chi2": 98.76147290044267,
+  "xh_cap": 0.7832167832167832,
+  "w_cap": 16.363636363636363,
+  "stem_cap": 0.16083916083916083,
+  "obow_cap": 0.16783216783216784
+ },
+ {
+  "font": "Open Sans Semibold",
+  "file": "/usr/share/fonts/truetype/open-sans/OpenSans-Semibold.ttf",
+  "chi2": 99.19889651768791,
+  "xh_cap": 0.7832167832167832,
+  "w_cap": 17.454545454545453,
+  "stem_cap": 0.16083916083916083,
+  "obow_cap": 0.16783216783216784
+ },
+ {
+  "font": "Noto Sans Mono Bold",
+  "file": "/usr/share/fonts/truetype/noto/NotoSansMono-Bold.ttf",
+  "chi2": 99.3626785841848,
+  "xh_cap": 0.7762237762237763,
+  "w_cap": 16.65034965034965,
+  "stem_cap": 0.20279720279720279,
+  "obow_cap": 0.20279720279720279
+ },
+ {
+  "font": "EB Garamond 12 Italic",
+  "file": "/usr/share/fonts/woff/ebgaramond/EBGaramond12-Italic.woff",
+  "chi2": 99.74972922595023,
+  "xh_cap": 0.6343283582089553,
+  "w_cap": 13.604477611940299,
+  "stem_cap": 0.1044776119402985,
+  "obow_cap": 0.1044776119402985
+ },
+ {
+  "font": "Noto Serif Bold Italic",
+  "file": "/usr/share/fonts/truetype/noto/NotoSerif-BoldItalic.ttf",
+  "chi2": 101.06260873454438,
+  "xh_cap": 0.7622377622377622,
+  "w_cap": 17.895104895104897,
+  "stem_cap": 0.21678321678321677,
+  "obow_cap": 0.22377622377622378
+ },
+ {
+  "font": "Noto Sans Display Bold Italic",
+  "file": "/usr/share/fonts/truetype/noto/NotoSansDisplay-BoldItalic.ttf",
+  "chi2": 101.70856710218268,
+  "xh_cap": 0.7762237762237763,
+  "w_cap": 16.223776223776223,
+  "stem_cap": 0.20279720279720279,
+  "obow_cap": 0.2097902097902098
+ },
+ {
+  "font": "Noto Mono Regular",
+  "file": "/usr/share/fonts/truetype/noto/NotoMono-Regular.ttf",
+  "chi2": 102.2436548479642,
+  "xh_cap": 0.7762237762237763,
+  "w_cap": 16.60839160839161,
+  "stem_cap": 0.1258741258741259,
+  "obow_cap": 0.13286713286713286
+ },
+ {
+  "font": "Arimo Regular",
+  "file": "/usr/share/fonts/truetype/croscore/Arimo-Regular.ttf",
+  "chi2": 102.4516217901922,
+  "xh_cap": 0.782608695652174,
+  "w_cap": 16.67391304347826,
+  "stem_cap": 0.13768115942028986,
+  "obow_cap": 0.13768115942028986
+ },
+ {
+  "font": "Noto Serif Bold",
+  "file": "/usr/share/fonts/truetype/noto/NotoSerif-Bold.ttf",
+  "chi2": 102.75671729068543,
+  "xh_cap": 0.7569444444444444,
+  "w_cap": 18.0625,
+  "stem_cap": 0.2222222222222222,
+  "obow_cap": 0.2152777777777778
+ },
+ {
+  "font": "Noto Sans Bold Italic",
+  "file": "/usr/share/fonts/truetype/noto/NotoSans-BoldItalic.ttf",
+  "chi2": 102.88919316787977,
+  "xh_cap": 0.7762237762237763,
+  "w_cap": 16.937062937062937,
+  "stem_cap": 0.2097902097902098,
+  "obow_cap": 0.2097902097902098
+ },
+ {
+  "font": "Nimbus Sans Italic",
+  "file": "/usr/share/fonts/type1/urw-base35/NimbusSans-Italic.t1",
+  "chi2": 103.19797155475592,
+  "xh_cap": 0.773972602739726,
+  "w_cap": 15.91095890410959,
+  "stem_cap": 0.13013698630136986,
+  "obow_cap": 0.1232876712328767
+ },
+ {
+  "font": "DejaVu Serif Condensed Bold",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSerifCondensed-Bold.ttf",
+  "chi2": 103.58539399471245,
+  "xh_cap": 0.7534246575342466,
+  "w_cap": 17.636986301369863,
+  "stem_cap": 0.2328767123287671,
+  "obow_cap": 0.23972602739726026
+ },
+ {
+  "font": "Gentium Book Plus Bold Italic",
+  "file": "/usr/share/fonts/truetype/gentiumplus/GentiumBookPlus-BoldItalic.ttf",
+  "chi2": 103.87161236876875,
+  "xh_cap": 0.7741935483870968,
+  "w_cap": 16.18548387096774,
+  "stem_cap": 0.20967741935483872,
+  "obow_cap": 0.20161290322580644
+ },
+ {
+  "font": "P052 Italic",
+  "file": "/usr/share/fonts/type1/urw-base35/P052-Italic.t1",
+  "chi2": 104.40608875633211,
+  "xh_cap": 0.697841726618705,
+  "w_cap": 14.071942446043165,
+  "stem_cap": 0.1079136690647482,
+  "obow_cap": 0.1079136690647482
+ },
+ {
+  "font": "Nimbus Sans Regular",
+  "file": "/usr/share/fonts/type1/urw-base35/NimbusSans-Regular.t1",
+  "chi2": 104.41338188860973,
+  "xh_cap": 0.773972602739726,
+  "w_cap": 15.815068493150685,
+  "stem_cap": 0.13013698630136986,
+  "obow_cap": 0.1232876712328767
+ },
+ {
+  "font": "Noto Serif Display Bold Italic",
+  "file": "/usr/share/fonts/truetype/noto/NotoSerifDisplay-BoldItalic.ttf",
+  "chi2": 105.38670469339652,
+  "xh_cap": 0.7622377622377622,
+  "w_cap": 17.825174825174827,
+  "stem_cap": 0.22377622377622378,
+  "obow_cap": 0.21678321678321677
+ },
+ {
+  "font": "Arimo Italic",
+  "file": "/usr/share/fonts/truetype/croscore/Arimo-Italic.ttf",
+  "chi2": 105.56482487759776,
+  "xh_cap": 0.782608695652174,
+  "w_cap": 16.77536231884058,
+  "stem_cap": 0.13043478260869565,
+  "obow_cap": 0.13768115942028986
+ },
+ {
+  "font": "Roboto Italic",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/Roboto-Italic.ttf",
+  "chi2": 106.3684047981161,
+  "xh_cap": 0.7746478873239436,
+  "w_cap": 15.852112676056338,
+  "stem_cap": 0.1267605633802817,
+  "obow_cap": 0.1267605633802817
+ },
+ {
+  "font": "Berenis ADF Pro Italic",
+  "file": "/usr/share/fonts/truetype/adf/BerenisADFPro-Italic.otf",
+  "chi2": 106.88503789385534,
+  "xh_cap": 0.5833333333333334,
+  "w_cap": 12.909722222222221,
+  "stem_cap": 0.13194444444444445,
+  "obow_cap": 0.11805555555555555
+ },
+ {
+  "font": "Open Sans Italic",
+  "file": "/usr/share/fonts/truetype/open-sans/OpenSans-Italic.ttf",
+  "chi2": 106.88987589857153,
+  "xh_cap": 0.7692307692307693,
+  "w_cap": 15.797202797202797,
+  "stem_cap": 0.11888111888111888,
+  "obow_cap": 0.11888111888111888
+ },
+ {
+  "font": "DejaVu Serif Condensed Bold Italic",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSerifCondensed-BoldItalic.ttf",
+  "chi2": 107.01595516350984,
+  "xh_cap": 0.7534246575342466,
+  "w_cap": 17.938356164383563,
+  "stem_cap": 0.2328767123287671,
+  "obow_cap": 0.2328767123287671
+ },
+ {
+  "font": "DejaVu Sans Mono Bold Oblique",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-BoldOblique.ttf",
+  "chi2": 107.28260022472861,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 16.356164383561644,
+  "stem_cap": 0.1917808219178082,
+  "obow_cap": 0.19863013698630136
+ },
+ {
+  "font": "Gentium Book Plus Bold",
+  "file": "/usr/share/fonts/truetype/gentiumplus/GentiumBookPlus-Bold.ttf",
+  "chi2": 109.11663866711139,
+  "xh_cap": 0.7560975609756098,
+  "w_cap": 18.56910569105691,
+  "stem_cap": 0.21951219512195122,
+  "obow_cap": 0.22764227642276422
+ },
+ {
+  "font": "DejaVu Sans Mono Book",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf",
+  "chi2": 109.3888961436034,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 16.328767123287673,
+  "stem_cap": 0.136986301369863,
+  "obow_cap": 0.13013698630136986
+ },
+ {
+  "font": "Noto Serif Display Bold",
+  "file": "/usr/share/fonts/truetype/noto/NotoSerifDisplay-Bold.ttf",
+  "chi2": 109.73527932111548,
+  "xh_cap": 0.7622377622377622,
+  "w_cap": 18.13986013986014,
+  "stem_cap": 0.22377622377622378,
+  "obow_cap": 0.21678321678321677
+ },
+ {
+  "font": "DejaVu Sans Mono Bold",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf",
+  "chi2": 109.97426606486354,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 16.356164383561644,
+  "stem_cap": 0.19863013698630136,
+  "obow_cap": 0.1917808219178082
+ },
+ {
+  "font": "Lato Light",
+  "file": "/usr/share/fonts/truetype/lato/Lato-Light.ttf",
+  "chi2": 110.39377111065855,
+  "xh_cap": 0.7163120567375887,
+  "w_cap": 16.05673758865248,
+  "stem_cap": 0.07092198581560284,
+  "obow_cap": 0.07092198581560284
+ },
+ {
+  "font": "Open Sans Regular",
+  "file": "/usr/share/fonts/truetype/open-sans/OpenSans-Regular.ttf",
+  "chi2": 111.14950363103863,
+  "xh_cap": 0.7762237762237763,
+  "w_cap": 16.81118881118881,
+  "stem_cap": 0.11188811188811189,
+  "obow_cap": 0.11888111888111888
+ },
+ {
+  "font": "Noto Sans Display Italic",
+  "file": "/usr/share/fonts/truetype/noto/NotoSansDisplay-Italic.ttf",
+  "chi2": 111.44045827803245,
+  "xh_cap": 0.7622377622377622,
+  "w_cap": 15.174825174825175,
+  "stem_cap": 0.11888111888111888,
+  "obow_cap": 0.11888111888111888
+ },
+ {
+  "font": "Nimbus Sans Bold",
+  "file": "/usr/share/fonts/type1/urw-base35/NimbusSans-Bold.t1",
+  "chi2": 111.64095318494707,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 16.82191780821918,
+  "stem_cap": 0.2054794520547945,
+  "obow_cap": 0.1917808219178082
+ },
+ {
+  "font": "Gentium Plus Compact Regular",
+  "file": "/usr/share/fonts/truetype/gentiumplus-compact/GentiumPlusCompact-R.ttf",
+  "chi2": 111.72699315412304,
+  "xh_cap": 0.7886178861788617,
+  "w_cap": 16.975609756097562,
+  "stem_cap": 0.13008130081300814,
+  "obow_cap": 0.12195121951219512
+ },
+ {
+  "font": "URW Gothic Demi",
+  "file": "/usr/share/fonts/type1/urw-base35/URWGothic-Demi.t1",
+  "chi2": 111.85925338364258,
+  "xh_cap": 0.7941176470588235,
+  "w_cap": 17.441176470588236,
+  "stem_cap": 0.18382352941176472,
+  "obow_cap": 0.17647058823529413
+ },
+ {
+  "font": "DejaVu Sans Mono Oblique",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Oblique.ttf",
+  "chi2": 111.92325837042554,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 16.431506849315067,
+  "stem_cap": 0.13013698630136986,
+  "obow_cap": 0.13013698630136986
+ },
+ {
+  "font": "Nimbus Sans Bold Italic",
+  "file": "/usr/share/fonts/type1/urw-base35/NimbusSans-BoldItalic.t1",
+  "chi2": 111.94043427985387,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 17.102739726027398,
+  "stem_cap": 0.2054794520547945,
+  "obow_cap": 0.19863013698630136
+ },
+ {
+  "font": "Noto Sans Bold",
+  "file": "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf",
+  "chi2": 112.07630139133778,
+  "xh_cap": 0.7762237762237763,
+  "w_cap": 18.09090909090909,
+  "stem_cap": 0.2097902097902098,
+  "obow_cap": 0.2097902097902098
+ },
+ {
+  "font": "URW Gothic Demi Oblique",
+  "file": "/usr/share/fonts/opentype/urw-base35/URWGothic-DemiOblique.otf",
+  "chi2": 112.47052628519512,
+  "xh_cap": 0.7941176470588235,
+  "w_cap": 17.522058823529413,
+  "stem_cap": 0.18382352941176472,
+  "obow_cap": 0.17647058823529413
+ },
+ {
+  "font": "FreeSans Bold",
+  "file": "/usr/share/fonts/opentype/freefont/FreeSansBold.otf",
+  "chi2": 113.35842273332004,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 17.404109589041095,
+  "stem_cap": 0.2054794520547945,
+  "obow_cap": 0.1917808219178082
+ },
+ {
+  "font": "Noto Sans Display Bold",
+  "file": "/usr/share/fonts/truetype/noto/NotoSansDisplay-Bold.ttf",
+  "chi2": 114.07726012440959,
+  "xh_cap": 0.7762237762237763,
+  "w_cap": 17.37062937062937,
+  "stem_cap": 0.22377622377622378,
+  "obow_cap": 0.23076923076923078
+ },
+ {
+  "font": "FreeSans Bold Oblique",
+  "file": "/usr/share/fonts/truetype/freefont/FreeSansBoldOblique.ttf",
+  "chi2": 114.10131606580532,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 17.506849315068493,
+  "stem_cap": 0.2054794520547945,
+  "obow_cap": 0.1917808219178082
+ },
+ {
+  "font": "Gentium Book Plus Italic",
+  "file": "/usr/share/fonts/truetype/gentiumplus/GentiumBookPlus-Italic.ttf",
+  "chi2": 114.34182854487862,
+  "xh_cap": 0.7741935483870968,
+  "w_cap": 15.088709677419354,
+  "stem_cap": 0.13709677419354838,
+  "obow_cap": 0.13709677419354838
+ },
+ {
+  "font": "Arimo Bold",
+  "file": "/usr/share/fonts/truetype/croscore/Arimo-Bold.ttf",
+  "chi2": 114.61595515848093,
+  "xh_cap": 0.782608695652174,
+  "w_cap": 17.804347826086957,
+  "stem_cap": 0.21014492753623187,
+  "obow_cap": 0.21014492753623187
+ },
+ {
+  "font": "FreeSans Oblique",
+  "file": "/usr/share/fonts/truetype/freefont/FreeSansOblique.ttf",
+  "chi2": 115.12912029565123,
+  "xh_cap": 0.773972602739726,
+  "w_cap": 15.383561643835616,
+  "stem_cap": 0.1232876712328767,
+  "obow_cap": 0.11643835616438356
+ },
+ {
+  "font": "DejaVu Sans Book",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+  "chi2": 115.71113538909762,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 17.773972602739725,
+  "stem_cap": 0.13013698630136986,
+  "obow_cap": 0.13013698630136986
+ },
+ {
+  "font": "URW Gothic Book Oblique",
+  "file": "/usr/share/fonts/opentype/urw-base35/URWGothic-BookOblique.otf",
+  "chi2": 115.8516747859302,
+  "xh_cap": 0.7720588235294118,
+  "w_cap": 17.323529411764707,
+  "stem_cap": 0.10294117647058823,
+  "obow_cap": 0.10294117647058823
+ },
+ {
+  "font": "Open Sans Bold Italic",
+  "file": "/usr/share/fonts/truetype/open-sans/OpenSans-BoldItalic.ttf",
+  "chi2": 116.65930605522787,
+  "xh_cap": 0.7902097902097902,
+  "w_cap": 16.944055944055943,
+  "stem_cap": 0.2097902097902098,
+  "obow_cap": 0.2097902097902098
+ },
+ {
+  "font": "DejaVu Sans Oblique",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSans-Oblique.ttf",
+  "chi2": 117.0149079180402,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 17.883561643835616,
+  "stem_cap": 0.13013698630136986,
+  "obow_cap": 0.13013698630136986
+ },
+ {
+  "font": "Liberation Sans Regular",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf",
+  "chi2": 117.19593126170037,
+  "xh_cap": 0.7971014492753623,
+  "w_cap": 16.67391304347826,
+  "stem_cap": 0.13768115942028986,
+  "obow_cap": 0.13768115942028986
+ },
+ {
+  "font": "FreeSans Regular",
+  "file": "/usr/share/fonts/opentype/freefont/FreeSans.otf",
+  "chi2": 117.49874021896437,
+  "xh_cap": 0.773972602739726,
+  "w_cap": 15.082191780821917,
+  "stem_cap": 0.13013698630136986,
+  "obow_cap": 0.11643835616438356
+ },
+ {
+  "font": "Arimo Bold Italic",
+  "file": "/usr/share/fonts/truetype/croscore/Arimo-BoldItalic.ttf",
+  "chi2": 117.53527202213301,
+  "xh_cap": 0.782608695652174,
+  "w_cap": 18.028985507246375,
+  "stem_cap": 0.21014492753623187,
+  "obow_cap": 0.21014492753623187
+ },
+ {
+  "font": "FreeSerif Bold",
+  "file": "/usr/share/fonts/opentype/freefont/FreeSerifBold.otf",
+  "chi2": 118.08244463888065,
+  "xh_cap": 0.725925925925926,
+  "w_cap": 16.659259259259258,
+  "stem_cap": 0.26666666666666666,
+  "obow_cap": 0.21481481481481482
+ },
+ {
+  "font": "DejaVu Sans Condensed Oblique",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-Oblique.ttf",
+  "chi2": 118.32028376018292,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 16.095890410958905,
+  "stem_cap": 0.1232876712328767,
+  "obow_cap": 0.11643835616438356
+ },
+ {
+  "font": "Roboto Black",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/Roboto-Black.ttf",
+  "chi2": 118.4765653595097,
+  "xh_cap": 0.7692307692307693,
+  "w_cap": 16.804195804195803,
+  "stem_cap": 0.23776223776223776,
+  "obow_cap": 0.23076923076923078
+ },
+ {
+  "font": "Liberation Sans Italic",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationSans-Italic.ttf",
+  "chi2": 120.30913434910592,
+  "xh_cap": 0.7971014492753623,
+  "w_cap": 16.77536231884058,
+  "stem_cap": 0.13043478260869565,
+  "obow_cap": 0.13768115942028986
+ },
+ {
+  "font": "Roboto Condensed Medium",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoCondensed-Medium.ttf",
+  "chi2": 121.89157962543979,
+  "xh_cap": 0.7746478873239436,
+  "w_cap": 14.570422535211268,
+  "stem_cap": 0.16901408450704225,
+  "obow_cap": 0.16901408450704225
+ },
+ {
+  "font": "URW Gothic Book",
+  "file": "/usr/share/fonts/type1/urw-base35/URWGothic-Book.t1",
+  "chi2": 122.41797538476436,
+  "xh_cap": 0.7720588235294118,
+  "w_cap": 17.25735294117647,
+  "stem_cap": 0.09558823529411764,
+  "obow_cap": 0.09558823529411764
+ },
+ {
+  "font": "Roboto Condensed Bold",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoCondensed-Bold.ttf",
+  "chi2": 123.31942100168501,
+  "xh_cap": 0.7692307692307693,
+  "w_cap": 14.657342657342657,
+  "stem_cap": 0.20279720279720279,
+  "obow_cap": 0.1958041958041958
+ },
+ {
+  "font": "DejaVu Sans Condensed",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed.ttf",
+  "chi2": 123.78964552626893,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 16.0,
+  "stem_cap": 0.11643835616438356,
+  "obow_cap": 0.11643835616438356
+ },
+ {
+  "font": "Open Sans Bold",
+  "file": "/usr/share/fonts/truetype/open-sans/OpenSans-Bold.ttf",
+  "chi2": 125.94727495646966,
+  "xh_cap": 0.7902097902097902,
+  "w_cap": 18.097902097902097,
+  "stem_cap": 0.2097902097902098,
+  "obow_cap": 0.2097902097902098
+ },
+ {
+  "font": "Roboto Black Italic",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/Roboto-BlackItalic.ttf",
+  "chi2": 125.99194601626843,
+  "xh_cap": 0.7746478873239436,
+  "w_cap": 16.507042253521128,
+  "stem_cap": 0.23943661971830985,
+  "obow_cap": 0.22535211267605634
+ },
+ {
+  "font": "Liberation Sans Bold",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+  "chi2": 129.3602646299891,
+  "xh_cap": 0.7971014492753623,
+  "w_cap": 17.804347826086957,
+  "stem_cap": 0.21014492753623187,
+  "obow_cap": 0.21014492753623187
+ },
+ {
+  "font": "Gentium Plus Compact Italic",
+  "file": "/usr/share/fonts/truetype/gentiumplus-compact/GentiumPlusCompact-I.ttf",
+  "chi2": 131.83216739326204,
+  "xh_cap": 0.7723577235772358,
+  "w_cap": 14.845528455284553,
+  "stem_cap": 0.11382113821138211,
+  "obow_cap": 0.10569105691056911
+ },
+ {
+  "font": "Liberation Sans Bold Italic",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationSans-BoldItalic.ttf",
+  "chi2": 132.27958149364116,
+  "xh_cap": 0.7971014492753623,
+  "w_cap": 18.028985507246375,
+  "stem_cap": 0.21014492753623187,
+  "obow_cap": 0.21014492753623187
+ },
+ {
+  "font": "Roboto Condensed Medium Italic",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoCondensed-MediumItalic.ttf",
+  "chi2": 132.81872302322364,
+  "xh_cap": 0.7746478873239436,
+  "w_cap": 14.21830985915493,
+  "stem_cap": 0.16901408450704225,
+  "obow_cap": 0.1619718309859155
+ },
+ {
+  "font": "Cantarell Light",
+  "file": "/usr/share/fonts/opentype/cantarell/Cantarell-Light.otf",
+  "chi2": 133.27231142962543,
+  "xh_cap": 0.7194244604316546,
+  "w_cap": 15.899280575539569,
+  "stem_cap": 0.05755395683453238,
+  "obow_cap": 0.05755395683453238
+ },
+ {
+  "font": "DejaVu Sans Condensed Bold Oblique",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-BoldOblique.ttf",
+  "chi2": 134.8465041400102,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 18.095890410958905,
+  "stem_cap": 0.22602739726027396,
+  "obow_cap": 0.22602739726027396
+ },
+ {
+  "font": "Go Smallcaps Regular",
+  "file": "/usr/share/fonts/fonts-go/Go-Smallcaps.ttf",
+  "chi2": 135.59758320809897,
+  "xh_cap": 0.8137931034482758,
+  "w_cap": 16.193103448275863,
+  "stem_cap": 0.14482758620689656,
+  "obow_cap": 0.15172413793103448
+ },
+ {
+  "font": "Roboto Condensed Bold Italic",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoCondensed-BoldItalic.ttf",
+  "chi2": 136.36419167410455,
+  "xh_cap": 0.7746478873239436,
+  "w_cap": 14.408450704225352,
+  "stem_cap": 0.20422535211267606,
+  "obow_cap": 0.19014084507042253
+ },
+ {
+  "font": "Go Smallcaps Italic",
+  "file": "/usr/share/fonts/fonts-go/Go-Smallcaps-Italic.ttf",
+  "chi2": 137.03023323294605,
+  "xh_cap": 0.8137931034482758,
+  "w_cap": 16.324137931034482,
+  "stem_cap": 0.13793103448275862,
+  "obow_cap": 0.15172413793103448
+ },
+ {
+  "font": "Gentium Plus Italic",
+  "file": "/usr/share/fonts/truetype/gentiumplus/GentiumPlus-Italic.ttf",
+  "chi2": 137.3601021205651,
+  "xh_cap": 0.7741935483870968,
+  "w_cap": 14.725806451612904,
+  "stem_cap": 0.11290322580645161,
+  "obow_cap": 0.10483870967741936
+ },
+ {
+  "font": "Liberation Sans Narrow Bold Italic",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationSansNarrow-BoldItalic.ttf",
+  "chi2": 138.1951703240524,
+  "xh_cap": 0.7971014492753623,
+  "w_cap": 14.804347826086957,
+  "stem_cap": 0.17391304347826086,
+  "obow_cap": 0.16666666666666666
+ },
+ {
+  "font": "Lato Light Italic",
+  "file": "/usr/share/fonts/truetype/lato/Lato-LightItalic.ttf",
+  "chi2": 139.22013179866056,
+  "xh_cap": 0.7183098591549296,
+  "w_cap": 14.647887323943662,
+  "stem_cap": 0.07042253521126761,
+  "obow_cap": 0.06338028169014084
+ },
+ {
+  "font": "DejaVu Sans Condensed Bold",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-Bold.ttf",
+  "chi2": 139.29665797832433,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 17.993150684931507,
+  "stem_cap": 0.2328767123287671,
+  "obow_cap": 0.22602739726027396
+ },
+ {
+  "font": "Roboto Light",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/Roboto-Light.ttf",
+  "chi2": 139.47888784951,
+  "xh_cap": 0.7692307692307693,
+  "w_cap": 15.741258741258742,
+  "stem_cap": 0.08391608391608392,
+  "obow_cap": 0.08391608391608392
+ },
+ {
+  "font": "Liberation Sans Narrow Bold",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Bold.ttf",
+  "chi2": 142.28247090915042,
+  "xh_cap": 0.7971014492753623,
+  "w_cap": 14.652173913043478,
+  "stem_cap": 0.17391304347826086,
+  "obow_cap": 0.17391304347826086
+ },
+ {
+  "font": "Roboto Condensed Regular",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoCondensed-Regular.ttf",
+  "chi2": 145.49025851773885,
+  "xh_cap": 0.7746478873239436,
+  "w_cap": 14.30281690140845,
+  "stem_cap": 0.11971830985915492,
+  "obow_cap": 0.11971830985915492
+ },
+ {
+  "font": "Cousine Italic",
+  "file": "/usr/share/fonts/truetype/croscore/Cousine-Italic.ttf",
+  "chi2": 146.74605548080714,
+  "xh_cap": 0.8181818181818182,
+  "w_cap": 18.060606060606062,
+  "stem_cap": 0.14393939393939395,
+  "obow_cap": 0.13636363636363635
+ },
+ {
+  "font": "Open Sans Condensed Bold",
+  "file": "/usr/share/fonts/truetype/open-sans/OpenSans-CondBold.ttf",
+  "chi2": 147.56813999336228,
+  "xh_cap": 0.7902097902097902,
+  "w_cap": 14.27972027972028,
+  "stem_cap": 0.18181818181818182,
+  "obow_cap": 0.1888111888111888
+ },
+ {
+  "font": "Nimbus Sans Narrow Bold Oblique",
+  "file": "/usr/share/fonts/type1/urw-base35/NimbusSansNarrow-BoldOblique.t1",
+  "chi2": 147.95633146938752,
+  "xh_cap": 0.7777777777777778,
+  "w_cap": 13.881944444444445,
+  "stem_cap": 0.1736111111111111,
+  "obow_cap": 0.1597222222222222
+ },
+ {
+  "font": "Roboto Light Italic",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/Roboto-LightItalic.ttf",
+  "chi2": 148.10474295988942,
+  "xh_cap": 0.7746478873239436,
+  "w_cap": 15.471830985915492,
+  "stem_cap": 0.08450704225352113,
+  "obow_cap": 0.08450704225352113
+ },
+ {
+  "font": "Cousine Regular",
+  "file": "/usr/share/fonts/truetype/croscore/Cousine-Regular.ttf",
+  "chi2": 148.26828600887197,
+  "xh_cap": 0.8181818181818182,
+  "w_cap": 17.96969696969697,
+  "stem_cap": 0.13636363636363635,
+  "obow_cap": 0.13636363636363635
+ },
+ {
+  "font": "Nimbus Sans Narrow Bold",
+  "file": "/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf",
+  "chi2": 150.27499638509968,
+  "xh_cap": 0.7777777777777778,
+  "w_cap": 13.8125,
+  "stem_cap": 0.16666666666666666,
+  "obow_cap": 0.1597222222222222
+ },
+ {
+  "font": "Open Sans Light",
+  "file": "/usr/share/fonts/truetype/open-sans/OpenSans-Light.ttf",
+  "chi2": 151.79717091868378,
+  "xh_cap": 0.7692307692307693,
+  "w_cap": 16.195804195804197,
+  "stem_cap": 0.06993006993006994,
+  "obow_cap": 0.06993006993006994
+ },
+ {
+  "font": "Lato Thin",
+  "file": "/usr/share/fonts/truetype/lato/Lato-Thin.ttf",
+  "chi2": 152.4192572584449,
+  "xh_cap": 0.7142857142857143,
+  "w_cap": 16.014285714285716,
+  "stem_cap": 0.04285714285714286,
+  "obow_cap": 0.03571428571428571
+ },
+ {
+  "font": "Unifont Regular",
+  "file": "/usr/share/fonts/truetype/unifont/unifont.ttf",
+  "chi2": 156.24857606503053,
+  "xh_cap": 0.8,
+  "w_cap": 15.8,
+  "stem_cap": 0.096,
+  "obow_cap": 0.096
+ },
+ {
+  "font": "Roboto Condensed Italic",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoCondensed-Italic.ttf",
+  "chi2": 157.0812882089706,
+  "xh_cap": 0.7746478873239436,
+  "w_cap": 13.964788732394366,
+  "stem_cap": 0.11971830985915492,
+  "obow_cap": 0.11971830985915492
+ },
+ {
+  "font": "Cousine Bold",
+  "file": "/usr/share/fonts/truetype/croscore/Cousine-Bold.ttf",
+  "chi2": 161.77196693686466,
+  "xh_cap": 0.8181818181818182,
+  "w_cap": 18.015151515151516,
+  "stem_cap": 0.2196969696969697,
+  "obow_cap": 0.2196969696969697
+ },
+ {
+  "font": "FreeMono Bold Oblique",
+  "file": "/usr/share/fonts/opentype/freefont/FreeMonoBoldOblique.otf",
+  "chi2": 162.8915883096895,
+  "xh_cap": 0.7815126050420168,
+  "w_cap": 20.168067226890756,
+  "stem_cap": 0.16806722689075632,
+  "obow_cap": 0.16806722689075632
+ },
+ {
+  "font": "Cousine Bold Italic",
+  "file": "/usr/share/fonts/truetype/croscore/Cousine-BoldItalic.ttf",
+  "chi2": 163.00093048338402,
+  "xh_cap": 0.8181818181818182,
+  "w_cap": 18.098484848484848,
+  "stem_cap": 0.2196969696969697,
+  "obow_cap": 0.2196969696969697
+ },
+ {
+  "font": "Liberation Mono Italic",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationMono-Italic.ttf",
+  "chi2": 164.8804474505512,
+  "xh_cap": 0.8333333333333334,
+  "w_cap": 18.060606060606062,
+  "stem_cap": 0.14393939393939395,
+  "obow_cap": 0.13636363636363635
+ },
+ {
+  "font": "Liberation Mono Regular",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf",
+  "chi2": 166.40267797861603,
+  "xh_cap": 0.8333333333333334,
+  "w_cap": 17.96969696969697,
+  "stem_cap": 0.13636363636363635,
+  "obow_cap": 0.13636363636363635
+ },
+ {
+  "font": "Open Sans Light Italic",
+  "file": "/usr/share/fonts/truetype/open-sans/OpenSans-LightItalic.ttf",
+  "chi2": 167.00591041250863,
+  "xh_cap": 0.7692307692307693,
+  "w_cap": 15.174825174825175,
+  "stem_cap": 0.06993006993006994,
+  "obow_cap": 0.06993006993006994
+ },
+ {
+  "font": "DejaVu Serif Bold",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf",
+  "chi2": 176.72435233554413,
+  "xh_cap": 0.7534246575342466,
+  "w_cap": 19.602739726027398,
+  "stem_cap": 0.2602739726027397,
+  "obow_cap": 0.2671232876712329
+ },
+ {
+  "font": "Cantarell Thin",
+  "file": "/usr/share/fonts/opentype/cantarell/Cantarell-Thin.otf",
+  "chi2": 179.86194667025165,
+  "xh_cap": 0.7122302158273381,
+  "w_cap": 15.762589928057555,
+  "stem_cap": 0.02877697841726619,
+  "obow_cap": 0.02877697841726619
+ },
+ {
+  "font": "Liberation Mono Bold",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationMono-Bold.ttf",
+  "chi2": 179.90635890660872,
+  "xh_cap": 0.8333333333333334,
+  "w_cap": 18.015151515151516,
+  "stem_cap": 0.2196969696969697,
+  "obow_cap": 0.2196969696969697
+ },
+ {
+  "font": "Liberation Mono Bold Italic",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationMono-BoldItalic.ttf",
+  "chi2": 181.13532245312808,
+  "xh_cap": 0.8333333333333334,
+  "w_cap": 18.098484848484848,
+  "stem_cap": 0.2196969696969697,
+  "obow_cap": 0.2196969696969697
+ },
+ {
+  "font": "Lato Thin Italic",
+  "file": "/usr/share/fonts/truetype/lato/Lato-ThinItalic.ttf",
+  "chi2": 182.529762429168,
+  "xh_cap": 0.7163120567375887,
+  "w_cap": 14.581560283687944,
+  "stem_cap": 0.0425531914893617,
+  "obow_cap": 0.03546099290780142
+ },
+ {
+  "font": "URW Bookman Demi Italic",
+  "file": "/usr/share/fonts/opentype/urw-base35/URWBookman-DemiItalic.otf",
+  "chi2": 183.8503893524184,
+  "xh_cap": 0.7720588235294118,
+  "w_cap": 19.433823529411764,
+  "stem_cap": 0.25735294117647056,
+  "obow_cap": 0.25735294117647056
+ },
+ {
+  "font": "DejaVu Serif Bold Italic",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSerif-BoldItalic.ttf",
+  "chi2": 188.8633252494353,
+  "xh_cap": 0.7534246575342466,
+  "w_cap": 19.938356164383563,
+  "stem_cap": 0.2602739726027397,
+  "obow_cap": 0.2671232876712329
+ },
+ {
+  "font": "Open Sans Extrabold Italic",
+  "file": "/usr/share/fonts/truetype/open-sans/OpenSans-ExtraBoldItalic.ttf",
+  "chi2": 189.9632850137645,
+  "xh_cap": 0.8041958041958042,
+  "w_cap": 17.62937062937063,
+  "stem_cap": 0.26573426573426573,
+  "obow_cap": 0.2727272727272727
+ },
+ {
+  "font": "Liberation Sans Narrow Regular",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Regular.ttf",
+  "chi2": 192.30194666908605,
+  "xh_cap": 0.7971014492753623,
+  "w_cap": 13.695652173913043,
+  "stem_cap": 0.11594202898550725,
+  "obow_cap": 0.10869565217391304
+ },
+ {
+  "font": "Lato Hairline",
+  "file": "/usr/share/fonts/truetype/lato/Lato-Hairline.ttf",
+  "chi2": 192.4312089790387,
+  "xh_cap": 0.7092198581560284,
+  "w_cap": 15.787234042553191,
+  "stem_cap": 0.02127659574468085,
+  "obow_cap": 0.02127659574468085
+ },
+ {
+  "font": "Liberation Sans Narrow Italic",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Italic.ttf",
+  "chi2": 194.94744641628296,
+  "xh_cap": 0.7971014492753623,
+  "w_cap": 13.768115942028986,
+  "stem_cap": 0.10869565217391304,
+  "obow_cap": 0.10869565217391304
+ },
+ {
+  "font": "FreeMono Bold",
+  "file": "/usr/share/fonts/truetype/freefont/FreeMonoBold.ttf",
+  "chi2": 195.14411016426098,
+  "xh_cap": 0.8034188034188035,
+  "w_cap": 20.39316239316239,
+  "stem_cap": 0.17094017094017094,
+  "obow_cap": 0.17094017094017094
+ },
+ {
+  "font": "DejaVu Sans ExtraLight",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSans-ExtraLight.ttf",
+  "chi2": 196.04485746900062,
+  "xh_cap": 0.8013698630136986,
+  "w_cap": 17.63013698630137,
+  "stem_cap": 0.06164383561643835,
+  "obow_cap": 0.06164383561643835
+ },
+ {
+  "font": "URW Bookman Demi",
+  "file": "/usr/share/fonts/opentype/urw-base35/URWBookman-Demi.otf",
+  "chi2": 197.3087075223643,
+  "xh_cap": 0.7720588235294118,
+  "w_cap": 19.551470588235293,
+  "stem_cap": 0.2647058823529412,
+  "obow_cap": 0.2647058823529412
+ },
+ {
+  "font": "Nimbus Sans Narrow Oblique",
+  "file": "/usr/share/fonts/type1/urw-base35/NimbusSansNarrow-Oblique.t1",
+  "chi2": 198.2805707663346,
+  "xh_cap": 0.7708333333333334,
+  "w_cap": 13.04861111111111,
+  "stem_cap": 0.1111111111111111,
+  "obow_cap": 0.10416666666666667
+ },
+ {
+  "font": "Roboto Condensed Light",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoCondensed-Light.ttf",
+  "chi2": 198.5627257393149,
+  "xh_cap": 0.7692307692307693,
+  "w_cap": 13.811188811188812,
+  "stem_cap": 0.07692307692307693,
+  "obow_cap": 0.07692307692307693
+ },
+ {
+  "font": "Nimbus Sans Narrow Regular",
+  "file": "/usr/share/fonts/type1/urw-base35/NimbusSansNarrow-Regular.t1",
+  "chi2": 201.6339772665696,
+  "xh_cap": 0.7708333333333334,
+  "w_cap": 12.979166666666666,
+  "stem_cap": 0.1111111111111111,
+  "obow_cap": 0.10416666666666667
+ },
+ {
+  "font": "Z003 Medium Italic",
+  "file": "/usr/share/fonts/type1/urw-base35/Z003-MediumItalic.t1",
+  "chi2": 206.51317153641537,
+  "xh_cap": 0.6439393939393939,
+  "w_cap": 12.962121212121213,
+  "stem_cap": 0.045454545454545456,
+  "obow_cap": 0.10606060606060606
+ },
+ {
+  "font": "Roboto Condensed Light Italic",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoCondensed-LightItalic.ttf",
+  "chi2": 211.2412673519989,
+  "xh_cap": 0.7692307692307693,
+  "w_cap": 13.496503496503497,
+  "stem_cap": 0.07692307692307693,
+  "obow_cap": 0.07692307692307693
+ },
+ {
+  "font": "Roboto Thin",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/Roboto-Thin.ttf",
+  "chi2": 217.08732317567,
+  "xh_cap": 0.7638888888888888,
+  "w_cap": 15.229166666666666,
+  "stem_cap": 0.034722222222222224,
+  "obow_cap": 0.034722222222222224
+ },
+ {
+  "font": "DejaVu Sans Bold",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+  "chi2": 222.5138910779484,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 19.993150684931507,
+  "stem_cap": 0.2602739726027397,
+  "obow_cap": 0.2465753424657534
+ },
+ {
+  "font": "Open Sans Extrabold",
+  "file": "/usr/share/fonts/truetype/open-sans/OpenSans-ExtraBold.ttf",
+  "chi2": 223.24852442422016,
+  "xh_cap": 0.8041958041958042,
+  "w_cap": 18.95104895104895,
+  "stem_cap": 0.2727272727272727,
+  "obow_cap": 0.2727272727272727
+ },
+ {
+  "font": "Roboto Thin Italic",
+  "file": "/usr/share/fonts/truetype/roboto/unhinted/RobotoTTF/Roboto-ThinItalic.ttf",
+  "chi2": 224.99295521388194,
+  "xh_cap": 0.7638888888888888,
+  "w_cap": 14.881944444444445,
+  "stem_cap": 0.034722222222222224,
+  "obow_cap": 0.041666666666666664
+ },
+ {
+  "font": "Lato Hairline Italic",
+  "file": "/usr/share/fonts/truetype/lato/Lato-HairlineItalic.ttf",
+  "chi2": 225.54533401494965,
+  "xh_cap": 0.7163120567375887,
+  "w_cap": 14.47517730496454,
+  "stem_cap": 0.02127659574468085,
+  "obow_cap": 0.02127659574468085
+ },
+ {
+  "font": "DejaVu Sans Bold Oblique",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSans-BoldOblique.ttf",
+  "chi2": 227.1341020077018,
+  "xh_cap": 0.7876712328767124,
+  "w_cap": 20.10958904109589,
+  "stem_cap": 0.2602739726027397,
+  "obow_cap": 0.2534246575342466
+ },
+ {
+  "font": "Nimbus Mono PS Bold",
+  "file": "/usr/share/fonts/type1/urw-base35/NimbusMonoPS-Bold.t1",
+  "chi2": 235.03510965715003,
+  "xh_cap": 0.8053097345132744,
+  "w_cap": 21.123893805309734,
+  "stem_cap": 0.18584070796460178,
+  "obow_cap": 0.18584070796460178
+ },
+ {
+  "font": "Nimbus Mono PS Bold Italic",
+  "file": "/usr/share/fonts/type1/urw-base35/NimbusMonoPS-BoldItalic.t1",
+  "chi2": 241.69528743055545,
+  "xh_cap": 0.8053097345132744,
+  "w_cap": 21.194690265486727,
+  "stem_cap": 0.19469026548672566,
+  "obow_cap": 0.18584070796460178
+ },
+ {
+  "font": "Nimbus Mono PS Regular",
+  "file": "/usr/share/fonts/type1/urw-base35/NimbusMonoPS-Regular.t1",
+  "chi2": 261.1073600284441,
+  "xh_cap": 0.7964601769911505,
+  "w_cap": 21.035398230088497,
+  "stem_cap": 0.08849557522123894,
+  "obow_cap": 0.09734513274336283
+ },
+ {
+  "font": "Nimbus Mono PS Italic",
+  "file": "/usr/share/fonts/type1/urw-base35/NimbusMonoPS-Italic.t1",
+  "chi2": 264.8186726682824,
+  "xh_cap": 0.7964601769911505,
+  "w_cap": 21.106194690265486,
+  "stem_cap": 0.08849557522123894,
+  "obow_cap": 0.09734513274336283
+ },
+ {
+  "font": "FreeMono Oblique",
+  "file": "/usr/share/fonts/opentype/freefont/FreeMonoOblique.otf",
+  "chi2": 276.70318755171957,
+  "xh_cap": 0.7876106194690266,
+  "w_cap": 21.097345132743364,
+  "stem_cap": 0.07079646017699115,
+  "obow_cap": 0.07079646017699115
+ },
+ {
+  "font": "FreeMono Regular",
+  "file": "/usr/share/fonts/truetype/freefont/FreeMono.ttf",
+  "chi2": 290.67447278486384,
+  "xh_cap": 0.8053097345132744,
+  "w_cap": 21.008849557522122,
+  "stem_cap": 0.07079646017699115,
+  "obow_cap": 0.07964601769911504
+ },
+ {
+  "font": "Open Sans Condensed Light",
+  "file": "/usr/share/fonts/truetype/open-sans/OpenSans-CondLight.ttf",
+  "chi2": 342.8997594862433,
+  "xh_cap": 0.7692307692307693,
+  "w_cap": 11.447552447552448,
+  "stem_cap": 0.06293706293706294,
+  "obow_cap": 0.06993006993006994
+ },
+ {
+  "font": "Open Sans Condensed Light Italic",
+  "file": "/usr/share/fonts/truetype/open-sans/OpenSans-CondLightItalic.ttf",
+  "chi2": 396.10276015562283,
+  "xh_cap": 0.7692307692307693,
+  "w_cap": 10.713286713286713,
+  "stem_cap": 0.06293706293706294,
+  "obow_cap": 0.06993006993006994
+ },
+ {
+  "font": "IPAPGothic Regular",
+  "file": "/usr/share/fonts/opentype/ipafont-gothic/ipagp.ttf",
+  "chi2": 688.4754413352968,
+  "xh_cap": 0.7357142857142858,
+  "w_cap": 26.857142857142858,
+  "stem_cap": 0.12857142857142856,
+  "obow_cap": 0.12142857142857143
+ },
+ {
+  "font": "IPAGothic Regular",
+  "file": "/usr/share/fonts/truetype/fonts-japanese-gothic.ttf",
+  "chi2": 730.1400045617587,
+  "xh_cap": 0.7357142857142858,
+  "w_cap": 27.185714285714287,
+  "stem_cap": 0.12857142857142856,
+  "obow_cap": 0.12142857142857143
+ }
+]

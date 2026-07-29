@@ -1,0 +1,44 @@
+{
+  "name": "slim-tim",
+
+  // Builds from the Dockerfile, which always works but costs the visitor an apt +
+  // pip + npm build on first create (a few minutes).
+  //
+  // Faster, and free without touching the owner's Codespaces storage quota:
+  // .github/workflows/devcontainer-image.yml publishes this same Dockerfile to GHCR.
+  // Once that has run and the package is set to Public,
+  // swap the line below for
+  //     "image": "ghcr.io/craaazypizza/slim-tim-devcontainer:latest"
+  // and creates become a pull instead of a build. Do not swap it before the package
+  // is public — Codespaces cannot pull a private package anonymously and will fail
+  // the create outright rather than falling back to building.
+  "build": { "dockerfile": "Dockerfile" },
+
+  // Deliberately no updateContentCommand. Extracting all 17,567 frames here would
+  // bake ~5 GB into the stored image, and image storage is drawn from the repo
+  // owner's monthly included Codespaces storage once per region — all to save an
+  // operation that bin/frames does in about ten seconds for the range anyone
+  // actually wants. What is worth caching is the Dockerfile itself: the deadsnakes
+  // PPA, python3.12, the seven pinned scientific packages and the three coding CLIs
+  // are minutes of apt, pip and npm that a visitor should never wait for.
+  "postAttachCommand": "bash .devcontainer/greet.sh",
+  "hostRequirements": { "cpus": 2 },
+
+  "customizations": {
+    "vscode": {
+      // All three assistants, so the only setup step left is logging in with an
+      // account you already have. The CLIs are in the image too, so `claude`,
+      // `codex` and `gemini` work in the terminal whether or not the extension
+      // installs. An extension id the marketplace does not recognise is skipped
+      // silently, which is why the terminal path is the one being relied on.
+      "extensions": [
+        "anthropic.claude-code",
+        "openai.chatgpt",
+        "google.geminicodeassist",
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ],
+      "settings": { "python.defaultInterpreterPath": "/opt/venv/bin/python" }
+    }
+  }
+}

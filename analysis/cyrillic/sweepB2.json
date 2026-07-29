@@ -1,0 +1,610 @@
+{
+ "best5": [
+  {
+   "font": "Arimo Bold",
+   "r": 0.8137625002136126,
+   "cap": 54,
+   "size": 77,
+   "kx": 1.28,
+   "blur": 3.6,
+   "dx": 30,
+   "dy": 4
+  },
+  {
+   "font": "Roboto Medium",
+   "r": 0.7950077117080061,
+   "cap": 54,
+   "size": 76,
+   "kx": 1.36,
+   "blur": 3.6,
+   "dx": 29,
+   "dy": 5
+  },
+  {
+   "font": "Go Bold",
+   "r": 0.778960015993998,
+   "cap": 52,
+   "size": 70,
+   "kx": 1.4,
+   "blur": 3.6,
+   "dx": 30,
+   "dy": 3
+  },
+  {
+   "font": "Carlito Bold",
+   "r": 0.7510248841055797,
+   "cap": 52,
+   "size": 78,
+   "kx": 1.44,
+   "blur": 3.6,
+   "dx": 34,
+   "dy": 3
+  },
+  {
+   "font": "Liberation Sans Bold",
+   "r": 0.7391994074902701,
+   "cap": 52,
+   "size": 75,
+   "kx": 1.32,
+   "blur": 3.6,
+   "dx": 30,
+   "dy": 6
+  },
+  {
+   "font": "Lato Bold",
+   "r": 0.7346609202465809,
+   "cap": 54,
+   "size": 74,
+   "kx": 1.4,
+   "blur": 3.6,
+   "dx": 30,
+   "dy": 3
+  },
+  {
+   "font": "DejaVu Sans Bold",
+   "r": 0.7069431036839646,
+   "cap": 52,
+   "size": 71,
+   "kx": 1.16,
+   "blur": 3.6,
+   "dx": 30,
+   "dy": 4
+  },
+  {
+   "font": "Nimbus Sans Bold",
+   "r": 0.6972592759942775,
+   "cap": 52,
+   "size": 71,
+   "kx": 1.4,
+   "blur": 3.6,
+   "dx": 30,
+   "dy": 2
+  },
+  {
+   "font": "Cantarell Bold",
+   "r": 0.6760249430741075,
+   "cap": 52,
+   "size": 75,
+   "kx": 1.4,
+   "blur": 3.6,
+   "dx": 32,
+   "dy": 4
+  },
+  {
+   "font": "DejaVu Sans Book",
+   "r": 0.6426790992560555,
+   "cap": 52,
+   "size": 71,
+   "kx": 1.32,
+   "blur": 4.6,
+   "dx": 34,
+   "dy": 4
+  },
+  {
+   "font": "Roboto Bold",
+   "r": 0.6101021172541241,
+   "cap": 52,
+   "size": 72,
+   "kx": 1.4,
+   "blur": 3.6,
+   "dx": 27,
+   "dy": 4
+  },
+  {
+   "font": "Open Sans Semibold",
+   "r": 0.5585284666944486,
+   "cap": 54,
+   "size": 75,
+   "kx": 1.32,
+   "blur": 3.6,
+   "dx": 40,
+   "dy": 5
+  },
+  {
+   "font": "Liberation Serif Bold",
+   "r": 0.5209077914917081,
+   "cap": 52,
+   "size": 79,
+   "kx": 1.44,
+   "blur": 4.6,
+   "dx": 25,
+   "dy": 4
+  },
+  {
+   "font": "Noto Sans Regular",
+   "r": 0.4747897442989526,
+   "cap": 54,
+   "size": 74,
+   "kx": 1.36,
+   "blur": 5.8,
+   "dx": 39,
+   "dy": 5
+  },
+  {
+   "font": "Nimbus Mono PS Bold",
+   "r": 0.2488409111132971,
+   "cap": 52,
+   "size": 91,
+   "kx": 1.16,
+   "blur": 3.6,
+   "dx": 17,
+   "dy": 4
+  }
+ ],
+ "stack20": [
+  {
+   "font": "Arimo Bold",
+   "r": 0.7666110089979995,
+   "cap": 54,
+   "size": 77,
+   "kx": 1.28,
+   "blur": 4.6,
+   "dx": 30,
+   "dy": 4
+  },
+  {
+   "font": "Roboto Medium",
+   "r": 0.7384017824919139,
+   "cap": 54,
+   "size": 76,
+   "kx": 1.36,
+   "blur": 4.6,
+   "dx": 29,
+   "dy": 5
+  },
+  {
+   "font": "Go Bold",
+   "r": 0.737219128054121,
+   "cap": 52,
+   "size": 70,
+   "kx": 1.4,
+   "blur": 4.6,
+   "dx": 30,
+   "dy": 3
+  },
+  {
+   "font": "Carlito Bold",
+   "r": 0.685276237092526,
+   "cap": 52,
+   "size": 78,
+   "kx": 1.44,
+   "blur": 5.8,
+   "dx": 34,
+   "dy": 3
+  },
+  {
+   "font": "Liberation Sans Bold",
+   "r": 0.684098114593487,
+   "cap": 52,
+   "size": 75,
+   "kx": 1.32,
+   "blur": 4.6,
+   "dx": 30,
+   "dy": 5
+  },
+  {
+   "font": "Lato Bold",
+   "r": 0.6675206246355263,
+   "cap": 54,
+   "size": 74,
+   "kx": 1.4,
+   "blur": 5.8,
+   "dx": 30,
+   "dy": 3
+  },
+  {
+   "font": "DejaVu Sans Bold",
+   "r": 0.6527403058851421,
+   "cap": 52,
+   "size": 71,
+   "kx": 1.16,
+   "blur": 4.6,
+   "dx": 30,
+   "dy": 4
+  },
+  {
+   "font": "Nimbus Sans Bold",
+   "r": 0.6322225198684638,
+   "cap": 54,
+   "size": 74,
+   "kx": 1.32,
+   "blur": 5.8,
+   "dx": 29,
+   "dy": 1
+  },
+  {
+   "font": "Cantarell Bold",
+   "r": 0.6187793363129186,
+   "cap": 52,
+   "size": 75,
+   "kx": 1.4,
+   "blur": 5.8,
+   "dx": 32,
+   "dy": 4
+  },
+  {
+   "font": "DejaVu Sans Book",
+   "r": 0.5885326219389992,
+   "cap": 52,
+   "size": 71,
+   "kx": 1.32,
+   "blur": 5.8,
+   "dx": 34,
+   "dy": 4
+  },
+  {
+   "font": "Roboto Bold",
+   "r": 0.5552618765861017,
+   "cap": 52,
+   "size": 72,
+   "kx": 1.4,
+   "blur": 5.8,
+   "dx": 27,
+   "dy": 4
+  },
+  {
+   "font": "Liberation Serif Bold",
+   "r": 0.5120984831655242,
+   "cap": 52,
+   "size": 79,
+   "kx": 1.44,
+   "blur": 5.8,
+   "dx": 26,
+   "dy": 4
+  },
+  {
+   "font": "Open Sans Semibold",
+   "r": 0.48901618261386337,
+   "cap": 54,
+   "size": 75,
+   "kx": 1.32,
+   "blur": 5.8,
+   "dx": 40,
+   "dy": 5
+  },
+  {
+   "font": "Noto Sans Regular",
+   "r": 0.42230132820907706,
+   "cap": 54,
+   "size": 74,
+   "kx": 1.36,
+   "blur": 5.8,
+   "dx": 39,
+   "dy": 5
+  },
+  {
+   "font": "Nimbus Mono PS Bold",
+   "r": 0.21493270707548479,
+   "cap": 52,
+   "size": 91,
+   "kx": 1.16,
+   "blur": 5.8,
+   "dx": 18,
+   "dy": 4
+  }
+ ],
+ "NULL20_1010": [
+  {
+   "font": "Go Bold",
+   "r": 0.09002086003456465,
+   "cap": 52,
+   "size": 70,
+   "kx": 1.2,
+   "blur": 5.8,
+   "dx": 19,
+   "dy": -1
+  },
+  {
+   "font": "Open Sans Semibold",
+   "r": 0.08899419710058314,
+   "cap": 54,
+   "size": 75,
+   "kx": 1.12,
+   "blur": 5.8,
+   "dx": 27,
+   "dy": 0
+  },
+  {
+   "font": "Nimbus Sans Bold",
+   "r": 0.08882234026411463,
+   "cap": 54,
+   "size": 74,
+   "kx": 1.12,
+   "blur": 5.8,
+   "dx": 17,
+   "dy": -4
+  },
+  {
+   "font": "Nimbus Mono PS Bold",
+   "r": 0.08834366102200834,
+   "cap": 52,
+   "size": 91,
+   "kx": 1.4,
+   "blur": 5.8,
+   "dx": -12,
+   "dy": -18
+  },
+  {
+   "font": "Cantarell Bold",
+   "r": 0.08734762826988346,
+   "cap": 52,
+   "size": 75,
+   "kx": 1.2,
+   "blur": 5.8,
+   "dx": 24,
+   "dy": -1
+  },
+  {
+   "font": "DejaVu Sans Book",
+   "r": 0.08487809662594537,
+   "cap": 52,
+   "size": 71,
+   "kx": 1.32,
+   "blur": 5.8,
+   "dx": -15,
+   "dy": 2
+  },
+  {
+   "font": "Lato Bold",
+   "r": 0.08458001279871737,
+   "cap": 54,
+   "size": 74,
+   "kx": 1.2,
+   "blur": 5.8,
+   "dx": 20,
+   "dy": -1
+  },
+  {
+   "font": "Roboto Bold",
+   "r": 0.08383541448037417,
+   "cap": 52,
+   "size": 72,
+   "kx": 1.2,
+   "blur": 5.8,
+   "dx": 17,
+   "dy": -1
+  },
+  {
+   "font": "Liberation Sans Bold",
+   "r": 0.08363886886471,
+   "cap": 52,
+   "size": 75,
+   "kx": 1.12,
+   "blur": 5.8,
+   "dx": 18,
+   "dy": 1
+  },
+  {
+   "font": "Roboto Medium",
+   "r": 0.08305846912260621,
+   "cap": 54,
+   "size": 76,
+   "kx": 1.16,
+   "blur": 5.8,
+   "dx": 18,
+   "dy": 0
+  },
+  {
+   "font": "DejaVu Sans Bold",
+   "r": 0.08297896486681391,
+   "cap": 54,
+   "size": 74,
+   "kx": 1.12,
+   "blur": 5.8,
+   "dx": -16,
+   "dy": 4
+  },
+  {
+   "font": "Carlito Bold",
+   "r": 0.08058808810513417,
+   "cap": 52,
+   "size": 78,
+   "kx": 1.24,
+   "blur": 5.8,
+   "dx": 24,
+   "dy": -2
+  },
+  {
+   "font": "Noto Sans Regular",
+   "r": 0.07991985079237927,
+   "cap": 54,
+   "size": 74,
+   "kx": 1.16,
+   "blur": 5.8,
+   "dx": 27,
+   "dy": 0
+  },
+  {
+   "font": "Liberation Serif Bold",
+   "r": 0.07684556623122207,
+   "cap": 52,
+   "size": 79,
+   "kx": 1.36,
+   "blur": 5.8,
+   "dx": 0,
+   "dy": -18
+  },
+  {
+   "font": "Arimo Bold",
+   "r": 0.06738145622959894,
+   "cap": 52,
+   "size": 76,
+   "kx": 1.12,
+   "blur": 5.8,
+   "dx": 20,
+   "dy": 0
+  }
+ ],
+ "NULL1_f1020": [
+  {
+   "font": "Nimbus Mono PS Bold",
+   "r": 0.09072940296685457,
+   "cap": 52,
+   "size": 91,
+   "kx": 1.16,
+   "blur": 5.8,
+   "dx": 3,
+   "dy": -4
+  },
+  {
+   "font": "Liberation Sans Bold",
+   "r": 0.09059822068174976,
+   "cap": 54,
+   "size": 78,
+   "kx": 1.28,
+   "blur": 5.8,
+   "dx": 7,
+   "dy": -3
+  },
+  {
+   "font": "Cantarell Bold",
+   "r": 0.08774350315403985,
+   "cap": 52,
+   "size": 75,
+   "kx": 1.4,
+   "blur": 5.8,
+   "dx": 9,
+   "dy": -1
+  },
+  {
+   "font": "DejaVu Sans Bold",
+   "r": 0.08770260252679198,
+   "cap": 52,
+   "size": 71,
+   "kx": 1.24,
+   "blur": 5.8,
+   "dx": -19,
+   "dy": -8
+  },
+  {
+   "font": "Liberation Serif Bold",
+   "r": 0.08512366569441362,
+   "cap": 54,
+   "size": 82,
+   "kx": 1.16,
+   "blur": 5.8,
+   "dx": 10,
+   "dy": 11
+  },
+  {
+   "font": "Nimbus Sans Bold",
+   "r": 0.0848864243645364,
+   "cap": 54,
+   "size": 74,
+   "kx": 1.36,
+   "blur": 5.8,
+   "dx": 6,
+   "dy": -3
+  },
+  {
+   "font": "Roboto Bold",
+   "r": 0.084516825752381,
+   "cap": 54,
+   "size": 76,
+   "kx": 1.48,
+   "blur": 5.8,
+   "dx": -9,
+   "dy": -3
+  },
+  {
+   "font": "Lato Bold",
+   "r": 0.0839930032038923,
+   "cap": 54,
+   "size": 74,
+   "kx": 1.12,
+   "blur": 5.8,
+   "dx": 20,
+   "dy": 20
+  },
+  {
+   "font": "Carlito Bold",
+   "r": 0.08306277252473795,
+   "cap": 52,
+   "size": 78,
+   "kx": 1.16,
+   "blur": 5.8,
+   "dx": 22,
+   "dy": 20
+  },
+  {
+   "font": "Arimo Bold",
+   "r": 0.08274892935660817,
+   "cap": 52,
+   "size": 76,
+   "kx": 1.32,
+   "blur": 5.8,
+   "dx": 6,
+   "dy": -2
+  },
+  {
+   "font": "DejaVu Sans Book",
+   "r": 0.08234775707759204,
+   "cap": 52,
+   "size": 71,
+   "kx": 1.44,
+   "blur": 5.8,
+   "dx": -5,
+   "dy": -7
+  },
+  {
+   "font": "Open Sans Semibold",
+   "r": 0.08232683999002294,
+   "cap": 52,
+   "size": 73,
+   "kx": 1.48,
+   "blur": 5.8,
+   "dx": 1,
+   "dy": -8
+  },
+  {
+   "font": "Noto Sans Regular",
+   "r": 0.08003581973822013,
+   "cap": 54,
+   "size": 74,
+   "kx": 1.36,
+   "blur": 5.8,
+   "dx": 14,
+   "dy": -6
+  },
+  {
+   "font": "Go Bold",
+   "r": 0.07957141116393257,
+   "cap": 54,
+   "size": 74,
+   "kx": 1.36,
+   "blur": 5.8,
+   "dx": 5,
+   "dy": -5
+  },
+  {
+   "font": "Roboto Medium",
+   "r": 0.0770905702195382,
+   "cap": 52,
+   "size": 72,
+   "kx": 1.44,
+   "blur": 5.8,
+   "dx": 7,
+   "dy": -2
+  }
+ ]
+}

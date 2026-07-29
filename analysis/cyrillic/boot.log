@@ -1,0 +1,32 @@
+=== FRAME BOOTSTRAP, 200 resamples of 10-of-20 caption frames, geometry fixed ===
+face                         mean r       sd
+Arimo Bold                   0.7474   0.0408
+Roboto Medium                0.7171   0.0429
+Go Bold                      0.7155   0.0391
+Carlito Bold                 0.6655   0.0441
+Liberation Sans Bold         0.6649   0.0420
+Lato Bold                    0.6460   0.0442
+DejaVu Sans Bold             0.6346   0.0387
+Nimbus Sans Bold             0.6069   0.0444
+Cantarell Bold               0.5945   0.0411
+
+paired difference vs Arimo Bold (same frames, so the pairing removes frame noise):
+   Roboto Medium            dr = +0.0303 +- 0.0042   7.1 sigma   P(Arimo Bold wins) = 1.00
+   Go Bold                  dr = +0.0320 +- 0.0035   9.1 sigma   P(Arimo Bold wins) = 1.00
+   Carlito Bold             dr = +0.0819 +- 0.0063   13.0 sigma   P(Arimo Bold wins) = 1.00
+   Liberation Sans Bold     dr = +0.0825 +- 0.0040   20.6 sigma   P(Arimo Bold wins) = 1.00
+   Lato Bold                dr = +0.1015 +- 0.0065   15.6 sigma   P(Arimo Bold wins) = 1.00
+   DejaVu Sans Bold         dr = +0.1128 +- 0.0053   21.3 sigma   P(Arimo Bold wins) = 1.00
+   Nimbus Sans Bold         dr = +0.1406 +- 0.0069   20.4 sigma   P(Arimo Bold wins) = 1.00
+   Cantarell Bold           dr = +0.1529 +- 0.0070   21.8 sigma   P(Arimo Bold wins) = 1.00
+
+how often each face is ranked FIRST across the 200 resamples:
+   Arimo Bold               200 / 200
+   Roboto Medium              0 / 200
+   Go Bold                    0 / 200
+   Carlito Bold               0 / 200
+   Liberation Sans Bold       0 / 200
+   Lato Bold                  0 / 200
+   DejaVu Sans Bold           0 / 200
+   Nimbus Sans Bold           0 / 200
+   Cantarell Bold             0 / 200

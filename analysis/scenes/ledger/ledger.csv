@@ -1,0 +1,29 @@
+era,video,catalog_source,tape,case,name,claimed_start,claimed_end,sep,observed_first,observed_last,frames_observed,endpoint_status,notes
+2011,ZB788PtqQvg,description,01,07,Tin bird,00:08:41,00:08:47,-,00:08:41,00:08:47,f134-f408,both exact,"opens on KGB emblem card; no on-screen fragment card"
+2011,ZB788PtqQvg,description,03,15,Flying twin,00:27:11,00:27:13,-,00:27:11,00:27:12,f410-f444,start exact / end indeterminate,":13 would fall in f446-450 which is flare-washed"
+2011,ZB788PtqQvg,description,03,15,Flying twin,00:27:34,00:27:39,-,00:27:34,00:27:38,f452-f636,start exact / end 1s short,"cut at f648; :39 would begin ~f658"
+2011,ZB788PtqQvg,description,04,23,Blue boys,00:42:50,00:42:51,-,00:42:50,00:42:51,f652-f699,both exact,
+2011,ZB788PtqQvg,description,04,23,Blue boys,00:48:09,00:48:16,-,00:48:09,00:48:16,f708-f972,both exact,
+2011,ZB788PtqQvg,description,04,24,Blue boys meeting,00:47:30,00:47:32,-,00:47:30,00:47:32,f984-f1080,both exact,"earlier in tape time than case 23's second fragment - cases 23/24 interleave"
+2011,ZB788PtqQvg,description,04,24,Blue boys meeting,00:56:12,00:56:14,-,00:56:12,00:56:13,f1081-f1125,start exact / end 1s short,"cut at f1126"
+2011,ZB788PtqQvg,description,04,24,Blue boys meeting,00:58:26,00:58:28,-,00:58:26,00:58:27,f1130-f1188,start exact / end 1s short,"video ends on f1188"
+2011,RsQCXN4o4Ps,on-screen card (description empty),05,25,skinny Bob,00:08:42,00:08:50,-,00:08:43,00:08:50,f607-f957,start 1s short / end exact,
+2011,RsQCXN4o4Ps,on-screen card (description empty),05,25,skinny Bob,00:27:36,00:27:45,-,00:27:37,00:27:44,f969-f1295,both 1s short,
+2011,RsQCXN4o4Ps,on-screen card (description empty),05,26,How to drive,00:55:07,00:55:12,-,00:55:08,00:55:12,f1297-f1487,start 1s short / end exact,
+2011,Xju_CY5ZESA,none,,,,,,,,,,n/a,"reply video: static 4-digit handprint plate + text cards; NO burned-in timecode, NO catalog"
+2011,a6TLGkrfNKI,card 'Tape 06 / Family vacation' only,06,,,,,,,,,n/a,"640x480; lore caption cards over dim footage; NO burned-in timecode anywhere (full-frame + bottom-band sweep). Only 2011 attribution of tape 06"
+2026,OpSTlDJWFFI,on-screen card + description,02,11,Tin bird unauth,00:33:30,00:33:34,-,00:33:30,00:33:34,f1049-f1247,both exact,"tape prefix redacted"
+2026,OpSTlDJWFFI,on-screen card + description,02,12,Mk.4 taxi,01:08:21,01:08:22,-,01:08:21,01:08:22,f1250-f1298,both exact,"tape prefix redacted"
+2026,OpSTlDJWFFI,on-screen card + description,02,12,Mk.4 pace lap,01:10:55,01:11:21,-,01:10:55,01:11:20,f1308-f2498,start exact / end 1s short,"tape prefix redacted"
+2026,OpSTlDJWFFI,on-screen card + description,05,26,Tim's show &tell,01:01:18,01:01:19,-,01:01:18,01:01:19,f2502-f2568,both exact,"tape prefix redacted"
+2026,OpSTlDJWFFI,on-screen card + description,06,31,Mk.5 virgin (col/s),00:57:56,00:58:04,-,00:57:56,00:58:03,f2572-f2917,start exact / end unverifiable,"ONLY unredacted prefix in either era: T6-02/31. Colour+sound segment"
+2026,Oqw96jCOP7A,on-screen card + description,02,11,Tin bird primer,00:36:02,00:36:07,-,00:36:03,00:36:07,~17-23s,start 1s short / end exact,"non-constant tick cadence 33-46 frames"
+2026,Oqw96jCOP7A,on-screen card + description,04,20,Brown boys,00:03:11,00:03:18,-,00:03:11,00:03:17,~24-31s,start exact / end 1s short,
+2026,Oqw96jCOP7A,on-screen card + description,04,20,Brown boys,00:03:55,00:04:05,-,00:03:55,00:04:03,~32-35s,start exact / end 2s short,"source second 00:03:15 missing with no visible cut"
+2026,Oqw96jCOP7A,on-screen card + description,04,20,Brown boys,00:04:10,00:04:11,-,00:04:10,00:04:11,~38-39s,both exact,
+2026,Oqw96jCOP7A,on-screen card + description,04,21,Triage,00:15:01,00:15:06,-,00:15:01,00:15:05,~40-46s,start exact / end 1s short,
+2026,Oqw96jCOP7A,on-screen card + description,04,22,Exit EBL04,00:30:26,00:31:14,-,00:30:26,00:31:14,~47-53s,both exact,"prefix partially leaked: 'BL04'"
+2026,Oqw96jCOP7A,on-screen card + description,05,25,Bob's walkabout,00:02:07,00:02:12,-,00:02:07,00:02:11,~54-60s,start exact / end 1s short,
+2026,Oqw96jCOP7A,on-screen card + description,05,25,Slim Tim,00:40:12,00:40:40,-,00:40:12,00:40:40,~61-80s,both exact,"internal splice 00:40:25 -> 00:40:36"
+2026,l9RAhmPHM_A,on-screen card + description,03,18,Mk.4 early boarding,02:13:18,02:23:57,~,02:13:18,02:23:57,segment A,both exact,"~ = sampled range: 87 of 640 source-seconds present (13.6%) in 19 fragments"
+2026,l9RAhmPHM_A,on-screen card + description,05,28,False Cape study,02:51:01,02:51:32,~,02:51:01,02:51:32,segment B,both exact,"~ = sampled range: 13 of 32 source-seconds present (41%) in 3 fragments"

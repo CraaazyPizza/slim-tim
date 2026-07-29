@@ -1,0 +1,155 @@
+{
+ "stock_getty104161830": {
+  "lag1": {
+   "retention": 0.909,
+   "chance": 0.8075,
+   "excess": 0.1015
+  },
+  "lag2": {
+   "retention": 0.8925,
+   "chance": 0.8069,
+   "excess": 0.0856
+  },
+  "lag3": {
+   "retention": 0.8808,
+   "chance": 0.8047,
+   "excess": 0.0762
+  }
+ },
+ "stock_getty160602429": {
+  "lag1": {
+   "retention": 0.7976,
+   "chance": 0.5844,
+   "excess": 0.2132
+  },
+  "lag2": {
+   "retention": 0.6893,
+   "chance": 0.6034,
+   "excess": 0.0859
+  },
+  "lag3": {
+   "retention": 0.6036,
+   "chance": 0.5864,
+   "excess": 0.0172
+  }
+ },
+ "stock_istock146102427": {
+  "lag1": {
+   "retention": 0.3328,
+   "chance": 0.0312,
+   "excess": 0.3017
+  },
+  "lag2": {
+   "retention": 0.2701,
+   "chance": 0.0359,
+   "excess": 0.2342
+  },
+  "lag3": {
+   "retention": 0.2298,
+   "chance": 0.0376,
+   "excess": 0.1922
+  }
+ },
+ "2011_ZB788": {
+  "lag1": {
+   "retention": 0.8658,
+   "chance": 0.4563,
+   "excess": 0.4095
+  },
+  "lag2": {
+   "retention": 0.7196,
+   "chance": 0.4506,
+   "excess": 0.2691
+  },
+  "lag3": {
+   "retention": 0.6649,
+   "chance": 0.4478,
+   "excess": 0.2172
+  }
+ },
+ "2011_RsQCX": {
+  "lag1": {
+   "retention": 0.9193,
+   "chance": 0.2322,
+   "excess": 0.6871
+  },
+  "lag2": {
+   "retention": 0.7975,
+   "chance": 0.2435,
+   "excess": 0.5539
+  },
+  "lag3": {
+   "retention": 0.7462,
+   "chance": 0.2256,
+   "excess": 0.5207
+  }
+ },
+ "2011_a6TL": {
+  "lag1": {
+   "retention": 0.3997,
+   "chance": 0.0138,
+   "excess": 0.3859
+  },
+  "lag2": {
+   "retention": 0.1479,
+   "chance": 0.0133,
+   "excess": 0.1347
+  },
+  "lag3": {
+   "retention": 0.0986,
+   "chance": 0.0147,
+   "excess": 0.0839
+  }
+ },
+ "2026_v1": {
+  "lag1": {
+   "retention": 0.8959,
+   "chance": 0.2357,
+   "excess": 0.6603
+  },
+  "lag2": {
+   "retention": 0.8046,
+   "chance": 0.1903,
+   "excess": 0.6143
+  },
+  "lag3": {
+   "retention": 0.7444,
+   "chance": 0.3186,
+   "excess": 0.4258
+  }
+ },
+ "2026_v2": {
+  "lag1": {
+   "retention": 0.7447,
+   "chance": 0.0907,
+   "excess": 0.654
+  },
+  "lag2": {
+   "retention": 0.6397,
+   "chance": 0.0886,
+   "excess": 0.5511
+  },
+  "lag3": {
+   "retention": 0.5856,
+   "chance": 0.0925,
+   "excess": 0.493
+  }
+ },
+ "2026_v3": {
+  "lag1": {
+   "retention": 0.8972,
+   "chance": 0.072,
+   "excess": 0.8252
+  },
+  "lag2": {
+   "retention": 0.7164,
+   "chance": 0.0843,
+   "excess": 0.6321
+  },
+  "lag3": {
+   "retention": 0.5962,
+   "chance": 0.073,
+   "excess": 0.5232
+  }
+ }
+}

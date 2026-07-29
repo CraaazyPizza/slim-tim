@@ -1,0 +1,40 @@
+### PROMPT: Transcribe ALL text visible in this image exactly as it appears. Do not interpret or summarise. If part of it is illegible, write [?] for the illegible part.
+### IMAGE: figs/cyrillic/gem/A_line2_x3.png
+Based on a detailed, letter-by-letter analysis of the low-contrast, enhanced Cyrillic image `A_line2_x3.png`, here is the exact transcription of the visible text.
+
+### Verbatim Transcription
+
+```text
+препутуваме соб АЛЕ
+```
+
+---
+
+### Character-by-Character Analysis (Left to Right)
+
+#### Word 1: `препутуваме`
+1. **`п`** — Lowercase Cyrillic Pe (`п`), fully legible.
+2. **`р`** — Lowercase Cyrillic Er (`р`), fully legible.
+3. **`е`** — Lowercase Cyrillic Ie (`е`), fully legible.
+4. **`п`** — Lowercase Cyrillic Pe (`п`), fully legible.
+5. **`у`** — Lowercase Cyrillic U (`у`). The diagonal stroke extending below the baseline is visible, though slightly blurred. *(Alternative: `а`)*.
+6. **`т`** — Lowercase Cyrillic Te (`т`), visible as a flat horizontal cap-top with a single vertical center stem.
+7. **`у`** — Lowercase Cyrillic U (`у`), visible with a distinct descending tail on the right side.
+8. **`в`** — Lowercase Cyrillic Ve (`в`), fully legible rounded upper and lower loops.
+9. **`а`** — Lowercase Cyrillic A (`а`), visible as a rounded body with a right-hand stem.
+10. **`м`** — Lowercase Cyrillic Em (`м`), fully legible with distinct outer stems and center V-dip.
+11. **`е`** — Lowercase Cyrillic Ie (`е`), fully legible.
+
+*Space*
+
+#### Word 2: `соб`
+12. **`с`** — Lowercase Cyrillic Es (`с`), visible as a rounded, right-open curve.
+13. **`о`** — Lowercase Cyrillic O (`о`), visible as a closed circle.
+14. **`б`** — Lowercase Cyrillic Be (`б`), highly legible with its characteristic bottom loop and horizontal top-arm extending to the right.
+
+*Space*
+
+#### Run 3: `АЛЕ` (Capitals)
+15. **`А`** — Capital Cyrillic A (`А`), highly legible triangular shape.
+16. **`Л`** — Capital Cyrillic El (`Л`) or De (`Д`). It is a clear triangular capital-height glyph. *(Highly likely `Л` or `Д`)*.
+17. **`Е`** — Capital Cyrillic Ie (`Е`), visible as a vertical stem with top, middle, and bottom horizontal arms extending right.

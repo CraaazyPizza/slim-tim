@@ -1,0 +1,65 @@
+stage1 234 faces in 217s
+face                                           r  size  blur
+Nimbus Mono PS Bold                       0.1408    96   3.0
+Nimbus Mono PS Bold Italic                0.1349    96   3.0
+Liberation Mono Bold                      0.1336    96   4.5
+Cousine Bold                              0.1331    96   4.5
+Nimbus Mono PS Regular                    0.1329    96   4.5
+DejaVu Sans Mono Bold Oblique             0.1272    96   4.5
+STIXGeneral Bold                          0.1270   106   3.0
+STIX Bold                                 0.1270   106   3.0
+Liberation Serif Bold                     0.1262   106   3.0
+FreeMono Regular                          0.1249    96   4.5
+Liberation Mono Regular                   0.1248    96   4.5
+Tinos Bold                                0.1246   106   4.5
+FreeMono Bold                             0.1245    96   3.0
+Cousine Regular                           0.1238    96   4.5
+FreeMono Oblique                          0.1218    96   4.5
+Liberation Mono Italic                    0.1172    96   4.5
+Liberation Mono Bold Italic               0.1165    96   4.5
+Cousine Bold Italic                       0.1163    96   4.5
+Go Mono Bold                              0.1161    96   4.5
+Cousine Italic                            0.1159    96   4.5
+URW Bookman Demi Italic                   0.1157    87   4.5
+Go Mono Regular                           0.1145    96   4.5
+Linux Libertine O Bold                    0.1144    98   3.0
+P052 Roman                                0.1141   102   4.5
+FreeSerif Bold Italic                     0.1139   114   3.0
+DejaVu Sans Mono Bold                     0.1138    96   4.5
+DejaVu Sans Mono Book                     0.1134    96   4.5
+Nimbus Mono PS Italic                     0.1124    96   4.5
+Noto Mono Regular                         0.1116    96   4.5
+DejaVu Sans Mono Oblique                  0.1104    96   4.5
+Unifont Regular                           0.1067   115   6.0
+Nimbus Roman Bold                         0.1050   106   3.0
+FreeSerif Italic                          0.1042   119   3.0
+Noto Sans Mono Bold                       0.1037    96   4.5
+EB Garamond 12 Italic                     0.0995   126   6.0
+Noto Sans Mono Regular                    0.0988    96   4.5
+P052 Bold Italic                          0.0977   109   3.0
+Go Mono Bold Italic                       0.0976    96   4.5
+FreeMono Bold Oblique                     0.0963    96   3.0
+Linux Biolinum O Bold                     0.0949    97   3.0
+
+===== f983 : fine grid, top 45 faces =====
+face                                           r  size  blur      x   base
+FreeSerif Bold Italic                     0.1534   116   4.0   1050    970
+Linux Libertine O Bold                    0.1455   100   5.0   1051    967
+URW Bookman Demi Italic                   0.1438    89   4.0   1018    966
+Nimbus Mono PS Bold                       0.1410    96   3.5   1027    967
+Noto Serif Display Bold Italic            0.1371    94   3.0   1043    970
+Liberation Serif Bold                     0.1364   108   3.5   1047    970
+Tinos Bold                                0.1355   108   3.5   1047    970
+Nimbus Mono PS Bold Italic                0.1352    96   3.5   1028    967
+Liberation Mono Bold                      0.1332    96   5.0   1027    970
+Nimbus Mono PS Regular                    0.1329    96   4.0   1027    967
+Cousine Bold                              0.1326    96   4.0   1027    970
+FreeSerif Italic                          0.1273   123   5.0   1048    970
+STIXGeneral Bold                          0.1271   106   3.5   1049    969
+STIX Bold                                 0.1271   106   3.5   1049    969
+DejaVu Sans Mono Bold Oblique             0.1267    96   5.0   1026    970
+Liberation Mono Regular                   0.1261    96   5.0    999    970
+Cousine Regular                           0.1250    96   5.0    999    970
+FreeMono Regular                          0.1249    96   4.0   1028    967
+FreeMono Bold                             0.1246    96   3.5   1027    968
+Noto Serif Bold Italic                    0.1242    94   2.5   1016    970

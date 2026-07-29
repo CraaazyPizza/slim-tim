@@ -1,0 +1,68 @@
+name: I see something in a frame
+description: Report something visible in specific frames of a specific video
+labels: ["frame-report"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A frame number is what makes this checkable. Without one we cannot
+        confirm or refute it, and it will sit unresolved — which is a worse
+        outcome for you than for us.
+
+  - type: dropdown
+    id: video
+    attributes:
+      label: Which video
+      options:
+        - "OpSTlDJWFFI — qtecqot, May 2026"
+        - "Oqw96jCOP7A — qtecqot, June 2026"
+        - "l9RAhmPHM_A — qtecqot, July 2026"
+        - "ZB788PtqQvg — ivan0135, 2011"
+        - "RsQCXN4o4Ps — ivan0135, 2011"
+        - "Xju_CY5ZESA — ivan0135, 2011"
+        - "a6TLGkrfNKI — ivan0135, 2011"
+    validations:
+      required: true
+
+  - type: input
+    id: frames
+    attributes:
+      label: Frame number, or range
+      description: "A single frame or a range, e.g. 1437 or 2971-2974"
+      placeholder: "2971-2974"
+    validations:
+      required: true
+
+  - type: textarea
+    id: what
+    attributes:
+      label: What you see
+      description: Describe it plainly. Where in the frame, roughly how large.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: unmodified
+    attributes:
+      label: Did you look at an unmodified frame?
+      description: >
+        Not a gate — enhanced images are legitimate and we publish them. But
+        several disputed calls in this project came from contrast-stretched
+        crops, so we need to know which you were looking at.
+      options:
+        - "Yes — unmodified frame"
+        - "Enhanced, averaged, or contrast-adjusted"
+        - "A screenshot from YouTube playback"
+        - "Not sure"
+    validations:
+      required: true
+
+  - type: textarea
+    id: how
+    attributes:
+      label: How you found it
+      description: >
+        By eye while scrubbing? An automated pass? A model? All are fine and
+        each fails differently, which is why we ask. The four-frame insert at
+        2971-2974 was found by eye by a viewer after automated passes missed it
+        for two months.

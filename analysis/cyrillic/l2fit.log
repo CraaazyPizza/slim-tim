@@ -1,0 +1,16 @@
+f983    best so far: r=0.5953 Nimbus Sans Bold cap 46 kx 1.56 blur 3.2 dx -12 dy 0
+best5   best so far: r=0.6936 Liberation Sans Bold cap 48 kx 1.41 blur 3.2 dx -11 dy 4
+{
+ "font": "Liberation Sans Bold",
+ "cap": 48,
+ "size": 70,
+ "kx": 1.41,
+ "blur": 3.2,
+ "r": 0.6935645576572314,
+ "xleft": 436.64,
+ "baseline": 996.0,
+ "cell_x0": 1536.21,
+ "cell_x1": 1607.4810937500001,
+ "inkw": 1095.57,
+ "src": "best5"
+}

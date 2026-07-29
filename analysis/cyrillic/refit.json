@@ -1,0 +1,260 @@
+{
+ "f983": [
+  {
+   "font": "Nimbus Sans Bold",
+   "r": 0.7360800481197106,
+   "cap": 54,
+   "kx": 1.33,
+   "new": false
+  },
+  {
+   "font": "Arimo Bold",
+   "r": 0.7270620047781502,
+   "cap": 52,
+   "kx": 1.3,
+   "new": false
+  },
+  {
+   "font": "Go Bold",
+   "r": 0.7196954802557325,
+   "cap": 54,
+   "kx": 1.33,
+   "new": false
+  },
+  {
+   "font": "Roboto Medium",
+   "r": 0.7183092911214467,
+   "cap": 54,
+   "kx": 1.36,
+   "new": false
+  },
+  {
+   "font": "Inter w750 Regular",
+   "r": 0.7177945574596727,
+   "cap": 56,
+   "kx": 1.27,
+   "new": true
+  },
+  {
+   "font": "Liberation Sans Bold",
+   "r": 0.7055637651189529,
+   "cap": 56,
+   "kx": 1.21,
+   "new": false
+  },
+  {
+   "font": "Rubik w575 Regular",
+   "r": 0.6896770081532105,
+   "cap": 50,
+   "kx": 1.39,
+   "new": true
+  },
+  {
+   "font": "Montserrat w675 Regular",
+   "r": 0.6659148777708292,
+   "cap": 54,
+   "kx": 1.18,
+   "new": true
+  },
+  {
+   "font": "PT Sans Bold",
+   "r": 0.6609469255680802,
+   "cap": 54,
+   "kx": 1.45,
+   "new": true
+  },
+  {
+   "font": "DejaVu Sans Bold",
+   "r": 0.6216574441393967,
+   "cap": 54,
+   "kx": 1.12,
+   "new": false
+  },
+  {
+   "font": "GolosText w625 Regular",
+   "r": 0.5805748762631839,
+   "cap": 50,
+   "kx": 1.39,
+   "new": true
+  },
+  {
+   "font": "Fira Sans Bold",
+   "r": 0.5778420838404342,
+   "cap": 54,
+   "kx": 1.39,
+   "new": true
+  }
+ ],
+ "best5": [
+  {
+   "font": "Nimbus Sans Bold",
+   "r": 0.7645063540022421,
+   "cap": 50,
+   "kx": 1.45,
+   "new": false
+  },
+  {
+   "font": "Arimo Bold",
+   "r": 0.7473916382755453,
+   "cap": 52,
+   "kx": 1.3,
+   "new": false
+  },
+  {
+   "font": "Go Bold",
+   "r": 0.7472824990836658,
+   "cap": 54,
+   "kx": 1.33,
+   "new": false
+  },
+  {
+   "font": "Roboto Medium",
+   "r": 0.7397002211808763,
+   "cap": 54,
+   "kx": 1.36,
+   "new": false
+  },
+  {
+   "font": "Inter w750 Regular",
+   "r": 0.7387891574602593,
+   "cap": 56,
+   "kx": 1.27,
+   "new": true
+  },
+  {
+   "font": "Liberation Sans Bold",
+   "r": 0.7318616065978026,
+   "cap": 56,
+   "kx": 1.21,
+   "new": false
+  },
+  {
+   "font": "Rubik w575 Regular",
+   "r": 0.7103750391766069,
+   "cap": 50,
+   "kx": 1.39,
+   "new": true
+  },
+  {
+   "font": "Montserrat w675 Regular",
+   "r": 0.6826081687655767,
+   "cap": 54,
+   "kx": 1.18,
+   "new": true
+  },
+  {
+   "font": "PT Sans Bold",
+   "r": 0.682369633684908,
+   "cap": 52,
+   "kx": 1.51,
+   "new": true
+  },
+  {
+   "font": "DejaVu Sans Bold",
+   "r": 0.6431422860433263,
+   "cap": 54,
+   "kx": 1.12,
+   "new": false
+  },
+  {
+   "font": "GolosText w625 Regular",
+   "r": 0.5901063372124989,
+   "cap": 50,
+   "kx": 1.39,
+   "new": true
+  },
+  {
+   "font": "Fira Sans Bold",
+   "r": 0.5899073179292454,
+   "cap": 54,
+   "kx": 1.39,
+   "new": true
+  }
+ ],
+ "NULL1": [
+  {
+   "font": "Fira Sans Bold",
+   "r": 0.07647127407534354,
+   "cap": 56,
+   "kx": 1.33,
+   "new": true
+  },
+  {
+   "font": "GolosText w625 Regular",
+   "r": 0.07623893438431856,
+   "cap": 56,
+   "kx": 1.15,
+   "new": true
+  },
+  {
+   "font": "DejaVu Sans Bold",
+   "r": 0.07557191919287604,
+   "cap": 56,
+   "kx": 1.15,
+   "new": false
+  },
+  {
+   "font": "Rubik w575 Regular",
+   "r": 0.0752728457672415,
+   "cap": 52,
+   "kx": 1.36,
+   "new": true
+  },
+  {
+   "font": "Liberation Sans Bold",
+   "r": 0.07380988287590466,
+   "cap": 54,
+   "kx": 1.27,
+   "new": false
+  },
+  {
+   "font": "Arimo Bold",
+   "r": 0.07162840360163995,
+   "cap": 56,
+   "kx": 1.54,
+   "new": false
+  },
+  {
+   "font": "Inter w750 Regular",
+   "r": 0.07130720140767291,
+   "cap": 52,
+   "kx": 1.39,
+   "new": true
+  },
+  {
+   "font": "Montserrat w675 Regular",
+   "r": 0.06986857244467357,
+   "cap": 54,
+   "kx": 1.18,
+   "new": true
+  },
+  {
+   "font": "PT Sans Bold",
+   "r": 0.06915907829318614,
+   "cap": 56,
+   "kx": 1.54,
+   "new": true
+  },
+  {
+   "font": "Roboto Medium",
+   "r": 0.06908477945453087,
+   "cap": 56,
+   "kx": 1.36,
+   "new": false
+  },
+  {
+   "font": "Nimbus Sans Bold",
+   "r": 0.06822157262402023,
+   "cap": 56,
+   "kx": 1.3,
+   "new": false
+  },
+  {
+   "font": "Go Bold",
+   "r": 0.06609772230281126,
+   "cap": 52,
+   "kx": 1.42,
+   "new": false
+  }
+ ]
+}

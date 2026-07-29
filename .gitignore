@@ -1,0 +1,43 @@
+# Credentials. Never.
+cookies.txt
+cookies_yt.txt
+www.youtube.com_cookies.txt
+*cookie*.txt
+*token*.txt
+*.pem
+*.key
+.env
+.env.*
+
+# The back room: drafts, strategy, notes to self.
+_workshop/
+
+# Moved-out material: dead ends, raw session dumps, superseded generations, and
+# ~15 GB of intermediate caches. Kept on the working machine, never published.
+archive/
+
+# Extracted frames regenerate from the source videos with one command — see
+# frames/README.md. The seven frames the documents cite directly are committed
+# anyway; git keeps tracking files once added, so these rules do not drop them.
+frames/*/*.png
+frames/*/*.jpg
+frames/*/*.webp
+frames/.ffmpeg-version
+
+# Frames from the higher-bitrate AVC copy. Same reasoning, and kept in a separate
+# tree because they are NOT byte-comparable to the published frames.
+frames-avc/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS and editor. The last also catches Office lock files, which carry the
+# registered user's real name inside them.
+.DS_Store
+Thumbs.db
+~$*
+*.swp

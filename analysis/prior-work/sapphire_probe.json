@@ -1,0 +1,486 @@
+[
+ {
+  "video": "2026-v1",
+  "fps": 29.97,
+  "frames": 2998,
+  "long_segments": 5,
+  "flicker": [
+   {
+    "peak_hz": 0.582,
+    "ratio_to_median": 43754.5,
+    "seg": [
+     10,
+     916
+    ],
+    "rms_DN": 1.864
+   },
+   {
+    "peak_hz": 1.087,
+    "ratio_to_median": 3225.4,
+    "seg": [
+     2680,
+     2903
+    ],
+    "rms_DN": 2.843
+   },
+   {
+    "peak_hz": 0.465,
+    "ratio_to_median": 529.2,
+    "seg": [
+     1048,
+     1207
+    ],
+    "rms_DN": 0.777
+   }
+  ],
+  "shake": {
+   "n": 1452,
+   "rms_dx_px": 0.706,
+   "rms_dy_px": 0.441,
+   "frac_zero_motion": 0.945,
+   "dy_spectrum": {
+    "peak_hz": 1.651,
+    "ratio_to_median": 8.2
+   }
+  },
+  "vignette_radial_profile": [
+   181.3,
+   181.1,
+   181.0,
+   180.9,
+   180.9,
+   180.6,
+   172.2,
+   138.2,
+   107.8,
+   75.4
+  ],
+  "vignette_edge_over_center": 0.595,
+  "grain_channel_corr": {
+   "RG": 0.947,
+   "RB": 0.778,
+   "GB": 0.877
+  },
+  "transient_marks": {
+   "sampled_frames": 333,
+   "dark_px": 126128,
+   "bright_px": 25852,
+   "print_negative_ratio": 4.88
+  },
+  "defocus": [
+   {
+    "peak_hz": 0.718,
+    "ratio_to_median": 10257.4
+   },
+   {
+    "peak_hz": 0.599,
+    "ratio_to_median": 286.0
+   }
+  ]
+ },
+ {
+  "video": "2026-v2",
+  "fps": 29.97,
+  "frames": 2503,
+  "long_segments": 10,
+  "flicker": [
+   {
+    "peak_hz": 0.825,
+    "ratio_to_median": 4972.0,
+    "seg": [
+     2283,
+     2422
+    ],
+    "rms_DN": 8.388
+   },
+   {
+    "peak_hz": 0.908,
+    "ratio_to_median": 4733.1,
+    "seg": [
+     2095,
+     2224
+    ],
+    "rms_DN": 8.597
+   },
+   {
+    "peak_hz": 0.504,
+    "ratio_to_median": 3905.0,
+    "seg": [
+     10,
+     456
+    ],
+    "rms_DN": 0.536
+   }
+  ],
+  "shake": {
+   "n": 1911,
+   "rms_dx_px": 1.118,
+   "rms_dy_px": 1.659,
+   "frac_zero_motion": 0.857,
+   "dy_spectrum": {
+    "peak_hz": 0.376,
+    "ratio_to_median": 15.5
+   }
+  },
+  "vignette_radial_profile": [
+   126.2,
+   133.5,
+   142.1,
+   145.2,
+   143.1,
+   136.9,
+   124.8,
+   92.5,
+   79.0,
+   53.0
+  ],
+  "vignette_edge_over_center": 0.626,
+  "grain_channel_corr": {
+   "RG": 0.997,
+   "RB": 0.995,
+   "GB": 0.997
+  },
+  "transient_marks": {
+   "sampled_frames": 313,
+   "dark_px": 43195,
+   "bright_px": 17971,
+   "print_negative_ratio": 2.4
+  },
+  "defocus": [
+   {
+    "peak_hz": 0.825,
+    "ratio_to_median": 3359.3
+   },
+   {
+    "peak_hz": 0.504,
+    "ratio_to_median": 2203.1
+   }
+  ]
+ },
+ {
+  "video": "2026-v3",
+  "fps": 29.97,
+  "frames": 4395,
+  "long_segments": 15,
+  "flicker": [
+   {
+    "peak_hz": 0.36,
+    "ratio_to_median": 944.6,
+    "seg": [
+     10,
+     456
+    ],
+    "rms_DN": 0.16
+   },
+   {
+    "peak_hz": 0.737,
+    "ratio_to_median": 323.5,
+    "seg": [
+     2673,
+     2947
+    ],
+    "rms_DN": 0.322
+   },
+   {
+    "peak_hz": 0.922,
+    "ratio_to_median": 305.2,
+    "seg": [
+     1098,
+     1453
+    ],
+    "rms_DN": 0.631
+   }
+  ],
+  "shake": {
+   "n": 3492,
+   "rms_dx_px": 1.643,
+   "rms_dy_px": 0.928,
+   "frac_zero_motion": 0.809,
+   "dy_spectrum": {
+    "peak_hz": 10.737,
+    "ratio_to_median": 17.1
+   }
+  },
+  "vignette_radial_profile": [
+   155.2,
+   142.9,
+   154.3,
+   156.3,
+   148.0,
+   136.4,
+   120.6,
+   100.1,
+   80.0,
+   50.4
+  ],
+  "vignette_edge_over_center": 0.515,
+  "grain_channel_corr": {
+   "RG": 0.997,
+   "RB": 0.996,
+   "GB": 0.997
+  },
+  "transient_marks": {
+   "sampled_frames": 314,
+   "dark_px": 20132,
+   "bright_px": 28984,
+   "print_negative_ratio": 0.69
+  },
+  "defocus": [
+   {
+    "peak_hz": 0.36,
+    "ratio_to_median": 955.2
+   },
+   {
+    "peak_hz": 0.846,
+    "ratio_to_median": 130.3
+   }
+  ]
+ },
+ {
+  "video": "2011-ZB788",
+  "fps": 25.0,
+  "frames": 1188,
+  "long_segments": 0,
+  "flicker": [],
+  "vignette_radial_profile": [
+   205.0,
+   201.9,
+   198.0,
+   197.1,
+   196.1,
+   193.8,
+   190.3,
+   162.1,
+   123.9,
+   92.1
+  ],
+  "vignette_edge_over_center": 0.604,
+  "grain_channel_corr": {
+   "RG": 0.997,
+   "RB": 0.996,
+   "GB": 0.995
+  },
+  "transient_marks": {
+   "sampled_frames": 395,
+   "dark_px": 5330,
+   "bright_px": 11578,
+   "print_negative_ratio": 0.46
+  },
+  "defocus": []
+ },
+ {
+  "video": "2011-RsQCX",
+  "fps": 25.0,
+  "frames": 1500,
+  "long_segments": 5,
+  "flicker": [
+   {
+    "peak_hz": 0.651,
+    "ratio_to_median": 14606.2,
+    "seg": [
+     0,
+     606
+    ],
+    "rms_DN": 2.53
+   },
+   {
+    "peak_hz": 0.425,
+    "ratio_to_median": 82.2,
+    "seg": [
+     968,
+     1292
+    ],
+    "rms_DN": 0.961
+   },
+   {
+    "peak_hz": 2.812,
+    "ratio_to_median": 45.6,
+    "seg": [
+     1295,
+     1485
+    ],
+    "rms_DN": 1.493
+   }
+  ],
+  "shake": {
+   "n": 1219,
+   "rms_dx_px": 0.176,
+   "rms_dy_px": 1.03,
+   "frac_zero_motion": 0.944,
+   "dy_spectrum": {
+    "peak_hz": 11.321,
+    "ratio_to_median": 86.1
+   }
+  },
+  "vignette_radial_profile": [
+   120.1,
+   115.5,
+   97.9,
+   92.0,
+   101.2,
+   108.7,
+   109.7,
+   91.3,
+   60.4,
+   41.7
+  ],
+  "vignette_edge_over_center": 0.503,
+  "grain_channel_corr": {
+   "RG": 0.987,
+   "RB": 0.982,
+   "GB": 0.981
+  },
+  "transient_marks": {
+   "sampled_frames": 300,
+   "dark_px": 14974,
+   "bright_px": 16510,
+   "print_negative_ratio": 0.91
+  },
+  "defocus": [
+   {
+    "peak_hz": 0.564,
+    "ratio_to_median": 10388.7
+   },
+   {
+    "peak_hz": 2.273,
+    "ratio_to_median": 40.9
+   }
+  ]
+ },
+ {
+  "video": "2011-Xju",
+  "fps": 25.0,
+  "frames": 2598,
+  "long_segments": 1,
+  "flicker": [
+   {
+    "peak_hz": 0.944,
+    "ratio_to_median": 152.8,
+    "seg": [
+     0,
+     2598
+    ],
+    "rms_DN": 0.231
+   }
+  ],
+  "shake": {
+   "n": 399,
+   "rms_dx_px": 0.0,
+   "rms_dy_px": 0.0,
+   "frac_zero_motion": 1.0,
+   "dy_spectrum": {
+    "peak_hz": 0.313,
+    "ratio_to_median": 0.0
+   }
+  },
+  "vignette_radial_profile": [
+   48.3,
+   65.0,
+   65.2,
+   75.6,
+   77.9,
+   75.7,
+   56.7,
+   45.8,
+   40.0,
+   27.7
+  ],
+  "vignette_edge_over_center": 0.828,
+  "grain_channel_corr": {
+   "RG": 0.957,
+   "RB": 0.907,
+   "GB": 0.907
+  },
+  "transient_marks": {
+   "sampled_frames": 325,
+   "dark_px": 9981,
+   "bright_px": 10508,
+   "print_negative_ratio": 0.95
+  },
+  "defocus": [
+   {
+    "peak_hz": 0.643,
+    "ratio_to_median": 129.4
+   }
+  ]
+ },
+ {
+  "video": "2011-a6TL",
+  "fps": 25.0,
+  "frames": 2337,
+  "long_segments": 7,
+  "flicker": [
+   {
+    "peak_hz": 0.518,
+    "ratio_to_median": 971.1,
+    "seg": [
+     518,
+     886
+    ],
+    "rms_DN": 0.672
+   },
+   {
+    "peak_hz": 0.412,
+    "ratio_to_median": 713.5,
+    "seg": [
+     1360,
+     1815
+    ],
+    "rms_DN": 0.407
+   },
+   {
+    "peak_hz": 0.45,
+    "ratio_to_median": 295.9,
+    "seg": [
+     886,
+     1360
+    ],
+    "rms_DN": 0.382
+   }
+  ],
+  "shake": {
+   "n": 2056,
+   "rms_dx_px": 0.852,
+   "rms_dy_px": 0.0,
+   "frac_zero_motion": 0.995,
+   "dy_spectrum": {
+    "peak_hz": 0.304,
+    "ratio_to_median": 0.0
+   }
+  },
+  "vignette_radial_profile": [
+   88.6,
+   88.9,
+   89.8,
+   90.1,
+   89.6,
+   89.0,
+   87.8,
+   86.0,
+   84.4,
+   83.6
+  ],
+  "vignette_edge_over_center": 0.953,
+  "grain_channel_corr": {
+   "RG": 0.993,
+   "RB": 0.94,
+   "GB": 0.936
+  },
+  "transient_marks": {
+   "sampled_frames": 334,
+   "dark_px": 11413,
+   "bright_px": 10891,
+   "print_negative_ratio": 1.05
+  },
+  "defocus": [
+   {
+    "peak_hz": 0.518,
+    "ratio_to_median": 461.7
+   },
+   {
+    "peak_hz": 0.562,
+    "ratio_to_median": 243.3
+   }
+  ]
+ }
+]

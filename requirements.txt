@@ -1,0 +1,14 @@
+# Exactly what analysis/ imports, at the versions that produced the published
+# numbers. Same list the Codespace image installs, so a local run and a Codespace
+# run are the same environment.
+#
+#   python3.12 -m venv .venv && . .venv/bin/activate && pip install -r requirements.txt
+#
+# Or just run bin/setup, which does that and checks your ffmpeg.
+numpy==2.4.6
+pillow==12.3.0
+scipy==1.18.0
+matplotlib==3.11.0
+opencv-python-headless==5.0.0.93
+scikit-image==0.26.0
+fonttools==4.63.0

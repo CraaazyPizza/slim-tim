@@ -1,0 +1,49 @@
+name: Something here is wrong
+description: Report an error in a published claim
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The most valuable contribution to this repo. Two of our own headline
+        claims were withdrawn this way. If you are right, this lands in
+        `CORRECTIONS.md` with the reasoning intact and your finding credited.
+
+  - type: input
+    id: claim
+    attributes:
+      label: Which claim
+      description: "Quote it, or give the claim ID and section, e.g. audio-copy / clean-findings.md §3"
+    validations:
+      required: true
+
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong with it
+    validations:
+      required: true
+
+  - type: textarea
+    id: measured
+    attributes:
+      label: What you measured
+      description: >
+        Numbers if you have them, and how you got them. If you ran a verify/
+        script, paste the output and include your ffmpeg version — decoding with
+        a different build can legitimately change bytes, and that is worth
+        distinguishing from a real disagreement.
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of error
+      options:
+        - "The number is wrong"
+        - "The number is right, the interpretation is not"
+        - "An absence is claimed without a detection floor"
+        - "It does not replicate when I run it"
+        - "Internal contradiction between two documents"
+        - "Something else"
+    validations:
+      required: true

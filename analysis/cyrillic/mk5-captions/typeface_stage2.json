@@ -1,0 +1,167 @@
+[
+ {
+  "font": "DejaVu Sans Book",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+  "r": 0.6462745974724844,
+  "cap": 72,
+  "size": 95,
+  "kx": 1.0,
+  "sigma": 3.5,
+  "dy": 1,
+  "dx": -25
+ },
+ {
+  "font": "DejaVu Sans Condensed,Book",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed.ttf",
+  "r": 0.6414688856986673,
+  "cap": 81,
+  "size": 106,
+  "kx": 1.0,
+  "sigma": 3.5,
+  "dy": 0,
+  "dx": -25
+ },
+ {
+  "font": "WenQuanYi Zen Hei Mono Regular",
+  "file": "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
+  "r": 0.6127149264899509,
+  "cap": 72,
+  "size": 102,
+  "kx": 1.0,
+  "sigma": 3.5,
+  "dy": 3,
+  "dx": -23
+ },
+ {
+  "font": "WenQuanYi Zen Hei Sharp Regular",
+  "file": "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
+  "r": 0.6127149264899509,
+  "cap": 72,
+  "size": 102,
+  "kx": 1.0,
+  "sigma": 3.5,
+  "dy": 3,
+  "dx": -23
+ },
+ {
+  "font": "WenQuanYi Zen Hei Regular",
+  "file": "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
+  "r": 0.6127149264899509,
+  "cap": 72,
+  "size": 102,
+  "kx": 1.0,
+  "sigma": 3.5,
+  "dy": 3,
+  "dx": -23
+ },
+ {
+  "font": "DejaVu Sans Condensed Oblique,Oblique",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-Oblique.ttf",
+  "r": 0.5887567236420435,
+  "cap": 81,
+  "size": 106,
+  "kx": 1.0,
+  "sigma": 3.5,
+  "dy": -1,
+  "dx": -25
+ },
+ {
+  "font": "DejaVu Sans Oblique",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSans-Oblique.ttf",
+  "r": 0.5823972155840048,
+  "cap": 81,
+  "size": 106,
+  "kx": 0.9,
+  "sigma": 3.5,
+  "dy": -1,
+  "dx": -25
+ },
+ {
+  "font": "DejaVu Sans Condensed Bold,Bold",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-Bold.ttf",
+  "r": 0.5676730267760799,
+  "cap": 81,
+  "size": 106,
+  "kx": 0.9,
+  "sigma": 3.5,
+  "dy": 0,
+  "dx": -25
+ },
+ {
+  "font": "FreeSans Bold,получерен,negreta,tučné,fed,Fett,Έντονα,Negrita,Lihavoitu,Gras,Félkövér,Grassetto,Vet,Halvfet,Pogrubiony,Negrito,gros,Полужирный,Fet,Kalın,huruf tebal,жирний,Krepko,treknraksts,pusjuodis,đậm,Lodia,धृष्ट",
+  "file": "/usr/share/fonts/opentype/freefont/FreeSansBold.otf",
+  "r": 0.5469332466742475,
+  "cap": 84,
+  "size": 111,
+  "kx": 0.95,
+  "sigma": 3.5,
+  "dy": 4,
+  "dx": -25
+ },
+ {
+  "font": "Nimbus Sans Bold",
+  "file": "/usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf",
+  "r": 0.5367306852273326,
+  "cap": 81,
+  "size": 108,
+  "kx": 1.0,
+  "sigma": 3.5,
+  "dy": 4,
+  "dx": -25
+ },
+ {
+  "font": "Liberation Sans Bold Italic",
+  "file": "/usr/share/fonts/truetype/liberation/LiberationSans-BoldItalic.ttf",
+  "r": 0.5348229138265357,
+  "cap": 72,
+  "size": 102,
+  "kx": 1.05,
+  "sigma": 3.5,
+  "dy": 3,
+  "dx": -25
+ },
+ {
+  "font": "DejaVu Sans Condensed Bold Oblique,Bold Oblique",
+  "file": "/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-BoldOblique.ttf",
+  "r": 0.5328501227420022,
+  "cap": 87,
+  "size": 114,
+  "kx": 0.85,
+  "sigma": 3.5,
+  "dy": -1,
+  "dx": -25
+ },
+ {
+  "font": "Arimo Bold Italic",
+  "file": "/usr/share/fonts/truetype/croscore/Arimo-BoldItalic.ttf",
+  "r": 0.5325899413366,
+  "cap": 72,
+  "size": 102,
+  "kx": 1.05,
+  "sigma": 3.5,
+  "dy": 3,
+  "dx": -25
+ },
+ {
+  "font": "Go Bold",
+  "file": "/usr/share/fonts/fonts-go/Go-Bold.ttf",
+  "r": 0.5155603033667192,
+  "cap": 78,
+  "size": 101,
+  "kx": 1.05,
+  "sigma": 3.5,
+  "dy": 1,
+  "dx": -25
+ },
+ {
+  "font": "Arimo Bold",
+  "file": "/usr/share/fonts/truetype/croscore/Arimo-Bold.ttf",
+  "r": 0.4640260659941822,
+  "cap": 72,
+  "size": 102,
+  "kx": 1.05,
+  "sigma": 3.5,
+  "dy": 4,
+  "dx": -25
+ }
+]

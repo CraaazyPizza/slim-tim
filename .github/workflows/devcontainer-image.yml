@@ -1,0 +1,75 @@
+name: Build devcontainer image
+
+# Builds .devcontainer/Dockerfile and publishes it to this repo's GitHub Container
+# Registry, so a Codespace can pull a ready-made image instead of building one.
+#
+# Why this exists: Codespaces "prebuilds" do the same job slightly faster, but their
+# template storage draws on the repo owner's monthly included Codespaces storage
+# (15 GB-month on GitHub Free), continuously, and separately for every region the
+# prebuild is published to. Published to all regions, a ~2.5 GB image would consume
+# most of that allowance and eventually block the owner's own codespaces.
+#
+# Actions minutes and GHCR storage are free and unmetered for public repositories, so
+# this route touches that quota not at all, works in every region, and still saves the
+# visitor the apt + pip + npm build — they wait for a pull instead.
+#
+# To switch a Codespace over to the published image, replace
+#     "build": { "dockerfile": "Dockerfile" }
+# in .devcontainer/devcontainer.json with
+#     "image": "ghcr.io/craaazypizza/slim-tim-devcontainer:latest"
+# Do that only AFTER this workflow has run once and the package is set to public —
+# Codespaces cannot pull a private package anonymously, and it fails the whole
+# create rather than falling back to a build.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.devcontainer/**'
+      - '.github/workflows/devcontainer-image.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: write
+
+concurrency:
+  group: devcontainer-image
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Log in to GHCR
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Lower-case the image name
+        id: name
+        run: echo "image=ghcr.io/$(echo '${{ github.repository }}' | tr '[:upper:]' '[:lower:]')-devcontainer" >> "$GITHUB_OUTPUT"
+
+      - name: Build and push
+        uses: docker/build-push-action@v6
+        with:
+          context: .devcontainer
+          file: .devcontainer/Dockerfile
+          push: true
+          tags: |
+            ${{ steps.name.outputs.image }}:latest
+            ${{ steps.name.outputs.image }}:${{ github.sha }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      - name: Report what was built
+        run: |
+          echo "Pushed ${{ steps.name.outputs.image }}:latest"
+          echo
+          echo "One-time step, in the repo's Packages settings:"
+          echo "  set this package's visibility to Public,"
+          echo "  otherwise Codespaces cannot pull it anonymously."

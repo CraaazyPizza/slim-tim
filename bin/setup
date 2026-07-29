@@ -1,0 +1,79 @@
+#!/usr/bin/env bash
+# Local setup, for anyone who would rather clone the repo than use a Codespace.
+#
+#   git clone https://github.com/CraaazyPizza/slim-tim.git
+#   cd slim-tim && bin/setup
+#
+# Creates .venv, installs the pinned dependencies, and tells you whether your ffmpeg
+# will reproduce the published frames. Safe to re-run. Changes nothing outside .venv.
+set -euo pipefail
+cd "$(dirname "$0")/.."
+
+say() { printf '%s\n' "$*"; }
+warn() { printf '\033[33m%s\033[0m\n' "$*"; }
+ok() { printf '\033[32m%s\033[0m\n' "$*"; }
+
+# --- Python -----------------------------------------------------------------
+PY=""
+for c in python3.12 python3.13 python3.11 python3; do
+  command -v "$c" >/dev/null 2>&1 || continue
+  v=$("$c" -c 'import sys; print("%d.%d" % sys.version_info[:2])')
+  case "$v" in 3.1[1-9]|3.[2-9]*) PY="$c"; break ;; esac
+done
+if [ -z "$PY" ]; then
+  warn "No Python 3.11+ found. The pinned numpy/scipy versions need it."
+  exit 1
+fi
+say "Python: $PY ($($PY -c 'import sys;print(sys.version.split()[0])'))"
+
+if [ ! -d .venv ]; then
+  say "Creating .venv ..."
+  "$PY" -m venv .venv
+fi
+# shellcheck disable=SC1091
+. .venv/bin/activate
+say "Installing pinned dependencies ..."
+python -m pip install --quiet --upgrade pip
+python -m pip install --quiet -r requirements.txt
+ok "Dependencies installed."
+
+# --- ffmpeg -----------------------------------------------------------------
+say ""
+if ! command -v ffmpeg >/dev/null 2>&1; then
+  warn "ffmpeg is not installed. You need it for anything touching frames or audio."
+  say  "  Debian/Ubuntu : sudo apt install ffmpeg"
+  say  "  macOS         : brew install ffmpeg"
+else
+  ver=$(ffmpeg -version | head -1 | sed -E 's/^ffmpeg version ([^ ]+).*/\1/')
+  say "ffmpeg: $ver"
+  case "$ver" in
+    4.4.2*) ok "  Matches the reference build. Your frames will be byte-identical." ;;
+    *)      warn "  Not 4.4.2 — the build that produced the published frames."
+            say  "  Your frames will be visually identical but may differ in bytes:"
+            say  "  ffmpeg 7.x writes an extra cICP PNG chunk, 16 bytes per frame."
+            say  "  Do not read meaning into a small hash or pixel difference. Details"
+            say  "  in frames/README.md. The Codespace pins 4.4.2 if you want an exact"
+            say  "  match without installing anything." ;;
+  esac
+fi
+
+# --- optional extras --------------------------------------------------------
+say ""
+command -v fc-list >/dev/null 2>&1 \
+  || warn "fontconfig (fc-list) missing — only the typeface work needs it."
+command -v yt-dlp >/dev/null 2>&1 \
+  || say "yt-dlp not installed — only needed to re-fetch videos (CORPUS_QUALITY.md)."
+
+# --- what you have ----------------------------------------------------------
+say ""
+say "Corpus on disk:"
+for d in videos/2011 videos/2026 videos/2011-avc videos/2026-avc; do
+  [ -d "$d" ] || continue
+  n=$(ls -1 "$d"/*.mkv 2>/dev/null | wc -l)
+  printf '  %-18s %s videos, %s\n' "$d" "$n" "$(du -sh "$d" 2>/dev/null | cut -f1)"
+done
+
+say ""
+ok "Done. Activate with:  . .venv/bin/activate"
+say "Then try:              bin/frames OpSTlDJWFFI 2971 2974"
+say "Start reading at:      FINDINGS.md   (and CORPUS_QUALITY.md before any null)"

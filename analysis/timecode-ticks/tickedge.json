@@ -1,0 +1,578 @@
+[
+ {
+  "name": "v1 COLOUR Mk.5 Case31",
+  "vid": "OpSTlDJWFFI",
+  "lo": 2600,
+  "hi": 2905,
+  "fps": 29.97002997002997,
+  "bnd": [
+   2617,
+   2660,
+   2706,
+   2751,
+   2788,
+   2845,
+   2884
+  ],
+  "gaps": [
+   43,
+   46,
+   45,
+   37,
+   57,
+   39
+  ],
+  "flare": [
+   false,
+   true,
+   false,
+   true,
+   true,
+   true
+  ],
+  "contrast_median": 27.8389949798584
+ },
+ {
+  "name": "v1 b/w Case11 tinbird",
+  "vid": "OpSTlDJWFFI",
+  "lo": 1055,
+  "hi": 1290,
+  "fps": 29.97002997002997,
+  "bnd": [
+   1064,
+   1095,
+   1142,
+   1186,
+   1216,
+   1248
+  ],
+  "gaps": [
+   31,
+   47,
+   44,
+   30,
+   32
+  ],
+  "flare": [
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  "contrast_median": 14.14386510848999
+ },
+ {
+  "name": "v1 b/w Case12 taxi",
+  "vid": "OpSTlDJWFFI",
+  "lo": 1295,
+  "hi": 1560,
+  "fps": 29.97002997002997,
+  "bnd": [
+   1354,
+   1400,
+   1446,
+   1495,
+   1539
+  ],
+  "gaps": [
+   46,
+   46,
+   49,
+   44
+  ],
+  "flare": [
+   false,
+   true,
+   true,
+   false
+  ],
+  "contrast_median": 38.40974044799805
+ },
+ {
+  "name": "v1 b/w Case12 pacelap",
+  "vid": "OpSTlDJWFFI",
+  "lo": 1560,
+  "hi": 1900,
+  "fps": 29.97002997002997,
+  "bnd": [
+   1585,
+   1630,
+   1676,
+   1720,
+   1765,
+   1810,
+   1855,
+   1890
+  ],
+  "gaps": [
+   45,
+   46,
+   44,
+   45,
+   45,
+   45,
+   35
+  ],
+  "flare": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   false
+  ],
+  "contrast_median": 17.459636688232422
+ },
+ {
+  "name": "v1 b/w Case26 show&tell",
+  "vid": "OpSTlDJWFFI",
+  "lo": 1960,
+  "hi": 2560,
+  "fps": 29.97002997002997,
+  "bnd": [
+   1988,
+   2033,
+   2076,
+   2132,
+   2168,
+   2209,
+   2254,
+   2307,
+   2341,
+   2373,
+   2458,
+   2502,
+   2544
+  ],
+  "gaps": [
+   45,
+   43,
+   56,
+   36,
+   41,
+   45,
+   53,
+   34,
+   32,
+   85,
+   44,
+   42
+  ],
+  "flare": [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   false
+  ],
+  "contrast_median": 11.402286529541016
+ },
+ {
+  "name": "v2 Case21 Triage",
+  "vid": "Oqw96jCOP7A",
+  "lo": 1200,
+  "hi": 1425,
+  "fps": 29.97002997002997,
+  "bnd": [
+   1220,
+   1266,
+   1311,
+   1356,
+   1400
+  ],
+  "gaps": [
+   46,
+   45,
+   45,
+   44
+  ],
+  "flare": [
+   false,
+   false,
+   false,
+   false
+  ],
+  "contrast_median": 67.70532989501953
+ },
+ {
+  "name": "v2 Case25 SlimTim",
+  "vid": "Oqw96jCOP7A",
+  "lo": 1845,
+  "hi": 2415,
+  "fps": 29.97002997002997,
+  "bnd": [
+   1885,
+   1930,
+   1975,
+   2042,
+   2086,
+   2131,
+   2177,
+   2222,
+   2277,
+   2322,
+   2367
+  ],
+  "gaps": [
+   45,
+   45,
+   67,
+   44,
+   45,
+   46,
+   45,
+   55,
+   45,
+   45
+  ],
+  "flare": [
+   true,
+   false,
+   true,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  "contrast_median": 87.09963989257812
+ },
+ {
+  "name": "v2 Case20 Brownboys",
+  "vid": "Oqw96jCOP7A",
+  "lo": 690,
+  "hi": 1105,
+  "fps": 29.97002997002997,
+  "bnd": [
+   711,
+   761,
+   807,
+   852,
+   883,
+   914,
+   959,
+   1018,
+   1058
+  ],
+  "gaps": [
+   50,
+   46,
+   45,
+   31,
+   31,
+   45,
+   59,
+   40
+  ],
+  "flare": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  "contrast_median": 72.21414947509766
+ },
+ {
+  "name": "v2 Case11 primer",
+  "vid": "Oqw96jCOP7A",
+  "lo": 495,
+  "hi": 700,
+  "fps": 29.97002997002997,
+  "bnd": [
+   519,
+   550,
+   600,
+   649,
+   679
+  ],
+  "gaps": [
+   31,
+   50,
+   49,
+   30
+  ],
+  "flare": [
+   true,
+   true,
+   false,
+   false
+  ],
+  "contrast_median": 29.68454360961914
+ },
+ {
+  "name": "v3 Case18",
+  "vid": "l9RAhmPHM_A",
+  "lo": 990,
+  "hi": 1610,
+  "fps": 29.97002997002997,
+  "bnd": [
+   1002,
+   1062,
+   1099,
+   1130,
+   1175,
+   1220,
+   1265,
+   1312,
+   1356,
+   1395,
+   1455,
+   1500,
+   1545,
+   1578
+  ],
+  "gaps": [
+   60,
+   37,
+   31,
+   45,
+   45,
+   45,
+   47,
+   44,
+   39,
+   60,
+   45,
+   45,
+   33
+  ],
+  "flare": [
+   true,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true
+  ],
+  "contrast_median": 108.00657653808594
+ },
+ {
+  "name": "v3 Case28",
+  "vid": "l9RAhmPHM_A",
+  "lo": 2990,
+  "hi": 3610,
+  "fps": 29.97002997002997,
+  "bnd": [
+   3033,
+   3102,
+   3150,
+   3195,
+   3240,
+   3285,
+   3330,
+   3374,
+   3420,
+   3465,
+   3510,
+   3555,
+   3600
+  ],
+  "gaps": [
+   69,
+   48,
+   45,
+   45,
+   45,
+   45,
+   44,
+   46,
+   45,
+   45,
+   45,
+   45
+  ],
+  "flare": [
+   false,
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   false,
+   false
+  ],
+  "contrast_median": 105.5378646850586
+ },
+ {
+  "name": "2011 RsQCX A",
+  "vid": "RsQCXN4o4Ps",
+  "lo": 690,
+  "hi": 1010,
+  "fps": 25.0,
+  "bnd": [
+   703,
+   753,
+   803,
+   853,
+   957,
+   994
+  ],
+  "gaps": [
+   50,
+   50,
+   50,
+   104,
+   37
+  ],
+  "flare": [
+   true,
+   true,
+   true,
+   true,
+   true
+  ],
+  "contrast_median": 32.480316162109375
+ },
+ {
+  "name": "2011 RsQCX B",
+  "vid": "RsQCXN4o4Ps",
+  "lo": 1090,
+  "hi": 1490,
+  "fps": 25.0,
+  "bnd": [
+   1131,
+   1176,
+   1222,
+   1267,
+   1298,
+   1344,
+   1389,
+   1435,
+   1481
+  ],
+  "gaps": [
+   45,
+   46,
+   45,
+   31,
+   46,
+   45,
+   46,
+   46
+  ],
+  "flare": [
+   false,
+   false,
+   false,
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  "contrast_median": 38.910884857177734
+ },
+ {
+  "name": "2011 ZB788 A",
+  "vid": "ZB788PtqQvg",
+  "lo": 145,
+  "hi": 610,
+  "fps": 25.0,
+  "bnd": [
+   186,
+   233,
+   277,
+   325,
+   371,
+   408,
+   445,
+   504,
+   550,
+   596
+  ],
+  "gaps": [
+   47,
+   44,
+   48,
+   46,
+   37,
+   37,
+   59,
+   46,
+   46
+  ],
+  "flare": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   true,
+   true,
+   true
+  ],
+  "contrast_median": 28.65146255493164
+ },
+ {
+  "name": "2011 ZB788 B",
+  "vid": "ZB788PtqQvg",
+  "lo": 690,
+  "hi": 1160,
+  "fps": 25.0,
+  "bnd": [
+   707,
+   753,
+   796,
+   839,
+   882,
+   924,
+   965,
+   1002,
+   1048,
+   1091,
+   1126
+  ],
+  "gaps": [
+   46,
+   43,
+   43,
+   43,
+   42,
+   41,
+   37,
+   46,
+   43,
+   35
+  ],
+  "flare": [
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   true,
+   false,
+   true,
+   false
+  ],
+  "contrast_median": 28.948619842529297
+ }
+]

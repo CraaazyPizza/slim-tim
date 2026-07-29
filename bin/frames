@@ -1,0 +1,84 @@
+#!/usr/bin/env bash
+# Pull PNG frames out of a source video.
+#
+#   bin/frames                          every frame of every video (~6 min, ~5 GB)
+#   bin/frames OpSTlDJWFFI              every frame of one video   (~60 s, ~1.1 GB)
+#   bin/frames OpSTlDJWFFI 2971 2974    just that range            (~10 s)
+#   bin/frames OpSTlDJWFFI 2971         just that one frame        (~10 s)
+#
+#   bin/frames --avc OpSTlDJWFFI 2971 2974     same, from the higher-bitrate copy
+#
+# Output lands in frames/<video-id>/fNNNNN.png, numbered from 1, matching the
+# numbering used throughout the writeups. A range costs about the same as a single
+# frame: the decoder has to walk the file from the start either way, so asking for
+# 200 frames is barely slower than asking for one.
+#
+# --avc reads from videos/2026-avc/ and videos/2011-avc/ instead, and writes to
+# frames-avc/<video-id>/. That is the ~3x higher-bitrate copy of the same seven
+# videos; CORPUS_QUALITY.md explains why it exists and what it is good for. It is a
+# separate output directory on purpose: those frames are NOT comparable to the
+# published ones, and mixing them into frames/ would silently invalidate a hash.
+#
+# Frames are byte-identical to the published ones under ffmpeg 4.4.2, which is what
+# the Codespace pins. Other builds differ slightly and legitimately — see
+# frames/README.md before reading meaning into a small pixel difference.
+set -euo pipefail
+cd "$(dirname "$0")/.."
+
+SRCDIRS=(videos/2026 videos/2011)
+OUT=frames
+if [ "${1:-}" = "--avc" ] || [ "${1:-}" = "-a" ]; then
+  SRCDIRS=(videos/2026-avc videos/2011-avc)
+  OUT=frames-avc
+  shift
+  if [ ! -d "${SRCDIRS[0]}" ] && [ ! -d "${SRCDIRS[1]}" ]; then
+    echo "no videos/*-avc/ here — see CORPUS_QUALITY.md" >&2; exit 1
+  fi
+fi
+
+locate() {
+  for d in "${SRCDIRS[@]}"; do
+    [ -f "$d/$1.mkv" ] && { echo "$d/$1.mkv"; return 0; }
+  done
+  return 1
+}
+
+all_ids() {
+  ls "${SRCDIRS[0]}"/*.mkv "${SRCDIRS[1]}"/*.mkv 2>/dev/null \
+    | xargs -n1 basename | sed 's/\.mkv$//'
+}
+
+extract_all() {
+  local id=$1 src
+  src=$(locate "$id") || { echo "no such video: $id" >&2; return 1; }
+  mkdir -p "$OUT/$id"
+  if [ "$(ls -1 "$OUT/$id" 2>/dev/null | wc -l)" -gt 100 ]; then
+    echo "  $OUT/$id: already populated, skipping"
+    return 0
+  fi
+  ( cd "$OUT/$id" && ffmpeg -loglevel error -i "../../$src" \
+      -vsync 0 -pix_fmt rgb24 -start_number 1 f%05d.png )
+  echo "  $OUT/$id: $(ls -1 "$OUT/$id" | wc -l) frames"
+}
+
+extract_range() {
+  local id=$1 from=$2 to=$3 src
+  src=$(locate "$id") || { echo "no such video: $id" >&2; return 1; }
+  mkdir -p "$OUT/$id"
+  # ffmpeg's select filter counts frames from 0; our filenames count from 1.
+  ffmpeg -loglevel error -i "$src" \
+    -vf "select=between(n\,$((from-1))\,$((to-1)))" \
+    -vsync 0 -pix_fmt rgb24 -start_number "$from" "$OUT/$id/f%05d.png"
+  echo "  $OUT/$id/: frames $from-$to"
+  ls -1 "$OUT/$id" | sed -n "/^f0*${from}\.png$/,\$p" | head -"$((to-from+1))" \
+    | sed "s|^|  $OUT/$id/|"
+}
+
+case $# in
+  0) for id in $(all_ids); do extract_all "$id"; done
+     ffmpeg -version | head -1 > "$OUT/.ffmpeg-version" ;;
+  1) extract_all "$1" ;;
+  2) extract_range "$1" "$2" "$2" ;;
+  3) extract_range "$1" "$2" "$3" ;;
+  *) sed -n '2,12p' "$0" | sed 's/^# \?//' >&2; exit 2 ;;
+esac

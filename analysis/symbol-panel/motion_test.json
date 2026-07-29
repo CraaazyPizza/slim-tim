@@ -1,0 +1,872 @@
+[
+ {
+  "f": 1209,
+  "scene_inl": 8,
+  "glyph_inl": 9,
+  "disp": 32.72873306274414
+ },
+ {
+  "f": 1210,
+  "scene_inl": 8,
+  "glyph_inl": 10,
+  "disp": 196.36117553710938
+ },
+ {
+  "f": 1211,
+  "scene_inl": 8,
+  "glyph_inl": 8,
+  "disp": 32.073974609375
+ },
+ {
+  "f": 1212,
+  "scene_inl": 7,
+  "glyph_inl": 10,
+  "disp": 592.40283203125
+ },
+ {
+  "f": 1213,
+  "scene_inl": 7,
+  "glyph_inl": 12,
+  "disp": 248.51609802246094
+ },
+ {
+  "f": 1215,
+  "scene_inl": 9,
+  "glyph_inl": 7,
+  "disp": 77.40103149414062
+ },
+ {
+  "f": 1216,
+  "scene_inl": 6,
+  "glyph_inl": 10,
+  "disp": 329.6304626464844
+ },
+ {
+  "f": 1222,
+  "scene_inl": 8,
+  "glyph_inl": 6,
+  "disp": 37.6829719543457
+ },
+ {
+  "f": 1247,
+  "scene_inl": 6,
+  "glyph_inl": 12,
+  "disp": 314.7740173339844
+ },
+ {
+  "f": 1249,
+  "scene_inl": 24,
+  "glyph_inl": 11,
+  "disp": null
+ },
+ {
+  "f": 1250,
+  "scene_inl": 7,
+  "glyph_inl": 9,
+  "disp": 338.6858825683594
+ },
+ {
+  "f": 1252,
+  "scene_inl": 9,
+  "glyph_inl": 12,
+  "disp": 266.6677551269531
+ },
+ {
+  "f": 1253,
+  "scene_inl": 7,
+  "glyph_inl": 11,
+  "disp": 390.804443359375
+ },
+ {
+  "f": 1255,
+  "scene_inl": 6,
+  "glyph_inl": 10,
+  "disp": 645.0065307617188
+ },
+ {
+  "f": 1256,
+  "scene_inl": 7,
+  "glyph_inl": 13,
+  "disp": 367.6475524902344
+ },
+ {
+  "f": 1257,
+  "scene_inl": 7,
+  "glyph_inl": 13,
+  "disp": 200.37205505371094
+ },
+ {
+  "f": 1258,
+  "scene_inl": 46,
+  "glyph_inl": 14,
+  "disp": null
+ },
+ {
+  "f": 1260,
+  "scene_inl": 7,
+  "glyph_inl": 11,
+  "disp": 573.3712768554688
+ },
+ {
+  "f": 1261,
+  "scene_inl": 7,
+  "glyph_inl": 12,
+  "disp": 570.9813842773438
+ },
+ {
+  "f": 1264,
+  "scene_inl": 8,
+  "glyph_inl": 11,
+  "disp": 571.7722778320312
+ },
+ {
+  "f": 1268,
+  "scene_inl": 6,
+  "glyph_inl": 11,
+  "disp": 380.8057861328125
+ },
+ {
+  "f": 1269,
+  "scene_inl": 8,
+  "glyph_inl": 10,
+  "disp": 447.74432373046875
+ },
+ {
+  "f": 1271,
+  "scene_inl": 24,
+  "glyph_inl": 13,
+  "disp": null
+ },
+ {
+  "f": 1284,
+  "scene_inl": 34,
+  "glyph_inl": 10,
+  "disp": null
+ },
+ {
+  "f": 1295,
+  "scene_inl": 25,
+  "glyph_inl": 12,
+  "disp": null
+ },
+ {
+  "f": 1352,
+  "scene_inl": 8,
+  "glyph_inl": 11,
+  "disp": 616.4854125976562
+ },
+ {
+  "f": 1354,
+  "scene_inl": 34,
+  "glyph_inl": 10,
+  "disp": null
+ },
+ {
+  "f": 1423,
+  "scene_inl": 25,
+  "glyph_inl": 12,
+  "disp": null
+ },
+ {
+  "f": 1424,
+  "scene_inl": 23,
+  "glyph_inl": 12,
+  "disp": null
+ },
+ {
+  "f": 1427,
+  "scene_inl": 6,
+  "glyph_inl": 15,
+  "disp": 535.9468994140625
+ },
+ {
+  "f": 1428,
+  "scene_inl": 24,
+  "glyph_inl": 12,
+  "disp": null
+ },
+ {
+  "f": 1429,
+  "scene_inl": 8,
+  "glyph_inl": 13,
+  "disp": 1390.3865966796875
+ },
+ {
+  "f": 1430,
+  "scene_inl": 25,
+  "glyph_inl": 10,
+  "disp": null
+ },
+ {
+  "f": 1431,
+  "scene_inl": 7,
+  "glyph_inl": 14,
+  "disp": 468.8436279296875
+ },
+ {
+  "f": 1432,
+  "scene_inl": 21,
+  "glyph_inl": 13,
+  "disp": null
+ },
+ {
+  "f": 1433,
+  "scene_inl": 6,
+  "glyph_inl": 11,
+  "disp": 699.8925170898438
+ },
+ {
+  "f": 1434,
+  "scene_inl": 6,
+  "glyph_inl": 12,
+  "disp": 331.5208740234375
+ },
+ {
+  "f": 1435,
+  "scene_inl": 7,
+  "glyph_inl": 12,
+  "disp": 325.7382507324219
+ },
+ {
+  "f": 1437,
+  "scene_inl": 6,
+  "glyph_inl": 14,
+  "disp": 192.16822814941406
+ },
+ {
+  "f": 1438,
+  "scene_inl": 7,
+  "glyph_inl": 14,
+  "disp": 300.4082336425781
+ },
+ {
+  "f": 1439,
+  "scene_inl": 7,
+  "glyph_inl": 13,
+  "disp": 286.1614990234375
+ },
+ {
+  "f": 1440,
+  "scene_inl": 23,
+  "glyph_inl": 13,
+  "disp": null
+ },
+ {
+  "f": 1441,
+  "scene_inl": 7,
+  "glyph_inl": 13,
+  "disp": 141.50914001464844
+ },
+ {
+  "f": 1442,
+  "scene_inl": 6,
+  "glyph_inl": 15,
+  "disp": 374.4522399902344
+ },
+ {
+  "f": 1444,
+  "scene_inl": 7,
+  "glyph_inl": 14,
+  "disp": 302.8169250488281
+ },
+ {
+  "f": 1445,
+  "scene_inl": 6,
+  "glyph_inl": 13,
+  "disp": 708.54541015625
+ },
+ {
+  "f": 1446,
+  "scene_inl": 6,
+  "glyph_inl": 15,
+  "disp": 29.072792053222656
+ },
+ {
+  "f": 1447,
+  "scene_inl": 33,
+  "glyph_inl": 16,
+  "disp": null
+ },
+ {
+  "f": 1448,
+  "scene_inl": 6,
+  "glyph_inl": 12,
+  "disp": 513.0174560546875
+ },
+ {
+  "f": 1449,
+  "scene_inl": 6,
+  "glyph_inl": 14,
+  "disp": 501.139404296875
+ },
+ {
+  "f": 1450,
+  "scene_inl": 32,
+  "glyph_inl": 18,
+  "disp": null
+ },
+ {
+  "f": 1451,
+  "scene_inl": 6,
+  "glyph_inl": 13,
+  "disp": 211.8056640625
+ },
+ {
+  "f": 1452,
+  "scene_inl": 32,
+  "glyph_inl": 17,
+  "disp": null
+ },
+ {
+  "f": 1453,
+  "scene_inl": 37,
+  "glyph_inl": 14,
+  "disp": null
+ },
+ {
+  "f": 1608,
+  "scene_inl": 6,
+  "glyph_inl": 15,
+  "disp": 704.3071899414062
+ },
+ {
+  "f": 1610,
+  "scene_inl": 35,
+  "glyph_inl": 16,
+  "disp": null
+ },
+ {
+  "f": 1611,
+  "scene_inl": 6,
+  "glyph_inl": 20,
+  "disp": 635.117431640625
+ },
+ {
+  "f": 1612,
+  "scene_inl": 7,
+  "glyph_inl": 11,
+  "disp": 1210.3184814453125
+ },
+ {
+  "f": 1613,
+  "scene_inl": 7,
+  "glyph_inl": 16,
+  "disp": 571.4959716796875
+ },
+ {
+  "f": 1614,
+  "scene_inl": 7,
+  "glyph_inl": 10,
+  "disp": 967.630859375
+ },
+ {
+  "f": 1615,
+  "scene_inl": 6,
+  "glyph_inl": 13,
+  "disp": 627.4376220703125
+ },
+ {
+  "f": 1616,
+  "scene_inl": 7,
+  "glyph_inl": 12,
+  "disp": 976.99755859375
+ },
+ {
+  "f": 1617,
+  "scene_inl": 7,
+  "glyph_inl": 15,
+  "disp": 580.5426635742188
+ },
+ {
+  "f": 1618,
+  "scene_inl": 6,
+  "glyph_inl": 14,
+  "disp": 701.159912109375
+ },
+ {
+  "f": 1619,
+  "scene_inl": 7,
+  "glyph_inl": 14,
+  "disp": 806.174560546875
+ },
+ {
+  "f": 1620,
+  "scene_inl": 28,
+  "glyph_inl": 15,
+  "disp": null
+ },
+ {
+  "f": 1621,
+  "scene_inl": 27,
+  "glyph_inl": 14,
+  "disp": null
+ },
+ {
+  "f": 1622,
+  "scene_inl": 20,
+  "glyph_inl": 17,
+  "disp": null
+ },
+ {
+  "f": 1623,
+  "scene_inl": 29,
+  "glyph_inl": 15,
+  "disp": null
+ },
+ {
+  "f": 1624,
+  "scene_inl": 18,
+  "glyph_inl": 18,
+  "disp": null
+ },
+ {
+  "f": 1625,
+  "scene_inl": 21,
+  "glyph_inl": 16,
+  "disp": null
+ },
+ {
+  "f": 1626,
+  "scene_inl": 6,
+  "glyph_inl": 13,
+  "disp": 522.28125
+ },
+ {
+  "f": 1627,
+  "scene_inl": 6,
+  "glyph_inl": 17,
+  "disp": 242.07420349121094
+ },
+ {
+  "f": 1628,
+  "scene_inl": 6,
+  "glyph_inl": 22,
+  "disp": 461.58740234375
+ },
+ {
+  "f": 1629,
+  "scene_inl": 25,
+  "glyph_inl": 15,
+  "disp": null
+ },
+ {
+  "f": 1630,
+  "scene_inl": 6,
+  "glyph_inl": 13,
+  "disp": 465.44793701171875
+ },
+ {
+  "f": 1631,
+  "scene_inl": 25,
+  "glyph_inl": 16,
+  "disp": null
+ },
+ {
+  "f": 1632,
+  "scene_inl": 7,
+  "glyph_inl": 15,
+  "disp": 428.39208984375
+ },
+ {
+  "f": 1633,
+  "scene_inl": 23,
+  "glyph_inl": 18,
+  "disp": null
+ },
+ {
+  "f": 1634,
+  "scene_inl": 32,
+  "glyph_inl": 14,
+  "disp": null
+ },
+ {
+  "f": 1635,
+  "scene_inl": 6,
+  "glyph_inl": 13,
+  "disp": 404.8976135253906
+ },
+ {
+  "f": 1636,
+  "scene_inl": 27,
+  "glyph_inl": 21,
+  "disp": null
+ },
+ {
+  "f": 1637,
+  "scene_inl": 24,
+  "glyph_inl": 16,
+  "disp": null
+ },
+ {
+  "f": 1638,
+  "scene_inl": 28,
+  "glyph_inl": 15,
+  "disp": null
+ },
+ {
+  "f": 1639,
+  "scene_inl": 6,
+  "glyph_inl": 17,
+  "disp": 251.366455078125
+ },
+ {
+  "f": 1640,
+  "scene_inl": 6,
+  "glyph_inl": 13,
+  "disp": 191.13479614257812
+ },
+ {
+  "f": 1641,
+  "scene_inl": 6,
+  "glyph_inl": 15,
+  "disp": 1005.1617431640625
+ },
+ {
+  "f": 1642,
+  "scene_inl": 6,
+  "glyph_inl": 12,
+  "disp": 499.1256408691406
+ },
+ {
+  "f": 1643,
+  "scene_inl": 6,
+  "glyph_inl": 11,
+  "disp": 185.89454650878906
+ },
+ {
+  "f": 1644,
+  "scene_inl": 32,
+  "glyph_inl": 13,
+  "disp": null
+ },
+ {
+  "f": 1645,
+  "scene_inl": 29,
+  "glyph_inl": 11,
+  "disp": null
+ },
+ {
+  "f": 1646,
+  "scene_inl": 8,
+  "glyph_inl": 13,
+  "disp": 580.5291748046875
+ },
+ {
+  "f": 1647,
+  "scene_inl": 6,
+  "glyph_inl": 11,
+  "disp": 237.727294921875
+ },
+ {
+  "f": 1648,
+  "scene_inl": 8,
+  "glyph_inl": 13,
+  "disp": 329.714599609375
+ },
+ {
+  "f": 1649,
+  "scene_inl": 6,
+  "glyph_inl": 12,
+  "disp": 316.1114807128906
+ },
+ {
+  "f": 1650,
+  "scene_inl": 37,
+  "glyph_inl": 12,
+  "disp": null
+ },
+ {
+  "f": 1652,
+  "scene_inl": 41,
+  "glyph_inl": 11,
+  "disp": null
+ },
+ {
+  "f": 1653,
+  "scene_inl": 6,
+  "glyph_inl": 11,
+  "disp": 205.68304443359375
+ },
+ {
+  "f": 1655,
+  "scene_inl": 6,
+  "glyph_inl": 12,
+  "disp": 217.89381408691406
+ },
+ {
+  "f": 1668,
+  "scene_inl": 11,
+  "glyph_inl": 6,
+  "disp": null
+ },
+ {
+  "f": 1669,
+  "scene_inl": 8,
+  "glyph_inl": 5,
+  "disp": null
+ },
+ {
+  "f": 1673,
+  "scene_inl": 10,
+  "glyph_inl": 6,
+  "disp": 2.769538640975952
+ },
+ {
+  "f": 1674,
+  "scene_inl": 11,
+  "glyph_inl": 9,
+  "disp": null
+ },
+ {
+  "f": 1675,
+  "scene_inl": 13,
+  "glyph_inl": 8,
+  "disp": null
+ },
+ {
+  "f": 1676,
+  "scene_inl": 12,
+  "glyph_inl": 7,
+  "disp": 12.467257499694824
+ },
+ {
+  "f": 1677,
+  "scene_inl": 11,
+  "glyph_inl": 7,
+  "disp": 17.111957550048828
+ },
+ {
+  "f": 1678,
+  "scene_inl": 10,
+  "glyph_inl": 9,
+  "disp": 15.904851913452148
+ },
+ {
+  "f": 1679,
+  "scene_inl": 26,
+  "glyph_inl": 12,
+  "disp": 2.9546687602996826
+ },
+ {
+  "f": 1680,
+  "scene_inl": 27,
+  "glyph_inl": 10,
+  "disp": 53.74540710449219
+ },
+ {
+  "f": 1681,
+  "scene_inl": 20,
+  "glyph_inl": 14,
+  "disp": 6.05645227432251
+ },
+ {
+  "f": 1682,
+  "scene_inl": 27,
+  "glyph_inl": 12,
+  "disp": 5.151163578033447
+ },
+ {
+  "f": 1683,
+  "scene_inl": 26,
+  "glyph_inl": 12,
+  "disp": 4.630060195922852
+ },
+ {
+  "f": 1684,
+  "scene_inl": 42,
+  "glyph_inl": 14,
+  "disp": 2.3650827407836914
+ },
+ {
+  "f": 1685,
+  "scene_inl": 61,
+  "glyph_inl": 14,
+  "disp": 1.2579760551452637
+ },
+ {
+  "f": 1686,
+  "scene_inl": 50,
+  "glyph_inl": 14,
+  "disp": 5.138598442077637
+ },
+ {
+  "f": 1687,
+  "scene_inl": 66,
+  "glyph_inl": 18,
+  "disp": 2.628800868988037
+ },
+ {
+  "f": 1688,
+  "scene_inl": 68,
+  "glyph_inl": 18,
+  "disp": 2.0718913078308105
+ },
+ {
+  "f": 1689,
+  "scene_inl": 68,
+  "glyph_inl": 17,
+  "disp": 4.888068675994873
+ },
+ {
+  "f": 1690,
+  "scene_inl": 81,
+  "glyph_inl": 19,
+  "disp": 0.585967481136322
+ },
+ {
+  "f": 1691,
+  "scene_inl": 100,
+  "glyph_inl": 20,
+  "disp": 5.578381538391113
+ },
+ {
+  "f": 1692,
+  "scene_inl": 108,
+  "glyph_inl": 16,
+  "disp": 8.082634925842285
+ },
+ {
+  "f": 1693,
+  "scene_inl": 185,
+  "glyph_inl": 25,
+  "disp": 1.9646075963974
+ },
+ {
+  "f": 1694,
+  "scene_inl": 607,
+  "glyph_inl": 120,
+  "disp": 0.0
+ },
+ {
+  "f": 1695,
+  "scene_inl": 181,
+  "glyph_inl": 23,
+  "disp": 2.046654462814331
+ },
+ {
+  "f": 1696,
+  "scene_inl": 86,
+  "glyph_inl": 20,
+  "disp": 0.24807216227054596
+ },
+ {
+  "f": 1697,
+  "scene_inl": 78,
+  "glyph_inl": 20,
+  "disp": 1.8297683000564575
+ },
+ {
+  "f": 1698,
+  "scene_inl": 75,
+  "glyph_inl": 19,
+  "disp": 0.15408582985401154
+ },
+ {
+  "f": 1699,
+  "scene_inl": 64,
+  "glyph_inl": 19,
+  "disp": 0.4789777100086212
+ },
+ {
+  "f": 1700,
+  "scene_inl": 62,
+  "glyph_inl": 17,
+  "disp": 2.5108892917633057
+ },
+ {
+  "f": 1701,
+  "scene_inl": 37,
+  "glyph_inl": 9,
+  "disp": 18.67740249633789
+ },
+ {
+  "f": 1702,
+  "scene_inl": 45,
+  "glyph_inl": 14,
+  "disp": 15.607986450195312
+ },
+ {
+  "f": 1703,
+  "scene_inl": 46,
+  "glyph_inl": 11,
+  "disp": 16.88804817199707
+ },
+ {
+  "f": 1704,
+  "scene_inl": 41,
+  "glyph_inl": 7,
+  "disp": 113.24964141845703
+ },
+ {
+  "f": 1705,
+  "scene_inl": 45,
+  "glyph_inl": 8,
+  "disp": 14.27452278137207
+ },
+ {
+  "f": 1706,
+  "scene_inl": 41,
+  "glyph_inl": 7,
+  "disp": 86.98197937011719
+ },
+ {
+  "f": 1707,
+  "scene_inl": 31,
+  "glyph_inl": 6,
+  "disp": null
+ },
+ {
+  "f": 1708,
+  "scene_inl": 32,
+  "glyph_inl": 6,
+  "disp": null
+ },
+ {
+  "f": 1709,
+  "scene_inl": 24,
+  "glyph_inl": 3,
+  "disp": null
+ },
+ {
+  "f": 1710,
+  "scene_inl": 27,
+  "glyph_inl": 6,
+  "disp": null
+ },
+ {
+  "f": 1711,
+  "scene_inl": 31,
+  "glyph_inl": 7,
+  "disp": 388.597900390625
+ },
+ {
+  "f": 1712,
+  "scene_inl": 25,
+  "glyph_inl": 7,
+  "disp": null
+ },
+ {
+  "f": 1713,
+  "scene_inl": 22,
+  "glyph_inl": 3,
+  "disp": null
+ },
+ {
+  "f": 1714,
+  "scene_inl": 14,
+  "glyph_inl": 5,
+  "disp": null
+ },
+ {
+  "f": 1716,
+  "scene_inl": 17,
+  "glyph_inl": 3,
+  "disp": null
+ },
+ {
+  "f": 1717,
+  "scene_inl": 17,
+  "glyph_inl": 3,
+  "disp": null
+ }
+]
