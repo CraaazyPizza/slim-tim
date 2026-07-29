@@ -73,7 +73,7 @@ def frame_glyphs(path, band):
 
 def main(video):
     band = BANDS[video]
-    fs = sorted(glob.glob(f'frames2011/{video}/*.png'))
+    fs = sorted(glob.glob(f'frames/{video}/*.png'))
     recs = []
     for k, f in enumerate(fs):
         idx = int(os.path.basename(f)[1:6])

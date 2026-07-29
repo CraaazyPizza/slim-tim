@@ -71,9 +71,8 @@ that I haven't caught. If you find one, brilliant, tell me.
    and images below.
 4. Ask it things. That's it. It can read every file here, pull frames out of the
    videos, run the scripts, and show you what came out.
-5. **Found something? Just say: "commit this and submit it to the repo."** The AI
-   handles the rest. You do not need to know what a commit or a pull request is —
-   see below.
+5. **Important: if you find something, ask the AI to add it to this repo.** It knows
+   how. You don't need to.
 
 I've tested this and it works. Your login stays yours — that container is your own
 Codespace on your own free allowance, so nothing runs on my machine or my tab. Close
@@ -109,7 +108,7 @@ This skips it and fetches nothing you don't check out:
 ```bash
 git clone --filter=blob:none --sparse https://github.com/CraaazyPizza/slim-tim.git
 cd slim-tim
-git sparse-checkout set video ivan reports figs frames bin
+git sparse-checkout set videos/2011 videos/2026 reports figs frames bin
 ```
 
 That gets you every document, the scripts, and the videos in about 55 MB. Add more
@@ -233,48 +232,6 @@ names say what the work was about: `cyrillic/`, `hand-proportions/`,
 `timecode-ticks/`, `symbol-panel/`, `corner-dots/`, `compare-eras/`. Some of it is
 superseded by later passes, and where I know that, the report says so.
 
-## Adding your own stuff — just do it
-
-This is a shared workspace, not my personal repo that you have to petition. If
-you find something, put it in.
-
-**You don't need to know how git works.** In your Codespace, tell the AI:
-
-```
-Commit my changes and submit them to the repo.
-```
-
-It'll do the whole thing. Nobody needs to approve you first and you don't need an
-account on anything except GitHub — the AI makes your own copy of the repo, puts
-your work in it, and opens a request to pull it back here. That door is always open
-and I merge basically everything.
-
-If you end up sticking around and would rather push straight to this repo, say so
-and I'll add you. GitHub only lets me do that one person at a time, otherwise it
-would already be on for everyone. I'm not vetting anybody.
-
-Two things I'd ask, and they're the only two:
-
-- **Don't grief it.** No wiping other people's work, no rewriting the history, no
-  force-pushing. The main branch is protected against that anyway, but I'd rather
-  say it than rely on the setting.
-- **No personal information about private people.** Not their names, not their
-  email addresses, not screenshots with account names in them. This is the one
-  rule I'll actually revert things over, and it's why some material that exists
-  isn't in here.
-
-Write anything else: a note in a file, a script, a figure, a correction, a "this
-looks wrong to me and here's why." Half-finished is fine. It's a draft.
-
-If you tell me something in `FINDINGS.md` is wrong and you're right, it goes
-in `CORRECTIONS.md` and you get the credit.
-
-One tip that makes any finding much stronger: if you're saying something *isn't*
-there, try to work out what you *would* have been able to see. On footage this
-soft, "I looked and saw nothing" is weak. "I looked, and I could have spotted a
-mark down to this size, and there's nothing" is strong — and that's the difference
-between a claim that survives and one that doesn't.
-
 ## A gotcha if you re-extract frames yourself
 
 You'll probably get slightly different pixel values than mine, and it can look like
@@ -300,10 +257,11 @@ notice that one of those differences carried a finding.
 who published about this material under their own names, and only their public
 work is discussed. Nobody else, including commenters. Please keep it that way.
 
-I also found a partial email address for the 2026 account through a password-reset
-flow. It's deliberately not in here. It identifies an account, not a person, it
-tells you nothing useful, and publishing it just hands strangers a starting
-point. Nothing was ever sent to it and I contacted nobody.
+A masked form of the 2026 account's registration address is in `FINDINGS.md` §19. It
+identifies an account, not a person. Nothing was ever sent to it and nobody was
+contacted.
+
+**Don't grief it.** No wiping other people's work, no rewriting the history.
 
 **It's a draft.** Mistakes are in here. If someone linked you to this as proof of
 something, they've overstated it. It's a stash, not a verdict.
