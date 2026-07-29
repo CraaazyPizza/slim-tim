@@ -1,18 +1,18 @@
 {
   "name": "slim-tim",
 
-  // Builds from the Dockerfile, which always works but costs the visitor an apt +
-  // pip + npm build on first create (a few minutes).
+  // Pulls a ready-made image instead of building one, so a Codespace opens in about
+  // a minute rather than the ~3.5 minutes an apt + pip + npm build takes. The image
+  // is built from ./Dockerfile by .github/workflows/devcontainer-image.yml on every
+  // change under .devcontainer/, and is public because packages inherit the
+  // repository's visibility — verified anonymously pullable, which is what Codespaces
+  // needs.
   //
-  // Faster, and free without touching the owner's Codespaces storage quota:
-  // .github/workflows/devcontainer-image.yml publishes this same Dockerfile to GHCR.
-  // Once that has run and the package is set to Public,
-  // swap the line below for
-  //     "image": "ghcr.io/craaazypizza/slim-tim-devcontainer:latest"
-  // and creates become a pull instead of a build. Do not swap it before the package
-  // is public — Codespaces cannot pull a private package anonymously and will fail
-  // the create outright rather than falling back to building.
-  "build": { "dockerfile": "Dockerfile" },
+  // Consequence worth knowing: editing Dockerfile alone no longer changes what a
+  // visitor gets. The workflow has to run first. If it ever breaks, fall back with
+  //     "build": { "dockerfile": "Dockerfile" }
+  // which always works and needs no registry at all.
+  "image": "ghcr.io/craaazypizza/slim-tim-devcontainer:latest",
 
   // Deliberately no updateContentCommand. Extracting all 17,567 frames here would
   // bake ~5 GB into the stored image, and image storage is drawn from the repo
