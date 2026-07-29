@@ -61,8 +61,6 @@ fi
 say ""
 command -v fc-list >/dev/null 2>&1 \
   || warn "fontconfig (fc-list) missing — only the typeface work needs it."
-command -v yt-dlp >/dev/null 2>&1 \
-  || say "yt-dlp not installed — only needed to re-fetch videos (CORPUS_QUALITY.md)."
 
 # --- what you have ----------------------------------------------------------
 say ""

@@ -31,7 +31,23 @@ RUN pip install --no-cache-dir \
         matplotlib==3.11.0 \
         opencv-python-headless==5.0.0.93 \
         scikit-image==0.26.0 \
-        fonttools==4.63.0
+        fonttools==4.63.0 \
+        yt-dlp
+
+# The GitHub CLI. The contribution path depends on it: "ask the AI to add this to
+# the repo" means forking and opening a pull request, which needs the API and not
+# just git. The devcontainers base image ships common-utils and git only, so gh is
+# absent unless asked for — and it belongs here rather than in devcontainer.json
+# "features" because a plain `docker build`, which is how the GHCR image is
+# produced, ignores features entirely. In a Codespace gh picks up the injected
+# token and is usually already authenticated; elsewhere, `gh auth login`.
+RUN curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg \
+        -o /usr/share/keyrings/githubcli-archive-keyring.gpg \
+    && chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg \
+    && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" \
+        > /etc/apt/sources.list.d/github-cli.list \
+    && apt-get update && apt-get install -y --no-install-recommends gh \
+    && apt-get clean
 
 # Node, then the three coding CLIs. Preinstalled so that "log in" is the entire
 # setup step for a visitor — no npm, no PATH fiddling. Each still needs the
@@ -57,4 +73,5 @@ RUN mkdir -p /opt/slim-tim \
     && python3.12 --version > /opt/slim-tim/built_python.txt \
     && pip freeze > /opt/slim-tim/built_python_packages.txt \
     && { claude --version 2>/dev/null; codex --version 2>/dev/null; \
-         gemini --version 2>/dev/null; } > /opt/slim-tim/built_clis.txt || true
+         gemini --version 2>/dev/null; gh --version 2>/dev/null | head -1; \
+         yt-dlp --version 2>/dev/null; } > /opt/slim-tim/built_clis.txt || true
