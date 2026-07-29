@@ -9,7 +9,11 @@ Prefer your own machine? `git clone`, then `bin/setup`. It pins the same
 dependencies the Codespace uses and warns you if your ffmpeg won't reproduce the
 published frames.
 
-If you want write access, ask. You'll get it. I'm not vetting anybody.
+You don't need permission to contribute. The AI opens a pull request from your own
+copy, which needs nothing from me, and I merge basically everything. If you stick
+around and want to push straight to this repo instead, ask and I'll add you —
+GitHub only allows that one person at a time, or it would already be on for
+everyone. No vetting.
 
 ## The two things I'd ask
 

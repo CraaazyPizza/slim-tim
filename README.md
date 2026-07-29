@@ -244,10 +244,14 @@ you find something, put it in.
 Commit my changes and submit them to the repo.
 ```
 
-It'll do the whole thing — including forking and opening a pull request if it
-turns out you don't have direct write access, which needs no permission from
-anyone. If you'd rather push straight to the repo, ask me for write access and
-you'll get it. I'm not vetting anybody.
+It'll do the whole thing. Nobody needs to approve you first and you don't need an
+account on anything except GitHub — the AI makes your own copy of the repo, puts
+your work in it, and opens a request to pull it back here. That door is always open
+and I merge basically everything.
+
+If you end up sticking around and would rather push straight to this repo, say so
+and I'll add you. GitHub only lets me do that one person at a time, otherwise it
+would already be on for everyone. I'm not vetting anybody.
 
 Two things I'd ask, and they're the only two:
 
