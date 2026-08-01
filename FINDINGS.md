@@ -566,10 +566,12 @@ are under 1 px, so the power is low.
 
 **Source-rate archaeology.** The black-and-white picture advances in bursts of about 16 ± 1
 distinct images per burned-in second, consistent with a 16 fps cine source — a standard
-amateur rate — slowed by frame repetition. The colour Mk.5 clip instead moves on *every*
-output frame, about 40.8 distinct images per source second, which is not a plausible 1961
-camera rate. That implies either synthesized intermediates or a high-rate source for that
-shot specifically.
+amateur rate — slowed by frame repetition. The colour Mk.5 clip instead advances on every
+output frame bar the conform duplicate, about 41.2 distinct images per source second,
+which is not a plausible 1961 camera rate. That implies either synthesized intermediates
+or a high-rate source for that shot specifically.
+
+Detail: `reports/agent_colour_duplicate_count.md`.
 
 **One mismatch in the story's own terms.** The sources are called "tapes" throughout. The
 applied damage is film dirt, film scratches, and a film gate. Videotape has none of those.
