@@ -552,7 +552,7 @@ amplitude is preserved across hold groups and marks live 1.8–2.0 frames agains
 belongs to the picture layer. In the June release the dirt floats *after* assembly on its
 own cadence. Same kind of pass, opposite ordering. One toolchain, per-video settings.
 
-**One retime over an assembled timeline.** All three 2026 videos carry a bit-identical
+**One retime over an assembled timeline.** All three 2026 videos carry a near-identical
 frame every 12, an 11:12 conform from about 27.5 unique fps inside a 29.97 container, and
 it runs unbroken through shot cuts with no phase reset. Every uploaded format reports 30
 fps, so this is in the master rather than YouTube's transcode.
