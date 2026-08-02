@@ -1,8 +1,9 @@
-# The clock, redone against all 19 posts
+# The clock, redone against every post
 
 Dossier §3 rendered **7** machine-read instants against four time zones and found a clean
 Central European morning band. The 2026-08-02 recovery of 11 deleted posts took the count of
-authored, non-schedulable acts from 2 to 19. This is the recompute.
+authored, non-schedulable acts from 2 to 19, and two more posts on 2026-08-02 took it
+to **21**. This is the recompute.
 
 Run: `python3.12 analysis/clock-redo/clock19c.py` (the one to trust). `clock19.py` and
 `clock19b.py` are kept because each contains an error worth not repeating, documented in their
@@ -21,10 +22,10 @@ cannot. §3 mixed them. Using only the 19 X posts is the stricter test and is wh
 
 | zone | posts falling in the local small hours |
 |---|---|
-| CEST (+2) | **7 of 19** |
-| Moscow (+3) | 5 of 19 |
-| US Eastern (−4) | 11 of 19 |
-| US Pacific (−7) | 10 of 19 |
+| CEST (+2) | **7 of 21** |
+| Moscow (+3) | 5 of 21 |
+| US Eastern (−4) | 11 of 21 |
+| US Pacific (−7) | 12 of 21 |
 
 Offsets under which **no** post lands in the small hours: **UTC+8.5, +9.0, +9.5, +10.0**. Every
 other offset from −12 to +12 has at least one violation.
@@ -58,7 +59,7 @@ should not be cited.
 ## The dossier figure
 
 `figs/qtecqot/clock.png` was the dossier's §3 figure and showed the 7-act reading. It has been
-regenerated against all 19 posts by `make_dossier_clock.py`. Two things to know before trusting
+regenerated against every post by `make_dossier_clock.py`. Two things to know before trusting
 it:
 
 - **It is a reconstruction, not a rerun.** No script in this repo ever generated the original;
@@ -71,3 +72,21 @@ it:
   across all of them.
 
 The 7-act original is preserved at `figs/qtecqot/withdrawn/clock_7acts_2026-07-29_WITHDRAWN.png`.
+
+## Counts move, the conclusion does not
+
+The numbers above are **21 posts**, not the 19 this directory was first written against.
+He posted twice more on 2026-08-02 at 13:05 and 13:12 UTC, replying to CytHyper, and the
+watcher caught both. Recomputed:
+
+- the set of offsets with zero small-hours posts is **unchanged**, still UTC+8.5 to +10
+- CEST, Moscow and US Eastern keep the same absolute counts, so only the denominator moves
+- **US Pacific goes 10 to 12**, because 13:05 and 13:12 UTC are 06:05 and 06:12 in PDT
+
+So nothing here turns on it. It is logged because three figures kept printing 19 after the
+20th and 21st posts existed, each holding its own typed copy of the list. The post list now
+comes from `analysis/dossier-figs/acts.py`, which reads `raw/` at run time, so the next post
+propagates by rerunning rather than by remembering.
+
+`figs/qtecqot-2026-08-02/` is deliberately **not** regenerated. That carousel is what was
+published to Reddit at n=19 and is left as the record of what was posted.

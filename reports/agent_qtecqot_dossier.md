@@ -58,6 +58,14 @@ VPN-dependent. Neither is a self-declaration and neither should be quoted as one
 
 ![Every public act by qtecqot](../figs/qtecqot/timeline.png)
 
+**Updated 2026-08-02: 28 acts, not the nine this section was written against.** Eleven deleted
+posts were recovered and the watcher has captured every post since, so the figure now carries all
+21 X posts alongside the registrations, uploads, description edit and the two YouTube comments.
+It is rebuilt by `analysis/dossier-figs/make_timeline.py`, which reads the post list from `raw/`
+rather than holding its own copy; the nine-act original is at
+`figs/qtecqot/withdrawn/timeline_9acts_2026-07-29_SUPERSEDED.png`. The paragraph below is kept as
+written, so read "nine" as "the nine that were visible at the time".
+
 Nine acts in fourteen weeks. Precision class is stated on every row because the classes differ by
 six orders of magnitude, and several published claims about this account come from reading a
 low-precision figure as though it were a high-precision one.
@@ -127,15 +135,16 @@ this dossier, tweet 1 is the one that cannot have been staged in advance.
 
 > **WITHDRAWN 2026-08-02. Do not cite the CEST reading below.** This section used 7 instants.
 > The recovery of 11 deleted X posts took the count of authored, non-schedulable acts from 2 to
-> 19. Against all 19, **CEST puts 7 of them in the local small hours**, Moscow 5, US Pacific 10,
-> US Eastern 11, and the only offsets with zero violations are UTC+8.5 to +10. The clean European
+> 19, and two more posts on 2026-08-02 took it to **21**. Against all 21, **CEST puts 7 of them
+> in the local small hours**, Moscow 5, US Eastern 11, US Pacific 12,
+> and the only offsets with zero violations are UTC+8.5 to +10. The clean European
 > morning band does not survive, and the replacement is not a different zone but the conclusion
 > that **the clock no longer identifies one**. Recompute, figure and the honest reading:
 > `analysis/clock-redo/`. Log entry: `CORRECTIONS.md`, 2026-08-02 §1. The ivan0135 half of this
 > section is untouched. The text below is kept as written so the correction can be checked.
 >
 > **The figure has been regenerated and no longer matches the prose below it.** It now runs
-> all 19 posts and carries no best-fit box on the 2026 panel, because there is no best fit.
+> every post and carries no best-fit box on the 2026 panel, because there is no best fit.
 > The 7-act original is kept at `figs/qtecqot/withdrawn/clock_7acts_2026-07-29_WITHDRAWN.png`
 > so the two can be compared. Note the replacement is a *reconstruction* of the original's
 > design: the script that drew the 7-act version does not exist in this repo and never did,
@@ -535,6 +544,17 @@ what he says about himself rather than against it.
 
 ![The "N of 8" counter, decoded](../figs/qtecqot/counter.png)
 
+**Slot 8 is no longer blank.** On 2026-08-02 he described its contents unprompted, replying on X
+([`2083903785219551469`](https://x.com/qtecqot/status/2083903785219551469)): *"I can confirm that
+the next release will contain content from Tape 7 and will be in color. Some may find it slightly
+more disturbing than previous footage."* Seven minutes earlier
+([`2083902015831511168`](https://x.com/qtecqot/status/2083902015831511168)) he gave the numbering
+the counter sits inside: *"They advance sequentially across 7 tapes, beginning at tape 01, case 01
+and ending at tape 07, case 40. Of note is a minor indexing error in 2011."* Both are registered
+before the thing that would test them. Tape 07 has never been shown by either era, and the colour
+notation is a 2026 invention with no 2011 precedent, so `agent_colour_duplicate_count.md`'s
+measurement can be run against a colour release the day it lands.
+
 ### 6.1 The release counter
 
 "5 of 8 completed" was written in a YouTube comment two to four days after video 1 published, when
@@ -855,6 +875,6 @@ Ordered by value per unit effort.
 
 | file | what it shows |
 |---|---|
-| `figs/qtecqot/timeline.png` | All nine public acts, with precision class and real cadence |
+| `figs/qtecqot/timeline.png` | All 28 public acts, with precision class and real cadence. Rebuilt 2026-08-02 by `analysis/dossier-figs/make_timeline.py`; nine-act original in `figs/qtecqot/withdrawn/` |
 | `figs/qtecqot/clock.png` | All 19 X posts against four candidate time zones, with ivan0135's five for contrast. Regenerated 2026-08-02 by `analysis/clock-redo/make_dossier_clock.py`; the withdrawn 7-act version is in `figs/qtecqot/withdrawn/` |
-| `figs/qtecqot/counter.png` | The "N of 8" release counter and the arithmetic that fixes it |
+| `figs/qtecqot/counter.png` | The "N of 8" release counter and the arithmetic that fixes it, now carrying what he has said about slot 8. Rebuilt 2026-08-02 by `analysis/dossier-figs/make_counter.py`; original in `figs/qtecqot/withdrawn/` |
