@@ -49,6 +49,8 @@ watch/*.log
 # xwatch: rotating logs. The evidence (raw/, media/, state.json, CHANGELOG.md) is tracked.
 watch/x/check.log
 watch/x/cron.log
+watch/x/keeper.log
+watch/x/.keeper.lock
 
 # Un-redacted source screenshot: carries two third-party @handles of private
 # individuals. The redacted copy beside it is the one that ships. (2026-08-02)
