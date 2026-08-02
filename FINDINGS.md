@@ -552,7 +552,7 @@ amplitude is preserved across hold groups and marks live 1.8–2.0 frames agains
 belongs to the picture layer. In the June release the dirt floats *after* assembly on its
 own cadence. Same kind of pass, opposite ordering. One toolchain, per-video settings.
 
-**One retime over an assembled timeline.** All three 2026 videos carry a bit-identical
+**One retime over an assembled timeline.** All three 2026 videos carry a near-identical
 frame every 12, an 11:12 conform from about 27.5 unique fps inside a 29.97 container, and
 it runs unbroken through shot cuts with no phase reset. Every uploaded format reports 30
 fps, so this is in the master rather than YouTube's transcode.
@@ -566,10 +566,12 @@ are under 1 px, so the power is low.
 
 **Source-rate archaeology.** The black-and-white picture advances in bursts of about 16 ± 1
 distinct images per burned-in second, consistent with a 16 fps cine source — a standard
-amateur rate — slowed by frame repetition. The colour Mk.5 clip instead moves on *every*
-output frame, about 40.8 distinct images per source second, which is not a plausible 1961
-camera rate. That implies either synthesized intermediates or a high-rate source for that
-shot specifically.
+amateur rate — slowed by frame repetition. The colour Mk.5 clip instead advances on every
+output frame bar the conform duplicate, about 41.2 distinct images per source second,
+which is not a plausible 1961 camera rate. That implies either synthesized intermediates
+or a high-rate source for that shot specifically.
+
+Detail: `reports/agent_colour_duplicate_count.md`.
 
 **One mismatch in the story's own terms.** The sources are called "tapes" throughout. The
 applied damage is film dirt, film scratches, and a film gate. Videotape has none of those.

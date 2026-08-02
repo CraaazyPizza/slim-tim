@@ -81,6 +81,14 @@ two are audits of the record itself.
 | `agent_other_people.md` | Everyone who is neither ivan0135 nor qtecqot: the one commenter qtecqot replied to, and the two outside creators who amplified the material. Public accounts, public posts, public numbers only | §16, §24 |
 | `agent_record_integrity.md` | Read-only audit of every document for claims that read as current but have been superseded, and for personal information that should not ship. **No edits made by that agent** — it produced the list the cleanup then worked through. Its own before/after quotations are redacted where the "before" carried identifying detail | — |
 
+## Wave 6 — the colour-segment duplicate count (2026-08-01)
+
+One measurement, run because two existing reports disagreed about the same 346 frame pairs.
+
+| Report | What it settles | FINDINGS |
+|---|---|---|
+| `agent_colour_duplicate_count.md` | Independent duplicate count for the colour Mk.5 segment, `OpSTlDJWFFI` f2571–2917. **29 pairs, not the 26 of `agent_video1` or the 3 of `agent_mk5_claims`** — the latter a transferred absolute threshold truncating the series, which reproduces exactly. Confirms the 11/12 conform factor for this segment by direct measurement (0.05% agreement) and corrects §20's "40.8 distinct images per source second" to **41.2**. Same 29 pairs under both codecs. Scripts in `analysis/colour-duplicate-count/` | §20 |
+
 ## Reading order for someone picking this up cold
 
 1. `FINDINGS.md` §0 for the corpus, then §12 for the headline.

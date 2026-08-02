@@ -9,6 +9,51 @@ Newest first. "Ours" = a claim we made; "outside" = a claim someone else made th
 
 ---
 
+## 2026-08-01 — the colour-segment duplicate count
+
+Both entries come from one independent re-measurement of `OpSTlDJWFFI` f2571–2917 with
+no reuse of either prior classification. Method, all 29 pairs, threshold sweep and codec
+cross-check: `reports/agent_colour_duplicate_count.md`. Scripts:
+`analysis/colour-duplicate-count/`.
+
+### 1. ★ "Period-12 conform is only weakly expressed here" — NOT REPRODUCED (ours)
+**Was:** `agent_mk5_claims.md` item 5e reported **3** near-identical consecutive pairs in
+346 frames for the colour Mk.5 segment, concluding the conform was barely present there.
+**Now:** **29** duplicate pairs, all at one phase, disjoint from the other 317 pairs on
+raw mean-abs-luma (highest duplicate 0.3885, lowest non-duplicate 0.5195) and identical
+under both codecs. The conform is fully expressed.
+
+**Cause, and it reproduces exactly:** an absolute threshold (`mad 0.02–0.07`) calibrated
+on videos 2 and 3 was applied to a segment with a higher AV1 noise floor. A cut at
+0.05–0.06 yields two to four pairs; the full series needs 0.40. Every detection at every
+cut lands on the same phase, so the series was being **truncated, not absent**.
+
+**Standing rule: never carry an absolute similarity threshold between segments.**
+Normalise locally, or derive the cut from the distribution you are actually measuring.
+The report's own note that all three of its hits sat at one phase of twelve (p ≈ 0.7% by
+chance) was the available tell. → §20
+
+### 2. "Bit-identical frame every 12" — WRONG FOR THE MEASURED COPY (ours)
+**Was:** `agent_video1_OpSTlDJWFFI.md` describes the period-12 pairs as "bit-identical",
+and FINDINGS §20 repeats it. `agent_triage_technical.md` §9.3 had already flagged the
+conflict with videos 2 and 3, which call the same phenomenon "near-identical, *not*
+bit-identical".
+**Now:** measured both ways. **Zero** of the 29 pairs are bit-identical in `videos/2026/`
+(AV1); **one** is in `videos/2026-avc/` (AVC). Both reports were right about their own
+copy. "Near-identical" is the defensible word for the corpus the writeups were measured
+on, and it is a claim a reader can check.
+
+Same measurement also **confirms the 11/12 conform factor for this segment directly** —
+unique fraction 317/346 = 0.91618 against 11/12 = 0.91667, agreeing to 0.05% — which had
+previously been carried into the colour clip on the strength of the global result only.
+Consequence for FINDINGS §20's "40.8 distinct images per source second": it becomes
+**41.2**, not the 41.7 proposed in `agent_triage_technical.md` §4.6. → §20
+
+*`agent_mk5_claims.md` and `agent_video1_OpSTlDJWFFI.md` are left unedited. Reports are
+the historical record; corrections live here.*
+
+---
+
 ## 2026-07-29 — the "other people" section
 
 ### 1. "Rock Ferguson['s Facebook page carries a] Meta-verified badge" — WRONG (ours)

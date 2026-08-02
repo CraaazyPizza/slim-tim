@@ -15,6 +15,7 @@ so. `reports/` is the readable layer over all of this.
 | `hand-proportions/` | digit ratios, the strongest single discriminator in the corpus |
 | `insert-identification/` | the four-frame insert at `OpSTlDJWFFI` 2971–2974 |
 | `mk4/`, `mk5-colour-segment/` | the colour segment |
+| `colour-duplicate-count/` | frame-duplicate cadence of the colour segment — the count two earlier reports disagreed on. Relative paths, no hardcoded numbers, reruns byte-identical |
 | `audio-colour-segment/` | audio of that segment |
 | `prior-work/` | material from earlier public analyses, for comparison |
 | `scenes/` | shot-by-shot content pass |
