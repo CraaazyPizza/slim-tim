@@ -4,8 +4,12 @@ Opened 2026-08-02, out of the deleted-tweet recovery in `RECOVERED.md`. Unlike
 `CERNOHAJEV_LEAD.md`, this one has a **published, dateable, checkable source text** on the
 other end of it, and the source predates ivan0135's first upload by five years.
 
-**SERPO appears nowhere in this repo before today.** Not in `FINDINGS.md`, not in the dossier,
-not in `docs/TIMELINE.md`, not in any agent report. That is the gap this file opens.
+**The word SERPO appears nowhere in this repo before today.** Not in `FINDINGS.md`, not in the
+dossier, not in `docs/TIMELINE.md`, not in any agent report. That is a gap in *our* coverage.
+
+**It is not a gap in the field's. Read `## Prior art` below before citing anything here as new.**
+The SERPO / "Ivan" / retired-KGB link has been in public since **2011**, and this file was
+written on 2026-08-02 without knowing that. What is new here is only the 2026 half.
 
 ## The artifact
 
@@ -88,6 +92,62 @@ document lists "RELEASE 26 A violent contact with ETs in Russia" and "RELEASE 26
 Version of Violent ET Encounter from KGB" as discrete releases, so the numbering is the corpus's
 own, not a mirror's invention.
 
+## Prior art — the 2011 half of this is not ours
+
+Found 2026-08-02, a few hours after the rest of this file was written, by following the
+Metabunk thread properly instead of skimming it.
+
+**Ben Philips**, the VFX professional already in this repo at `docs/SKINNY_BOB_DOSSIER.md` §3.4
+and `reports/agent_other_people.md` §2, wrote this **in 2011**, in the comments on his own
+re-upload of ivan0135's four videos:
+
+> "Project SERPO… The human/Reticulan exchange programme… Project SERPO (if real) describes a
+> meeting with 3 aliens… one was female. **What is interesting is that in the SERPO files, there
+> is an entry by a guy calling himself Ivan who claims to be retired KGB.**"
+
+That is the core of §"What lines up" below, published fifteen years ahead of this file.
+
+It is preserved in [`r/SkinnyBob/comments/rhl40z`](https://www.reddit.com/r/SkinnyBob/comments/rhl40z/),
+**2021-12-16, by u/SoCalledLife**, 101 points and 111 comments — the attribution investigation
+that argues Philips made the videos. It was reposted in full on
+[Metabunk on 2022-05-25](https://www.metabunk.org/threads/skinny-bob-videos.11760/post-271137).
+That post goes one step further than we did:
+
+> "It's possible Ben actually got the idea to make (or repurpose) the Skinny Bob videos after
+> finding this reference. He slapped a KGB badge on the footage and uploaded it as Ivan."
+
+So the SERPO→Ivan→KGB chain is a **fifteen-year-old public observation**, and the leading
+origin theory for the 2011 videos already runs through it. Our own dossier summarises `rhl40z`
+and drops the SERPO paragraph, which is how it stayed invisible here.
+
+**What survives as new, after subtracting all of that:**
+
+1. **qtecqot's first post names СЕРПО, and he deleted it.** Nobody had the deleted posts before
+   today, so nobody could know this.
+2. Release 26's **"one (1) video recording of the occupants"** line, quoted above. Philips's 2011
+   note reaches Release 26a's Ivan; the surviving quote does not reach the video-recording line
+   in 26. Weak novelty at best — it is the adjacent paragraph in the same chapter, and anyone
+   who opened the release would hit it.
+
+**What this does to the reading.** It cuts both ways and both ways are worth stating. If
+`rhl40z` is right that SERPO seeded the 2011 videos, then the 2026 operator naming СЕРПО is the
+same source-awareness showing up twice, which is what a continuation would look like. It is
+equally what someone who read `rhl40z` would produce. That post has been publicly readable since
+December 2021 and is the top result for several obvious searches. **Nothing here distinguishes
+the two**, and this file previously implied otherwise.
+
+**On naming.** Philips self-identified under his own name in 2011 and has spoken publicly about
+this material ever since, so §3.4's existing treatment applies. The attribution claim in `rhl40z`
+is **u/SoCalledLife's, not ours** — cite it as somebody else's argument, do not adopt it.
+
+**Files in `serpo/`.** `release26_serpo.org_20080117.txt` and `release26a_...txt` are the
+extracted text of the primary pages, pulled from the Wayback capture of 2008-01-17 because
+`serpo.org` now answers 403. Every quote in this file was re-verified against them, not against
+the oocities mirror it was drafted from. `2011_bedeekin_yt_comments_serpo_release26a_redacted.jpg`
+is the screenshot of the 2011 comment. It ships **redacted**: the un-redacted original is held
+locally and git-ignored, because it carries the @handles of two private individuals who replied
+in that thread. Philips's own handle stays visible under the public-creator exception.
+
 ## What lines up
 
 | Skinny Bob corpus | SERPO corpus |
@@ -117,22 +177,28 @@ Recording the misses matters as much, and they are real:
 
 ## What this supports, and what it does not
 
-**Supported.** The operator of the qtecqot account explicitly named Project SERPO in the first
-thing he ever posted, and then deleted it. SERPO's Chapter 9 contains a named "KGB Major Ivan"
-and a stated single KGB video recording of live non-human occupants, published years before
-ivan0135 existed. There is a documented prior text that the 2011 persona's two defining
-features — the name and the premise — are both already present in.
+**Supported.** The operator of the qtecqot account named Project SERPO in the first thing he ever
+posted, and then deleted it. SERPO's Chapter 9 contains a named "KGB Major Ivan" and a stated
+single KGB video recording of live non-human occupants, published years before ivan0135 existed.
+The 2011 persona's two defining features, the name and the premise, are both present in a text
+that predates it.
 
 **Not supported.** That the 2011 uploader read it, that the footage derives from it, or anything
 about how the footage was made. A shared genre ancestor is not a production credit. Everything in
 `FINDINGS.md` about how the videos were assembled stands or falls on its own evidence and is
 untouched by this.
 
-**Worth stating plainly:** this cuts against the "qtecqot is an unrelated 2026 impostor" reading
-and against the "qtecqot is a naive AI-video account" reading alike. Whoever runs it knew the
-lore's primary sources well enough to cite the right release series in Russian, in his first
-post, before any video shipped — and then judged it a liability and removed it. Same editorial
-reflex, same week, as the Černohajev deletion.
+**Also not supported, and this is the one to hold on to: that the qtecqot operator went to the
+source.** Since `rhl40z` has carried the whole SERPO/Ivan/KGB observation publicly since
+December 2021, reading one Reddit post gets you everything his first post shows. See
+`## Prior art`.
+
+**What it does still do.** It cuts against the reading that qtecqot is an unrelated impostor who
+picked the footage up cold, and against the reading that it is a naive AI-video account. Whoever
+runs it had gone at least as deep as the case's own research threads before shipping a video,
+wrote the reference in Russian, and then judged it a liability and removed it. Same editorial
+reflex, same week, as the Černohajev deletion. **Depth of reading is not identity**, and this is
+the level of claim the evidence carries.
 
 ## Testable next steps
 
@@ -140,7 +206,14 @@ reflex, same week, as the Černohajev deletion.
    descriptions, titles, and any surviving comments for СЕРПО / SERPO / Zeta Reticuli / Eben.
    Title of 2011 tape 06 already reads "alien grey extraterrestrial **zeta reticuli** tape 06" —
    Zeta Reticuli is SERPO's central claim. **This is the highest-value check in this file and it
-   is cheap.**
+   is cheap.** Note the direction it has to run: Philips raised SERPO in the comments *under his
+   re-upload*, so a hit on ivan0135's own titles or descriptions, which predate that, is the
+   thing worth having. A hit in the comments is not.
+1a. **Read Philips's 2011 comment in full**, not through `rhl40z`'s excerpt. Source is the
+   comment thread on `youtube.com/watch?v=3pgTBz-R_XA` and `youtube.com/user/Bedeekin`, plus
+   [`r/AliensAndUFOs/comments/bibcmh`](https://www.reddit.com/r/AliensAndUFOs/comments/bibcmh/).
+   Establish whether he reached Release 26's video-recording line in 2011 or stopped at 26a's
+   Ivan. That is the only remaining piece of §"What lines up" this file might own.
 2. **EBL vs EBE.** Establish whether "EBL" is qtecqot's coinage or an existing term in the
    SERPO/ufology corpus. If it appears nowhere else, it is a fingerprint.
 3. **The 1985 Zhmurova incident** independently: does it exist outside SERPO, and does any

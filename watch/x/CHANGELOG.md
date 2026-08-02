@@ -32,3 +32,15 @@
 ## 2026-08-02T13:14:01.746729+00:00
 
 - ★★★ @qtecqot: tweets 9 -> 10
+
+## 2026-08-02T13:26:48.276280+00:00
+
+-     media GONE 2052271474304750075_1 404 https://pbs.twimg.com/media/HHsh_cxaUAAtlAf.png
+-     media GONE 2066148832728207700_1 404 https://pbs.twimg.com/media/HKxvPawbEAAuEqP.png
+-     media GONE 2066151685723169249_1 404 https://pbs.twimg.com/media/HKxx2aDa4AA1GT2.png
+-     media GONE 2066383587763769681_1 404 https://pbs.twimg.com/news_img/2066383588334202880/OS7DqCbE?format=jpg&name=150x150
+-     media GONE 2066383587763769681_2 404 https://pbs.twimg.com/news_img/2066383588334202880/OS7DqCbE?format=jpg&name=orig
+-     media GONE 2083134567695925347_1 404 https://pbs.twimg.com/media/HOjHpt4awAANdX7.jpg
+-     media GONE 2083134567695925347_2 404 https://pbs.twimg.com/media/HOjHpt_bcAAi7wr.jpg
+-     backfill media: 12 held, 7 purged from the CDN
+- ! ERROR (instrument failure, NOT an absence of change): 7 asset(s) already purged from the twimg CDN

@@ -49,3 +49,7 @@ watch/*.log
 # xwatch: rotating logs. The evidence (raw/, media/, state.json, CHANGELOG.md) is tracked.
 watch/x/check.log
 watch/x/cron.log
+
+# Un-redacted source screenshot: carries two third-party @handles of private
+# individuals. The redacted copy beside it is the one that ships. (2026-08-02)
+qtecqot-x-recovered/serpo/2011_bedeekin_yt_comments_serpo_release26a.jpg

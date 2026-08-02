@@ -31,9 +31,17 @@ Four independent legs, so no single blocked endpoint means silent data loss:
 Absence rule (AGENTS.md): a fetch failure is recorded as an ERROR, never as "nothing
 happened". The changelog distinguishes the two, and check.log carries per-leg outcomes.
 
+Assets are downloaded from whatever shape the record happens to be in, because we
+hold two: the live fxtwitter body and the archived Twitter API v2 bodies recovered
+from the Wayback Machine. The shape-specific reader this started with saw nothing
+in the second kind, so the 2026-06-14 deleted post's attached video sat unfetched
+for seven weeks. `--backfill-media` sweeps every record we hold, including
+qtecqot-x-recovered/raw/, and logs which assets the CDN has already purged.
+
 Usage:  python3.12 watch/xwatch.py           # one pass
         python3.12 watch/xwatch.py --quiet   # print only on change (for cron)
         python3.12 watch/xwatch.py --backfill 2049004250995507595 ...   # add known IDs
+        python3.12 watch/xwatch.py --backfill-media   # sweep held records for assets
 Exit 10 = something changed.
 """
 import json, os, re, sys, time, urllib.request, urllib.error
@@ -128,28 +136,104 @@ def fetch_status(handle, sid):
         return None, -1
 
 
-def save_media(rec, sid):
-    """Download every attached asset at full resolution. Returns list of local paths."""
+CDN = ("pbs.twimg.com", "video.twimg.com")
+
+
+def media_urls(obj):
+    """Every twimg asset URL anywhere in a record, whatever the record's shape.
+
+    Deliberately shape-agnostic. The live fxtwitter body nests assets under
+    tweet.media.all[].url, but the archived Twitter API v2 bodies in
+    qtecqot-x-recovered/raw/ use includes.media[].media_url_https and a
+    variants[] list, and the 2026-06-14 deleted post kept its video only in the
+    latter. A shape-specific reader silently returned nothing for those and the
+    assets went un-downloaded for months. Walk the whole tree instead.
+    """
+    found = set()
+
+    def walk(o):
+        if isinstance(o, dict):
+            for k, v in o.items():
+                if isinstance(v, str) and any(d in v for d in CDN) and v.startswith("http"):
+                    if k in ("url", "media_url", "media_url_https", "preview_image_url"):
+                        found.add(v)
+                walk(v)
+        elif isinstance(o, list):
+            for v in o:
+                walk(v)
+
+    walk(obj)
+    # Keep only the largest rendition per video: the variants list carries the same
+    # clip at 480x270 through 1920x1080 and we want the one with the most signal.
+    best = {}
+    keep = set()
+    for u in found:
+        m = re.search(r"/amplify_video/(\d+)/vid/[^/]+/(\d+)x(\d+)/", u)
+        if m:
+            vid, px = m.group(1), int(m.group(2)) * int(m.group(3))
+            if px > best.get(vid, (0, None))[0]:
+                best[vid] = (px, u)
+        else:
+            keep.add(u)
+    return sorted(keep | {u for _, u in best.values()})
+
+
+def save_media(rec, sid, log=None):
+    """Download every attached asset at full resolution. Returns list of local names."""
     out = []
-    tw = (rec or {}).get("tweet") or {}
-    media = (tw.get("media") or {}).get("all") or []
-    for i, m in enumerate(media, 1):
-        url = m.get("url")
-        if not url:
-            continue
+    for i, url in enumerate(media_urls(rec), 1):
+        fetch = url
         # Images: ask for the original, not the timeline-resized variant.
-        if m.get("type") == "photo" and "?" not in url:
-            url = url + "?format=" + url.rsplit(".", 1)[-1] + "&name=orig"
+        if "pbs.twimg.com/media/" in url and "name=" not in url:
+            ext0 = url.rsplit(".", 1)[-1]
+            fetch = url.split("?")[0] + "?format=" + ext0 + "&name=orig"
         ext = re.sub(r"[?&].*$", "", url).rsplit(".", 1)[-1][:4] or "bin"
         path = os.path.join(MEDIA, f"{sid}_{i}.{ext}")
-        if os.path.exists(path):
+        if os.path.exists(path) and os.path.getsize(path) > 0:
             out.append(os.path.basename(path)); continue
         try:
-            open(path, "wb").write(get(url, timeout=60, raw=True))
+            body = get(fetch, timeout=90, raw=True)
+            if not body:
+                raise ValueError("empty body")
+            open(path, "wb").write(body)
             out.append(os.path.basename(path))
         except Exception as e:
-            out.append(f"FAILED {os.path.basename(path)}: {type(e).__name__}")
+            # A 404 here is itself a finding: X purges assets on delete, but not
+            # always and not immediately. Record which ones we lost and when.
+            code = getattr(e, "code", type(e).__name__)
+            out.append(f"GONE {os.path.basename(path)} ({code}) {url}")
+            if log is not None:
+                log.append(f"    media GONE {sid}_{i} {code} {url}")
     return out
+
+
+def backfill_media(extra_dirs, log):
+    """Sweep every record we already hold and download any asset we never fetched.
+
+    Leg C only ever downloaded media at the moment it captured a status. Records
+    recovered by other means -- the Wayback API v2 bodies under
+    qtecqot-x-recovered/raw/ -- were never swept, so their assets were never
+    pulled even while the CDN was still serving them. This closes that.
+    """
+    n_ok = n_gone = 0
+    for d in extra_dirs:
+        if not os.path.isdir(d):
+            continue
+        for fn in sorted(os.listdir(d)):
+            if not fn.endswith(".json"):
+                continue
+            sid = fn[:-5]
+            try:
+                rec = json.load(open(os.path.join(d, fn)))
+            except Exception:
+                continue
+            for name in save_media(rec, sid, log):
+                if name.startswith("GONE"):
+                    n_gone += 1
+                else:
+                    n_ok += 1
+    log.append(f"    backfill media: {n_ok} held, {n_gone} purged from the CDN")
+    return n_ok, n_gone
 
 
 # ---------------------------------------------------------------- leg D
@@ -202,6 +286,15 @@ def main():
 
     now = datetime.now(timezone.utc)
     lines, errors = [], []
+
+    # Sweep every record we hold for assets we never downloaded. Cheap after the
+    # first pass (existing files are skipped), and it runs before the legs so a
+    # newly recovered record gets its media on the very next tick.
+    if "--backfill-media" in sys.argv or "--full" in sys.argv:
+        ok, gone = backfill_media(
+            [RAW, os.path.join(os.path.dirname(ROOT), "qtecqot-x-recovered", "raw")], lines)
+        if gone:
+            errors.append(f"{gone} asset(s) already purged from the twimg CDN")
 
     for handle in HANDLES:
         hs = state["handles"].setdefault(handle, {"profile": None, "statuses": {}})
@@ -264,7 +357,7 @@ def main():
                     json.dump(rec, open(path, "w"), indent=1, ensure_ascii=False)
                     tw = rec.get("tweet") or {}
                     txt = (tw.get("text") or "").replace("\n", " / ")[:220]
-                    saved = save_media(rec, sid)
+                    saved = save_media(rec, sid, lines)
                     lines.append(f"★★★ @{handle}: CAPTURED {sid} ({tw.get('created_at')}) "
                                  f"— {txt!r}" + (f" [media: {', '.join(saved)}]" if saved else ""))
                     lines.append(f"    {wayback_save(sid)} for {sid}")
