@@ -153,10 +153,17 @@ for sp in ("top", "right"):
     ax.spines[sp].set_visible(False)
 ax.spines["left"].set_color(DIM)
 ax.spines["bottom"].set_color(DIM)
-ax.set_ylabel("Posts landing between midnight and 7am", fontsize=13, color=DIM, labelpad=12)
-ax.set_title("No time zone fits any more", fontsize=28, weight="bold", loc="left", pad=32)
+ax.set_ylabel("Of his 19 posts, how many land in local 00:00 to 07:00",
+              fontsize=13, color=DIM, labelpad=12)
+ax.set_xlabel("UTC offset applied to every post", fontsize=13, color=DIM, labelpad=10)
+# 28pt clipped the last word off the square. This heading is 31 characters and 23 is what fits.
+ax.set_title("The clock stopped naming a zone", fontsize=23, weight="bold", loc="left", pad=32)
 ax.text(0, 1.020, "Each of the 19 posts, read as a local time under every offset",
         transform=ax.transAxes, fontsize=13.5, color=DIM)
+# The 0 in the readings block reads as "so he is at UTC+9" unless this says otherwise.
+# It is the one number a viewer will take away, so the caveat goes next to it, not in a caption.
+ax.text(3.6, 9.4, "A zero is a gap, not an address.", fontsize=12.5, color=DIM, va="center")
+ax.text(3.6, 8.4, "One late night rules a zone out.", fontsize=12.5, color=DIM, va="center")
 fig.tight_layout(rect=[.02, .02, .98, .95])
 fig.savefig(OUT + "3_clock.png")
 plt.close(fig)

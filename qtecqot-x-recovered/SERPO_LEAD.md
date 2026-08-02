@@ -83,7 +83,11 @@ And in the American half, Release 26, the line that matters most here:
 > the occupants**. CAC provided 25 copies of the photographs to this [CIA] CO."
 
 **A single KGB video recording of live non-human occupants in Soviet custody, described in a
-published text in 2006 — five years before ivan0135 uploaded one in May 2011.**
+published text four years before ivan0135 uploaded one in May 2011.** On the date: both pages
+were live on `serpo.org` by **2007-09-03**, the first Wayback capture of `release26.asp` and
+`release26a.asp`, and Release 26a presents itself as a translated email "received on August 25,
+2007". An earlier draft of this file said 2006 and five years; neither is supported by anything
+held here.
 
 Source: full text mirrored at
 `https://www.oocities.org/maurice_osborn/Serpo.htm` (local copy of the fetch and the extraction
@@ -98,8 +102,9 @@ Found 2026-08-02, a few hours after the rest of this file was written, by follow
 Metabunk thread properly instead of skimming it.
 
 **Ben Philips**, the VFX professional already in this repo at `docs/SKINNY_BOB_DOSSIER.md` §3.4
-and `reports/agent_other_people.md` §2, wrote this **in 2011**, in the comments on his own
-re-upload of ivan0135's four videos:
+and `reports/agent_other_people.md` §2, wrote this **between 2011-05-22 and 2011-08-02** (see
+step 1a for how that is bracketed), in the comments on his own re-upload of ivan0135's four
+videos:
 
 > "Project SERPO… The human/Reticulan exchange programme… Project SERPO (if real) describes a
 > meeting with 3 aliens… one was female. **What is interesting is that in the SERPO files, there
@@ -124,10 +129,12 @@ and drops the SERPO paragraph, which is how it stayed invisible here.
 
 1. **qtecqot's first post names СЕРПО, and he deleted it.** Nobody had the deleted posts before
    today, so nobody could know this.
-2. Release 26's **"one (1) video recording of the occupants"** line, quoted above. Philips's 2011
-   note reaches Release 26a's Ivan; the surviving quote does not reach the video-recording line
-   in 26. Weak novelty at best — it is the adjacent paragraph in the same chapter, and anyone
-   who opened the release would hit it.
+2. Release 26's **"one (1) video recording of the occupants"** line, quoted above. Measured, not
+   assumed: all 36 of Philips's comments in that thread were pulled and read (step 1a), and he
+   cites `release26a.php` and the Ivan/KGB entry three times and never once reaches the video
+   line in Release 26. Hold it at its real size — it is the adjacent paragraph in the same
+   chapter, and anyone who opened the release would hit it. But it is the piece that bears on
+   *ivan0135 uploading a video*, and it is not in the prior art.
 
 **What this does to the reading.** It cuts both ways and both ways are worth stating. If
 `rhl40z` is right that SERPO seeded the 2011 videos, then the 2026 operator naming СЕРПО is the
@@ -166,8 +173,14 @@ Recording the misses matters as much, and they are real:
 
 - **Date.** Release 26a is a January **1985** incident. The Skinny Bob corpus is dated
   **1942–1969**. They are not the same event, and no reading makes them one.
-- **Build.** 1.2 m and 100 kg is squat and heavy. "Skinny Bob" is not.
-- **Anatomy.** "No thumbs" is not what the 2011 footage shows.
+- **Build — withdrawn, and it was our error.** This bullet used to read "1.2 m and 100 kg is
+  squat and heavy, Skinny Bob is not." That quotes 26a and ignores 26, which describes the same
+  beings in the same chapter as **"height: 1 meter tall, weight: 25kg, no hair, four fingers and
+  no thumbs"**, with a pear-shaped head, oversized eyes and a slit mouth. That is not a mismatch,
+  it is a close match. The corpus contradicts itself, so **the physical description is unusable
+  in either direction** and must not be cited as a miss or as a hit.
+- **Anatomy.** "No thumbs" is not what the 2011 footage shows. Both releases say it, so this one
+  survives the contradiction above.
 - **Ending.** In 26a all five occupants escape on 14 Jan 85 and the craft flies out of its
   hangar. Nothing in the Skinny Bob corpus corresponds.
 - **The word "Ivan"** is among the most common Russian given names, and Release 26a gives no
@@ -209,11 +222,29 @@ the level of claim the evidence carries.
    is cheap.** Note the direction it has to run: Philips raised SERPO in the comments *under his
    re-upload*, so a hit on ivan0135's own titles or descriptions, which predate that, is the
    thing worth having. A hit in the comments is not.
-1a. **Read Philips's 2011 comment in full**, not through `rhl40z`'s excerpt. Source is the
-   comment thread on `youtube.com/watch?v=3pgTBz-R_XA` and `youtube.com/user/Bedeekin`, plus
-   [`r/AliensAndUFOs/comments/bibcmh`](https://www.reddit.com/r/AliensAndUFOs/comments/bibcmh/).
-   Establish whether he reached Release 26's video-recording line in 2011 or stopped at 26a's
-   Ivan. That is the only remaining piece of §"What lines up" this file might own.
+1a. ~~**Read Philips's 2011 comment in full**~~ **— done 2026-08-02. He stopped at 26a's Ivan.**
+   All 307 comments on `3pgTBz-R_XA` were pulled with `yt-dlp` (authenticated; the sandbox IP is
+   otherwise blocked). 36 are his. Three mention SERPO, and all three point at the same page:
+
+   > "Project SERPO... not the SERPO group. The human/Reticulan exchange programme. dubya dubya
+   > dubya dot serpo.org/release26a.php is the page with Ivan's input."
+
+   > "What is interesting is that in the SERPO files, there is an entry by a guy calling himself
+   > Ivan who claims to be retired KGB."
+
+   > "The date is obviously important to another case... Like project SERPO, which may or may not
+   > be real. The images are very convincing.. the information is dubious."
+
+   Across all 36, **the string "video recording", "photograph" and "release 26" without the "a"
+   never appear**. He cites 26a and the Ivan/KGB entry, and never reaches Release 26's
+   "one (1) video recording of the occupants" line. So that line, which is the part of this file
+   that actually bears on ivan0135 uploading a video, **is not prior art** — it is the one piece
+   of §"What lines up" this file owns.
+
+   Dating, which was queried because the screenshot stamps the comments "10 years ago": the
+   re-upload's own metadata gives **2011-05-22**, and the three comments read **"15 years ago"**
+   as of 2026-08-02, so they fall between **2011-05-22 and 2011-08-02**. The two relative stamps
+   agree; YouTube floors them, and the screenshot was taken on or before 2021-12-18.
 2. **EBL vs EBE.** Establish whether "EBL" is qtecqot's coinage or an existing term in the
    SERPO/ufology corpus. If it appears nowhere else, it is a fingerprint.
 3. **The 1985 Zhmurova incident** independently: does it exist outside SERPO, and does any

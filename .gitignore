@@ -53,3 +53,10 @@ watch/x/cron.log
 # Un-redacted source screenshot: carries two third-party @handles of private
 # individuals. The redacted copy beside it is the one that ships. (2026-08-02)
 qtecqot-x-recovered/serpo/2011_bedeekin_yt_comments_serpo_release26a.jpg
+
+# Scratch pastes. Anything meant to ship goes in qtecqot-x-recovered/media/ under a
+# real name.
+qtecqot-x-recovered/image copy*.png
+qtecqot-x-recovered/Screenshot*.png
+qtecqot-x-recovered/REDDIT_DRAFT.md
+qtecqot-x-recovered/PREDICTIONS.md
