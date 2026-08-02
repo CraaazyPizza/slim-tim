@@ -44,3 +44,69 @@
 -     media GONE 2083134567695925347_2 404 https://pbs.twimg.com/media/HOjHpt_bcAAi7wr.jpg
 -     backfill media: 12 held, 7 purged from the CDN
 - ! ERROR (instrument failure, NOT an absence of change): 7 asset(s) already purged from the twimg CDN
+
+## 2026-08-02T13:32:37.563345+00:00
+
+-     media GONE 2052271474304750075_1 404 https://pbs.twimg.com/media/HHsh_cxaUAAtlAf.png
+-     media GONE 2066148832728207700_1 404 https://pbs.twimg.com/media/HKxvPawbEAAuEqP.png
+-     media GONE 2066151685723169249_1 404 https://pbs.twimg.com/media/HKxx2aDa4AA1GT2.png
+-     media GONE 2066383587763769681_1 404 https://pbs.twimg.com/news_img/2066383588334202880/OS7DqCbE?format=jpg&name=150x150
+-     media GONE 2066383587763769681_2 404 https://pbs.twimg.com/news_img/2066383588334202880/OS7DqCbE?format=jpg&name=orig
+-     media GONE 2083134567695925347_1 404 https://pbs.twimg.com/media/HOjHpt4awAANdX7.jpg
+-     media GONE 2083134567695925347_2 404 https://pbs.twimg.com/media/HOjHpt_bcAAi7wr.jpg
+-     backfill media: 12 held, 7 purged from the CDN
+- ! ERROR (instrument failure, NOT an absence of change): 7 asset(s) already purged from the twimg CDN
+
+## 2026-08-02T13:33:34.560998+00:00
+
+-     media GONE 2052271474304750075_1 404 https://pbs.twimg.com/media/HHsh_cxaUAAtlAf.png
+-     media GONE 2066148832728207700_1 404 https://pbs.twimg.com/media/HKxvPawbEAAuEqP.png
+-     media GONE 2066151685723169249_1 404 https://pbs.twimg.com/media/HKxx2aDa4AA1GT2.png
+-     media GONE 2066383587763769681_1 404 https://pbs.twimg.com/news_img/2066383588334202880/OS7DqCbE?format=jpg&name=150x150
+-     media GONE 2066383587763769681_2 404 https://pbs.twimg.com/news_img/2066383588334202880/OS7DqCbE?format=jpg&name=orig
+-     media GONE 2083134567695925347_1 404 https://pbs.twimg.com/media/HOjHpt4awAANdX7.jpg
+-     media GONE 2083134567695925347_2 404 https://pbs.twimg.com/media/HOjHpt_bcAAi7wr.jpg
+-     backfill media: 12 held, 7 purged from the CDN
+- ★★★ @qtecqot: CAPTURED 2083902015831511168 (Sun Aug 02 13:05:32 +0000 2026) — '@CytHyper Your efforts are commendable and appreciated. The cases however are not limited to a specific run duration. They advance sequentially across 7 tapes, beginning at tape 01, case 01 and ending  at tape 07, case 4'
+-     wayback save unavailable (HTTP 498) — local body is the copy for 2083902015831511168
+- ★★★ @qtecqot: CAPTURED 2083903785219551469 (Sun Aug 02 13:12:34 +0000 2026) — '@CytHyper I can confirm that the next release will contain content from Tape 7 and will be in color.   /  / Some may find it slightly more disturbing than previous footage.'
+-     wayback save unavailable (HTTP 498) — local body is the copy for 2083903785219551469
+- ! ERROR (instrument failure, NOT an absence of change): 7 asset(s) already purged from the twimg CDN
+
+## 2026-08-02T13:35:26.430850+00:00
+
+-     media GONE 2052271474304750075_1 404 https://pbs.twimg.com/media/HHsh_cxaUAAtlAf.png
+-     media GONE 2066148832728207700_1 404 https://pbs.twimg.com/media/HKxvPawbEAAuEqP.png
+-     media GONE 2066151685723169249_1 404 https://pbs.twimg.com/media/HKxx2aDa4AA1GT2.png
+-     media GONE 2066383587763769681_1 404 https://pbs.twimg.com/news_img/2066383588334202880/OS7DqCbE?format=jpg&name=150x150
+-     media GONE 2066383587763769681_2 404 https://pbs.twimg.com/news_img/2066383588334202880/OS7DqCbE?format=jpg&name=orig
+-     media GONE 2083134567695925347_1 404 https://pbs.twimg.com/media/HOjHpt4awAANdX7.jpg
+-     media GONE 2083134567695925347_2 404 https://pbs.twimg.com/media/HOjHpt_bcAAi7wr.jpg
+-     backfill media: 12 held, 7 purged from the CDN
+- ! ERROR (instrument failure, NOT an absence of change): 7 asset(s) already purged from the twimg CDN
+
+## 2026-08-02T13:36:29.529599+00:00
+
+-     media NEWLY GONE GONE 2052271474304750075_1.png (404) https://pbs.twimg.com/media/HHsh_cxaUAAtlAf.png
+-     media NEWLY GONE GONE 2066148832728207700_1.png (404) https://pbs.twimg.com/media/HKxvPawbEAAuEqP.png
+-     media NEWLY GONE GONE 2066151685723169249_1.png (404) https://pbs.twimg.com/media/HKxx2aDa4AA1GT2.png
+-     media NEWLY GONE GONE  (404) https://pbs.twimg.com/news_img/2066383588334202880/OS7DqCbE?format=jpg&name=150x150
+-     media NEWLY GONE GONE  (404) https://pbs.twimg.com/news_img/2066383588334202880/OS7DqCbE?format=jpg&name=orig
+-     media NEWLY GONE GONE 2083134567695925347_1.jpg (404) https://pbs.twimg.com/media/HOjHpt4awAANdX7.jpg
+-     media NEWLY GONE GONE 2083134567695925347_2.jpg (404) https://pbs.twimg.com/media/HOjHpt_bcAAi7wr.jpg
+-     backfill media: 12 held, 7 purged (7 newly)
+- ! ERROR (instrument failure, NOT an absence of change): 7 asset(s) purged from the twimg CDN since the last sweep
+
+## 2026-08-02T13:36:47.525326+00:00
+
+-     backfill media: 12 held, 7 purged (0 newly)
+
+## 2026-08-02T13:37:19.535536+00:00
+
+-     media NEWLY GONE 2052271474304750075_1.png (404) https://pbs.twimg.com/media/HHsh_cxaUAAtlAf.png
+-     media NEWLY GONE 2066148832728207700_1.png (404) https://pbs.twimg.com/media/HKxvPawbEAAuEqP.png
+-     media NEWLY GONE 2066151685723169249_1.png (404) https://pbs.twimg.com/media/HKxx2aDa4AA1GT2.png
+-     media NEWLY GONE 2083134567695925347_1.jpg (404) https://pbs.twimg.com/media/HOjHpt4awAANdX7.jpg
+-     media NEWLY GONE 2083134567695925347_2.jpg (404) https://pbs.twimg.com/media/HOjHpt_bcAAi7wr.jpg
+-     backfill media: 12 held, 5 purged (5 newly)
+- ! ERROR (instrument failure, NOT an absence of change): 5 asset(s) purged from the twimg CDN since the last sweep

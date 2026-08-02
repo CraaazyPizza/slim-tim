@@ -125,6 +125,54 @@ def leg_b(handle):
     return [], "ALL MIRRORS FAILED -- " + "; ".join(tried)
 
 
+def leg_b2(handle):
+    """Status IDs including REPLIES, via xAI x_search. Returns (ids, note).
+
+    Leg B is blind to replies. Nitter's profile RSS carries only standalone posts;
+    /with_replies/rss returns empty and the search endpoint is dead on every mirror
+    we have. That was not a problem while he posted announcements. On 2026-08-02 he
+    began answering people, and three consecutive replies -- including a dated
+    prediction about the next release -- were invisible to every leg except the
+    tweets counter in leg A, which could only say "one more post exists somewhere".
+
+    Needs XAI_API_KEY. Absent, this returns a recorded skip, never a silent zero.
+    """
+    key = os.environ.get("XAI_API_KEY") or ""
+    if not key:
+        for p in (os.path.expanduser("~/.config/last30days/.env"),):
+            try:
+                for ln in open(p):
+                    if ln.startswith("XAI_API_KEY="):
+                        key = ln.split("=", 1)[1].strip()
+            except Exception:
+                pass
+    if not key:
+        return [], "SKIPPED (no XAI_API_KEY) -- replies are not being enumerated"
+    body = json.dumps({
+        "model": "grok-4",
+        "input": f"List every post from the X account @{handle} from the last 7 days, "
+                 f"including replies. Give the full numeric status ID of each.",
+        "tools": [{"type": "x_search"}],
+    }).encode()
+    try:
+        req = urllib.request.Request(
+            "https://api.x.ai/v1/responses", data=body,
+            headers={"Authorization": "Bearer " + key, "Content-Type": "application/json"})
+        raw = urllib.request.urlopen(req, timeout=120).read().decode("utf-8", "replace")
+    except Exception as e:
+        return [], f"x_search FAILED: {type(e).__name__} {getattr(e, 'code', '')}"
+    # Snowflake IDs for this account are 19 digits starting 20; anything else in the
+    # prose is not a status id. Validate by decoding to a plausible date.
+    ids = []
+    for m in re.finditer(r"\b(2[0-9]{18})\b", raw):
+        sid = m.group(1)
+        ts = (int(sid) >> 22) + 1288834974657
+        if 1735689600000 < ts < time.time() * 1000 + 86400000:   # 2025-01-01 .. tomorrow
+            ids.append(sid)
+    ids = sorted(set(ids))
+    return ids, f"ok via x_search ({len(ids)} ids, replies included)"
+
+
 # ---------------------------------------------------------------- leg C
 def fetch_status(handle, sid):
     """(record|None, http_status). 404 means deleted/never-existed."""
@@ -155,7 +203,10 @@ def media_urls(obj):
         if isinstance(o, dict):
             for k, v in o.items():
                 if isinstance(v, str) and any(d in v for d in CDN) and v.startswith("http"):
-                    if k in ("url", "media_url", "media_url_https", "preview_image_url"):
+                    # news_img/* is the link-preview thumbnail for an article he linked
+                    # to, not media he attached. Tracking it as a loss is a false alarm.
+                    if k in ("url", "media_url", "media_url_https", "preview_image_url") \
+                            and "/news_img/" not in v:
                         found.add(v)
                 walk(v)
         elif isinstance(o, list):
@@ -215,6 +266,14 @@ def backfill_media(extra_dirs, log):
     qtecqot-x-recovered/raw/ -- were never swept, so their assets were never
     pulled even while the CDN was still serving them. This closes that.
     """
+    # Assets X has already purged stay purged. Remember which, so the hourly pass
+    # reports a NEW loss as an error and stays quiet about the standing ones.
+    gone_path = os.path.join(XDIR, "media_gone.json")
+    try:
+        known_gone = set(json.load(open(gone_path)))
+    except Exception:
+        known_gone = set()
+    fresh_gone = []
     n_ok = n_gone = 0
     for d in extra_dirs:
         if not os.path.isdir(d):
@@ -227,13 +286,24 @@ def backfill_media(extra_dirs, log):
                 rec = json.load(open(os.path.join(d, fn)))
             except Exception:
                 continue
-            for name in save_media(rec, sid, log):
+            for name in save_media(rec, sid, None):
                 if name.startswith("GONE"):
                     n_gone += 1
+                    url = name.rsplit(" ", 1)[-1]
+                    if url not in known_gone:
+                        fresh_gone.append(name)
+                        known_gone.add(url)
                 else:
                     n_ok += 1
-    log.append(f"    backfill media: {n_ok} held, {n_gone} purged from the CDN")
-    return n_ok, n_gone
+    try:
+        json.dump(sorted(known_gone), open(gone_path, "w"), indent=1)
+    except Exception:
+        pass
+    for name in fresh_gone:
+        log.append(f"    media NEWLY {name}")
+    log.append(f"    backfill media: {n_ok} held, {n_gone} purged "
+               f"({len(fresh_gone)} newly)")
+    return n_ok, len(fresh_gone)
 
 
 # ---------------------------------------------------------------- leg D
@@ -294,7 +364,7 @@ def main():
         ok, gone = backfill_media(
             [RAW, os.path.join(os.path.dirname(ROOT), "qtecqot-x-recovered", "raw")], lines)
         if gone:
-            errors.append(f"{gone} asset(s) already purged from the twimg CDN")
+            errors.append(f"{gone} asset(s) purged from the twimg CDN since the last sweep")
 
     for handle in HANDLES:
         hs = state["handles"].setdefault(handle, {"profile": None, "statuses": {}})
@@ -321,6 +391,27 @@ def main():
         ids, note = leg_b(handle)
         if not ids:
             errors.append(f"@{handle} leg B (timeline): {note}")
+
+        # --- leg B2: replies, which leg B structurally cannot see.
+        #
+        # Cadence, not every tick: x_search is metered. The obvious trigger -- leg A's
+        # tweets counter running ahead of the IDs we hold -- DOES NOT WORK, and the
+        # measurement is worth recording: after capturing his two 2026-08-02 replies we
+        # held 11 live statuses while the profile counter read 10. Replies do not
+        # increment it. So the counter can never signal a new reply, and a fixed cadence
+        # is the only honest option. Ten minutes bounds reply latency to ten minutes,
+        # costs 144 calls/day, and is inside the ~1 h window in which he deletes.
+        live_n = sum(1 for v in hs["statuses"].values() if v.get("state") == "live")
+        counter_ahead = bool(prof) and prof.get("tweets", 0) > max(live_n, len(ids))
+        if "--full" in sys.argv or counter_ahead or (now.minute % 10) < 2:
+            ids2, note2 = leg_b2(handle)
+            if not ids2:
+                errors.append(f"@{handle} leg B2 (replies): {note2}")
+            elif counter_ahead:
+                lines.append(f"    leg B2 fired: counter {prof.get('tweets')} > "
+                             f"{max(live_n, len(ids))} known -- {note2}")
+            ids = sorted(set(ids) | set(ids2))
+
         new_ids = [i for i in ids if i not in hs["statuses"]]
         for sid in new_ids:
             hs["statuses"][sid] = {"first_seen": now.isoformat(), "state": "new"}
