@@ -9,6 +9,62 @@ Newest first. "Ours" = a claim we made; "outside" = a claim someone else made th
 
 ---
 
+## 2026-08-02 — the deleted-post recovery
+
+Eleven deleted @qtecqot posts were recovered from Wayback captures of Twitter API v2
+lookups. They contradict four published claims. Method and evidence:
+`qtecqot-x-recovered/PROVENANCE.md`.
+
+### 1. ★ "Central European is a clean seven-for-seven morning band" — WITHDRAWN (ours)
+**Was:** `reports/agent_qtecqot_dossier.md` §3 rendered **7** machine-read instants against
+four candidate zones and reported CEST as a clean 06:23–11:39 morning band, "eight for eight"
+if a ninth act were included. From that it built a best-fit-zone comparison against ivan0135
+and concluded the two clocks "do not overlap".
+**Now:** the account authored **19** X posts, not 2. Against all 19, counting acts falling
+outside 07:00–24:00 local, **CEST puts 7 of them in the small hours**, Moscow 5, US Pacific 10,
+US Eastern 11. The only offsets under which *no* post lands in the small hours are **UTC+8.5 to
++10**. The published European reading does not survive, and the replacement is not "it is
+UTC+9" but **the clock no longer identifies a zone at all**: the constraint is brittle, one
+late-night post kills a candidate, and the acts split into two epochs (14 posts in UTC
+04:53–13:32 up to 2026-07-31 10:18, then 5 posts in UTC 22:33–03:45). Those two epochs are
+*not* incompatible, they overlap at UTC+8.5 to +10, but the discontinuity is the strongest
+structure in the data and it is unexplained.
+**Cause:** a 7-point sample treated as the population. The 17 missing acts were deleted posts,
+and no one had looked for deleted posts. Recompute: `analysis/clock-redo/`.
+
+### 2. "the two tweets" — SUPERSEDED (ours)
+**Was:** dossier §4.5 presented the account's output as two posts.
+**Now:** 19 recovered, 11 of them deleted. §4.5 is a subset, not the record.
+
+### 3. "replies to anyone, ever: 1" — WRONG (ours)
+**Was:** dossier §9.
+**Now:** at least three replies to third parties plus two retweets, one of which was itself
+deleted and reposted.
+
+### 4. "the X account was dormant April to July" — WRONG (ours)
+**Was:** implied by `FINDINGS.md` §23 and the July check that found zero posts.
+**Now:** it posted 30 minutes after registration and was wiped before 2026-07-28 07:18:28. The
+July "zero posts" reading was the *result* of a purge, not evidence of dormancy. Relaunch, not
+activation.
+
+### 5. "one username change, prior handle not recoverable" — NARROWED, not withdrawn (ours)
+**Was:** dossier §9 and `docs/TIMELINE.md` line 211 left this as an open item.
+**Now:** all 19 archived records carry `username` alongside an at-post-time `tweet_count`, so
+each reflects the handle as it stood then. All 19 read `qtecqot`, the earliest at 05:54:16, and
+the account was created at 05:24:54. The rename happened inside **29 minutes 22 seconds** with
+zero posts and one follower. That is the ordinary signup flow. The item can be closed as
+carrying no information rather than left standing as unexplained.
+
+### 6. Method note, ours, caught in-flight
+The first pass of the clock recompute scored zones by "width of the tightest arc containing
+all acts". That metric is **uninformative by construction** — a constant offset cannot change
+an arc's width — and duly returned 14.98 h for all nine zones. A second pass then read a
+printout that collapsed a set of admissible offsets to its min and max, and concluded the two
+epochs were incompatible. They are not. Both errors were caught before publication and both are
+recorded in the scripts. `analysis/clock-redo/clock19c.py` is the one to trust.
+
+---
+
 ## 2026-08-01 — the colour-segment duplicate count
 
 Both entries come from one independent re-measurement of `OpSTlDJWFFI` f2571–2917 with

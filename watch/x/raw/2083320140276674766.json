@@ -1,0 +1,72 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/qtecqot/status/2083320140276674766",
+  "id": "2083320140276674766",
+  "text": "@VOprograma 👽 👍",
+  "raw_text": {
+   "text": "@VOprograma 👽 👍",
+   "display_text_range": [
+    12,
+    15
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "VOprograma",
+     "id": "1926964954143354880"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "qtecqot",
+   "url": "https://x.com/qtecqot",
+   "id": "2048996761101078528",
+   "followers": 101,
+   "following": 4,
+   "likes": 17,
+   "media_count": 1,
+   "name": "qtecqot",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Tue Apr 28 05:24:54 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Fri Jul 31 22:33:22 +0000 2026",
+  "created_timestamp": 1785537202,
+  "views": 133,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": null,
+  "replying_to": "VOprograma",
+  "replying_to_status": "2083150753347039637",
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

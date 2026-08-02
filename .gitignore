@@ -45,3 +45,7 @@ Thumbs.db
 # The channel monitor's rolling logs. Its snapshots are data and are kept;
 # the run logs churn on every cron tick and carry nothing.
 watch/*.log
+
+# xwatch: rotating logs. The evidence (raw/, media/, state.json, CHANGELOG.md) is tracked.
+watch/x/check.log
+watch/x/cron.log

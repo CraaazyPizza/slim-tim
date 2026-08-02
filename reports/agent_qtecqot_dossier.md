@@ -125,6 +125,15 @@ this dossier, tweet 1 is the one that cannot have been staged in advance.
 
 ## 3. The clock
 
+> **WITHDRAWN 2026-08-02. Do not cite the CEST reading below.** This section used 7 instants.
+> The recovery of 11 deleted X posts took the count of authored, non-schedulable acts from 2 to
+> 19. Against all 19, **CEST puts 7 of them in the local small hours**, Moscow 5, US Pacific 10,
+> US Eastern 11, and the only offsets with zero violations are UTC+8.5 to +10. The clean European
+> morning band does not survive, and the replacement is not a different zone but the conclusion
+> that **the clock no longer identifies one**. Recompute, figure and the honest reading:
+> `analysis/clock-redo/`. Log entry: `CORRECTIONS.md`, 2026-08-02 §1. The ivan0135 half of this
+> section is untouched. The text below is kept as written so the correction can be checked.
+
 ![The clock: qtecqot's acts against four candidate time zones](../figs/qtecqot/clock.png)
 
 Take the seven machine-read UTC instants and render each one as a local time of day in each

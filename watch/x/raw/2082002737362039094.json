@@ -1,0 +1,62 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/qtecqot/status/2082002737362039094",
+  "id": "2082002737362039094",
+  "text": "🔹 I am not Ivan0135. I have not met him/her, but I have been in intermittent contact through electronic means as circumstances dictated. No contact since April of 2026.\n\n🔹 I am of Eastern European descent, but fluent in English.\n\n🔹 I am not suicidal. DMS in use, unlike 0135.",
+  "raw_text": {
+   "text": "🔹 I am not Ivan0135. I have not met him/her, but I have been in intermittent contact through electronic means as circumstances dictated. No contact since April of 2026.\n\n🔹 I am of Eastern European descent, but fluent in English.\n\n🔹 I am not suicidal. DMS in use, unlike 0135.",
+   "display_text_range": [
+    0,
+    275
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "qtecqot",
+   "url": "https://x.com/qtecqot",
+   "id": "2048996761101078528",
+   "followers": 101,
+   "following": 4,
+   "likes": 17,
+   "media_count": 1,
+   "name": "qtecqot",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Tue Apr 28 05:24:54 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 14,
+  "retweets": 2,
+  "likes": 18,
+  "bookmarks": 7,
+  "quotes": 1,
+  "created_at": "Tue Jul 28 07:18:28 +0000 2026",
+  "created_timestamp": 1785223108,
+  "views": 1636,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

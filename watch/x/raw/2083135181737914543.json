@@ -1,0 +1,127 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/qtecqot/status/2083135181737914543",
+  "id": "2083135181737914543",
+  "text": "",
+  "raw_text": {
+   "text": "https://t.co/V2NaDvLhnF",
+   "display_text_range": [
+    0,
+    0
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      0,
+      23
+     ],
+     "id": "2083135131523727360",
+     "display": "pic.x.com/V2NaDvLhnF",
+     "original": "https://t.co/V2NaDvLhnF",
+     "replacement": "https://x.com/qtecqot/status/2083135181737914543/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      0,
+      23
+     ],
+     "id": "2083135131523653632",
+     "display": "pic.x.com/V2NaDvLhnF",
+     "original": "https://t.co/V2NaDvLhnF",
+     "replacement": "https://x.com/qtecqot/status/2083135181737914543/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "qtecqot",
+   "url": "https://x.com/qtecqot",
+   "id": "2048996761101078528",
+   "followers": 101,
+   "following": 4,
+   "likes": 17,
+   "media_count": 1,
+   "name": "qtecqot",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Tue Apr 28 05:24:54 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 5,
+  "retweets": 0,
+  "likes": 8,
+  "bookmarks": 3,
+  "quotes": 0,
+  "created_at": "Fri Jul 31 10:18:24 +0000 2026",
+  "created_timestamp": 1785493104,
+  "possibly_sensitive": false,
+  "views": 447,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": null,
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2083135131523727360",
+     "url": "https://pbs.twimg.com/media/HOjIXX2bwAApC9-.jpg?name=orig",
+     "width": 1370,
+     "height": 812
+    },
+    {
+     "type": "photo",
+     "id": "2083135131523653632",
+     "url": "https://pbs.twimg.com/media/HOjIXX2aoAAqs6f.jpg?name=orig",
+     "width": 1355,
+     "height": 908
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2083135131523727360",
+     "url": "https://pbs.twimg.com/media/HOjIXX2bwAApC9-.jpg?name=orig",
+     "width": 1370,
+     "height": 812
+    },
+    {
+     "type": "photo",
+     "id": "2083135131523653632",
+     "url": "https://pbs.twimg.com/media/HOjIXX2aoAAqs6f.jpg?name=orig",
+     "width": 1355,
+     "height": 908
+    }
+   ],
+   "mosaic": {
+    "type": "mosaic_photo",
+    "formats": {
+     "jpeg": "https://mosaic.fxtwitter.com/jpeg/2083135181737914543/HOjIXX2bwAApC9-/HOjIXX2aoAAqs6f",
+     "webp": "https://mosaic.fxtwitter.com/webp/2083135181737914543/HOjIXX2bwAApC9-/HOjIXX2aoAAqs6f"
+    }
+   }
+  },
+  "source": "Twitter Web App",
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}
