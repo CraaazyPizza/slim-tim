@@ -412,6 +412,9 @@ def main():
                              f"{max(live_n, len(ids))} known -- {note2}")
             ids = sorted(set(ids) | set(ids2))
 
+        # Numbers already proven not to be statuses. Without this the same bogus id is
+        # re-harvested by leg B2, re-fetched, re-dropped and re-logged every ten minutes.
+        ids = [i for i in ids if i not in hs.get("not_statuses", {})]
         new_ids = [i for i in ids if i not in hs["statuses"]]
         for sid in new_ids:
             hs["statuses"][sid] = {"first_seen": now.isoformat(), "state": "new"}
@@ -455,6 +458,19 @@ def main():
                 meta["state"] = "live"
                 meta["last_live"] = now.isoformat()
             elif code == 404:
+                # An id we have NEVER fetched successfully is not a deletion. leg B2
+                # harvests 19-digit numbers out of grok's prose, and the account's own
+                # user id (2048996761101078528) is itself a snowflake in a plausible
+                # date range, so it passed the filter, entered state as "new", 404ed as
+                # a status and fired "★★★ DELETED — !! NO LOCAL BODY, this one got
+                # away". A false alarm at the loudest level is worse than no alarm: it
+                # is the one line in this log that is supposed to mean drop everything.
+                if prev == "new" and not os.path.exists(os.path.join(RAW, f"{sid}.json")):
+                    lines.append(f"    not a status, dropping {sid} "
+                                 f"(404 on first fetch, no body ever held)")
+                    hs["statuses"].pop(sid, None)
+                    hs.setdefault("not_statuses", {})[sid] = now.isoformat()
+                    continue
                 if prev in ("live", "new"):
                     have = "body archived at x/raw/%s.json" % sid if \
                         os.path.exists(os.path.join(RAW, f"{sid}.json")) else \
