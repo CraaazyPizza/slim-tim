@@ -63,8 +63,10 @@ Not yet folded into `FINDINGS.md`, the dossier, or `CORRECTIONS.md`. Outstanding
   registration and was **wiped before 2026-07-28 07:18:28**, inside or before the eleven-minute
   activation window. Relaunch, not activation.
 - **§4.5** — "the two tweets" is 19, of which 11 deleted.
-- **§9** — "replies to anyone, ever: 1" is wrong; at least three replies to third parties plus two
-  retweets, one of them deleted and reposted.
+- ~~**§9** — "replies to anyone, ever: 1" is wrong~~ — **done 2026-08-02**, after a Reddit reader
+  asked whether the dossier considered replies at all. It did not: §1, §4.5 and §9 all still said
+  two posts and no replies. Fixed at all three, and the reply content is now §4.5a. Logged in
+  `CORRECTIONS.md`. Leaving it on an "outstanding" list was itself the failure.
 - **§3, the clock** — needs redoing from scratch against all 19 instants. The clean CEST
   06:23–11:39 morning band does not survive: counting acts outside 07:00–24:00 local gives
   **Moscow 5, CEST 7, US Pacific 10, US Eastern 11**. This one needs new analysis, not new text.
@@ -101,13 +103,24 @@ different JSON shape, so the reader saw nothing in them. The URLs had been sitti
 `raw/*.json` unfetched. `xwatch.py --backfill-media` now walks any record shape and sweeps
 every record we hold; it runs automatically on the hourly `--full` pass.
 
-X purges `pbs.twimg.com` assets when a post is deleted, but **not reliably and not always**.
-Of 19 asset URLs across the 20 records:
+**Rewritten 2026-08-02, second pass.** The first version of this section counted every twimg
+URL found anywhere in a record as his. It is not: for a reply or a repost, the Twitter API v2
+`includes.media` block expands **every referenced tweet**, so the parent's assets arrive inside
+his record and `media_urls()` in `watch/xwatch.py` files them under his status ID. Ownership is
+in `data.attachments.media_keys`, which the reader never consulted. Split correctly:
 
 | | |
 |---|---|
-| **12 still served** | downloaded to `watch/x/media/`, sha256 in this repo |
-| **7 already purged (404)** | URL recorded, asset gone |
+| **his own attachments** | 7 URLs across 4 posts |
+| **— purged (404)** | 5, all on posts he deleted |
+| **— still served** | 2, both on `2083135181737914543`, which is still live |
+| **other accounts' media** | 6 URLs, pulled in by expansion from 1 reply and 2 reposts |
+
+So the CDN behaviour is **consistent**, not erratic: every asset on a deleted post is gone,
+every asset on a live post is held. The earlier reading — "X purges on delete, but not reliably
+and not always" — came entirely from counting other people's still-live media as his surviving
+media. Four of the files in `watch/x/media/` belong to a tweet that was never deleted, which is
+exactly why they still return 200.
 
 **Purged, and these are the losses that matter:**
 
@@ -115,12 +128,17 @@ Of 19 asset URLs across the 20 records:
 - `2066148832728207700_1`, `2066151685723169249_1` — the two 2026-06-14 "rel. 6 / 8" cards.
 - `2083134567695925347_1/2` — a deleted 2026-07-31 pair.
 
-**Held, and one of them is not what it looked like at first.** Deleted post
-`2066149533432807512` (2026-06-14 13:23:30, a reply reading *"he is confirmed real.
-continuation of series on my Youtube. There are others survivors"*) carried a **19.48 s
-1920×1080 H.264 video**, `watch/x/media/2066149533432807512_4.mp4`,
-sha256 `4f2beb5f96680714541b3de55b0e51463e61306464452e1896f5a2879f65000f`. Burned-in
-timecodes read `25 00:00:45` and `25 00:27:39`–`27:42`.
+**The 19.48 s video, and who it belongs to.** `watch/x/media/2066149533432807512_4.mp4`,
+1920×1080 H.264, sha256 `4f2beb5f96680714541b3de55b0e51463e61306464452e1896f5a2879f65000f`,
+burned-in timecodes `25 00:00:45` and `25 00:27:39`–`27:42`.
+
+It is filed under his deleted post `2066149533432807512` (2026-06-14 13:23:30, the reply
+reading *"he is confirmed real. continuation of series on my Youtube. There are others
+survivors"*) and **he did not attach it.** That record's `data.attachments` is empty; the
+video's media key `13_2059688459707850752` appears in the `attachments.media_keys` of the
+tweet he was replying to, a 2026-05-27 Japanese-language UAP post with ~940k impressions that
+is still up. He replied *to* the clip. The filename is our bookkeeping, not his authorship —
+note that the media key carries the parent's ID, `2059688…`, not his.
 
 It is **not new footage.** Sampled at 2 fps, mean-subtracted, normalised 32×32 greyscale
 cross-correlation against every 2026 and 2011 video in `videos/`:
@@ -131,8 +149,11 @@ cross-correlation against every 2026 and 2011 video in `videos/`:
 | the four 2011 videos | 610 | **0.991** | **36 of 38** |
 
 Best matches are all to **`RsQCXN4o4Ps`**, ivan0135's 2011 upload — the same video his two
-YouTube comments sit under. So the deleted post attached a re-encode of 2011 material while
-asserting the subject is "confirmed real", and was then removed.
+YouTube comments sit under. That measurement is unaffected by the ownership correction above:
+the clip is 2011 material re-encoded, whoever posted it. What changes is the sentence this
+section used to end on. It is **not** "he attached 2011 footage and called it confirmed real".
+It is that a large UAP account posted the 2011 footage, and he turned up under it three weeks
+later to assert the subject is real and point at his own channel — then deleted that.
 
 Two caveats on that table, both real. The 2 fps sampling and 32×32 downscale make this a
 *shot-level* identity test, not a frame-level one: it establishes the clip is drawn from

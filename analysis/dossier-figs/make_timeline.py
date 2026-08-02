@@ -41,6 +41,17 @@ def strip_emoji(t):
     return re.sub(r"\s+", " ", re.sub(r"[\U0001F000-\U0001FAFF\u2600-\u27BF\uFE0F]", "", t)).strip()
 
 
+def strip_handles(t):
+    """Drop the leading @mentions X prepends to a reply.
+
+    They are not something he typed, and this figure is published: AGENTS.md says never
+    name a private individual, and a reply's verbatim text carries the addressee's handle
+    into the image where no grep pass would ever find it. Who he replies to is described
+    by role in the dossier instead.
+    """
+    return re.sub(r"^(?:RT\s+)?(?:@\w+[\s,:]*)+", "", t).strip()
+
+
 NOTES = {
     "2026-04-28T05:54:16": "First post ever. Names СЕРПО, in Russian",
     "2026-05-07T06:17:03": "Names Valerijs Černohajev, with a photo the CDN has since purged",
@@ -48,12 +59,22 @@ NOTES = {
     "2026-05-25T09:50:36": "Reworded, and by now the first three posts are gone",
     "2026-07-28T07:18:28": "“I am not Ivan0135… DMS in use, unlike 0135”",
     "2026-07-29T08:18:46": "“Clarification: DMS = Deadman's Switch”",
+    "2026-06-14T13:23:30": "“he is confirmed real. continuation of series on my Youtube. "
+                           "There are others survivors”",
+    "2026-07-31T07:21:01": "A “SKINNY BOB FACTS” thread by a self-described former "
+                           "intelligence analyst. Reposted, then deleted",
     "2026-07-31T10:18:24": "Two AI-detector screenshots, reading 5% and 0%",
+    "2026-08-01T02:09:43": "The same thread again, reposted a second time and left up",
+    "2026-07-31T22:33:22": "An emoji, nothing else — his shortest post",
     "2026-08-01T03:37:11": "“less than 2% of the network's cache of materials”",
     "2026-08-02T03:24:49": "“Case 28 belongs to tape 5, not tape 4” — agrees with our ledger",
     "2026-08-02T13:05:32": "“7 tapes… tape 01 case 01 to tape 07 case 40. A minor indexing error in 2011”",
     "2026-08-02T13:12:34": "“the next release will contain content from Tape 7 and will be in color”",
 }
+
+
+LABEL = {"original": "Post", "reply": "Reply to another account",
+         "self-reply": "Reply on his own thread", "repost": "Repost of another account"}
 
 
 def build():
@@ -66,11 +87,13 @@ def build():
         rows.append((ts, "vid", f"{label} published — {vid}", f"{secs} s", "second"))
     rows.append((DESC_EDIT, "edit", "Video 3 description edited",
                  "adds the “Official venue” block and the x.com/qtecqot link", "second"))
-    for ts, sid, text, is_live in posts():
+    for ts, sid, text, is_live, (k, _to) in posts():
         key = ts.strftime("%Y-%m-%dT%H:%M:%S")
-        note = NOTES.get(key) or strip_emoji(text)
+        note = NOTES.get(key) or strip_handles(strip_emoji(text))
         kind = "post" if is_live else "gone"
-        rows.append((ts, kind, ("Post" if is_live else "Post, since deleted"), note, sid))
+        # A reader on Reddit read the old figure as covering only his originals, because
+        # every row said "Post" and nothing said otherwise. Seven of these are replies.
+        rows.append((ts, kind, LABEL[k] + ("" if is_live else ", since deleted"), note, sid))
     # The two YouTube comments cannot be resolved to an instant. Placed at the midpoint of
     # their window and drawn hollow, exactly as the original did for its unresolved tweet.
     rows.append((datetime(2026, 5, 28, 12, 0, 0), "cmt", "Two YouTube comments",
@@ -92,7 +115,9 @@ STYLE = {"reg": (BLUE, "o"), "vid": (REDD, "o"), "edit": (AMBER, "o"),
 HOLLOW = {"cmt", "post-gone"}
 
 RH = 0.46                       # inches per row
-H = 2.55 + RH * len(ROWS)
+# 2.55 gave the subtitle one line, and the composition of the 22 posts does not fit on
+# one line at this width — it ran off the right edge. 0.30 in more header, two lines.
+H = 2.85 + RH * len(ROWS)
 fig = plt.figure(figsize=(15.0, H), dpi=140, facecolor="white")
 ax = fig.add_axes([0, 0, 1, 1]); ax.axis("off")
 ax.set_xlim(0, 1); ax.set_ylim(0, 1)
@@ -100,21 +125,28 @@ ax.set_xlim(0, 1); ax.set_ylim(0, 1)
 
 def fy(row_i):
     """Row index -> figure y."""
-    return 1 - (1.42 + RH * (row_i + 0.5)) / H
+    return 1 - (1.72 + RH * (row_i + 0.5)) / H
 
 
 ax.text(.035, 1 - 0.36 / H, "Every public act by qtecqot", fontsize=25,
         weight="bold", color=FG, va="center")
-ax.text(.035, 1 - 0.74 / H,
-        f"{len(ROWS)} acts, 2026-04-22 to {ROWS[-1][0]:%Y-%m-%d}. "
-        f"{n_posts} are X posts and {n_gone} of those he deleted. "
-        "Hollow marker = timestamp not machine-read.",
-        fontsize=12.5, color=DIM, va="center")
+KINDS = [p[4][0] for p in posts()]
+n_reply = sum(1 for k in KINDS if k in ("reply", "self-reply"))
+n_other = sum(1 for k in KINDS if k == "reply")
+n_rt = sum(1 for k in KINDS if k == "repost")
+n_orig = n_posts - n_reply - n_rt
+
+ax.text(.035, 1 - 0.66 / H,
+        f"{len(ROWS)} acts, 2026-04-22 to {ROWS[-1][0]:%Y-%m-%d}, "
+        f"of which {n_posts} are X posts and {n_gone} of those he deleted.\n"
+        f"Replies are in: {n_orig} originals, {n_reply} replies of which {n_other} to "
+        f"another account, {n_rt} reposts.   Hollow marker = timestamp not machine-read.",
+        fontsize=12.5, color=DIM, va="top", linespacing=1.5)
 
 for x, lab in ((.108, "date"), (.196, "UTC"), (.284, "act")):
-    ax.text(x, 1 - 1.16 / H, lab, fontsize=11, color=DIM, va="center")
-ax.text(.965, 1 - 1.16 / H, "precision", fontsize=11, color=DIM, va="center", ha="right")
-ax.plot([.030, .965], [1 - 1.30 / H] * 2, color="#b0b0b0", lw=.9)
+    ax.text(x, 1 - 1.46 / H, lab, fontsize=11, color=DIM, va="center")
+ax.text(.965, 1 - 1.46 / H, "precision", fontsize=11, color=DIM, va="center", ha="right")
+ax.plot([.030, .965], [1 - 1.60 / H] * 2, color="#b0b0b0", lw=.9)
 
 SPINE = .266
 ax.plot([SPINE, SPINE], [fy(0) + .012, fy(len(ROWS) - 1) - .012], color="#222222", lw=1.6,

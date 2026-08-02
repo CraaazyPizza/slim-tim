@@ -1,15 +1,22 @@
 # qtecqot on X: the recovered posts
 
-The account posted 19 times and deleted 11 of them. This directory holds the recovered
+The account has posted 22 times and deleted 12 of them. This directory holds the recovered
 records and the leads that came out of them.
 
 Written up here:
 **https://www.reddit.com/r/qtecqot/comments/1vdjdd7/qtecqot_deleted_11_of_his_19_posts_i_retrieved/**
 
+That post said 19 and 11; the watcher has caught three more since, one of which survives only
+as a screenshot. **Replies are included and always were** — 7 of the 22, 4 of them addressed to
+other accounts, and they carry more of the substance than the originals do. A reader asked
+whether they had been considered at all, which was fair: the dossier's own summary sections
+still said "two posts and no replies" long after the data disagreed. Fixed 2026-08-02, logged
+in `CORRECTIONS.md`, and the replies are set out in `reports/agent_qtecqot_dossier.md` §4.5a.
+
 | file | what it is |
 |---|---|
-| `RECOVERED.md` | all 19 posts in order, with Wayback link, live-or-deleted state and the profile counters as of each post |
-| `PROVENANCE.md` | how they were retrieved and the four independent checks on the set, plus which attached media survived and which the CDN has purged |
+| `RECOVERED.md` | all 22 posts in order — originals, replies and reposts — with Wayback link, live-or-deleted state and the profile counters as of each post |
+| `PROVENANCE.md` | how they were retrieved and the four independent checks on the set, plus which attached media is his, which survived, and which the CDN has purged |
 | `REGISTER.md` | the way he writes |
 | `SERPO_LEAD.md` | the Project SERPO thread, including the fifteen-year-old prior art that most of it belongs to |
 | `CERNOHAJEV_LEAD.md` | the second deleted post, and the limits on it |

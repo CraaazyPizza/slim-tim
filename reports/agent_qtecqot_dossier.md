@@ -32,12 +32,12 @@ by handle only.
 | avatar | **X's default placeholder** — no picture was ever uploaded |
 | header image | **none** (`bannerUrl` empty) |
 | verification | not verified, not X Premium |
-| posts | **2** |
+| posts | **22** — 13 originals, 7 replies, 2 reposts; 12 of the 22 deleted. See §2 and §4.5 |
 | follows | 3: `@UAPJedi`, `@roscosmos`, `@elonmusk` |
 | followers | 1 (Jul 27) → 7 (Jul 28) → 8 (Jul 29 ~02:00) → **14 (Jul 29 10:13 UTC)** |
 | username changes | 1, in April 2026. The prior handle is not recoverable (see §9) |
 | **YouTube comments made, all time** | **2**, both on ivan0135's video `RsQCXN4o4Ps`, neither on his own channel |
-| **replies to anyone, ever** | 1 (the nested comment in §5.3). Nothing since. |
+| **replies to anyone, ever** | **8** — one YouTube comment (§5.3) and seven X posts, four of them addressed to three other accounts. **Corrected 2026-08-02**; this row read "1 … nothing since" and was wrong. See §9 |
 
 **The handle itself.** "qtecqot" had essentially zero web footprint before 2026-05-25. It survives
 no standard decode — Caesar (all 25 shifts), Atbash, reversal, QWERTY-neighbour shift, Russian
@@ -58,9 +58,12 @@ VPN-dependent. Neither is a self-declaration and neither should be quoted as one
 
 ![Every public act by qtecqot](../figs/qtecqot/timeline.png)
 
-**Updated 2026-08-02: 28 acts, not the nine this section was written against.** Eleven deleted
+**Updated 2026-08-02: 29 acts, not the nine this section was written against.** Eleven deleted
 posts were recovered and the watcher has captured every post since, so the figure now carries all
-21 X posts alongside the registrations, uploads, description edit and the two YouTube comments.
+22 X posts alongside the registrations, uploads, description edit and the two YouTube comments.
+Each post row says whether it is an original, a reply, a reply on his own thread, or a repost —
+added after a reader took the earlier figure to be showing originals only, which it never said
+either way. Seven are replies; §4.5a is what they contain.
 It is rebuilt by `analysis/dossier-figs/make_timeline.py`, which reads the post list from `raw/`
 rather than holding its own copy; the nine-act original is at
 `figs/qtecqot/withdrawn/timeline_9acts_2026-07-29_SUPERSEDED.png`. The paragraph below is kept as
@@ -402,7 +405,13 @@ The timing matters. The plea and the reply both sit in the (05-26, 05-29] window
 after video 1 published. A three-month-silent operator answered a stranger's plea within days,
 once, and then never spoke in a comment thread again.
 
-### 4.5 The two tweets
+### 4.5 The X posts
+
+**Corrected 2026-08-02.** This section was headed "The two tweets" and covered two, because two
+were all that was visible when it was written. There are **22**: 13 originals, 7 replies and 2
+reposts, 12 of them since deleted. All 22 are in §2 and rendered in full in
+`qtecqot-x-recovered/RECOVERED.md`. The two below are kept as written because §5's stylometry was
+measured against them; **§4.5a** covers the replies, which is where the substance turned out to be.
 
 **Tweet 1** — 2026-07-28 07:18:28.000 UTC, status `2082002737362039094`. 5 likes, 5 replies in the
 conversation, never edited. Verbatim:
@@ -420,8 +429,49 @@ conversation, never edited. Verbatim:
 
 Tweet 2 exists because a replier, **@UfosAroundWorld**, had read "DMS" as "direct messages" and
 asked "Your DM isnt available ?". Note how he answered: **not as a reply to that person**, but as a
-fresh self-reply on his own thread. It is the same engagement signature as YouTube — he reads
-everything, answers almost nothing, and never in-thread.
+fresh self-reply on his own thread. That reading of *this* exchange still holds. What does not hold
+is the generalisation that followed it — see §4.5a and §9.
+
+### 4.5a The replies, which is where the lore actually gets made
+
+Seven of the 22 are replies: three on his own thread, four addressed to another account. The four
+go to three accounts, none of which he follows and all of which approached the material first — a
+Japanese-language UAP media account with a six-figure video audience, a Spanish-language UFO
+programme, and a reader who had compiled his tape-and-case numbering into a document and posted it.
+The reply targets are described by role rather than handle, per `AGENTS.md`.
+
+Ranked by what they add to the record, not by date:
+
+| when | to | what it establishes |
+|---|---|---|
+| 2026-08-02 13:05:32 | the ledger compiler | **The numbering scheme, stated outright.** "They advance sequentially across 7 tapes, beginning at tape 01, case 01 and ending at tape 07, case 40. Of note is a minor indexing error in 2011." §6.2 had derived a 7-tape scheme from the cards; here he confirms it and volunteers its bounds |
+| 2026-08-02 13:12:34 | same thread | **The slot-8 claim.** "the next release will contain content from Tape 7 and will be in color. Some may find it slightly more disturbing than previous footage." Registered before release, therefore falsifiable — with the caveat in §6.1 |
+| 2026-08-02 03:24:49 | the ledger compiler | "There is- an error in the tables on pages 3, 6 and 7. Case 28 belongs to tape 5, not tape 4." Agrees with our own ledger, arrived at independently |
+| 2026-06-14 13:23:30 | the UAP media account | **"he is confirmed real. continuation of series on my Youtube. There are others survivors"** — deleted. The flattest assertion he has ever made, made once and taken down |
+| 2026-07-31 22:33:22 | the UFO programme | Two emoji. No text |
+
+**Four of the five most concrete things he has ever said are replies**, and three of those are to
+one reader. That is the finding this section previously had backwards: the picture of a broadcaster
+who never engages came from a sample of two posts, both originals, both from the same week. He
+engages, selectively, and he engages hardest with whoever is doing the most detailed bookkeeping on
+his material.
+
+**The deleted one is the one to weigh.** "he is confirmed real" has no hedge in it — no "I believe",
+no "the material indicates", none of the register §5 measures everywhere else. It also contradicts
+nothing he has said since; it is simply more direct than anything he has left standing. He deleted
+it within the retention window and has not repeated the formulation. Whether that is a slip walked
+back or a line he decided was too much to leave up is not decidable from the data, and this record
+should not pick one.
+
+**The reply he answered indirectly is still a real behaviour.** Tweet 2's "answer the question, not
+the person" move is genuine, and so is the near-silence underneath him: his ten live posts carry
+**29 replies** between them (`public_metrics.reply_count`, read 2026-08-02) and he has answered none
+of them in thread. The correction is one of scope. He does not answer people who reply *to him*; he
+does go and speak to accounts posting about the material *without* him. Both halves are engagement
+signatures and only one of them was in the record before.
+
+Counts for the 12 deleted posts read zero, but that is an artefact — each archived lookup was made
+at or near the instant of posting, before anyone could reply. They are not evidence of silence.
 
 ---
 
@@ -793,15 +843,29 @@ The negatives here are as characteristic as the positives.
 - **He has never pinned anything.**
 - His **only** dialogue anywhere on YouTube is one nested reply to one stranger, in May, on someone
   else's video.
-- On X he has **two posts and no replies to anyone**. When a follower misread "DMS", he corrected it
-  in a fresh self-reply rather than answering the person.
+- ~~On X he has **two posts and no replies to anyone**.~~ **Wrong, corrected 2026-08-02.** He has 22
+  posts, of which **7 are replies** and 4 are addressed to another account. See §4.5a. The narrower
+  claim survives: of the **29 replies** sitting under his ten live posts, he has answered **none**
+  in thread — including the follower who misread "DMS", whom he answered with a fresh post on his
+  own thread instead.
 - **No monetisation of any kind.** No links (until the July 28 edit, which points at his own X
   account), no merch, no memberships, no affiliate codes, no Patreon, no crypto address. Whatever
   this is, it is not being run for money in any visible way.
 
-**The shape of it:** engagement is directed at the *legacy* audience, on ivan0135's fifteen-year-old
-video, and at nobody else. He reads — the July 28 edit and tweet prove that beyond reasonable doubt
-— and he almost never answers.
+**The shape of it, restated 2026-08-02.** The old reading was "engagement is directed at the legacy
+audience, on ivan0135's fifteen-year-old video, and at nobody else", and it was drawn from a sample
+of two posts. With all 22 in hand the shape is different and more specific: **he initiates and does
+not respond.** He goes to other people's threads — a Japanese UAP account, a Spanish-language UFO
+programme, a reader keeping a case ledger — and says something substantive there; he leaves the 29
+replies under his own posts untouched. Every one of the four outbound replies went to an account
+that had posted about the material without contacting him.
+
+Read against §7 and the "DMS" framing, that is consistent with someone managing a channel rather
+than holding a conversation: he corrects the record where the record is being written, and does not
+maintain a presence where he would have to keep answering. It remains a behavioural observation and
+not an identity claim.
+
+He reads everything — the July 28 description edit and tweet settle that.
 
 **The username change.** X's "About this account" panel records one change, in April 2026, and never
 displays the old handle. `api.memory.lol/v1/tw/qtecqot` and `/Qtecqot` both return empty, and the

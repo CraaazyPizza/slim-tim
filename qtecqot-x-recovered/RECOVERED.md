@@ -1,7 +1,13 @@
 # @qtecqot — every recovered X post, 2026-04-28 → 2026-08-02
 
-Recovered 2026-08-02. **11 of 19 are deleted** (marked DELETED); the 8 marked LIVE equal the
-account's current public post count, confirmed two ways (see Provenance).
+Recovered 2026-08-02, extended the same day by the watcher. **12 of 22 are deleted** (marked
+DELETED). The header read "11 of 19" until 2026-08-02 16:00 UTC; three posts have been added
+since — the screenshot-only copycat card and the two 13:0x replies at the foot of this file.
+
+**Composition, because a reader asked whether replies were in here at all:** 13 originals,
+7 replies (3 on his own thread, 4 to another account) and 2 reposts. Every entry carries a
+`type:` line — `original`, `replied_to → <id>`, or `retweeted → <id>` — and always has. The
+dossier is where they were missing; see `CORRECTIONS.md`, 2026-08-02 (later).
 
 `tweet_count` is the author's post counter *at the moment that tweet was posted* — it is the
 evidence for the deletions: it resets to 1 on 2026-05-25 09:50 and again on 2026-07-28 07:18.
@@ -30,7 +36,15 @@ matching X's own public post counter of 8.
 **Not established:** who ran the API calls that the Wayback Machine archived. It was not this project.
 
 **Completeness:** guaranteed for LIVE posts (pinned twice over). For deleted posts the archive holds
-only what its operator happened to look up, so **11 deleted is a lower bound**.
+only what its operator happened to look up, so **12 deleted is a lower bound**.
+
+**Replies specifically.** The `x_search` pass above ran with replies and retweets included, and the
+CDX enumeration is by status URL, so neither route treats a reply differently from an original.
+There is no known reply-shaped gap. But note the floor is lower here than for originals: X's
+logged-out profile timeline omits replies entirely and `x.com/qtecqot/with_replies` is login-walled,
+so a deleted reply that no one ever looked up leaves less trace than a deleted original. One post is
+already known to have left no trace at all — the copycat card below, which survives only as a
+screenshot.
 
 
 ---
@@ -132,8 +146,11 @@ Next drop imminent: rel. 6 / 8.  subscribe to the YT channel. #skinnybob https:/
 - type: replied_to → 2059688614695670011  (@_halkyofu_)
 - conversation: `2059688614695670011`
 - author at post time: 3 posts · 0 followers · 3 following · 2 likes given · 1 media
-- media: video 1920×1080 https://pbs.twimg.com/amplify_video_thumb/2059688459707850752/img/hiZw3iqLlVwwUY-K.jpg **(404 — X purges media on delete)**
-- media: photo 1480×912 https://pbs.twimg.com/media/HJV7yrraIAA2hQg.jpg **(404 — X purges media on delete)**
+- media: **none of his own.** `data.attachments` is empty. The video 1920×1080 and photo
+  1480×912 that the API returned with this record belong to the tweet he replied to, whose
+  `attachments.media_keys` carry them; both still serve 200 because that tweet is still up.
+  They are held at `watch/x/media/2066149533432807512_*` under his ID, which is our filing
+  artefact and not his authorship — see `PROVENANCE.md`
 - **Archived:** https://web.archive.org/web/20260614132330id_/https://twitter.com/qtecqot/status/2066149533432807512
 - **Local copy:** `raw/2066149533432807512.json`
 - **Live check:** `curl -s https://api.fxtwitter.com/qtecqot/status/2066149533432807512` → 404 (deleted)
@@ -414,3 +431,51 @@ erasing inside a short window — the first being the three posts erased eleven 
 video 1 went public on 2026-05-25. Neither was caught by any archive. `watch/xwatch.py` was
 written the same day to close that gap; from 2026-08-02 12:17 UTC onward the timeline is polled
 every two minutes and every new status is captured with its media before it can be withdrawn.
+
+## 2026-08-02 13:05:32 UTC — LIVE
+
+`2083902015831511168`  ·  https://x.com/qtecqot/status/2083902015831511168
+
+- type: replied_to → 2083884868514058699  (a reader who had posted a tape-and-case ledger)
+- conversation: `2083599624988713043`
+- author at post time: 102 followers · 4 following · 17 likes given
+- **Local copy:** `raw/2083902015831511168.json` — captured live by `watch/xwatch.py`, not
+  recovered. Nothing after 2026-08-02 12:17 UTC has had to be.
+- **Live check:** 200, 11 views · 0 likes · 1 reply at capture
+
+```
+@CytHyper Your efforts are commendable and appreciated. The cases however are not limited to a specific run duration. They advance sequentially across 7 tapes, beginning at tape 01, case 01 and ending  at tape 07, case 40.
+
+Of note is a minor indexing error in 2011.
+
+Ty for your interest.
+```
+
+The most explicit statement of the numbering scheme he has made. Dossier §6.2 had derived a
+7-tape scheme from the title cards; this confirms it and volunteers the bounds. "A minor
+indexing error in 2011" is a claim about ivan0135's material, made in 2026, and it is testable
+against the 2011 cards.
+
+## 2026-08-02 13:12:34 UTC — LIVE
+
+`2083903785219551469`  ·  https://x.com/qtecqot/status/2083903785219551469
+
+- type: replied_to → 2083902015831511168 (his own, seven minutes earlier), still addressed
+  `@`-first to the same reader — so it is a self-reply by threading and a reply by content
+- conversation: `2083599624988713043`
+- author at post time: 102 followers · 4 following · 17 likes given
+- **Local copy:** `raw/2083903785219551469.json` — captured live
+- **Live check:** 200, 7 views · 0 likes · 0 replies at capture
+
+```
+@CytHyper I can confirm that the next release will contain content from Tape 7 and will be in color.  
+
+Some may find it slightly more disturbing than previous footage.
+```
+
+Slot 8 of the "N of 8" counter, described before release and therefore falsifiable. Two
+caveats belong with it. Colour footage was already in circulation as a claim: the
+2026-05-27 UAP post he replied to on 2026-06-14 attributes colour footage and a two-craft
+clip to a named interviewee, so this is not the first time the assertion was made in public
+where he could see it. And `reports/agent_colour_duplicate_count.md` holds the measurement to
+run against a colour release the day it lands.

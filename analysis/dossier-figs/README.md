@@ -30,6 +30,19 @@ it does that a naive glob does not:
   a repost record contains the whole reposted thread, both longer than anything he writes.
   Taking the longest string attributed a stranger's reply to him in the first draft.
 
+## Replies are posts
+
+`acts.py:kind()` labels each record `original`, `reply`, `self-reply` or `repost`, and the
+timeline prints the label on every row. That was added because a reader read the earlier figure
+— where all 22 rows said "Post" — as covering originals only. It never said either way, and an
+unlabelled row gets read as the default case. Of the 21 machine-read posts: 12 originals, 4
+replies to another account, 3 replies on his own thread, 2 reposts.
+
+`make_timeline.py:strip_handles()` drops the `@name` X prepends to a reply before the text goes
+on the figure. `AGENTS.md` says never name a private individual, and a verbatim reply carries the
+addressee's handle into a PNG where no grep pass would ever find it. Two reposts also have
+hand-written notes in `NOTES` for the same reason — their text is entirely someone else's.
+
 ## Where derivation stops
 
 `posts()` is only as complete as `raw/`, and one real post is not in `raw/` at all: the
