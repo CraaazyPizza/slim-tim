@@ -356,6 +356,54 @@ comparators are never tested; and the omitted hypothesis is the natural one — 
 interpolation into a genuine older corpus**, which is exactly what a corpus self-dating to 2004
 and 2024 calls for.
 
+### The arrests argument, and why it does not work
+
+The dossier carries a table headed "The Arrests: 2018–2024" listing Russian scientists with
+institution, specialisation and sentence, and concludes that the arrests "cluster in MHD,
+plasma, and hypersonics — the same domains as the manuscripts." The clip script turns it into a
+cold open: *"Black screen. Names appear one by one… Then: 'All imprisoned.'"*, under the title
+"Russia Imprisoned the Scientists Who Studied This."
+
+**The underlying cases are real, and they are named here from the journalism rather than from
+the archive's table, which is unsourced and internally inconsistent** (the dossier and the
+evidence map give different rosters and different fields for the same people). At the
+Khristianovich Institute of Theoretical and Applied Mechanics (ITAM) in Novosibirsk:
+**Alexander Shiplyuk**, the institute's head, sentenced to 15 years in September 2024;
+**Anatoly Maslov**, then 77, to 14 years; **Valery Zvegintsev** and **Vladislav Galkin** to 12.5
+years each. **Alexander Kuranov** of NIPGS in St Petersburg received 7 years. **Dmitry Kolker**,
+a laser physicist at Novosibirsk State University with stage-four pancreatic cancer, was flown to
+Moscow from his hospital bed and died in custody on 2 July 2022. At least ten hypersonics
+treason cases have been filed over the past decade.
+
+Three things break the inference.
+
+1. **The arrests do not track research content; they track international engagement.** All these
+   trials are closed on state-secrecy grounds, so the specific allegations cannot be examined.
+   What colleagues, families and lawyers say is that the material was open — conference talks,
+   papers in open journals, joint projects, in Kolker's case lectures his family says were
+   FSB-cleared. Article 275 was broadened in 2012 to cover "assistance to a foreign state or
+   international organisation," extended further in 2022, and raised to a life maximum in 2023.
+   The same statute has reached journalists and anti-war advocates. Hypersonics researchers are
+   over-represented because Russia guards hypersonics closely and its researchers publish and
+   travel — not because of what the physics contains.
+2. **Nothing links these people to this corpus.** Zero surname hits across all twelve manuscript
+   critical editions, and the complete inventory of Latin-script words in the 119 scanned pages
+   is *USA, Spin, Const, max/min/cos,* NGC 4565, NGC 1300, M 51. The scientists appear only in
+   the archive's own 2024–2026 layer.
+3. **The timeline forbids it.** The manuscript author died 30 December 2019. Maslov and Kolker
+   were arrested in June 2022, Shiplyuk in August 2022, Zvegintsev in April 2023, with sentences
+   handed down 2024–2026. Nearly every event postdates his death. He never mentioned them and
+   could not have.
+
+The construction is worth naming because it recurs: two true statements placed adjacent, with
+the causal claim left for the reader to supply. It is the same move as bundling 80 genuine
+AAWSAP/DIRD documents into a folder about these manuscripts, and as including a Pais-patents
+technical breakdown that never mentions Černohajev.
+
+And the suppression frame sits badly against the publication frame. If the corpus were what the
+archive says it is, the archive is itself the disclosure — open on the internet, with a podcast
+kit and clip scripts attached.
+
 ### The rest
 
 The two Rosetta Stone files are byte-identical PDFs, one document under two brandings. The
@@ -385,12 +433,20 @@ values are deliberately not reproduced here or there.
 - Email addresses at three locations.
 - A family member, a translation collaborator, and two co-compilers named in private capacity.
 - Ten non-public third parties named from a comment thread, **including an explicit
-  deanonymisation proposal**.
-- Six to seven named Russian scientists in criminal proceedings, with institutions and sentences,
-  cited to no source.
+  deanonymisation proposal** — the document proposes tracing one handle to a recoverable person.
 
-The prosecuted scientists are blocking for anything downstream. Build by inclusion: enumerate
-what goes in, do not redact what comes out.
+Those remain out of this document. They are ordinary private people who posted on a forum in
+2012, and reproducing the deanonymisation target puts it in front of a larger audience than the
+archive had.
+
+**The prosecuted scientists are handled differently**, and deliberately. They are named in §10,
+because they are the subjects of sustained international reporting — not private individuals in
+the sense the project rule is aimed at — and because the argument being made about them needs
+answering rather than eliding. They are named from the journalism, not from the archive's
+roster, which is unsourced and disagrees with itself. Details about people currently serving
+12-to-15-year sentences should come from the record, and the record is public.
+
+Build by inclusion: enumerate what goes in, do not redact what comes out.
 
 ---
 
@@ -431,3 +487,9 @@ describes the corpus as a focused engineering document set.
   survived the real test, which is luck, not method. The floor in §9 is the finding; the earlier
   statement was not.
 - The same pass cited the caption findings as `FINDINGS.md` §2/§2a. They are §6 and §8.
+- An earlier draft of §10 described the prosecuted scientists as private individuals and marked
+  them blocking for publication. That was wrong: these are among the most widely reported science
+  prosecutions of the decade, covered by the *Washington Post*, NBC, Meduza, the *Moscow Times*
+  and others. The right objection was never that they should not be named — it was that the
+  archive's roster is unsourced and self-inconsistent, and that the inference drawn from them
+  does not hold. §10 now names them from the reporting and answers the argument.
