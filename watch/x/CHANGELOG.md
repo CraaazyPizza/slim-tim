@@ -304,3 +304,9 @@
 
 -     @qtecqot: followers 138 -> 140
 - ★★★ @qtecqot: tweets 10 -> 11
+
+## 2026-08-02T23:00:01.878923+00:00
+
+-     not a status, dropping 2082002737362039093 (404 on first fetch, no body ever held)
+- ★★★ @qtecqot: CAPTURED 2084050441407746143 (Sun Aug 02 22:55:19 +0000 2026) — '@megadamage1 YouTube removed the channel so my post was superfluous and unnecessary at that point.'
+-     wayback save unavailable (HTTP 498) — local body is the copy for 2084050441407746143
