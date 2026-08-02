@@ -110,3 +110,68 @@
 -     media NEWLY GONE 2083134567695925347_2.jpg (404) https://pbs.twimg.com/media/HOjHpt_bcAAi7wr.jpg
 -     backfill media: 12 held, 5 purged (5 newly)
 - ! ERROR (instrument failure, NOT an absence of change): 5 asset(s) purged from the twimg CDN since the last sweep
+
+## 2026-08-02T14:07:01.914091+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-02T14:18:01.947299+00:00
+
+-     @qtecqot: followers 102 -> 103
+
+## 2026-08-02T14:30:01.997198+00:00
+
+-     @qtecqot: followers 103 -> 104
+
+## 2026-08-02T15:06:25.632120+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-02T15:07:01.214965+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-02T15:08:01.075958+00:00
+
+-     @qtecqot: followers 104 -> 105
+
+## 2026-08-02T15:20:01.599800+00:00
+
+-     @qtecqot: followers 105 -> 106
+
+## 2026-08-02T16:07:01.668023+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-02T16:20:01.538324+00:00
+
+-     @qtecqot: followers 106 -> 107
+
+## 2026-08-02T16:50:02.031737+00:00
+
+-     @qtecqot: followers 107 -> 108
+
+## 2026-08-02T17:07:02.052036+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-02T17:26:01.095225+00:00
+
+-     @qtecqot: followers 108 -> 109
+
+## 2026-08-02T17:54:01.763733+00:00
+
+-     @qtecqot: followers 109 -> 110
+
+## 2026-08-02T17:58:01.862936+00:00
+
+-     @qtecqot: followers 110 -> 111
+
+## 2026-08-02T18:07:01.497656+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+-     @qtecqot: followers 111 -> 112
+
+## 2026-08-02T18:10:01.960024+00:00
+
+- ★★★ @qtecqot: DELETED 2048996761101078528 (last seen live ?) — !! NO LOCAL BODY -- this one got away
