@@ -309,6 +309,18 @@ same as the b/w clips — not §11.2's 44.5 / 0.6735×. If it replicates, **with
 "the colour clip is retimed differently within the same video".** Not yet settled: two of
 seven tick boundaries sit behind flares. → §30.4
 
+**★ flag superseded — settled, and not in favour of 46.0.** `agent_triage_technical.md` §4
+re-measured it: the colour segment yields exactly **one** fully measurable tick interval
+(f2706 → 2751 = 45 frames), because in the flare windows the timecode is not faint, it is
+**absent**, and no processing recovers it. So 46.0 rested on boundaries that cannot be read.
+§11.2's differential-retime claim is withdrawn as flagged — but **46.0 is not substituted
+for 44.5**; both were wrong. The answer is a count, **45.000**, holding in every fragment of
+all three 2026 videos measurable to the frame. → FINDINGS §10.5
+
+The follow-on measurement this flag called for is already logged above: the 2026-08-01 wave
+recomputed §20's "40.8 distinct images per source second" — a figure derived from the
+withdrawn 44.5 — to **41.2**.
+
 ---
 
 ## Outside claims we tested (the other direction)
