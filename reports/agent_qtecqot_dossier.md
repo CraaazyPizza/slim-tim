@@ -133,8 +133,18 @@ this dossier, tweet 1 is the one that cannot have been staged in advance.
 > that **the clock no longer identifies one**. Recompute, figure and the honest reading:
 > `analysis/clock-redo/`. Log entry: `CORRECTIONS.md`, 2026-08-02 §1. The ivan0135 half of this
 > section is untouched. The text below is kept as written so the correction can be checked.
+>
+> **The figure has been regenerated and no longer matches the prose below it.** It now runs
+> all 19 posts and carries no best-fit box on the 2026 panel, because there is no best fit.
+> The 7-act original is kept at `figs/qtecqot/withdrawn/clock_7acts_2026-07-29_WITHDRAWN.png`
+> so the two can be compared. Note the replacement is a *reconstruction* of the original's
+> design: the script that drew the 7-act version does not exist in this repo and never did,
+> which is `analysis/README.md`'s warning in practice. The rebuild is
+> `analysis/clock-redo/make_dossier_clock.py`, and it reproduces the 2011 half from
+> `archive/ivan/*.info.json` rather than from the table below, landing on the same US Pacific
+> 17:35–22:21 span as a check that the reconstruction is faithful.
 
-![The clock: qtecqot's acts against four candidate time zones](../figs/qtecqot/clock.png)
+![The clock: every authored act against four candidate time zones](../figs/qtecqot/clock.png)
 
 Take the seven machine-read UTC instants and render each one as a local time of day in each
 candidate zone. That is the whole method; there is nothing to tune.
@@ -846,5 +856,5 @@ Ordered by value per unit effort.
 | file | what it shows |
 |---|---|
 | `figs/qtecqot/timeline.png` | All nine public acts, with precision class and real cadence |
-| `figs/qtecqot/clock.png` | The seven machine-read acts against four candidate time zones, with ivan0135's five for contrast |
+| `figs/qtecqot/clock.png` | All 19 X posts against four candidate time zones, with ivan0135's five for contrast. Regenerated 2026-08-02 by `analysis/clock-redo/make_dossier_clock.py`; the withdrawn 7-act version is in `figs/qtecqot/withdrawn/` |
 | `figs/qtecqot/counter.png` | The "N of 8" release counter and the arithmetic that fixes it |

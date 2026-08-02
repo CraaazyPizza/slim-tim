@@ -54,3 +54,20 @@ before it is used again.
 
 `figs/qtecqot-2026-08-02/3_clock.png` is the figure. `figs/qtecqot/clock.png` is the old one and
 should not be cited.
+
+## The dossier figure
+
+`figs/qtecqot/clock.png` was the dossier's §3 figure and showed the 7-act reading. It has been
+regenerated against all 19 posts by `make_dossier_clock.py`. Two things to know before trusting
+it:
+
+- **It is a reconstruction, not a rerun.** No script in this repo ever generated the original;
+  the PNG arrived in the initial commit. The rebuild matches the original's design from the
+  image, so treat small styling differences as expected.
+- **The band moved.** The original shaded 23:00–07:00. The rebuild uses 00:00–07:00 to agree
+  with `clock19c.py` and `figs/qtecqot-2026-08-02/3_clock.png`. Under the old 23:00 edge the
+  same data reads US Eastern 14 and US Pacific 11 instead of 11 and 10, which would have put
+  two numbers on one measurement. `clock19b.py` scans three bands and the conclusion is stable
+  across all of them.
+
+The 7-act original is preserved at `figs/qtecqot/withdrawn/clock_7acts_2026-07-29_WITHDRAWN.png`.
