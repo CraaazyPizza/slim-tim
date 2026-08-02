@@ -19,6 +19,7 @@ Import from a script in this directory, or add the repo root to sys.path.
 import glob
 import json
 import os
+import re
 from datetime import datetime, timezone
 
 HANDLE = "qtecqot"
@@ -67,8 +68,59 @@ def _own_text(rec):
     return ""
 
 
+USER_ID = "2048996761101078528"
+
+
+def kind(rec):
+    """(kind, addressee) for one record.
+
+    kind is one of "original", "reply", "self-reply", "repost". addressee is the handle
+    the post speaks to, or None.
+
+    This exists because the dossier was written when only two posts were visible, both
+    of them originals, and it said so in three places — a summary row reading "replies to
+    anyone, ever: 1", a section headed "The two tweets", and an engagement section whose
+    thesis was that he does not answer people. Seven of the twenty-one are replies. A
+    reader on Reddit noticed before we did.
+
+    "self-reply" is kept separate from "reply" because the distinction was load-bearing
+    for that old thesis: 2082380299598753907 answers a stranger's misreading of "DMS" by
+    posting a fresh note on his own thread rather than replying to them. That is a real
+    behaviour and it is not the same as the 2026-08-02 exchange. But note that
+    2083903785219551469 is threaded under his own reply and still opens with a mention of
+    the other party, so a leading mention counts as an addressee whatever threading says.
+    """
+    to = None
+    m = re.match(r"@(\w+)", _own_text(rec).strip())
+    if m:
+        to = m.group(1)
+
+    node = rec.get("tweet") if isinstance(rec, dict) else None
+    if isinstance(node, dict):                       # live fxtwitter shape
+        parent = node.get("replying_to")
+        if node.get("retweet") or node.get("retweeted_status"):
+            return "repost", None
+        if parent:
+            return ("self-reply" if parent.lower() == HANDLE else "reply"), (to or parent)
+        return "original", to
+
+    data = rec.get("data") if isinstance(rec, dict) else None
+    if isinstance(data, dict):                       # archived Twitter API v2 shape
+        users = {u["id"]: u["username"]
+                 for u in (rec.get("includes", {}).get("users") or [])}
+        for ref in (data.get("referenced_tweets") or []):
+            if ref["type"] == "retweeted":
+                return "repost", None
+            if ref["type"] == "replied_to":
+                pid = data.get("in_reply_to_user_id")
+                if pid == USER_ID or pid == data.get("author_id"):
+                    return "self-reply", to
+                return "reply", (to or users.get(pid))
+    return "original", to
+
+
 def posts():
-    """[(utc_datetime, status_id, text, is_live)], his own posts only, time-ordered.
+    """[(utc_datetime, status_id, text, is_live, (kind, addressee))], time-ordered.
 
     is_live is decided by which directory the record came from: anything present in
     `watch/x/raw/` was seen live by the daemon, anything only in the recovery set was
@@ -99,7 +151,7 @@ def posts():
             prev = by_id.get(sid)
             text = _own_text(rec)
             if prev is None or len(text) > len(prev[2]):
-                by_id[sid] = (snowflake_utc(sid), sid, text, sid in live_ids)
+                by_id[sid] = (snowflake_utc(sid), sid, text, sid in live_ids, kind(rec))
     return sorted(by_id.values())
 
 
@@ -164,6 +216,14 @@ if __name__ == "__main__":
     ps = posts()
     live = sum(1 for p in ps if p[3])
     print(f"{len(ps)} posts by @{HANDLE}: {live} live, {len(ps) - live} deleted")
-    for ts, sid, text, is_live in ps:
+    tally = {}
+    for ts, sid, text, is_live, (k, to) in ps:
+        tally[k] = tally.get(k, 0) + 1
         flag = "live " if is_live else "DEL  "
-        print(f"  {ts:%Y-%m-%dT%H:%M:%S} {flag} {sid}  {' '.join(text.split())[:72]}")
+        addr = f"->@{to}" if to else ""
+        print(f"  {ts:%Y-%m-%dT%H:%M:%S} {flag} {sid}  {k:<10} {addr:<14} "
+              f"{' '.join(text.split())[:56]}")
+    print("  " + ", ".join(f"{v} {k}" for k, v in sorted(tally.items())))
+    spoken = sorted({to for *_, (k, to) in ps if to and to.lower() != HANDLE})
+    print(f"  addressed to {len(spoken)} other accounts: "
+          + ", ".join("@" + s for s in spoken))

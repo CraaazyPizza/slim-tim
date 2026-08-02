@@ -9,6 +9,57 @@ Newest first. "Ours" = a claim we made; "outside" = a claim someone else made th
 
 ---
 
+## 2026-08-02 (later) — the replies, caught by a reader
+
+A commenter on the Reddit post asked whether the dossier takes qtecqot's **replies** into
+account, or "only ever considers their posts". Checked, and the answer split in two: the
+*data* had them all along, the *documents* said otherwise in three places and had said so
+since 2026-07-29.
+
+### 1. ★ "replies to anyone, ever: 1" — WRONG, and it had already been caught once (ours)
+**Was:** dossier §1's summary table, §4.5 headed "The two tweets", and §9's bullet "on X he
+has two posts and no replies to anyone", from which §9 built its thesis that engagement runs
+to the legacy audience "and at nobody else".
+**Now:** **7 of the 22 posts are replies** — 3 on his own thread, 4 addressed to three other
+accounts he does not follow. The narrower claim survives and is now stated as the narrow one:
+of the **29 replies** under his ten live posts he has answered **none** in thread. The shape
+is not "does not engage", it is **initiates, does not respond**.
+**Cause, and it is the ugly one.** This exact error was logged on 2026-08-02 as entry 3 of
+the section below — *"'replies to anyone, ever: 1' is wrong"* — and `PROVENANCE.md` listed it
+under "What it changes in the record: not yet folded in". It was logged, published, and left
+sitting in the source sections for a reader to find. That is failure mode #1 from *The pattern
+worth remembering*, reproduced verbatim within four days of writing it down.
+→ dossier §1, §4.5, **§4.5a** (new), §9
+
+### 2. The timeline figure never said what a "Post" row was (ours, presentation)
+**Was:** every post row on `figs/qtecqot/timeline.png` read "Post" or "Post, since deleted",
+so a reader could not tell replies were included — the reasonable inference being that they
+were not.
+**Now:** rows read Post / Reply to another account / Reply on his own thread / Repost, and
+the subtitle gives the composition. Absence of a label is not neutral; it is read as absence
+of the thing.
+
+### 3. The reply content was the part worth having (ours, miss)
+Four of the five most concrete statements he has ever made are replies: the 7-tape / C01–C40
+numbering, the tape-7-and-in-colour claim for slot 8, the case-28 correction that agrees with
+our own ledger, and the deleted **"he is confirmed real. continuation of series on my Youtube.
+There are others survivors"** of 2026-06-14. Treating replies as chatter around the posts had
+it backwards. → dossier §4.5a
+
+### 4. A video was attributed to him that he did not attach (ours)
+**Was:** `qtecqot-x-recovered/PROVENANCE.md` reported that his deleted 2026-06-14 reply
+"attached a re-encode of 2011 material while asserting the subject is confirmed real".
+**Now:** `data.attachments` on that record is **empty**. The 19.4 s video and the photo belong
+to the tweet he replied to, and reached our media directory because the Twitter API v2
+`includes.media` block expands every referenced tweet, not just the requested one. The NCC
+measurement against `RsQCXN4o4Ps` stands; the ownership does not.
+**Consequence, and it runs the other way too:** the same section's "X purges assets on delete,
+but not reliably and not always" was built on counting other accounts' media as his. Split by
+real ownership it is perfectly consistent — **5 of 5** assets on his deleted posts are 404,
+**2 of 2** on his live post are served. → `PROVENANCE.md`
+
+---
+
 ## 2026-08-02 — the deleted-post recovery
 
 Eleven deleted @qtecqot posts were recovered from Wayback captures of Twitter API v2
