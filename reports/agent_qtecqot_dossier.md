@@ -21,9 +21,10 @@ by handle only.
 | created | **2026-04-22 05:27:55 UTC** (channel RSS `published`) |
 | uploads | 3, all category "News & Politics", all 1920×1080 / 29.97 fps |
 | traffic (2026-07-29 10:00 UTC) | 21,149 views total · 712 likes · 5.00 average rating on all three |
-| subscribers | 388 (machine read, 2026-07-26) → 408 (observed on the About page, 2026-07-27) |
+| traffic (**2026-08-02 18:55 UTC**) | **90,875** views · **3,107** likes — 4.3× in four days |
+| subscribers | 388 (machine read, 2026-07-26) → 408 (About page, 2026-07-27) → **6,650 (2026-08-02)**, a 16× rise in six days |
 | monetisation | none. No links, no merch, no membership, no affiliate anything |
-| comments made on his own videos | **zero, out of 177** |
+| comments made on his own videos | **zero, out of 873** (was zero out of 177; re-checked 2026-08-02) |
 | **X** | `x.com/qtecqot` · user ID `2048996761101078528` |
 | created | **2026-04-28 05:24:54.916 UTC** — confirmed two independent ways, see §2 |
 | display name | `qtecqot` (identical to the handle) |
@@ -386,6 +387,22 @@ Both sit on **ivan0135's** 2011 video `RsQCXN4o4Ps` ("alien grey extraterrestria
 leaked footage"). Neither is on his own channel. Verified 2026-07-29 by exact channel-ID match
 across **all 9,593 comments on all seven videos of both channels**: exactly two hits for
 `UCw1EA-KJud9OmMA5p7_MWgw`, and **zero** for ivan0135 anywhere.
+
+**Re-checked 2026-08-02 18:55 UTC** against a fresh pull of all seven videos — **10,339 comments**,
+746 more than the first pass. Still **exactly two**, same comment IDs, same text, same nesting, one
+of them up a single like (6 → 7). Still zero `author_is_uploader` and zero `is_favorited` anywhere.
+The nested reply's parent is still in place with its 3 likes and its two replies. So across four
+days in which the three 2026 videos went from 21,149 views to 90,875 and the channel from ~400
+subscribers to 6,650, **he added nothing on YouTube** — every word he wrote in that window went to
+X instead. Captures are `archive/comments/capture_2026-07-29/` and `capture_2026-08-02/`, untracked
+because `archive/` is gitignored: they are 10,339 comments by private individuals.
+
+One thing not to over-read. 23 comments present in the 07-29 pull of `RsQCXN4o4Ps` are absent from
+the 08-02 pull, against 15 that are new. Most of the missing ones are three and four years old,
+which fits YouTube's spam filtering or ordinary extraction variance at least as well as it fits
+deletion — yt-dlp's comment paging is not guaranteed to return an identical set twice. Nothing in
+the missing set touches qtecqot, ivan0135 or the nested-reply thread. **Recorded as an observed
+difference, not as a count of deletions**, and it would take a per-ID re-query to settle.
 
 **Comment 1 — top level.** 6 likes.
 
@@ -848,9 +865,12 @@ address, not from a handle, so a channel cannot be reversed into a mask that way
 
 The negatives here are as characteristic as the positives.
 
-- **He has never commented on his own videos.** Not once, out of **177 comments** across the three
-  uploads (29 / 52 / 96, captured 2026-07-29 02:38). Zero `author_is_uploader` flags.
-- **He has never hearted a comment.** Zero `is_favorited` flags across all 177.
+- **He has never commented on his own videos.** Not once, out of **873 comments** across the three
+  uploads (232 / 208 / 433, re-captured 2026-08-02 18:55). Zero `author_is_uploader` flags. Was
+  177 (29 / 52 / 96) at the 2026-07-29 capture, so the negative now rests on a sample five times
+  larger.
+- **He has never hearted a comment.** Zero `is_favorited` flags across all **10,339** comments on
+  all seven videos of both channels.
 - **He has never pinned anything.**
 - His **only** dialogue anywhere on YouTube is one nested reply to one stranger, in May, on someone
   else's video.
