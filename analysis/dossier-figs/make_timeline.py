@@ -96,9 +96,18 @@ def build():
         rows.append((ts, kind, LABEL[k] + ("" if is_live else ", since deleted"), note, sid))
     # The two YouTube comments cannot be resolved to an instant. Placed at the midpoint of
     # their window and drawn hollow, exactly as the original did for its unresolved tweet.
-    rows.append((datetime(2026, 5, 28, 12, 0, 0), "cmt", "Two YouTube comments",
-                 "the only two he has ever posted, both on ivan0135's RsQCXN4o4Ps",
-                 "3-day window"))
+    #
+    # Shown as two rows, not one. They are not the same kind of act: one is a top-level
+    # comment and the other is a nested reply carrying the single most load-bearing
+    # sentence he has written. Collapsing them to "Two YouTube comments" hid that, the
+    # same way 22 rows reading "Post" hid the X replies.
+    rows.append((datetime(2026, 5, 28, 12, 0, 0), "cmt", "YouTube comment, top level",
+                 "“Continuation of series:” and a link to video 5, on ivan0135's "
+                 "RsQCXN4o4Ps. 6 likes", "3-day window"))
+    rows.append((datetime(2026, 5, 28, 12, 1, 0), "cmt",
+                 "YouTube comment, nested reply — the one that decoded the counter",
+                 "“5 of 8 completed.” Nested under a stranger's plea, so invisible in "
+                 "newest-first sort", "3-day window"))
     # The one post with no machine record. posts() cannot see it, so it is added by hand.
     rows.extend(SCREENSHOT_ONLY)
     return sorted(rows)

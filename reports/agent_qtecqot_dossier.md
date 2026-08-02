@@ -36,7 +36,7 @@ by handle only.
 | follows | 3: `@UAPJedi`, `@roscosmos`, `@elonmusk` |
 | followers | 1 (Jul 27) → 7 (Jul 28) → 8 (Jul 29 ~02:00) → **14 (Jul 29 10:13 UTC)** |
 | username changes | 1, in April 2026. The prior handle is not recoverable (see §9) |
-| **YouTube comments made, all time** | **2**, both on ivan0135's video `RsQCXN4o4Ps`, neither on his own channel |
+| **YouTube comments made, all time** | **2**, both on ivan0135's video `RsQCXN4o4Ps`, neither on his own channel. One top-level; **the other a nested reply**, and it carries "5 of 8 completed" — the sentence §6.1's whole counter reading rests on. See §4.4 |
 | **replies to anyone, ever** | **8** — one YouTube comment (§5.3) and seven X posts, four of them addressed to three other accounts. **Corrected 2026-08-02**; this row read "1 … nothing since" and was wrong. See §9 |
 
 **The handle itself.** "qtecqot" had essentially zero web footprint before 2026-05-25. It survives
@@ -58,12 +58,14 @@ VPN-dependent. Neither is a self-declaration and neither should be quoted as one
 
 ![Every public act by qtecqot](../figs/qtecqot/timeline.png)
 
-**Updated 2026-08-02: 29 acts, not the nine this section was written against.** Eleven deleted
+**Updated 2026-08-02: 30 acts, not the nine this section was written against.** Eleven deleted
 posts were recovered and the watcher has captured every post since, so the figure now carries all
 22 X posts alongside the registrations, uploads, description edit and the two YouTube comments.
 Each post row says whether it is an original, a reply, a reply on his own thread, or a repost —
 added after a reader took the earlier figure to be showing originals only, which it never said
-either way. Seven are replies; §4.5a is what they contain.
+either way. Seven are replies; §4.5a is what they contain. The two YouTube comments are also split
+into their own rows, because one is top-level and the other is the nested reply that decoded the
+release counter — see §4.4.
 It is rebuilt by `analysis/dossier-figs/make_timeline.py`, which reads the post list from `raw/`
 rather than holding its own copy; the nine-act original is at
 `figs/qtecqot/withdrawn/timeline_9acts_2026-07-29_SUPERSEDED.png`. The paragraph below is kept as
@@ -400,6 +402,15 @@ him to "Upload everything." A second reply on the same parent, from **@KizzMyAbs
 "someone sent him this to post". qtecqot's reply is placed under that plea, and because it is
 nested it is **invisible when the thread is sorted by newest** — which is why it went unnoticed for
 two months.
+
+**This is the same finding as §4.5a, on the other platform, and it is worth naming as a pattern.**
+Twice now the most substantive thing he has said was in a reply, and twice the reply was harder to
+see than the posts around it. Here it was YouTube's newest-first sort, which hides a nested comment
+under a two-thousand-character parent; there it was our own summary rows, which said "two posts and
+no replies". In both cases the material was retrievable the whole time and the *display* is what
+lost it. "5 of 8 completed" — the sentence that decoded the entire release counter, and the anchor
+for §6.1 — sat unread for two months as a reply. Wherever this account is thin on top-level output,
+check what it has said underneath someone else's.
 
 The timing matters. The plea and the reply both sit in the (05-26, 05-29] window, two to four days
 after video 1 published. A three-month-silent operator answered a stranger's plea within days,
