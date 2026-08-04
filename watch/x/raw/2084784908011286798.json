@@ -1,0 +1,85 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/qtecqot/status/2084784908011286798",
+  "id": "2084784908011286798",
+  "text": "New fake copycat YouTube channel:\nhttps://www.youtube.com/@qtecqot-420\n\nIf you'd like to help, click \"More\", then \"Report User\"",
+  "raw_text": {
+   "text": "New fake copycat YouTube channel:\nhttps://t.co/wKRwxWO8sN\n\nIf you'd like to help, click \"More\", then \"Report User\"",
+   "display_text_range": [
+    0,
+    114
+   ],
+   "facets": [
+    {
+     "type": "url",
+     "indices": [
+      34,
+      57
+     ],
+     "original": "https://t.co/wKRwxWO8sN",
+     "replacement": "https://www.youtube.com/@qtecqot-420",
+     "display": "youtube.com/@qtecqot-420"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "qtecqot",
+   "url": "https://x.com/qtecqot",
+   "id": "2048996761101078528",
+   "followers": 227,
+   "following": 4,
+   "likes": 19,
+   "media_count": 2,
+   "name": "qtecqot",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Tue Apr 28 05:24:54 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 1,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Tue Aug 04 23:33:50 +0000 2026",
+  "created_timestamp": 1785886430,
+  "possibly_sensitive": false,
+  "views": 15,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "source": "Twitter Web App",
+  "card": {
+   "url": "https://www.youtube.com/@qtecqot-420",
+   "title": "qtecqot",
+   "description": "Disclosure leaked ufo alien case video confidential documents old footage #SkinnyBob #UFO #UAP #Aliens #Alien #GreyAlien #Extraterrestrial #FirstContact #UFOTwitter #UFOCommunity #UFOSighting...",
+   "domain": "www.youtube.com",
+   "image": {
+    "width": 420,
+    "height": 420,
+    "url": "https://pbs.twimg.com/card_img/2084782546207043584/w7tpLV-2?format=jpg&name=420x420_2"
+   }
+  },
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

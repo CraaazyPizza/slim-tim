@@ -875,3 +875,9 @@
 ## 2026-08-04T23:34:01.867126+00:00
 
 - ★★★ @qtecqot: tweets 12 -> 13
+
+## 2026-08-04T23:40:01.573548+00:00
+
+-     media GONE 2084784908011286798_1 IsADirectoryError https://pbs.twimg.com/card_img/2084782546207043584/w7tpLV-2?format=jpg&name=420x420_2
+- ★★★ @qtecqot: CAPTURED 2084784908011286798 (Tue Aug 04 23:33:50 +0000 2026) — 'New fake copycat YouTube channel: / https://www.youtube.com/@qtecqot-420 /  / If you\'d like to help, click "More", then "Report User"' [media: GONE  (IsADirectoryError) https://pbs.twimg.com/card_img/2084782546207043584/w7tpLV-2?format=jpg&name=420x420_2]
+-     wayback save unavailable (HTTP 498) — local body is the copy for 2084784908011286798
