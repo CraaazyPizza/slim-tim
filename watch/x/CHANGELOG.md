@@ -310,3 +310,474 @@
 -     not a status, dropping 2082002737362039093 (404 on first fetch, no body ever held)
 - ★★★ @qtecqot: CAPTURED 2084050441407746143 (Sun Aug 02 22:55:19 +0000 2026) — '@megadamage1 YouTube removed the channel so my post was superfluous and unnecessary at that point.'
 -     wayback save unavailable (HTTP 498) — local body is the copy for 2084050441407746143
+
+## 2026-08-02T23:07:01.182682+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+-     @qtecqot: followers 140 -> 141
+
+## 2026-08-02T23:14:01.449890+00:00
+
+-     @qtecqot: followers 141 -> 142
+
+## 2026-08-02T23:26:01.348139+00:00
+
+-     @qtecqot: followers 142 -> 143
+
+## 2026-08-02T23:34:01.859462+00:00
+
+-     @qtecqot: followers 143 -> 144
+
+## 2026-08-02T23:36:01.391361+00:00
+
+-     @qtecqot: followers 144 -> 145
+
+## 2026-08-02T23:44:02.063951+00:00
+
+-     @qtecqot: followers 145 -> 146
+
+## 2026-08-03T00:02:01.520894+00:00
+
+-     @qtecqot: followers 146 -> 147
+
+## 2026-08-03T00:07:01.267271+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T00:12:01.404577+00:00
+
+-     @qtecqot: followers 147 -> 148
+
+## 2026-08-03T00:22:01.126817+00:00
+
+-     @qtecqot: followers 148 -> 149
+
+## 2026-08-03T00:48:01.856358+00:00
+
+-     @qtecqot: followers 149 -> 150
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B (timeline): ALL MIRRORS FAILED -- https://nitter.net/qtecqot/rss: HTTPError; https://nitter.poast.org/qtecqot/rss: HTTPError; https://xcancel.com/qtecqot/rss: HTTPError; https://nitter.privacyredirect.com/qtecqot/rss: ParseError; https://nitter.tiekoetter.com/qtecqot/rss: ParseError
+
+## 2026-08-03T00:50:01.137030+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B (timeline): ALL MIRRORS FAILED -- https://nitter.net/qtecqot/rss: HTTPError; https://nitter.poast.org/qtecqot/rss: HTTPError; https://xcancel.com/qtecqot/rss: HTTPError; https://nitter.privacyredirect.com/qtecqot/rss: ParseError; https://nitter.tiekoetter.com/qtecqot/rss: ParseError
+
+## 2026-08-03T00:52:01.316067+00:00
+
+-     @qtecqot: followers 150 -> 151
+
+## 2026-08-03T00:58:01.444394+00:00
+
+-     @qtecqot: followers 151 -> 152
+
+## 2026-08-03T01:02:01.155234+00:00
+
+-     @qtecqot: followers 152 -> 153
+
+## 2026-08-03T01:07:01.808128+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T01:32:01.084969+00:00
+
+-     @qtecqot: followers 153 -> 154
+
+## 2026-08-03T01:38:01.623051+00:00
+
+-     @qtecqot: followers 154 -> 155
+
+## 2026-08-03T01:56:01.069852+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B (timeline): ALL MIRRORS FAILED -- https://nitter.net/qtecqot/rss: HTTPError; https://nitter.poast.org/qtecqot/rss: HTTPError; https://xcancel.com/qtecqot/rss: HTTPError; https://nitter.privacyredirect.com/qtecqot/rss: HTTPError; https://nitter.tiekoetter.com/qtecqot/rss: ParseError
+
+## 2026-08-03T02:07:01.690842+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T02:14:01.706227+00:00
+
+-     @qtecqot: followers 155 -> 156
+
+## 2026-08-03T02:26:01.067316+00:00
+
+-     @qtecqot: followers 156 -> 157
+
+## 2026-08-03T02:28:01.553872+00:00
+
+-     @qtecqot: followers 157 -> 158
+
+## 2026-08-03T02:56:01.213758+00:00
+
+-     @qtecqot: followers 158 -> 159
+
+## 2026-08-03T03:04:01.158598+00:00
+
+-     @qtecqot: followers 159 -> 160
+
+## 2026-08-03T03:07:01.131031+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T03:10:01.571500+00:00
+
+-     @qtecqot: followers 160 -> 161
+
+## 2026-08-03T03:14:01.808332+00:00
+
+-     @qtecqot: followers 161 -> 162
+
+## 2026-08-03T03:16:01.294068+00:00
+
+-     @qtecqot: followers 162 -> 163
+
+## 2026-08-03T03:18:01.866779+00:00
+
+-     @qtecqot: followers 163 -> 164
+
+## 2026-08-03T03:58:01.446798+00:00
+
+-     @qtecqot: followers 164 -> 165
+
+## 2026-08-03T04:07:01.740821+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T04:14:01.779852+00:00
+
+-     @qtecqot: followers 165 -> 167
+
+## 2026-08-03T04:26:01.936998+00:00
+
+-     @qtecqot: followers 167 -> 168
+
+## 2026-08-03T04:36:01.181363+00:00
+
+-     @qtecqot: followers 168 -> 169
+
+## 2026-08-03T04:44:01.287360+00:00
+
+-     @qtecqot: followers 169 -> 170
+
+## 2026-08-03T04:52:01.340157+00:00
+
+-     @qtecqot: followers 170 -> 171
+
+## 2026-08-03T05:07:01.930005+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T05:30:01.359772+00:00
+
+-     @qtecqot: followers 171 -> 172
+
+## 2026-08-03T05:44:01.861861+00:00
+
+-     @qtecqot: followers 172 -> 173
+
+## 2026-08-03T06:07:01.979782+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T07:07:01.900564+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T08:07:01.851549+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T08:36:01.139196+00:00
+
+-     @qtecqot: followers 173 -> 174
+
+## 2026-08-03T09:07:01.471822+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T10:07:01.835926+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T11:07:01.869814+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T12:07:01.594632+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T12:52:01.987067+00:00
+
+-     @qtecqot: followers 174 -> 175
+
+## 2026-08-03T13:07:01.920696+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T13:20:01.846312+00:00
+
+-     @qtecqot: followers 175 -> 176
+
+## 2026-08-03T13:58:01.114841+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B (timeline): ALL MIRRORS FAILED -- https://nitter.net/qtecqot/rss: HTTPError; https://nitter.poast.org/qtecqot/rss: HTTPError; https://xcancel.com/qtecqot/rss: HTTPError; https://nitter.privacyredirect.com/qtecqot/rss: ParseError; https://nitter.tiekoetter.com/qtecqot/rss: ParseError
+
+## 2026-08-03T14:07:01.483773+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T15:07:01.394716+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T15:18:01.900018+00:00
+
+-     @qtecqot: followers 176 -> 178
+
+## 2026-08-03T15:24:01.537990+00:00
+
+-     @qtecqot: followers 178 -> 179
+
+## 2026-08-03T15:48:02.084073+00:00
+
+-     @qtecqot: followers 179 -> 181
+
+## 2026-08-03T15:52:01.547434+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B (timeline): ALL MIRRORS FAILED -- https://nitter.net/qtecqot/rss: HTTPError; https://nitter.poast.org/qtecqot/rss: HTTPError; https://xcancel.com/qtecqot/rss: HTTPError; https://nitter.privacyredirect.com/qtecqot/rss: ParseError; https://nitter.tiekoetter.com/qtecqot/rss: ParseError
+
+## 2026-08-03T16:06:01.791824+00:00
+
+-     @qtecqot: followers 181 -> 182
+
+## 2026-08-03T16:07:01.292893+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T16:12:01.333134+00:00
+
+-     @qtecqot: followers 182 -> 183
+
+## 2026-08-03T16:18:01.908526+00:00
+
+-     @qtecqot: followers 183 -> 184
+
+## 2026-08-03T16:22:02.057635+00:00
+
+-     @qtecqot: followers 184 -> 185
+
+## 2026-08-03T16:28:01.304129+00:00
+
+-     @qtecqot: followers 185 -> 186
+
+## 2026-08-03T16:30:01.873233+00:00
+
+-     @qtecqot: followers 186 -> 187
+
+## 2026-08-03T16:40:01.689540+00:00
+
+-     @qtecqot: followers 187 -> 188
+
+## 2026-08-03T16:54:01.817304+00:00
+
+-     @qtecqot: followers 188 -> 189
+
+## 2026-08-03T16:56:01.360093+00:00
+
+-     @qtecqot: followers 189 -> 190
+
+## 2026-08-03T17:00:01.928916+00:00
+
+-     @qtecqot: followers 190 -> 191
+
+## 2026-08-03T17:07:01.716614+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T17:24:01.331014+00:00
+
+-     @qtecqot: followers 191 -> 192
+
+## 2026-08-03T17:26:01.842497+00:00
+
+-     @qtecqot: followers 192 -> 196
+
+## 2026-08-03T17:34:01.445532+00:00
+
+-     @qtecqot: followers 196 -> 197
+
+## 2026-08-03T17:36:01.256354+00:00
+
+-     @qtecqot: followers 197 -> 198
+
+## 2026-08-03T18:06:01.203956+00:00
+
+-     @qtecqot: followers 198 -> 199
+
+## 2026-08-03T18:07:01.833874+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T18:10:01.950220+00:00
+
+-     @qtecqot: followers 199 -> 200
+
+## 2026-08-03T18:24:01.935544+00:00
+
+-     @qtecqot: followers 200 -> 201
+
+## 2026-08-03T18:48:01.710539+00:00
+
+-     @qtecqot: followers 201 -> 202
+
+## 2026-08-03T19:02:01.212794+00:00
+
+-     @qtecqot: followers 202 -> 203
+
+## 2026-08-03T19:07:01.187081+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+-     @qtecqot: followers 203 -> 204
+
+## 2026-08-03T19:10:01.887243+00:00
+
+-     @qtecqot: followers 204 -> 205
+
+## 2026-08-03T19:26:01.095183+00:00
+
+-     @qtecqot: followers 205 -> 206
+
+## 2026-08-03T19:28:01.575318+00:00
+
+-     @qtecqot: followers 206 -> 205
+
+## 2026-08-03T19:50:01.369830+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B (timeline): ALL MIRRORS FAILED -- https://nitter.net/qtecqot/rss: HTTPError; https://nitter.poast.org/qtecqot/rss: HTTPError; https://xcancel.com/qtecqot/rss: HTTPError; https://nitter.privacyredirect.com/qtecqot/rss: ParseError; https://nitter.tiekoetter.com/qtecqot/rss: ParseError
+
+## 2026-08-03T19:52:01.860626+00:00
+
+-     @qtecqot: followers 205 -> 206
+
+## 2026-08-03T20:06:01.583231+00:00
+
+-     @qtecqot: followers 206 -> 207
+
+## 2026-08-03T20:07:01.126915+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T20:10:01.295002+00:00
+
+-     @qtecqot: followers 207 -> 208
+
+## 2026-08-03T20:34:01.988174+00:00
+
+-     @qtecqot: followers 208 -> 209
+
+## 2026-08-03T21:07:01.631934+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T21:26:01.322992+00:00
+
+-     @qtecqot: followers 209 -> 210
+
+## 2026-08-03T21:46:01.369921+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B (timeline): ALL MIRRORS FAILED -- https://nitter.net/qtecqot/rss: HTTPError; https://nitter.poast.org/qtecqot/rss: HTTPError; https://xcancel.com/qtecqot/rss: HTTPError; https://nitter.privacyredirect.com/qtecqot/rss: ParseError; https://nitter.tiekoetter.com/qtecqot/rss: ParseError
+
+## 2026-08-03T22:07:01.338768+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T22:12:02.013996+00:00
+
+-     @qtecqot: followers 210 -> 211
+
+## 2026-08-03T23:07:01.515738+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-03T23:14:01.924340+00:00
+
+-     @qtecqot: followers 211 -> 212
+
+## 2026-08-03T23:28:01.927282+00:00
+
+-     @qtecqot: followers 212 -> 214
+
+## 2026-08-04T00:07:01.611067+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-04T00:08:01.234295+00:00
+
+-     @qtecqot: followers 214 -> 215
+
+## 2026-08-04T00:12:01.153486+00:00
+
+-     @qtecqot: followers 215 -> 216
+
+## 2026-08-04T00:46:01.442575+00:00
+
+-     @qtecqot: followers 216 -> 217
+
+## 2026-08-04T01:07:01.745432+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-04T01:16:01.872532+00:00
+
+-     @qtecqot: followers 217 -> 218
+
+## 2026-08-04T02:07:01.777426+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-04T03:07:01.908229+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-04T04:07:01.630461+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-04T05:07:01.862410+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-04T06:07:01.706093+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-04T06:26:01.963905+00:00
+
+-     @qtecqot: followers 218 -> 219
+
+## 2026-08-04T07:07:01.567851+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-04T08:07:01.633964+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-04T09:07:01.939609+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-04T10:07:01.226931+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-04T11:07:02.029588+00:00
+
+-     backfill media: 12 held, 5 purged (0 newly)
+
+## 2026-08-04T11:32:01.646188+00:00
+
+-     @qtecqot: followers 219 -> 220
+
+## 2026-08-04T11:36:01.689012+00:00
+
+- ★★ @qtecqot: likes 17 -> 18
