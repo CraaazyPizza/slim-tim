@@ -871,3 +871,7 @@
 
 - ★★★ @qtecqot: CAPTURED 2084781836652470559 (Tue Aug 04 23:21:37 +0000 2026) — '@AbbottEddi5270 Still frame from tape 7.  /  / Does the phrase "Mantis Blueprint" hold any significance with you?' [media: 2084781836652470559_1.jpg]
 -     wayback save unavailable (HTTP 498) — local body is the copy for 2084781836652470559
+
+## 2026-08-04T23:34:01.867126+00:00
+
+- ★★★ @qtecqot: tweets 12 -> 13
