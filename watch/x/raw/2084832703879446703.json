@@ -1,0 +1,62 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/qtecqot/status/2084832703879446703",
+  "id": "2084832703879446703",
+  "text": "🔹Regarding the next release, 8/8 was intended for this month (August 2026). With the proliferation of copycat channels however, and the apparent unwillingness of Google/YouTube to police them, the network is of the belief that future footage drops are likely unproductive.",
+  "raw_text": {
+   "text": "🔹Regarding the next release, 8/8 was intended for this month (August 2026). With the proliferation of copycat channels however, and the apparent unwillingness of Google/YouTube to police them, the network is of the belief that future footage drops are likely unproductive.",
+   "display_text_range": [
+    0,
+    272
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "qtecqot",
+   "url": "https://x.com/qtecqot",
+   "id": "2048996761101078528",
+   "followers": 229,
+   "following": 4,
+   "likes": 19,
+   "media_count": 2,
+   "name": "qtecqot",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Tue Apr 28 05:24:54 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 2,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Wed Aug 05 02:43:45 +0000 2026",
+  "created_timestamp": 1785897825,
+  "views": 13,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}
