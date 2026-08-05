@@ -881,3 +881,34 @@
 -     media GONE 2084784908011286798_1 IsADirectoryError https://pbs.twimg.com/card_img/2084782546207043584/w7tpLV-2?format=jpg&name=420x420_2
 - ★★★ @qtecqot: CAPTURED 2084784908011286798 (Tue Aug 04 23:33:50 +0000 2026) — 'New fake copycat YouTube channel: / https://www.youtube.com/@qtecqot-420 /  / If you\'d like to help, click "More", then "Report User"' [media: GONE  (IsADirectoryError) https://pbs.twimg.com/card_img/2084782546207043584/w7tpLV-2?format=jpg&name=420x420_2]
 -     wayback save unavailable (HTTP 498) — local body is the copy for 2084784908011286798
+
+## 2026-08-04T23:44:01.725330+00:00
+
+-     @qtecqot: followers 227 -> 228
+
+## 2026-08-05T00:07:01.328125+00:00
+
+-     media NEWLY GONE  (IsADirectoryError) https://pbs.twimg.com/card_img/2084782546207043584/w7tpLV-2?format=jpg&name=420x420_2
+-     backfill media: 13 held, 6 purged (1 newly)
+- ! ERROR (instrument failure, NOT an absence of change): 1 asset(s) purged from the twimg CDN since the last sweep
+
+## 2026-08-05T00:30:01.864628+00:00
+
+-     @qtecqot: followers 228 -> 229
+
+## 2026-08-05T01:07:01.500208+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+
+## 2026-08-05T01:10:01.079717+00:00
+
+-     not a status, dropping 2082380299598753906 (404 on first fetch, no body ever held)
+-     not a status, dropping 2083135181737914542 (404 on first fetch, no body ever held)
+
+## 2026-08-05T02:07:01.097986+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+
+## 2026-08-05T02:44:01.298459+00:00
+
+- ★★★ @qtecqot: tweets 13 -> 14
