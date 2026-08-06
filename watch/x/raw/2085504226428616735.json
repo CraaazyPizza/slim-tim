@@ -1,0 +1,72 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/qtecqot/status/2085504226428616735",
+  "id": "2085504226428616735",
+  "text": "@manuelzasueta 👽👍",
+  "raw_text": {
+   "text": "@manuelzasueta 👽👍",
+   "display_text_range": [
+    15,
+    17
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      14
+     ],
+     "original": "manuelzasueta",
+     "id": "296666118"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "qtecqot",
+   "url": "https://x.com/qtecqot",
+   "id": "2048996761101078528",
+   "followers": 265,
+   "following": 4,
+   "likes": 21,
+   "media_count": 2,
+   "name": "qtecqot",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Tue Apr 28 05:24:54 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Thu Aug 06 23:12:09 +0000 2026",
+  "created_timestamp": 1786057929,
+  "views": 6,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": null,
+  "replying_to": "manuelzasueta",
+  "replying_to_status": "2085263543314546844",
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}
