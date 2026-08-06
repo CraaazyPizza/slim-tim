@@ -1,0 +1,72 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/qtecqot/status/2085502958377353223",
+  "id": "2085502958377353223",
+  "text": "@manuelzasueta What you describe is fair use, and is of course perfectly fine.\n\nThe issue is with copycats who clone channel names, content, descriptions etc., in an attempt to fool viewers. Such channels can utilize any number of ploys to damage our cause & credibility.\n\nTy for your interest.",
+  "raw_text": {
+   "text": "@manuelzasueta What you describe is fair use, and is of course perfectly fine.\n\nThe issue is with copycats who clone channel names, content, descriptions etc., in an attempt to fool viewers. Such channels can utilize any number of ploys to damage our cause &amp; credibility.\n\nTy for your interest.",
+   "display_text_range": [
+    15,
+    298
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      14
+     ],
+     "original": "manuelzasueta",
+     "id": "296666118"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "qtecqot",
+   "url": "https://x.com/qtecqot",
+   "id": "2048996761101078528",
+   "followers": 266,
+   "following": 4,
+   "likes": 21,
+   "media_count": 2,
+   "name": "qtecqot",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Tue Apr 28 05:24:54 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Thu Aug 06 23:07:06 +0000 2026",
+  "created_timestamp": 1786057626,
+  "views": null,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "manuelzasueta",
+  "replying_to_status": "2085263527036518481",
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}
