@@ -1254,3 +1254,9 @@
 ## 2026-08-06T23:00:01.501542+00:00
 
 - ★★ @qtecqot: likes 19 -> 20
+
+## 2026-08-06T23:07:01.243144+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+- ★★★ @qtecqot: CAPTURED 2085502958377353223 (Thu Aug 06 23:07:06 +0000 2026) — '@manuelzasueta What you describe is fair use, and is of course perfectly fine. /  / The issue is with copycats who clone channel names, content, descriptions etc., in an attempt to fool viewers. Such channels can utilize'
+-     wayback save unavailable (HTTP 498) — local body is the copy for 2085502958377353223
