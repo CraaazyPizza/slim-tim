@@ -1273,3 +1273,8 @@
 ## 2026-08-06T23:14:01.218814+00:00
 
 - ★★★ @qtecqot: tweets 15 -> 16
+
+## 2026-08-06T23:20:01.268004+00:00
+
+- ★★★ @qtecqot: CAPTURED 2085504226428616735 (Thu Aug 06 23:12:09 +0000 2026) — '@manuelzasueta 👽👍'
+-     wayback save unavailable (HTTP 498) — local body is the copy for 2085504226428616735
