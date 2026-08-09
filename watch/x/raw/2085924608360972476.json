@@ -1,0 +1,335 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/qtecqot/status/2085924608360972476",
+  "id": "2085924608360972476",
+  "text": "Once the dam breaks, it'll just be a matter of time before the #wnba is essentially the NBA's 2nd D League.\n\nActual females won't be good enough to make the teams.",
+  "raw_text": {
+   "text": "Once the dam breaks, it'll just be a matter of time before the #wnba is essentially the NBA's 2nd D League.\n\nActual females won't be good enough to make the teams.",
+   "display_text_range": [
+    0,
+    163
+   ],
+   "facets": [
+    {
+     "type": "hashtag",
+     "indices": [
+      63,
+      68
+     ],
+     "original": "wnba"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "qtecqot",
+   "url": "https://x.com/qtecqot",
+   "id": "2048996761101078528",
+   "followers": 298,
+   "following": 4,
+   "likes": 23,
+   "media_count": 2,
+   "name": "qtecqot",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Tue Apr 28 05:24:54 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 3,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sat Aug 08 03:02:35 +0000 2026",
+  "created_timestamp": 1786158155,
+  "views": 615,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "quote": {
+   "url": "https://x.com/EnesFreedom/status/2085772139869696032",
+   "id": "2085772139869696032",
+   "text": "After careful consideration and reviewing the current eligibility guidelines,\nI’m officially declaring myself a @WNBA prospect.\n\nIf simply declaring who you are is all that’s required, then I meet every single requirement necessary to compete in the WNBA.\n\nMy team and I have carefully examined the WNBA’s eligibility criteria and governing framework surrounding self-identification and inclusion. Based on the current guidelines, I can and am officially declaring my eligibility for the upcoming WNBA draft in April 2027.\n\nI know my presence on the court will stir up strong opinions.\nI am definitely not here to mock, make fun of, or disrespect any community or personal choices.  \nI’m simply asking that the current rules be applied equally to everyone — the rules that represent the very values many WNBA players and coaches have publicly advocated for.\nMy team and I are prepared to ensure these guidelines are applied equally, consistently, and without exception, and I look forward to the #WNBA honoring its stated principles.\n\nSee you at training camp.\n\nhttps://enesfreedom.com",
+   "raw_text": {
+    "text": "After careful consideration and reviewing the current eligibility guidelines,\nI’m officially declaring myself a @WNBA prospect.\n\nIf simply declaring who you are is all that’s required, then I meet every single requirement necessary to compete in the WNBA.\n\nMy team and I have carefully examined the WNBA’s eligibility criteria and governing framework surrounding self-identification and inclusion. Based on the current guidelines, I can and am officially declaring my eligibility for the upcoming WNBA draft in April 2027.\n\nI know my presence on the court will stir up strong opinions.\nI am definitely not here to mock, make fun of, or disrespect any community or personal choices.  \nI’m simply asking that the current rules be applied equally to everyone — the rules that represent the very values many WNBA players and coaches have publicly advocated for.\nMy team and I are prepared to ensure these guidelines are applied equally, consistently, and without exception, and I look forward to the #WNBA honoring its stated principles.\n\nSee you at training camp.\n\nhttps://t.co/zlwWpVF0Ou",
+    "display_text_range": [
+     0,
+     1085
+    ],
+    "facets": [
+     {
+      "type": "mention",
+      "indices": [
+       112,
+       117
+      ],
+      "original": "WNBA",
+      "id": "17159397"
+     },
+     {
+      "type": "media",
+      "indices": [
+       276,
+       299
+      ],
+      "id": "2085771953546117121",
+      "display": "pic.x.com/msncUZUT1J",
+      "original": "https://t.co/msncUZUT1J",
+      "replacement": "https://x.com/EnesFreedom/status/2085772139869696032/video/1"
+     },
+     {
+      "type": "hashtag",
+      "indices": [
+       996,
+       1001
+      ],
+      "original": "WNBA"
+     },
+     {
+      "type": "url",
+      "indices": [
+       1062,
+       1085
+      ],
+      "original": "https://t.co/zlwWpVF0Ou",
+      "replacement": "https://enesfreedom.com",
+      "display": "enesfreedom.com"
+     }
+    ]
+   },
+   "author": {
+    "screen_name": "EnesFreedom",
+    "url": "https://x.com/EnesFreedom",
+    "id": "302111485",
+    "followers": 603954,
+    "following": 1,
+    "likes": 23,
+    "media_count": 4059,
+    "name": "Enes Kanter FREEDOM",
+    "description": "𝐈 𝐖𝐚𝐥𝐤 𝐖𝐢𝐭𝐡 𝐀𝐥𝐥 𝐇𝐮𝐦𝐚𝐧𝐢𝐭𝐲",
+    "raw_description": {
+     "text": "𝐈 𝐖𝐚𝐥𝐤 𝐖𝐢𝐭𝐡 𝐀𝐥𝐥 𝐇𝐮𝐦𝐚𝐧𝐢𝐭𝐲",
+     "facets": []
+    },
+    "location": "New York, USA",
+    "banner_url": "https://pbs.twimg.com/profile_banners/302111485/1786071638",
+    "avatar_url": "https://pbs.twimg.com/profile_images/2013830041474404352/vP3vBmMW_200x200.jpg",
+    "joined": "Fri May 20 16:29:14 +0000 2011",
+    "protected": false,
+    "website": {
+     "url": "https://www.enesfreedom.com",
+     "display_url": "enesfreedom.com"
+    },
+    "verification": {
+     "verified": true,
+     "verified_at": null,
+     "type": "individual"
+    },
+    "avatar_color": null
+   },
+   "replies": 15343,
+   "retweets": 27015,
+   "likes": 250376,
+   "bookmarks": 16290,
+   "quotes": 9382,
+   "created_at": "Fri Aug 07 16:56:44 +0000 2026",
+   "created_timestamp": 1786121804,
+   "possibly_sensitive": false,
+   "views": 46979876,
+   "is_note_tweet": true,
+   "community_note": null,
+   "lang": "en",
+   "replying_to": null,
+   "replying_to_status": null,
+   "media": {
+    "all": [
+     {
+      "id": "2085771953546117121",
+      "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/3840x2160/XL8qtB2yZjNUFZS-.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2085771953546117121/img/vxGONeNLuQHO4W-k.jpg",
+      "duration": 65.233,
+      "width": 3840,
+      "height": 2160,
+      "format": "video/mp4",
+      "type": "video",
+      "formats": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/pl/qRQ-SyH2dHXiap29.m3u8?tag=29",
+        "container": "m3u8"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/480x270/DSVTykAQS2Pr54Vw.mp4?tag=29",
+        "bitrate": 256000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/640x360/WCPj0ILlBf1tadXt.mp4?tag=29",
+        "bitrate": 832000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/1280x720/1qDLdRlv7ca0gEgg.mp4?tag=29",
+        "bitrate": 2176000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/1920x1080/6k6mbKaHiqwDQfQf.mp4?tag=29",
+        "bitrate": 10368000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/3840x2160/XL8qtB2yZjNUFZS-.mp4?tag=29",
+        "bitrate": 25128000,
+        "container": "mp4",
+        "codec": "h264"
+       }
+      ],
+      "publisher": null,
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/pl/qRQ-SyH2dHXiap29.m3u8?tag=29",
+        "bitrate": 0,
+        "content_type": "application/x-mpegURL"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/480x270/DSVTykAQS2Pr54Vw.mp4?tag=29",
+        "bitrate": 256000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/640x360/WCPj0ILlBf1tadXt.mp4?tag=29",
+        "bitrate": 832000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/1280x720/1qDLdRlv7ca0gEgg.mp4?tag=29",
+        "bitrate": 2176000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/1920x1080/6k6mbKaHiqwDQfQf.mp4?tag=29",
+        "bitrate": 10368000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/3840x2160/XL8qtB2yZjNUFZS-.mp4?tag=29",
+        "bitrate": 25128000,
+        "content_type": "video/mp4"
+       }
+      ]
+     }
+    ],
+    "videos": [
+     {
+      "id": "2085771953546117121",
+      "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/3840x2160/XL8qtB2yZjNUFZS-.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2085771953546117121/img/vxGONeNLuQHO4W-k.jpg",
+      "duration": 65.233,
+      "width": 3840,
+      "height": 2160,
+      "format": "video/mp4",
+      "type": "video",
+      "formats": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/pl/qRQ-SyH2dHXiap29.m3u8?tag=29",
+        "container": "m3u8"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/480x270/DSVTykAQS2Pr54Vw.mp4?tag=29",
+        "bitrate": 256000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/640x360/WCPj0ILlBf1tadXt.mp4?tag=29",
+        "bitrate": 832000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/1280x720/1qDLdRlv7ca0gEgg.mp4?tag=29",
+        "bitrate": 2176000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/1920x1080/6k6mbKaHiqwDQfQf.mp4?tag=29",
+        "bitrate": 10368000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/3840x2160/XL8qtB2yZjNUFZS-.mp4?tag=29",
+        "bitrate": 25128000,
+        "container": "mp4",
+        "codec": "h264"
+       }
+      ],
+      "publisher": null,
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/pl/qRQ-SyH2dHXiap29.m3u8?tag=29",
+        "bitrate": 0,
+        "content_type": "application/x-mpegURL"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/480x270/DSVTykAQS2Pr54Vw.mp4?tag=29",
+        "bitrate": 256000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/640x360/WCPj0ILlBf1tadXt.mp4?tag=29",
+        "bitrate": 832000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/1280x720/1qDLdRlv7ca0gEgg.mp4?tag=29",
+        "bitrate": 2176000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/1920x1080/6k6mbKaHiqwDQfQf.mp4?tag=29",
+        "bitrate": 10368000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2085771953546117121/vid/avc1/3840x2160/XL8qtB2yZjNUFZS-.mp4?tag=29",
+        "bitrate": 25128000,
+        "content_type": "video/mp4"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "Twitter for iPhone",
+   "twitter_card": "player",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "source": "Twitter Web App",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}
