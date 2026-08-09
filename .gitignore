@@ -51,6 +51,8 @@ watch/x/check.log
 watch/x/cron.log
 watch/x/keeper.log
 watch/x/.keeper.lock
+watch/x/.xwatch.lock
+watch/x/state.json.bak
 
 # Un-redacted source screenshot: carries two third-party @handles of private
 # individuals. The redacted copy beside it is the one that ships. (2026-08-02)

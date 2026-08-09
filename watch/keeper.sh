@@ -101,7 +101,7 @@ flush() {
 
   # GITHUB_TOKEN resolves to the wrong account on this box. Cron does not have it in
   # its environment today, but unset it anyway so this keeps working if that changes.
-  unset GITHUB_TOKEN
+  unset GITHUB_TOKEN GH_TOKEN
 
   local ahead
   if ! $GIT fetch --quiet origin "$PUBLISH_BRANCH" 2>/dev/null; then

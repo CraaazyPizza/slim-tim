@@ -44,7 +44,7 @@ Usage:  python3.12 watch/xwatch.py           # one pass
         python3.12 watch/xwatch.py --backfill-media   # sweep held records for assets
 Exit 10 = something changed.
 """
-import json, os, re, sys, time, urllib.request, urllib.error
+import fcntl, json, os, re, shutil, sys, tempfile, time, urllib.request, urllib.error
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
@@ -55,6 +55,7 @@ MEDIA = os.path.join(XDIR, "media")
 STATE = os.path.join(XDIR, "state.json")
 CHANGELOG = os.path.join(XDIR, "CHANGELOG.md")
 CHECKLOG = os.path.join(XDIR, "check.log")
+LOCK = os.path.join(XDIR, ".xwatch.lock")
 
 HANDLES = ["qtecqot"]
 
@@ -77,6 +78,37 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 LOUD = {"tweets": "★★★", "media_count": "★★", "following": "★★★", "likes": "★★",
         "name": "★★★", "screen_name": "★★★", "description": "★★★", "avatar_url": "★★",
         "protected": "★★★", "location": "★★", "website": "★★"}
+
+
+def write_state_atomic(state):
+    """Replace state only after a complete JSON file is safely on disk."""
+    fd, tmp = tempfile.mkstemp(prefix=".state.", suffix=".tmp", dir=XDIR)
+    try:
+        with os.fdopen(fd, "w") as w:
+            json.dump(state, w, indent=1, ensure_ascii=False)
+            w.flush()
+            os.fsync(w.fileno())
+        if os.path.exists(STATE) and os.path.getsize(STATE) > 0:
+            shutil.copy2(STATE, STATE + ".bak")
+        os.replace(tmp, STATE)
+    finally:
+        if os.path.exists(tmp):
+            os.unlink(tmp)
+
+
+def load_state():
+    """Load the primary state, falling back to the last atomic-write backup."""
+    for path in (STATE, STATE + ".bak"):
+        try:
+            with open(path) as r:
+                state = json.load(r)
+            if isinstance(state, dict) and isinstance(state.get("handles"), dict):
+                return state
+        except (FileNotFoundError, json.JSONDecodeError, OSError):
+            pass
+    if not os.path.exists(STATE):
+        return {"handles": {}}
+    raise RuntimeError(f"xwatch state is corrupt and no valid backup exists: {STATE}")
 
 
 def get(url, timeout=25, raw=False):
@@ -345,7 +377,12 @@ def main():
     quiet = "--quiet" in sys.argv
     for d in (XDIR, RAW, MEDIA):
         os.makedirs(d, exist_ok=True)
-    state = json.load(open(STATE)) if os.path.exists(STATE) else {"handles": {}}
+    lock_file = open(LOCK, "w")
+    try:
+        fcntl.flock(lock_file, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except BlockingIOError:
+        return 0
+    state = load_state()
 
     if "--backfill" in sys.argv:
         ids = [a for a in sys.argv[sys.argv.index("--backfill") + 1:] if a.isdigit()]
@@ -484,7 +521,7 @@ def main():
 
     real = [l for l in lines if not l.startswith("    ")]
     os.makedirs(XDIR, exist_ok=True)
-    json.dump(state, open(STATE, "w"), indent=1, ensure_ascii=False)
+    write_state_atomic(state)
     with open(CHECKLOG, "a") as w:
         w.write(f"{now.isoformat()} changes={len(real)} notes={len(lines)-len(real)} "
                 f"errors={len(errors)}\n")
