@@ -1278,3 +1278,132 @@
 
 - ★★★ @qtecqot: CAPTURED 2085504226428616735 (Thu Aug 06 23:12:09 +0000 2026) — '@manuelzasueta 👽👍'
 -     wayback save unavailable (HTTP 498) — local body is the copy for 2085504226428616735
+
+## 2026-08-06T23:40:01.482780+00:00
+
+-     not a status, dropping 2083398773242573298 (404 on first fetch, no body ever held)
+
+## 2026-08-07T00:07:01.393986+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+
+## 2026-08-07T00:28:01.714040+00:00
+
+-     @qtecqot: followers 265 -> 266
+
+## 2026-08-07T01:07:01.237272+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+
+## 2026-08-07T02:02:01.087161+00:00
+
+-     @qtecqot: followers 266 -> 267
+
+## 2026-08-07T02:07:01.789019+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+
+## 2026-08-07T02:56:01.864616+00:00
+
+-     @qtecqot: followers 267 -> 268
+
+## 2026-08-07T03:07:01.961241+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+-     @qtecqot: followers 268 -> 269
+
+## 2026-08-07T04:07:01.455039+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+
+## 2026-08-07T05:02:01.318078+00:00
+
+-     @qtecqot: followers 269 -> 270
+
+## 2026-08-07T05:07:01.766716+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+
+## 2026-08-07T06:07:01.091198+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+
+## 2026-08-07T06:50:01.940982+00:00
+
+-     @qtecqot: followers 270 -> 271
+
+## 2026-08-07T07:07:01.975590+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+
+## 2026-08-07T07:44:01.485266+00:00
+
+-     @qtecqot: followers 271 -> 272
+
+## 2026-08-07T07:46:01.968840+00:00
+
+-     @qtecqot: followers 272 -> 273
+
+## 2026-08-07T07:48:01.446540+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B (timeline): ALL MIRRORS FAILED -- https://nitter.net/qtecqot/rss: HTTPError; https://nitter.poast.org/qtecqot/rss: HTTPError; https://xcancel.com/qtecqot/rss: HTTPError; https://nitter.privacyredirect.com/qtecqot/rss: ParseError; https://nitter.tiekoetter.com/qtecqot/rss: ParseError
+
+## 2026-08-07T07:50:01.933946+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B (timeline): ALL MIRRORS FAILED -- https://nitter.net/qtecqot/rss: HTTPError; https://nitter.poast.org/qtecqot/rss: HTTPError; https://xcancel.com/qtecqot/rss: HTTPError; https://nitter.privacyredirect.com/qtecqot/rss: ParseError; https://nitter.tiekoetter.com/qtecqot/rss: ParseError
+
+## 2026-08-07T07:52:01.078328+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B (timeline): ALL MIRRORS FAILED -- https://nitter.net/qtecqot/rss: HTTPError; https://nitter.poast.org/qtecqot/rss: HTTPError; https://xcancel.com/qtecqot/rss: HTTPError; https://nitter.privacyredirect.com/qtecqot/rss: ParseError; https://nitter.tiekoetter.com/qtecqot/rss: ParseError
+
+## 2026-08-07T07:54:01.581145+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B (timeline): ALL MIRRORS FAILED -- https://nitter.net/qtecqot/rss: HTTPError; https://nitter.poast.org/qtecqot/rss: HTTPError; https://xcancel.com/qtecqot/rss: HTTPError; https://nitter.privacyredirect.com/qtecqot/rss: ParseError; https://nitter.tiekoetter.com/qtecqot/rss: ParseError
+
+## 2026-08-07T07:56:01.103887+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B (timeline): ALL MIRRORS FAILED -- https://nitter.net/qtecqot/rss: HTTPError; https://nitter.poast.org/qtecqot/rss: HTTPError; https://xcancel.com/qtecqot/rss: HTTPError; https://nitter.privacyredirect.com/qtecqot/rss: ParseError; https://nitter.tiekoetter.com/qtecqot/rss: ParseError
+
+## 2026-08-07T07:58:01.807691+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B (timeline): ALL MIRRORS FAILED -- https://nitter.net/qtecqot/rss: HTTPError; https://nitter.poast.org/qtecqot/rss: HTTPError; https://xcancel.com/qtecqot/rss: HTTPError; https://nitter.privacyredirect.com/qtecqot/rss: HTTPError; https://nitter.tiekoetter.com/qtecqot/rss: ParseError
+
+## 2026-08-07T08:00:01.253643+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B (timeline): ALL MIRRORS FAILED -- https://nitter.net/qtecqot/rss: HTTPError; https://nitter.poast.org/qtecqot/rss: HTTPError; https://xcancel.com/qtecqot/rss: HTTPError; https://nitter.privacyredirect.com/qtecqot/rss: ParseError; https://nitter.tiekoetter.com/qtecqot/rss: ParseError
+
+## 2026-08-07T08:07:01.835998+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+
+## 2026-08-07T09:07:01.332785+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+
+## 2026-08-07T10:07:01.274129+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+
+## 2026-08-07T11:07:01.900059+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+
+## 2026-08-07T11:22:01.115590+00:00
+
+-     @qtecqot: followers 273 -> 274
+
+## 2026-08-07T12:07:01.476903+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+
+## 2026-08-09T18:52:47.548208+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+-     @qtecqot: followers 265 -> 298
+- ★★ @qtecqot: likes 21 -> 23
+- ★★★ @qtecqot: tweets 16 -> 20
+- ★★★ @qtecqot: CAPTURED 2085924608360972476 (Sat Aug 08 03:02:35 +0000 2026) — "Once the dam breaks, it'll just be a matter of time before the #wnba is essentially the NBA's 2nd D League. /  / Actual females won't be good enough to make the teams." [media: 2085924608360972476_1.m3u8, 2085924608360972476_2.mp4]
+-     wayback save unavailable (HTTP 498) — local body is the copy for 2085924608360972476
+- ★★★ @qtecqot: CAPTURED 2086317726050468162 (Sun Aug 09 05:04:42 +0000 2026) — '🚨🚨🚨🚨🚨🚨🚨🚨 / If this is real…. It changes our lives forever…. sent to me just now! 😱' [media: 2086317726050468162_1.jpg]
+-     wayback save unavailable (HTTP 498) — local body is the copy for 2086317726050468162
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
