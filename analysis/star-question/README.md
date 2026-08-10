@@ -18,6 +18,8 @@ calibration and no grid run until every check passes.
 | `common.py` | frame access, shape-preserving blur, integral-image box stats, masks, shapes, templates, centre-aligned `xcorr`, injection |
 | `detect.py` | the matched-filter detector (D7/D8/D9), the crop domain, and the margin decision statistic |
 | `measure_psf.py` | per-codec edge-spread σ and FWHM on f2600, the poly-4 dome residual floor, the D48 pooled aggregation, the overshoot diagnostic and the robustness replicate. Writes `psf_av1.json` / `psf_avc.json` — **the only production source of σ and the location tolerance** |
+| `calibrate.py` | null generation and per-stratum threshold calibration (N3′, N6, item D). Writes `nulls_<codec>_<stratum>.jsonl` and `thresholds_<codec>.json` |
+| `run_grid.py` | the codec-neutral planning step and the injected-trial grid (D20–D28, D42, D44, D48(5), A1, S1). Writes `plan.json` and `grid_<codec>.jsonl` |
 | `selftest.py` | invariants the grid depends on; expected-vs-measured printed throughout |
 
 ## Decisions log
@@ -26,21 +28,43 @@ calibration and no grid run until every check passes.
 
 Contrast is injected as a **nominal pre-blur amplitude**, matching `mkfigs.py:216-217` and
 keeping the published 35 DN figures directly comparable. The **delivered peak depth is
-recorded per trial**, and the limit surface is reported on **both axes**. Blur attenuates
-small stars, so a limit quoted in nominal DN alone is not comparable across the size axis.
+measured per trial** — `max |injected − clean|`, taken from that trial's own rendered star
+rather than from a table — and the limit surface is reported on **both axes**.
 
-> **Recompute before use.** The worked example here was 35 DN nominal delivering 34.9 DN
-> at 120 px but only 21.9 DN at 40 px — computed at **σ = 8.13**, the published figure.
-> Under D48 the measured σ is roughly half that, so the attenuation is markedly weaker and
-> these two numbers are stale. They must be recomputed from each codec's approved σ once
-> `psf_av1.json` / `psf_avc.json` clear review, and the grid must record delivered depth
-> per trial regardless.
+Delivered depth at 35 DN nominal, dark polarity, rotation 0°, computed through the same
+`common.inject` path `run_grid` uses for `contrast_delivered_dn`:
+
+| size | σ = 8.13 (published) | AV1, σ = 4.5725 | AVC, σ = 4.4324 |
+|---|---|---|---|
+| 40 px | 21.91 DN (0.626) | **32.33 DN (0.924)** | **32.67 DN (0.933)** |
+| 60 px | 30.05 DN (0.858) | 34.77 DN (0.993) | 34.82 DN (0.995) |
+| 80 px | 33.45 DN (0.956) | 34.99 DN (1.000) | 34.99 DN (1.000) |
+| 100 px | 34.62 DN (0.989) | 35.00 DN (1.000) | 35.00 DN (1.000) |
+| 120 px | 34.92 DN (0.998) | 35.00 DN (1.000) | 35.00 DN (1.000) |
+| 140 px | 34.99 DN (1.000) | 35.00 DN (1.000) | 35.00 DN (1.000) |
+
+Rotation moves delivered depth by ≤ 0.12 DN at 40 px and not at all at ≥ 120 px. Dark and
+bright polarity deliver identical magnitude.
+
+**The rationale is weaker than originally stated, and the decision still stands.** At the
+published σ the size axis distorted contrast by 37 % at 40 px; at the measured σ the worst
+case is 7.6 %, and everything ≥ 80 px is exact to three decimals. A limit quoted in nominal
+DN is therefore very nearly comparable across sizes after all. Recording both axes costs
+nothing at runtime and 7.6 % is not zero, so D42 is retained — but it is **no longer
+load-bearing**, and the report must not lean on it as though it were.
+
+*Method note.* Recomputed with the repo's own injection path, not by hand. The same code at
+σ = 8.13 reproduces the superseded figures — 34.92 and 21.91 against the 34.9 and 21.9
+previously recorded — which is what licenses the replacement.
 
 ### D43 — disjoint null split
 
-Null trials are generated at 2× and split disjointly: a **calibration** set fixes the
-threshold, a held-out **evaluation** set reports the false-positive rate and its Wilson
-CI. Using one set for both would be circular.
+A **calibration** set fixes the threshold, a held-out **evaluation** set reports the
+false-positive rate and its Wilson CI. Using one set for both would be circular.
+
+*The "2× the injected trial count" of the original wording is **superseded by N3′** — it
+presumed nulls could be drawn repeatedly, which they cannot. The disjoint-split principle
+is unchanged.*
 
 ### D44 — polarity is a required `TemplateBank` property, with no default
 
@@ -150,6 +174,194 @@ for the statistics of the region it was measured on. Enforced structurally: `det
 takes `domain` as a required argument and never computes one. The trap is real and is
 demonstrated in the suite — a dark injection lowers luma, and a mask derived from the
 injected frame loses 833 search pixels relative to the clean-frame mask.
+
+### N3′ — the null population is the unit population
+
+N3 originally specified nulls at 2× the injected trial count. Not implementable. A null is
+`detect()` on a **clean** unit with that unit's domain and the stratum's bank — no
+injection, no seeded site — so it is a deterministic function of (unit, domain, bank). Two
+nulls on one unit return the same margin bit for bit. "8640 nulls" would have been 8640
+records holding at most 347 distinct values, inflating apparent *n* about 25× and making
+every Wilson interval far too narrow.
+
+1. A single-frame null **unit is a unique frame**; one unit, one null result.
+2. Repeated injected trials landing on that frame **reference** its null result; they
+   never duplicate it into the pool.
+3. Counts and every Wilson CI use **unique units only**.
+4. `thresholds_<codec>.json` carries the **full** calibration id list, not a sample.
+5. Lag-1 autocorrelation of the frame-ordered null margin series is computed and
+   reported, with `n_eff = n(1−r₁)/(1+r₁)` when material. Consecutive frames of one shot
+   are not independent, so 347 units are not automatically 347 independent samples.
+6. Deviations from N2/N10 are logged here rather than left in the runner.
+
+### A1 — the stacked stratum is descriptive, with no threshold
+
+f2571–2917 holds exactly **six** non-overlapping 50-frame windows. A calibrated 5 % FP
+threshold with Wilson evaluation is not supportable on that: fitting a 95th percentile
+from ~4 calibration units is meaningless, and a 0/2 evaluation gives an interval of about
+[0, 0.6], which excludes nothing. Stride-5 windows would be a fiction — adjacent windows
+share 45 of 50 frames.
+
+So the stacked stratum is **descriptive**. All six independent windows form one comparison
+range; `split_of()` refuses a stacked unit; no threshold is fitted. `run_grid` reports each
+stacked injected margin as **above / inside / below** that range. The claim is explicitly
+weaker: an ordinal comparison against six clean stacks — no detection rate, no p(detect),
+no FP rate, no CI. **n = 6 is reported everywhere; n = 60 never appears.**
+
+This answers the substrate question behind the mkfigs-vs-mk5 discrepancy — 120 px / 35 DN
+missed on a single frame against 70 px / 35 DN "clearly visible" on a 50-frame stack —
+without pretending to a precision the segment cannot support.
+
+### Item D — the finite-sample threshold rule
+
+Stated against the frozen decision path in `detect.is_detection`, where a detection is
+`margin >= threshold`. **No library quantile and no interpolation default**: those differ
+between implementations and would silently move the threshold off the data.
+
+> The **smallest** calibration margin `t` such that `#{cal >= t} / n_cal <= 0.05`.
+
+Candidates are the observed margins themselves, scanned ascending, so `t` is always a
+realised value. Ties are resolved by the rule rather than arbitrarily — every calibration
+margin equal to `t` counts toward the exceedance, and the count is recorded. `n_cal`, the
+selected rank, the threshold, exceedances at/above and ties at threshold all go into
+`thresholds_<codec>.json`; evaluation is untouched and reports realised FP separately.
+
+If ties at the top are so heavy that no observed margin reaches the target, the rule
+**raises** rather than thresholding above the data — a threshold above every observed null
+gives FP = 0 on calibration and says nothing about evaluation, which is the false comfort
+the rule exists to prevent. With continuous margins this cannot occur; if it does, the null
+distribution is degenerate and that is the finding.
+
+### N21′ — runtime and incremental records
+
+Per codec: 1047 nulls + 4650 injected = 5697 `detect()` calls; **11,394 across both
+codecs**, ≈ 0.79 s each, so roughly **2.5 h** plus a one-off ~10 min planning step and
+frame IO. The earlier 6–8 h estimate assumed 8640 nulls per codec under the uncorrected
+N3, most of which would have been duplicates.
+
+Trial and null records are written **incrementally** — one JSON object per line, flushed
+after each — so an interruption loses minutes, not hours. Reruns skip completed work by id
+and, because every site is fixed in `plan.json` from a recorded seed, a resumed run is
+identical to an uninterrupted one.
+
+### S1–S3 — corrections found in review
+
+- **S1 (blocker).** Stacked injected units are drawn from the **six independent
+  non-overlapping windows**, not from arbitrary starts. As originally written ~98 % of
+  stacked trials would have had no paired null and `assert_crop_parity` would have raised
+  mid-run, after the headline arm had already spent hours. It also strengthens A1:
+  injections land on the very units whose clean margins define the comparison range.
+- **S2.** `grid_<codec>.jsonl` gets the same treatment as the null files — repair a torn
+  tail at write time before appending, and a strict `_done_ids` that raises on an
+  unparseable line instead of swallowing it. Silent swallowing would let a resumed run
+  re-execute trials whose records were lost, or skip trials whose records were mangled,
+  with neither showing up anywhere.
+- **S3.** The completeness assertion is **symmetric set equality**. Missing units mean a
+  partial run; unexpected units mean the file was written under a different unit
+  definition — a changed segment, a changed stack length, or a stale file left in place.
+  Both are fatal. That assertion, not JSON parse success, is what stops a partial run
+  masquerading as a complete one.
+
+**Review provenance.** The N3′ / A–D / S1–S3 corrections were externally reviewed in three
+parts — human review (D28 codec-key rejection, wildcard-approval and gate discipline), ChatGPT
+(hash() process-salt warning behind the SHA-256 split, the tail-repair debate resolved as
+repair-at-resume, the intersection-site strengthening, the finite-sample rank rule
+sequencing), and Claude (line-by-line verification, S1–S3 findings). No correction was
+applied without explicit approval.
+
+## Calibration results — measured 2026-08-10
+
+`calibrate.py` run for both codecs: 1047 nulls each across four strata (347 × 3 single +
+6 stacked). Exit 0, **no `REPAIR` lines on stderr** — no torn tails, no resume repair.
+Calibration realised FP is 8/170 = 0.0471 in every single-frame stratum, so the item-D rule
+selected identically throughout: rank 163, 8 at/above, 1 tie.
+
+**AV1** — approved σ 4.5725 px, tolerance 10.7673 px
+
+| stratum | threshold | eval FP | Wilson95 nominal | Wilson95 on n_eff | r₁ | n_eff |
+|---|---:|---:|---|---|---:|---:|
+| single_dark_approved | 6.1942 | **0.0791** (14/177) | [0.0477, 0.1284] | [0.0207, 0.4468] | 0.9068 | 8.7 |
+| single_bright_approved | 6.6075 | 0.0282 (5/177) | [0.0121, 0.0644] | [0.0000, 0.2765] | 0.8925 | 10.1 |
+| single_dark_published_8.40 | 4.9984 | 0.0452 (8/177) | [0.0231, 0.0866] | [0.0000, 0.4214] | 0.9421 | 5.3 |
+| stacked_dark_approved | none | — | — | — | — | n = 6 |
+
+**AVC** — approved σ 4.4324 px, tolerance 10.4376 px
+
+| stratum | threshold | eval FP | Wilson95 nominal | Wilson95 on n_eff | r₁ | n_eff |
+|---|---:|---:|---|---|---:|---:|
+| single_dark_approved | 6.1740 | **0.0734** (13/177) | [0.0434, 0.1216] | [0.0170, 0.3905] | 0.8881 | 10.5 |
+| single_bright_approved | 6.6062 | 0.0621 (11/177) | [0.0351, 0.1078] | [0.0157, 0.3688] | 0.8795 | 11.3 |
+| single_dark_published_8.40 | 4.9952 | 0.0565 (10/177) | [0.0310, 0.1009] | [0.0000, 0.3732] | 0.9296 | 6.5 |
+| stacked_dark_approved | none | — | — | — | — | n = 6 |
+
+Stacked margin ranges over the six independent windows, no threshold fitted (A1):
+**AV1 [1.4703, 3.3604]**, median 2.4404; **AVC [1.5157, 3.3048]**, median 2.3968.
+
+### The ruling — option (a), report as measured
+
+The preregistered null definition, the SHA-256 split and the fitted thresholds are all
+**frozen**. Nothing is redefined after seeing evaluation results.
+
+Two alternatives were considered and **rejected as post-hoc**, because each would have
+changed the experiment in response to its own outcome:
+
+- **(b) redefine the null unit for independence** — temporally spaced frames only, trading
+  count for independence.
+- **(c) block split instead of hash split** — contiguous calibration and evaluation blocks
+  so the two sets are temporally separated.
+
+Both remain **notable as future robustness tracks**, to be preregistered and run as their
+own exercise. Neither may be applied to this calibration.
+
+### Autocorrelation — the nominal intervals are far too narrow
+
+Lag-1 autocorrelation of the frame-ordered null margin series is **r₁ = 0.88–0.94** in
+every single-frame stratum, `material = True` throughout. Effective sample size is
+**n_eff = 5.3–11.3**, against a nominal n = 177. The 347 units carry roughly 3–6 % of the
+information their count implies, because consecutive frames of one shot are near-duplicates.
+
+Stated plainly: **the nominal Wilson intervals are too narrow by a factor of 4.8–6.6 in
+width.** Every FP figure above is therefore given twice, and the effective-n interval is
+the one that governs. (The "≈ 4×" shorthand used while this was being discussed understates
+it; the measured range is larger.)
+
+### Consequence for D31
+
+**D31 is unchanged: p(detect) ≥ 0.80 AND FP ≤ 0.05.** Where held-out FP ≤ 0.05 is **not
+demonstrated, no formal D31 detection limit may be claimed.**
+
+On the headline `single_dark_approved` stratum it is not demonstrated — **0.0791 (AV1)**
+and **0.0734 (AVC)**, both above target, with effective-n lower bounds of 0.0207 and 0.0170
+and upper bounds beyond 0.39. Calibration realised 0.0471 and evaluation drifted to 0.079
+and 0.073; the drift is not one-directional across strata (AV1 bright drifts −0.019), which
+is consistent with threshold instability at n_eff ≈ 9 rather than a systematic bias.
+
+### What the primary deliverable now is
+
+The grid may still run under the frozen detector and produce a **descriptive sensitivity
+surface**, with the realised FP and the n_eff limitation attached to every figure. But the
+primary AV1-vs-AVC comparison therefore carries a descriptive surface rather than a formal
+detection limit, and that is a **materially weaker deliverable than the design promised**.
+It should be stated that way in the report, not only here.
+
+The paired-margin comparison under the frozen detector still answers the substrate question
+behind the mkfigs-vs-mk5 discrepancy — identical cells, identical seeds, identical frames
+and identical injection sites across the two codecs (D28), so margins are directly
+comparable even where no rate can be certified. That is a **complement to the weakened
+deliverable, not compensation for it**: it answers a different question, and it does not
+restore the detection limit.
+
+### Pre-grid declarations — recorded 2026-08-10, before any grid run
+
+1. **Every FP figure ships with both intervals**, nominal and effective-n, with the
+   effective-n interval governing. A bare nominal interval is not to be quoted.
+2. **No D31 claim on the headline stratum.** Any sensitivity surface derived from it is
+   labelled descriptive, and the phrase "detection limit" is not used of it.
+3. **Threshold sensitivity of the 0.80 contour**, recomputed from the stored raw margins,
+   is **presentation analysis and never refitting**. Margins are recorded per trial
+   precisely so the contour can be re-drawn at other thresholds without re-running; doing
+   so does not license adopting a different threshold, and the frozen thresholds above
+   remain the ones the analysis is reported against.
 
 ## Hygiene notes for the report
 
