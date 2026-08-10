@@ -63,6 +63,7 @@ was measured on is auditable. The bound is what the D48(5) arm measures.
 """
 import json
 import os
+import resource
 import sys
 
 import numpy as np
@@ -155,31 +156,14 @@ def _cells():
         yield ('sigma_sens', s, ct, r, DARK, 'single', 'published_8.40')
 
 
-def build_plan():
-    """Codec-neutral planning step. Loads both codecs' clean units, intersects their
-    placement masks, and fixes one site per trial. Cached by (unit_id, size, sigma_mode)
-    so each unit is loaded once per codec, not once per trial."""
-    psf = {c: CAL.load_psf(c) for c in ('av1', 'avc')}
+def _draw_trials():
+    """Phase 1 -- RNG draws only. No image IO, no masks, seconds to run.
+
+    Separated from Phase 2 so the draw is provably independent of anything the images
+    contain: a trial's unit comes from its trial_key alone.
+    """
     lo, hi = C.SEGMENT
-    luma_cache, mask_cache = {}, {}
-    plan = []
-
-    def luma(codec, unit):
-        k = (codec, CAL.unit_id(unit))
-        if k not in luma_cache:
-            luma_cache[k] = CAL.unit_luma(codec, unit)
-        return luma_cache[k]
-
-    def inter_mask(unit, size, sigma_mode):
-        k = (CAL.unit_id(unit), size, sigma_mode)
-        if k not in mask_cache:
-            ma = C.placement_mask(luma('av1', unit), size,
-                                  CAL.sigma_for(psf['av1'], sigma_mode)[0])
-            mb = C.placement_mask(luma('avc', unit), size,
-                                  CAL.sigma_for(psf['avc'], sigma_mode)[0])
-            mask_cache[k] = (ma, mb, ma & mb)
-        return mask_cache[k]
-
+    trials = []
     for (arm, size, ct, rot, pol, substrate, smode) in _cells():
         for k in range(N_TRIALS):
             key = trial_key(arm, size, ct, rot, k)
@@ -188,39 +172,136 @@ def build_plan():
                 unit = dict(kind='single', frame=int(rng.integers(lo, hi + 1)))
             else:
                 unit = dict(STACK_UNITS[int(rng.integers(len(STACK_UNITS)))])   # S1
+            trials.append(dict(
+                trial_uid=trial_uid(arm, size, ct, rot, pol, smode, k),
+                arm=arm, size_px=size, contrast_nominal_dn=ct, rotation_deg=rot,
+                trial_polarity=pol, substrate=substrate, sigma_mode=smode,
+                unit=unit, unit_id=CAL.unit_id(unit), seed_key=key))
+    return trials
 
-            ma, mb, inter = inter_mask(unit, size, smode)
+
+def build_plan():
+    """Codec-neutral planning step, unit-major and two-phase.
+
+    WHY UNIT-MAJOR. The first implementation was cell-major with unbounded luma and mask
+    caches. It was OOM-killed at 15.5 GB partway through the headline arm. Neither
+    per-size grouping nor a small LRU rescues that: 720 draws from a 347-frame population
+    touch about 347*(1 - e^-(720/347)) ~ 303 distinct units per size, measured at 292-314,
+    so one size already holds nearly the whole corpus -- ~10 GB of luma by itself.
+
+    Unit-major bounds it instead. Each unit is loaded once, used for every trial that
+    needs it, and freed. Peak is two frames plus the masks for that unit's own
+    (size, sigma_mode) combinations -- at most 8 of them, measured -- so roughly 83 MB.
+
+    ORDER-INDEPENDENCE. A site depends only on (trial_key, intersection mask), and the
+    intersection depends only on (unit, size, sigma_mode) and the two approved sigmas.
+    None of those depend on the order units are visited, so plan.json is content-identical
+    to what the unbounded cell-major version would have produced. Phase 1 fixes the trial
+    list in cell order and Phase 2 mutates those dicts in place, so even the ordering of
+    plan.json is unchanged. selftest.test_plan_phases checks both properties.
+    """
+    psf = {c: CAL.load_psf(c) for c in ('av1', 'avc')}
+
+    trials = _draw_trials()
+    by_unit = {}
+    for t in trials:
+        by_unit.setdefault(t['unit_id'], []).append(t)
+    combos = sum(len({(t['size_px'], t['sigma_mode']) for t in g}) for g in by_unit.values())
+    print('phase 1: %d trials drawn, no image IO' % len(trials))
+    print('phase 2: %d distinct units, %d intersections to compute'
+          % (len(by_unit), combos), flush=True)
+
+    for i, uid in enumerate(sorted(by_unit), 1):
+        group = by_unit[uid]
+        unit = group[0]['unit']
+        luma = {c: CAL.unit_luma(c, unit) for c in ('av1', 'avc')}
+        masks = {}
+        for combo in sorted({(t['size_px'], t['sigma_mode']) for t in group}):
+            size, smode = combo
+            ma = C.placement_mask(luma['av1'], size, CAL.sigma_for(psf['av1'], smode)[0])
+            mb = C.placement_mask(luma['avc'], size, CAL.sigma_for(psf['avc'], smode)[0])
+            masks[combo] = (int(ma.sum()), int(mb.sum()), ma & mb)
+        for t in group:
+            na, nb, inter = masks[(t['size_px'], t['sigma_mode'])]
             ys, xs = np.nonzero(inter)
             if len(ys) == 0:
                 site = None
             else:
-                j = int(stream(key, STREAM_SITE).integers(len(ys)))
+                j = int(stream(t['seed_key'], STREAM_SITE).integers(len(ys)))
                 site = [int(xs[j]), int(ys[j])]
+            t.update(site_xy=site, legal_sites_av1=na, legal_sites_avc=nb,
+                     legal_sites_intersection=int(inter.sum()))
+        del luma, masks                      # freed before the next unit is loaded
+        if i % 25 == 0:
+            print('  %d/%d units' % (i, len(by_unit)), flush=True)
 
-            plan.append(dict(
-                trial_uid=trial_uid(arm, size, ct, rot, pol, smode, k),
-                arm=arm, size_px=size, contrast_nominal_dn=ct, rotation_deg=rot,
-                trial_polarity=pol, substrate=substrate, sigma_mode=smode,
-                unit=unit, unit_id=CAL.unit_id(unit), seed_key=key,
-                site_xy=site,
-                legal_sites_av1=int(ma.sum()), legal_sites_avc=int(mb.sum()),
-                legal_sites_intersection=int(inter.sum())))
-        print('  planned %s %d px %g DN %g deg (%d trials)' % (arm, size, ct, rot, N_TRIALS),
-              flush=True)
+    # --- realisation summary per (arm, size, contrast, sigma_mode) ---------------
+    # Many frames carry a hull that does not survive erosion by the template support, so
+    # a drawn frame may offer no legal site at all. The skip rule was pre-specified:
+    # record invalid, never silently fall back. The surface is therefore conditional on
+    # legal placement BY CONSTRUCTION -- that is the estimand, not a bias.
+    #
+    # What it does mean, and what the README must carry alongside these numbers: the
+    # frame population differs across sizes, because large sizes can only be placed on
+    # thick-hull frames. Cross-size comparisons therefore carry a population shift.
+    cells = {}
+    for t in trials:
+        k = (t['arm'], t['size_px'], t['contrast_nominal_dn'], t['sigma_mode'])
+        c = cells.setdefault(k, dict(planned=0, realised=0, invalid=0))
+        c['planned'] += 1
+        if t['site_xy'] is None:
+            c['invalid'] += 1
+        else:
+            c['realised'] += 1
 
-    out = dict(schema='star-question/plan/1', master_seed=MASTER_SEED,
-               n_trials=len(plan),
+    summary, low_n, low_frac = [], 0, 0
+    for k in sorted(cells):
+        c = cells[k]
+        frac = c['realised'] / float(c['planned'])
+        fn, ff = c['realised'] < 10, frac < 0.5
+        low_n += fn
+        low_frac += ff
+        summary.append(dict(arm=k[0], size_px=k[1], contrast_nominal_dn=k[2],
+                            sigma_mode=k[3], planned_n=c['planned'],
+                            realised_n=c['realised'], invalid_n=c['invalid'],
+                            realised_fraction=frac,
+                            flag_realised_n_lt_10=fn, flag_realised_fraction_lt_0_5=ff))
+
+    print('\nPER-CELL REALISATION  (arm, size, contrast, sigma_mode)')
+    print('  %-11s %5s %7s %8s %8s %8s %6s  %s'
+          % ('arm', 'size', 'DN', 'planned', 'realised', 'invalid', 'frac', 'flags'))
+    for r in summary:
+        flags = ' '.join(f for f, on in (('n<10', r['flag_realised_n_lt_10']),
+                                         ('frac<0.5', r['flag_realised_fraction_lt_0_5']))
+                         if on)
+        print('  %-11s %5d %7g %8d %8d %8d %6.3f  %s'
+              % (r['arm'], r['size_px'], r['contrast_nominal_dn'], r['planned_n'],
+                 r['realised_n'], r['invalid_n'], r['realised_fraction'], flags))
+    tp = sum(c['planned'] for c in cells.values())
+    tr = sum(c['realised'] for c in cells.values())
+    print('  TOTAL planned %d, realised %d (%.3f), invalid %d'
+          % (tp, tr, tr / float(tp), tp - tr))
+    print('  cells flagged: realised n < 10 -> %d;  realised fraction < 0.5 -> %d'
+          % (low_n, low_frac))
+
+    out = dict(schema='star-question/plan/3', master_seed=MASTER_SEED,
+               cell_summary=summary,
+               n_trials=len(trials),
                sigma_used=dict((c, {'approved': psf[c]['sigma'],
-                                     'published_8.40': CAL.PUBLISHED_SIGMA})
+                                    'published_8.40': CAL.PUBLISHED_SIGMA})
                                for c in ('av1', 'avc')),
                note=('codec-neutral: one site per trial drawn uniformly from the '
                      'intersection of both codecs placement masks, so AV1 and AVC inject '
-                     'at exactly the same pixel'),
-               trials=plan)
+                     'at exactly the same pixel. Built unit-major; content is independent '
+                     'of visit order.'),
+               trials=trials)
     with open(PLAN_PATH, 'w') as fh:
         json.dump(out, fh, indent=2, sort_keys=True)
         fh.write('\n')
-    print('-> %s (%d trials)' % (os.path.relpath(PLAN_PATH, C.ROOT), len(plan)))
+
+    peak_kb = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss
+    print('-> %s (%d trials)' % (os.path.relpath(PLAN_PATH, C.ROOT), len(trials)))
+    print('peak RSS %.0f MB' % (peak_kb / 1024.0))
     return out
 
 

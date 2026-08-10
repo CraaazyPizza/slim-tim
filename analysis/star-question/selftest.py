@@ -614,9 +614,12 @@ def test_runner_guards():
 
     # --- S1: stacked injected units must come from the six independent null windows ---
     want = {CAL.unit_id(u) for u in CAL.null_units('stacked')}
-    src = inspect.getsource(G.build_plan)
-    check('build_plan draws stacked units from STACK_UNITS', 'STACK_UNITS[' in src)
-    check('build_plan no longer draws an arbitrary stack start',
+    # The draw lives in _draw_trials (phase 1) since the unit-major restructure, so the
+    # source check follows it there. Both functions are inspected so the property cannot
+    # be satisfied by moving the code again without the test noticing.
+    src = inspect.getsource(G._draw_trials) + inspect.getsource(G.build_plan)
+    check('the stacked draw uses STACK_UNITS', 'STACK_UNITS[' in src)
+    check('no arbitrary stack start anywhere in planning',
           'hi - CAL.STACK_LEN + 2' not in src)
     picks = set()
     for k in range(200):
@@ -637,6 +640,97 @@ def _raises(fn, needle):
         return needle in str(e)
 
 
+def test_plan_phases():
+    """The two-phase unit-major planner (see run_grid.build_plan).
+
+    The cell-major predecessor was OOM-killed at 15.5 GB. The replacement must be
+    (a) memory-bounded, (b) content-identical to what the unbounded version produced.
+    (b) is the one that matters for the record, so it is tested against a direct
+    recomputation rather than asserted from the docstring.
+    """
+    print('\ntest_plan_phases -- two-phase unit-major planning')
+    import calibrate as CAL
+    import run_grid as G
+
+    a, b = G._draw_trials(), G._draw_trials()
+    check('phase 1 is deterministic', a == b, '%d trials' % len(a))
+    check('phase 1 trial count', len(a) == 4650, '%d trials' % len(a))
+    src = inspect.getsource(G._draw_trials)
+    for forbidden in ('unit_luma', 'load_luma', 'load_stack', 'placement_mask', 'hull_mask'):
+        check('phase 1 does no image IO (no %s)' % forbidden, forbidden not in src)
+
+    order = [t['trial_uid'] for t in a]
+    check('trial_uids unique', len(set(order)) == len(order))
+    check('cell order preserved: headline first, sigma_sens last',
+          a[0]['arm'] == 'headline' and a[-1]['arm'] == 'sigma_sens',
+          '%s .. %s' % (a[0]['arm'], a[-1]['arm']))
+
+    psf = {c: CAL.load_psf(c) for c in ('av1', 'avc')}
+    by_unit = {}
+    for t in a:
+        by_unit.setdefault(t['unit_id'], []).append(t)
+
+    def site_from(inter, seed_key):
+        """Mirrors build_plan exactly, INCLUDING the empty-intersection case.
+
+        Many frames carry a hull that does not survive erosion by the template support,
+        so an empty intersection is a normal outcome, not an error: build_plan records
+        site_xy = None and run_grid skips the trial. A test that crashed on it -- as the
+        first version of this one did -- would be testing a case the planner does not have.
+        """
+        ys, xs = np.nonzero(inter)
+        if len(ys) == 0:
+            return None
+        j = int(G.stream(seed_key, G.STREAM_SITE).integers(len(ys)))
+        return (int(xs[j]), int(ys[j]))
+
+    # Pick a unit that actually exercises the non-empty path: comparing all-None against
+    # all-None would make the equality proof vacuous. Candidates are tried in descending
+    # order of distinct (size, sigma_mode) combinations.
+    ranked = sorted(by_unit, key=lambda u: -len({(t['size_px'], t['sigma_mode'])
+                                                 for t in by_unit[u]}))
+    chosen = None
+    for uid in ranked[:6]:
+        group = by_unit[uid]
+        unit = group[0]['unit']
+        luma = {c: CAL.unit_luma(c, unit) for c in ('av1', 'avc')}
+        masks = {}
+        for combo in sorted({(t['size_px'], t['sigma_mode']) for t in group}):
+            size, smode = combo
+            ma = C.placement_mask(luma['av1'], size, CAL.sigma_for(psf['av1'], smode)[0])
+            mb = C.placement_mask(luma['avc'], size, CAL.sigma_for(psf['avc'], smode)[0])
+            masks[combo] = ma & mb
+        nonempty = sum(1 for m in masks.values() if m.any())
+        if nonempty:
+            chosen = (uid, group, unit, masks, nonempty)
+            break
+    check('found a unit exercising the non-empty path', chosen is not None,
+          'tried %d candidates' % len(ranked[:6]))
+    if chosen is None:
+        return
+    uid, group, unit, masks, nonempty = chosen
+
+    unit_major = {t['trial_uid']: site_from(masks[(t['size_px'], t['sigma_mode'])],
+                                            t['seed_key']) for t in group}
+
+    # The same sites one trial at a time, masks rebuilt from scratch, reverse order.
+    direct = {}
+    for t in reversed(group):
+        ma = C.placement_mask(CAL.unit_luma('av1', unit), t['size_px'],
+                              CAL.sigma_for(psf['av1'], t['sigma_mode'])[0])
+        mb = C.placement_mask(CAL.unit_luma('avc', unit), t['size_px'],
+                              CAL.sigma_for(psf['avc'], t['sigma_mode'])[0])
+        direct[t['trial_uid']] = site_from(ma & mb, t['seed_key'])
+
+    n_real = sum(1 for v in unit_major.values() if v is not None)
+    check('unit-major sites match a direct per-trial recomputation',
+          unit_major == direct,
+          'unit %s, %d trials, %d combos (%d non-empty), %d sites non-None'
+          % (uid, len(group), len(masks), nonempty, n_real))
+    check('the equality proof binds on real sites, not only on None',
+          n_real > 0, '%d of %d trials produced a site' % (n_real, len(group)))
+
+
 def _psf_tol(codec):
     import json as _json
     with open(os.path.join(C.HERE, 'psf_%s.json' % codec)) as fh:
@@ -655,6 +749,7 @@ def main():
     test_crop_parity()
     test_detector_polarity()
     test_runner_guards()
+    test_plan_phases()
     print('\n%s' % ('ALL PASS' if not FAILURES else 'FAILURES: %s' % FAILURES))
     return 1 if FAILURES else 0
 
