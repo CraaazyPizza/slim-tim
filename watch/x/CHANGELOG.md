@@ -2963,3 +2963,17 @@
 
 - ★★ @qtecqot: likes 24 -> 25
 - ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-10T07:14:02.001113+00:00
+
+-     @qtecqot: followers 300 -> 301
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-10T07:16:01.775236+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-10T07:18:01.575101+00:00
+
+- ★★★ @qtecqot: tweets 21 -> 22
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
