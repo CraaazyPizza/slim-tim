@@ -363,6 +363,114 @@ restore the detection limit.
    so does not license adopting a different threshold, and the frozen thresholds above
    remain the ones the analysis is reported against.
 
+4. **Flagged cells are run but not necessarily plotted.** All trials run regardless of
+   flags, and every cell is reported with k/n, realised n and both flags.
+
+*As originally declared, a cell flagged on **either** `realised n < 10` **or**
+`realised fraction < 0.5` was excluded from surface and contour construction and labelled
+"insufficient n — not estimated". That was amended pre-outcome, before any margin existed,
+to exclude on `n < 10` only. The original wording is kept here rather than overwritten,
+on the same principle as D43 and D46.*
+
+**Pre-outcome amendment to declaration 4, locked before any margin existed:**
+
+> `realised_n < 10` excludes a cell from contour construction. `realised_fraction < 0.5`
+> remains a MANDATORY coverage/population-shift flag but does not by itself exclude the
+> cell.
+
+*Rationale.* The two flags answer different questions. `n < 10` is a **precision**
+problem: a p̂ on single-digit n is too unstable to position a contour. `frac < 0.5` is a
+**coverage** problem: a smaller, size-selected frame population. A coverage warning must
+not act as a precision test. Applied to the realised table this keeps the 140 px column
+(n = 27–42) in the surface while flagging it, and excludes exactly three cells —
+`sigma_sens` 100 px/35 DN (n = 9) and both 140 px σ = 8.40 cells (n = 3 and n = 4) —
+labelled **"insufficient n — not estimated"** in the figures.
+
+## Placement coverage and the estimand — recorded 2026-08-10
+
+The plan realised **2501 of 4650 trials (0.538)**; the other **2149 are recorded skips**,
+where the drawn frame offered no legal placement at that size. Every frame in the segment
+has a hull that survives the 140 DN threshold — calibration would have raised otherwise —
+but many do not survive erosion by the template support (43 px at 40 px size, 93 px at
+140 px). The skip rule was pre-specified: record invalid, never silently fall back.
+
+**Crossvalidation.** Executed and skipped counts per (arm, size, contrast, sigma_mode)
+match `plan.json`'s `cell_summary` exactly in both codecs across all 47 cells, with no
+cell present in a grid file and absent from the plan.
+
+### The estimand
+
+The surface estimates
+
+> **P(detect | a legal site exists for this size on this frame)**
+
+and **the conditioning set differs by size.** This is conditional on legal placement *by
+construction* — it is the estimand, not a bias. But it means the 140 px column is not "the
+same experiment with fewer trials"; it is a different conditioning set.
+
+### The population shift
+
+Larger sizes can only be placed on thick-hull frames, so **the frame population differs
+across sizes** and cross-size comparisons carry a population shift:
+
+| size | realised / planned (headline) | fraction |
+|---|---|---:|
+| 40 px | 548 / 720 | 0.761 |
+| 60 px | 481 / 720 | 0.668 |
+| 80 px | 436 / 720 | 0.606 |
+| 100 px | 388 / 720 | 0.539 |
+| 120 px | 314 / 720 | 0.436 |
+| 140 px | 207 / 720 | 0.288 |
+
+19 of 47 cells carry the coverage flag; 3 carry the precision flag.
+
+### Intersection coverage
+
+Sites are drawn from the intersection of both codecs' placement masks (D28), so the
+intersection size is a property of the trial, not of the encode — the figures below are
+identical for AV1 and AVC. Over the 2501 realised trials: min **1 px**, median 8923, max
+359,804.
+
+| intersection | trials | share |
+|---|---:|---:|
+| < 10 px | 22 | 0.88 % |
+| < 100 px | 103 | 4.12 % |
+| < 1000 px | 397 | 15.87 % |
+
+A one-pixel intersection is legal under the rules but leaves the site no positional
+freedom. These are not excluded — no such rule was pre-registered — but the counts are
+recorded so a reader can see how thin the tail is.
+
+### Stacked coverage
+
+Both stacked cells realised **10 of 30**. Motion averaging shrinks the bright-hull area
+that survives the 140 DN threshold, so a stack-mean hull is **smaller** than a single
+frame's, and the 50-frame windows are correspondingly harder to place on. A1 is ordinal
+per trial and is unaffected by this, but **n = 10 is not to be over-read**.
+
+### Figure requirement
+
+Every figure or table showing flagged cells carries **realised n, planned n and realised
+fraction**, plus the caveat that **larger sizes sample a restricted thick-hull
+population**.
+
+### Options considered and rejected
+
+Recorded so the choice is visible rather than implied. Option 1, accept and report
+realised n per cell, was taken.
+
+- **(2) Redraw conditioned on usability** — reject a drawn frame if that cell's
+  intersection is empty and redraw from the seed. Rejected: it keeps n = 30 but makes the
+  frame population depend on size, so cells would no longer be sampled from a common
+  population, and D28 pairing would need re-deriving.
+- **(3) Restrict the segment** to frames with a workable hull at every size. Rejected: it
+  shrinks the population and changes what "across the segment" means, which is exactly
+  what N20 option (a) was chosen to avoid.
+- **(4) Loosen the clearance rule** so a star may sit nearer the hull edge with partial
+  overlap. Rejected: D23 requires the full template support inside the mask, and changing
+  it after seeing the coverage would be a post-hoc design change; it would need its own
+  pre-registration.
+
 ## Hygiene notes for the report
 
 - **C2 — `analysis/mk5-colour-segment/` ships figures, not code.** The directory contains
