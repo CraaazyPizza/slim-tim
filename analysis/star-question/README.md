@@ -471,6 +471,182 @@ realised n per cell, was taken.
   it after seeing the coverage would be a post-hoc design change; it would need its own
   pre-registration.
 
+## Results — Arm 1, both codecs
+
+Produced by `run_grid.py` at `2b9247c` against the frozen thresholds of `1a8f1cb`; raw
+records committed at `e2739a9`. **Direct measurements, derived statistics and
+interpretation are kept separate below and are labelled as such.**
+
+Realised n is identical in both codecs by construction — the plan is codec-neutral and
+D28 pairing is exact — so a single n column serves both.
+
+### A. Headline detection fractions — DIRECT + DERIVED
+
+**Direct:** k/n among executed injected trials. **Derived:** the two intervals.
+Cell entries read `k/n = fraction [nominal Wilson95] / [conservative n_eff Wilson95]`.
+`cov` is realised/planned; **†** marks `realised_fraction < 0.5`, a mandatory coverage
+flag that is **not** an exclusion.
+
+| size | DN | n | cov | AV1 | AVC |
+|---|---:|---:|---:|---|---|
+| 40 px | 4 | 94 | 0.783 | 0/94 = 0.000 [0.000, 0.039] / [0.000, 0.455] | 0/94 = 0.000 [0.000, 0.039] / [0.000, 0.408] |
+| 40 px | 8 | 99 | 0.825 | 0/99 = 0.000 [0.000, 0.037] / [0.000, 0.442] | 0/99 = 0.000 [0.000, 0.037] / [0.000, 0.396] |
+| 40 px | 16 | 85 | 0.708 | 0/85 = 0.000 [0.000, 0.043] / [0.000, 0.480] | 0/85 = 0.000 [0.000, 0.043] / [0.000, 0.433] |
+| 40 px | 24 | 94 | 0.783 | 0/94 = 0.000 [0.000, 0.039] / [0.000, 0.455] | 0/94 = 0.000 [0.000, 0.039] / [0.000, 0.408] |
+| 40 px | 35 | 90 | 0.750 | 0/90 = 0.000 [0.000, 0.041] / [0.000, 0.466] | 0/90 = 0.000 [0.000, 0.041] / [0.000, 0.419] |
+| 40 px | 50 | 86 | 0.717 | 0/86 = 0.000 [0.000, 0.043] / [0.000, 0.477] | 0/86 = 0.000 [0.000, 0.043] / [0.000, 0.430] |
+| 60 px | 4 | 81 | 0.675 | 0/81 = 0.000 [0.000, 0.045] / [0.000, 0.492] | 0/81 = 0.000 [0.000, 0.045] / [0.000, 0.444] |
+| 60 px | 8 | 87 | 0.725 | 0/87 = 0.000 [0.000, 0.042] / [0.000, 0.475] | 0/87 = 0.000 [0.000, 0.042] / [0.000, 0.427] |
+| 60 px | 16 | 73 | 0.608 | 0/73 = 0.000 [0.000, 0.050] / [0.000, 0.518] | 0/73 = 0.000 [0.000, 0.050] / [0.000, 0.470] |
+| 60 px | 24 | 77 | 0.642 | 0/77 = 0.000 [0.000, 0.048] / [0.000, 0.505] | 0/77 = 0.000 [0.000, 0.048] / [0.000, 0.457] |
+| 60 px | 35 | 88 | 0.733 | 0/88 = 0.000 [0.000, 0.042] / [0.000, 0.472] | 0/88 = 0.000 [0.000, 0.042] / [0.000, 0.424] |
+| 60 px | 50 | 75 | 0.625 | 0/75 = 0.000 [0.000, 0.049] / [0.000, 0.512] | 0/75 = 0.000 [0.000, 0.049] / [0.000, 0.464] |
+| 80 px | 4 | 64 | 0.533 | 0/64 = 0.000 [0.000, 0.057] / [0.000, 0.551] | 0/64 = 0.000 [0.000, 0.057] / [0.000, 0.503] |
+| 80 px | 8 | 74 | 0.617 | 0/74 = 0.000 [0.000, 0.049] / [0.000, 0.515] | 0/74 = 0.000 [0.000, 0.049] / [0.000, 0.467] |
+| 80 px | 16 | 79 | 0.658 | 0/79 = 0.000 [0.000, 0.046] / [0.000, 0.499] | 0/79 = 0.000 [0.000, 0.046] / [0.000, 0.451] |
+| 80 px | 24 | 67 | 0.558 | 0/67 = 0.000 [0.000, 0.054] / [0.000, 0.540] | 0/67 = 0.000 [0.000, 0.054] / [0.000, 0.492] |
+| 80 px | 35 | 80 | 0.667 | 1/80 = 0.013 [0.002, 0.067] / [0.000, 0.496] | 1/80 = 0.013 [0.002, 0.067] / [0.000, 0.448] |
+| 80 px | 50 | 72 | 0.600 | 5/72 = 0.069 [0.030, 0.152] / [0.000, 0.522] | 14/72 = 0.194 [0.120, 0.300] / [0.043, 0.678] |
+| 100 px | 4 | 74 | 0.617 | 0/74 = 0.000 [0.000, 0.049] / [0.000, 0.515] | 0/74 = 0.000 [0.000, 0.049] / [0.000, 0.467] |
+| 100 px | 8 | 52 | 0.433 † | 0/52 = 0.000 [0.000, 0.069] / [0.000, 0.602] | 0/52 = 0.000 [0.000, 0.069] / [0.000, 0.555] |
+| 100 px | 16 | 55 | 0.458 † | 11/55 = 0.200 [0.116, 0.324] / [0.069, 0.826] | 16/55 = 0.291 [0.188, 0.421] / [0.056, 0.766] |
+| 100 px | 24 | 70 | 0.583 | 49/70 = 0.700 [0.585, 0.795] / [0.179, 0.901] | 55/70 = 0.786 [0.676, 0.866] / [0.287, 0.944] |
+| 100 px | 35 | 72 | 0.600 | 69/72 = 0.958 [0.885, 0.986] / [0.353, 0.984] | 70/72 = 0.972 [0.904, 0.992] / [0.464, 0.996] |
+| 100 px | 50 | 65 | 0.542 | 60/65 = 0.923 [0.832, 0.967] / [0.404, 0.998] | 61/65 = 0.938 [0.852, 0.976] / [0.540, 0.998] |
+| 120 px | 4 | 58 | 0.483 † | 0/58 = 0.000 [0.000, 0.062] / [0.000, 0.575] | 0/58 = 0.000 [0.000, 0.062] / [0.000, 0.528] |
+| 120 px | 8 | 46 | 0.383 † | 6/46 = 0.130 [0.061, 0.257] / [0.000, 0.631] | 8/46 = 0.174 [0.091, 0.307] / [0.000, 0.585] |
+| 120 px | 16 | 60 | 0.500 | 53/60 = 0.883 [0.778, 0.942] / [0.453, 1.000] | 54/60 = 0.900 [0.799, 0.953] / [0.348, 0.982] |
+| 120 px | 24 | 46 | 0.383 † | 43/46 = 0.935 [0.825, 0.978] / [0.294, 0.994] | 45/46 = 0.978 [0.887, 0.996] / [0.507, 0.992] |
+| 120 px | 35 | 62 | 0.517 | 62/62 = 1.000 [0.942, 1.000] / [0.432, 1.000] | 62/62 = 1.000 [0.942, 1.000] / [0.584, 0.991] |
+| 120 px | 50 | 42 | 0.350 † | 42/42 = 1.000 [0.916, 1.000] / [0.331, 1.000] | 42/42 = 1.000 [0.916, 1.000] / [0.259, 0.979] |
+| 140 px | 4 | 42 | 0.350 † | 2/42 = 0.048 [0.013, 0.158] / [0.000, 0.652] | 1/42 = 0.024 [0.004, 0.123] / [0.000, 0.607] |
+| 140 px | 8 | 31 | 0.258 † | 18/31 = 0.581 [0.408, 0.736] / [0.128, 0.962] | 19/31 = 0.613 [0.438, 0.763] / [0.104, 0.925] |
+| 140 px | 16 | 40 | 0.333 † | 40/40 = 1.000 [0.912, 1.000] / [0.353, 1.000] | 40/40 = 1.000 [0.912, 1.000] / [0.275, 0.987] |
+| 140 px | 24 | 36 | 0.300 † | 36/36 = 1.000 [0.904, 1.000] / [0.410, 0.990] | 36/36 = 1.000 [0.904, 1.000] / [0.314, 0.998] |
+| 140 px | 35 | 27 | 0.225 † | 27/27 = 1.000 [0.875, 1.000] / [0.149, 0.982] | 27/27 = 1.000 [0.875, 1.000] / [0.476, 0.965] |
+| 140 px | 50 | 31 | 0.258 † | 31/31 = 1.000 [0.890, 1.000] / [0.525, 0.939] | 31/31 = 1.000 [0.890, 1.000] / [0.385, 0.996] |
+
+The **0.80 contour of the descriptive sensitivity surface**¹ lies between 100 px / 24 DN
+and 100 px / 35 DN, and is already crossed at 120 px / 16 DN.
+
+> ¹ **Not a D31 detection limit.** Held-out FP ≤ 0.05 was **not demonstrated** on this
+> stratum — realised 0.0791 (AV1) and 0.0734 (AVC). Read with the realised-FP and n_eff
+> caveats in §E, per the pre-grid declarations. The term "detection limit" is not used of
+> this stratum.
+
+### Bright replicate (D24) and σ-sensitivity replicate (D48(5)) — DIRECT + DERIVED
+
+| arm | size | DN | n | cov | AV1 | AVC |
+|---|---|---:|---:|---:|---|---|
+| bright | 60 px | 35 | 19 | 0.633 | 0/19 = 0.000 [0.000, 0.168] / [0.000, 0.781] | 0/19 = 0.000 [0.000, 0.168] / [0.000, 0.759] |
+| bright | 100 px | 35 | 16 | 0.533 | 11/16 = 0.688 [0.444, 0.858] / [0.207, 1.000] | 14/16 = 0.875 [0.640, 0.965] / [0.200, 1.000] |
+| bright | 140 px | 35 | 12 | 0.400 † | 12/12 = 1.000 [0.758, 1.000] / [0.207, 1.000] | 12/12 = 1.000 [0.758, 1.000] / [0.207, 1.000] |
+| sigma_sens | 60 px | 16 | 15 | 0.500 | 0/15 = 0.000 [0.000, 0.204] / [0.000, 0.793] | 0/15 = 0.000 [0.000, 0.204] / [0.000, 0.793] |
+| sigma_sens | 60 px | 35 | 14 | 0.467 † | 0/14 = 0.000 [0.000, 0.215] / [0.000, 0.793] | 0/14 = 0.000 [0.000, 0.215] / [0.000, 0.793] |
+| sigma_sens | 100 px | 16 | 15 | 0.500 | 0/15 = 0.000 [0.000, 0.204] / [0.000, 0.793] | 0/15 = 0.000 [0.000, 0.204] / [0.000, 0.793] |
+| sigma_sens | 100 px | 35 | 9 | 0.300 † | **insufficient n — not estimated** (0/9) | **insufficient n — not estimated** (0/9) |
+| sigma_sens | 140 px | 16 | 3 | 0.100 † | **insufficient n — not estimated** (3/3) | **insufficient n — not estimated** (1/3) |
+| sigma_sens | 140 px | 35 | 4 | 0.133 † | **insufficient n — not estimated** (4/4) | **insufficient n — not estimated** (4/4) |
+
+The three excluded `sigma_sens` cells remain visible above rather than omitted, per
+declaration 4 as amended.
+
+### B. Empirical headline findings — DIRECT
+
+- **Exact zero detection at 40 px and 60 px, at every contrast through 50 DN, in both
+  codecs.** Ten cells, 0/94 through 0/75. Nominal upper bounds run 0.037–0.050.
+- Detection first appears at 80 px / 35 DN (1/80) and 80 px / 50 DN (5/72 AV1, 14/72 AVC).
+- **120 px / 35 DN is 62/62 in both codecs**, as is every 140 px cell at ≥ 16 DN.
+- **The previous 120 px / 35 DN miss is not reproduced by the corrected detector; the same
+  nominal cell is detected in 62/62 trials in both codecs. This is consistent with the
+  previously identified polarity defect being consequential.** No exclusive causal
+  attribution is made: the injection σ, the decision statistic, the crop domain and the
+  threshold all differ from the historical figure as well.
+- **σ-sensitivity (D48(5)): at the published σ = 8.40, every estimable cell at ≤ 100 px is
+  zero detections** — 0/15, 0/14, 0/15. The three low-n cells remain **not estimated**.
+  The replicate cannot bracket the σ uncertainty as designed, because σ = 8.40 enlarges
+  the template support enough to make placement itself fail at the sizes that mattered.
+
+### C. Stacked replicate (A1) — DIRECT, ORDINAL ONLY
+
+Position of each injected margin relative to the margin range of the six independent
+non-overlapping clean stack windows. **No detection fraction and no calibrated
+false-positive rate is computed for this stratum.**
+
+| cell | AV1 | AVC |
+|---|---|---|
+| 70 px / 35 DN | above 9, inside 1, below 0 | above 10, inside 0, below 0 |
+| 120 px / 35 DN | above 10, inside 0, below 0 | above 10, inside 0, below 0 |
+
+**39 of 40 injected stacked margins fall above the six-window clean range.** n = 6
+independent windows; 10 realised trials per cell. Not to be over-read.
+
+### D. Paired AV1-vs-AVC margin — DIRECT + DERIVED
+
+Same trial, same frame, same site, same seed (D28). AVC margin minus AV1 margin.
+
+| subset | n | mean | median | sd | p10 | p90 | frac > 0 |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| all executed | 2501 | +0.1280 | +0.0740 | 0.3444 | -0.1978 | +0.5766 | 0.637 |
+| headline | 2374 | +0.1270 | +0.0740 | 0.3479 | -0.2112 | +0.5822 | 0.636 |
+| bright | 47 | +0.2112 | +0.1569 | 0.2953 | -0.1032 | +0.6036 | 0.723 |
+| sigma_sens | 60 | +0.0390 | -0.0043 | 0.2395 | -0.1498 | +0.3461 | 0.467 |
+| stacked | 20 | +0.3226 | +0.3322 | 0.0894 | +0.2357 | +0.4488 | 1.000 |
+| headline 40 px | 548 | +0.0434 | +0.0145 | 0.3090 | -0.2670 | +0.4211 | 0.527 |
+| headline 60 px | 481 | +0.0576 | +0.0238 | 0.3073 | -0.1879 | +0.4353 | 0.557 |
+| headline 80 px | 436 | +0.0961 | +0.0696 | 0.3038 | -0.1927 | +0.4786 | 0.633 |
+| headline 100 px | 388 | +0.2177 | +0.1909 | 0.3426 | -0.1737 | +0.6570 | 0.758 |
+| headline 120 px | 314 | +0.2316 | +0.2105 | 0.3893 | -0.1976 | +0.7070 | 0.739 |
+| headline 140 px | 207 | +0.2456 | +0.2340 | 0.4405 | -0.2588 | +0.8142 | 0.734 |
+
+**Measured finding.** The AVC-minus-AV1 margin is positive on average and **grows with
+size**, from about **+0.043 at 40 px to +0.246 at 140 px**; the stacked subset is positive
+on **20 of 20** paired trials.
+
+This is recorded as a **finding candidate — a paired-margin signal**. It is **not** a
+conclusion about a codec mechanism.
+
+**Instrument caveat.** Pairing controls frame, site and seed exactly, but **not complete
+instrument identity**: each codec uses its own measured σ (4.5725 vs 4.4324), and therefore
+its own template bank, its own placement clearance and its own crop domain. The two
+headline thresholds are near-identical — 6.1942 (AV1) against 6.1740 (AVC) — which
+**supports scale similarity between the two instruments but does not prove they are
+identical**.
+
+*Interpretation, not measurement:* a higher-bitrate encode preserving more of the injected
+signal is one explanation among others for the size-growing gap. It is offered as an
+alternative explanation only, and nothing here establishes it.
+
+### E. False-positive and dependence limitations
+
+- **Calibration remained frozen throughout.** No post-hoc refit, no re-split, no unit
+  redefinition. Option (a) as ruled.
+- **Held-out headline FP: 0.0791 (AV1), 0.0734 (AVC)** — above the 0.05 target.
+- **Severe temporal autocorrelation** in the consecutive null-frame series: r₁ = 0.88–0.94,
+  giving n_eff 5.3–11.3 against a nominal 177, so the nominal Wilson intervals on the FP
+  rates are too narrow by a factor of 4.8–6.6 in width.
+- **The n_eff intervals in §A are a conservative bound of uncertain applicability, not a
+  like-for-like injected-trial effective sample size.** They transfer the null-series r₁,
+  measured on consecutive frames, onto injected trials drawn scattered across the segment.
+  A cell's trials sit on nearly as many distinct frames as it has trials, so this transfer
+  is likely far too harsh. **No proper injected-trial n_eff is claimed**; deriving one
+  would be separate work.
+- **D31 is unchanged and unmet as a formal ≤ 5 % FP criterion on the headline stratum.**
+
+### F. Coverage and estimand limitations
+
+- Detection fractions are **conditional on legal D23 placement**: the estimand is
+  P(detect | a legal site exists for this size on this frame).
+- **Larger sizes sample a more restricted thick-hull frame population** — realisation falls
+  from 0.761 at 40 px to 0.288 at 140 px — so cross-size comparisons carry a population
+  shift.
+- **`realised_fraction < 0.5` is a mandatory coverage flag, not an exclusion** (19 of 47
+  cells).
+- **`realised_n < 10` is the contour exclusion criterion** (3 cells, all `sigma_sens`).
+- **Stacked coverage:** motion averaging shrinks the bright-hull area surviving the 140 DN
+  threshold, so stack-mean hulls are smaller than single frames' — 10 of 30 realised at
+  both stacked cells.
+
 ## Hygiene notes for the report
 
 - **C2 — `analysis/mk5-colour-segment/` ships figures, not code.** The directory contains
