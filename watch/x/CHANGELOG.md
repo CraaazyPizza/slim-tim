@@ -11451,3 +11451,17 @@
 
 - ★★★ @qtecqot: tweets 21 -> 22
 - ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:56:01.660656+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:58:01.357889+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T03:00:02.046761+00:00
+
+- ★★★ @qtecqot: CAPTURED 2087687254693032176 (Wed Aug 12 23:46:43 +0000 2026) — 'Real, according to Linda Howe' [media: 2087687254693032176_1.jpg]
+-     wayback save unavailable (HTTP 498) — local body is the copy for 2087687254693032176
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403

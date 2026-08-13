@@ -1,0 +1,98 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/JonStewartIL/status/2087687254693032176",
+  "id": "2087687254693032176",
+  "text": "Real, according to Linda Howe",
+  "raw_text": {
+   "text": "Real, according to Linda Howe https://t.co/fxOjcgybZ0",
+   "display_text_range": [
+    0,
+    29
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      30,
+      53
+     ],
+     "id": "2087687251060756480",
+     "display": "pic.x.com/fxOjcgybZ0",
+     "original": "https://t.co/fxOjcgybZ0",
+     "replacement": "https://x.com/JonStewartIL/status/2087687254693032176/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "JonStewartIL",
+   "url": "https://x.com/JonStewartIL",
+   "id": "1949217766671552512",
+   "followers": 34428,
+   "following": 1453,
+   "likes": 6275,
+   "media_count": 4649,
+   "name": "Jon Stewart",
+   "description": "Businessman, Investigative Producer, former pro wrestler, author & IL Governor candidate and Joann's proud husband",
+   "raw_description": {
+    "text": "Businessman, Investigative Producer, former pro wrestler, author & IL Governor candidate and Joann's proud husband",
+    "facets": []
+   },
+   "location": "Deerfield, IL",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1949217766671552512/1777651585",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2050949779396448256/PlcaH2dG_200x200.jpg",
+   "joined": "Sat Jul 26 21:18:38 +0000 2025",
+   "protected": false,
+   "website": {
+    "url": "https://allisonelizabethstewart.my.canva.site/jon-stewart",
+    "display_url": "allisonelizabethstewart.my.canva.site/jon-stewart"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 4,
+  "retweets": 6,
+  "likes": 71,
+  "bookmarks": 14,
+  "quotes": 0,
+  "created_at": "Wed Aug 12 23:46:43 +0000 2026",
+  "created_timestamp": 1786578403,
+  "possibly_sensitive": false,
+  "views": 3564,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2087687251060756480",
+     "url": "https://pbs.twimg.com/media/HPj0fmmWkAASO0H.jpg?name=orig",
+     "width": 1193,
+     "height": 869
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2087687251060756480",
+     "url": "https://pbs.twimg.com/media/HPj0fmmWkAASO0H.jpg?name=orig",
+     "width": 1193,
+     "height": 869
+    }
+   ]
+  },
+  "source": "Twitter for iPhone",
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}
