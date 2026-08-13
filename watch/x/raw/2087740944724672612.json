@@ -1,0 +1,95 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/qtecqot/status/2087740944724672612",
+  "id": "2087740944724672612",
+  "text": "Do not be surprised if my X and/or YouTube accounts go away soon.\n\nPowerful forces are near....\n\nDisinformation agents stand ready to replace, with the assistance of corporate henchmen.",
+  "raw_text": {
+   "text": "Do not be surprised if my X and/or YouTube accounts go away soon.\n\nPowerful forces are near....\n\nDisinformation agents stand ready to replace, with the assistance of corporate henchmen. https://t.co/wH1JYe7vlz",
+   "display_text_range": [
+    0,
+    185
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      186,
+      209
+     ],
+     "id": "2087738991592529920",
+     "display": "pic.x.com/wH1JYe7vlz",
+     "original": "https://t.co/wH1JYe7vlz",
+     "replacement": "https://x.com/qtecqot/status/2087740944724672612/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "qtecqot",
+   "url": "https://x.com/qtecqot",
+   "id": "2048996761101078528",
+   "followers": 313,
+   "following": 4,
+   "likes": 26,
+   "media_count": 3,
+   "name": "qtecqot",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Tue Apr 28 05:24:54 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 1,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Thu Aug 13 03:20:04 +0000 2026",
+  "created_timestamp": 1786591204,
+  "possibly_sensitive": false,
+  "views": 11,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2087738991592529920",
+     "url": "https://pbs.twimg.com/media/HPkjjTGa4AAQHV8.png?name=orig",
+     "width": 626,
+     "height": 424
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2087738991592529920",
+     "url": "https://pbs.twimg.com/media/HPkjjTGa4AAQHV8.png?name=orig",
+     "width": 626,
+     "height": 424
+    }
+   ]
+  },
+  "source": "Twitter Web App",
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

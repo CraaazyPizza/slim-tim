@@ -11517,3 +11517,27 @@
 - ★★★ @qtecqot: tweets 22 -> 24
 - ★★ @qtecqot: media_count 2 -> 3
 - ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T03:24:01.910584+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T03:26:01.591535+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T03:28:01.282436+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T03:30:01.987903+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T03:32:01.754122+00:00
+
+- ★★★ @qtecqot: CAPTURED 2087740944724672612 (Thu Aug 13 03:20:04 +0000 2026) — 'Do not be surprised if my X and/or YouTube accounts go away soon. /  / Powerful forces are near.... /  / Disinformation agents stand ready to replace, with the assistance of corporate henchmen.' [media: 2087740944724672612_1.png]
+-     wayback save unavailable (HTTP 498) — local body is the copy for 2087740944724672612
+- ★★★ @qtecqot: CAPTURED 2087741364301910140 (Thu Aug 13 03:21:44 +0000 2026) — 'Please archive this post.'
+-     wayback save unavailable (HTTP 498) — local body is the copy for 2087741364301910140
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
