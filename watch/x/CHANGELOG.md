@@ -10526,3 +10526,928 @@
 
 - ★★ @qtecqot: likes 25 -> 26
 - ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T19:34:01.486218+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T19:36:01.228459+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T19:38:01.956665+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T19:40:01.722965+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T19:42:01.454449+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T19:44:01.254997+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T19:46:01.934981+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T19:48:01.628968+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T19:50:01.397555+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T19:52:01.150995+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T19:54:02.036896+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T19:56:01.719369+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T19:58:01.491457+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:00:01.610125+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:02:01.347183+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:04:02.044462+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:06:01.286505+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:07:02.029155+00:00
+
+-     backfill media: 24 held, 6 purged (0 newly)
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:08:01.988304+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:10:01.762201+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:12:01.646302+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:14:01.608824+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:16:01.295249+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:18:02.019084+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:20:01.738679+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:22:01.962326+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:24:01.519994+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:26:01.336205+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:28:01.259326+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:30:02.068826+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:32:02.009383+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:34:01.717134+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:36:01.420826+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:38:01.985901+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:40:01.735965+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:42:01.465825+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:44:01.308324+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:46:01.366144+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:48:02.058216+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:50:01.858353+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:52:01.512763+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:54:01.699166+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:56:01.457631+00:00
+
+-     @qtecqot: followers 311 -> 312
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T20:58:01.166949+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:00:01.839387+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:02:01.498402+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:04:01.208911+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:06:01.136105+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:07:01.863408+00:00
+
+-     backfill media: 24 held, 6 purged (0 newly)
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:08:01.772033+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:10:01.474991+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:12:01.183012+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:14:02.058973+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:16:01.714425+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:18:01.432669+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:20:01.123359+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:22:01.866111+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:24:01.119909+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:26:01.615406+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:28:01.324032+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:30:02.019748+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:32:01.559928+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:34:01.263882+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:36:01.957143+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:38:01.703393+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:40:01.407424+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:42:01.830591+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:44:01.548835+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:46:01.235129+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:48:01.196499+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:50:01.976510+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:52:01.638912+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:54:01.350281+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:56:01.091674+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T21:58:01.254337+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:00:01.970789+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:02:01.592733+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:04:01.327225+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:06:01.088737+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:07:01.838779+00:00
+
+-     backfill media: 24 held, 6 purged (0 newly)
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:08:01.118952+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:10:01.793561+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:12:01.477740+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:14:01.665637+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:16:01.363390+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:18:01.069425+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:20:01.782881+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:22:01.472368+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:24:01.587477+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:26:01.289884+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:28:01.952627+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:30:02.041937+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:32:01.523361+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:34:01.169340+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:36:01.909301+00:00
+
+-     @qtecqot: followers 312 -> 313
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:38:01.649609+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:40:01.367302+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:42:02.023264+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:44:01.790690+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:46:01.957063+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:48:01.685301+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:50:01.479731+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:52:01.151982+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:54:01.909123+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:56:01.648122+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T22:58:01.367923+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:00:02.053096+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:02:01.321204+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:04:02.003372+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:06:01.741825+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:07:01.541299+00:00
+
+-     backfill media: 24 held, 6 purged (0 newly)
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:08:01.590621+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:10:01.263480+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:12:01.986235+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:14:01.688676+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:16:01.363341+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:18:01.728272+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:20:01.433607+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:22:01.071154+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:24:02.007637+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:26:01.786756+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:28:01.443330+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:30:01.296100+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:32:01.378938+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:34:01.839076+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:36:01.512267+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:38:01.319743+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:40:01.205527+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:42:01.893031+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:44:01.662963+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:46:01.363644+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:48:02.038180+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:50:01.286167+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:52:02.002606+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:54:01.707387+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:56:01.385928+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-12T23:58:02.055837+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:00:01.856096+00:00
+
+-     @qtecqot: followers 313 -> 312
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:02:01.168290+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:04:01.952648+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:06:01.114584+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:07:01.805259+00:00
+
+-     backfill media: 24 held, 6 purged (0 newly)
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:08:01.376737+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:10:01.117968+00:00
+
+-     @qtecqot: followers 312 -> 313
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:12:01.885344+00:00
+
+-     @qtecqot: followers 313 -> 312
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:14:01.618905+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:16:01.216388+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:18:01.965297+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:20:01.695009+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:22:01.910581+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:24:01.831956+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:26:01.554280+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:28:01.238162+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:30:01.915712+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:32:01.265808+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:34:01.916571+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:36:01.598585+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:38:01.870355+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:40:01.526533+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:42:01.174667+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:44:01.909838+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:46:01.575526+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:48:01.278979+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:50:02.000120+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:52:01.682530+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:54:01.829041+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:56:01.629538+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T00:58:01.332930+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:00:02.059110+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:02:01.234819+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:04:01.869897+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:06:01.538389+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:07:01.237115+00:00
+
+-     backfill media: 24 held, 6 purged (0 newly)
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:08:01.792039+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:10:01.992477+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:12:01.948419+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:14:01.630825+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:16:01.327370+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:18:02.033192+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:20:01.733466+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:22:01.397032+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:24:01.460106+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:26:01.650997+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:28:01.312439+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:30:01.151746+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:32:01.872391+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:34:01.591214+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:36:01.270726+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:38:01.968428+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:40:01.620122+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:42:01.788671+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:44:01.494981+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:46:01.163676+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:48:01.823063+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:50:01.507495+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:52:01.165857+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:54:01.816672+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:56:01.515165+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T01:58:01.627514+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:00:01.342250+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:02:01.570188+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:04:01.259532+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:06:02.023887+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:07:01.681321+00:00
+
+-     backfill media: 24 held, 6 purged (0 newly)
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:08:01.751047+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:10:01.458070+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:12:01.186727+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:14:01.599071+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:16:01.288445+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:18:01.991519+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:20:01.719311+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:22:01.380180+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:24:01.338918+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:26:02.011656+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:28:01.700603+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:30:01.985852+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:32:01.205385+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:34:01.859815+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:36:01.544738+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:38:01.250576+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:40:01.914597+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:42:01.600049+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:44:01.360690+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:46:01.552938+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:48:01.317930+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:50:02.026064+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:52:01.708443+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-13T02:54:01.383853+00:00
+
+- ★★★ @qtecqot: tweets 21 -> 22
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
