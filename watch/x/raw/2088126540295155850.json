@@ -1,0 +1,277 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/qtecqot/status/2088126540295155850",
+  "id": "2088126540295155850",
+  "text": "Dr. Davis' name is familiar to me. It has been mentioned or cited in a number of the communications I've received from the network, regarding craft recovery and exposure mitigation.\n\nI am curious if he has any knowledge of the False Cape study.",
+  "raw_text": {
+   "text": "Dr. Davis' name is familiar to me. It has been mentioned or cited in a number of the communications I've received from the network, regarding craft recovery and exposure mitigation.\n\nI am curious if he has any knowledge of the False Cape study.",
+   "display_text_range": [
+    0,
+    244
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "qtecqot",
+   "url": "https://x.com/qtecqot",
+   "id": "2048996761101078528",
+   "followers": 328,
+   "following": 4,
+   "likes": 29,
+   "media_count": 3,
+   "name": "qtecqot",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Tue Apr 28 05:24:54 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Fri Aug 14 04:52:17 +0000 2026",
+  "created_timestamp": 1786683137,
+  "views": 11,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "quote": {
+   "url": "https://x.com/jamescfox/status/2088100743714668759",
+   "id": "2088100743714668759",
+   "text": "Aerospace engineer Dr. Eric Davis also claims to have seen classified photos of recovered craft and nonhuman bodies -- he is requesting immunity from President Trump so he can speak freely to the American public.",
+   "raw_text": {
+    "text": "Aerospace engineer Dr. Eric Davis also claims to have seen classified photos of recovered craft and nonhuman bodies -- he is requesting immunity from President Trump so he can speak freely to the American public. https://t.co/h5pREvsT4X",
+    "display_text_range": [
+     0,
+     212
+    ],
+    "facets": [
+     {
+      "type": "media",
+      "indices": [
+       213,
+       236
+      ],
+      "id": "2088099924718100481",
+      "display": "pic.x.com/h5pREvsT4X",
+      "original": "https://t.co/h5pREvsT4X",
+      "replacement": "https://x.com/jamescfox/status/2088100743714668759/video/1"
+     }
+    ]
+   },
+   "author": {
+    "screen_name": "jamescfox",
+    "url": "https://x.com/jamescfox",
+    "id": "52962264",
+    "followers": 183740,
+    "following": 271,
+    "likes": 13548,
+    "media_count": 616,
+    "name": "James Fox",
+    "description": "Director/Producer: The Program, Moment of Contact, The Phenomenon, I Know What I Saw, & Out of the Blue 🎬",
+    "raw_description": {
+     "text": "Director/Producer: The Program, Moment of Contact, The Phenomenon, I Know What I Saw, & Out of the Blue 🎬",
+     "facets": []
+    },
+    "location": "",
+    "banner_url": "https://pbs.twimg.com/profile_banners/52962264/1762460224",
+    "avatar_url": "https://pbs.twimg.com/profile_images/1859217545925902336/NFX23P51_200x200.jpg",
+    "joined": "Thu Jul 02 03:59:40 +0000 2009",
+    "protected": false,
+    "website": {
+     "url": "https://geni.us/MOC_NewRevelations",
+     "display_url": "geni.us/MOC_NewRevelat…"
+    },
+    "verification": {
+     "verified": true,
+     "verified_at": null,
+     "type": "individual"
+    },
+    "avatar_color": null
+   },
+   "replies": 60,
+   "retweets": 167,
+   "likes": 990,
+   "bookmarks": 164,
+   "quotes": 21,
+   "created_at": "Fri Aug 14 03:09:46 +0000 2026",
+   "created_timestamp": 1786676986,
+   "possibly_sensitive": false,
+   "views": 19457,
+   "is_note_tweet": false,
+   "community_note": null,
+   "lang": "en",
+   "replying_to": null,
+   "replying_to_status": null,
+   "media": {
+    "all": [
+     {
+      "id": "2088099924718100481",
+      "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/1920x1080/Fll1PbDSVxfNXV4M.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2088099924718100481/img/B7lYFZ2RPhwPURo7.jpg",
+      "duration": 51.351,
+      "width": 1920,
+      "height": 1080,
+      "format": "video/mp4",
+      "type": "video",
+      "formats": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/pl/PReh-H50QfPqMpRk.m3u8?tag=29&v=f13",
+        "container": "m3u8"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/480x270/Syuyqg7FbbaKNAOf.mp4?tag=29",
+        "bitrate": 256000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/640x360/rHPB0hThnVUbj20i.mp4?tag=29",
+        "bitrate": 832000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/1280x720/qsZiL44AkeMcpGtF.mp4?tag=29",
+        "bitrate": 2176000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/1920x1080/Fll1PbDSVxfNXV4M.mp4?tag=29",
+        "bitrate": 10368000,
+        "container": "mp4",
+        "codec": "h264"
+       }
+      ],
+      "publisher": null,
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/pl/PReh-H50QfPqMpRk.m3u8?tag=29&v=f13",
+        "bitrate": 0,
+        "content_type": "application/x-mpegURL"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/480x270/Syuyqg7FbbaKNAOf.mp4?tag=29",
+        "bitrate": 256000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/640x360/rHPB0hThnVUbj20i.mp4?tag=29",
+        "bitrate": 832000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/1280x720/qsZiL44AkeMcpGtF.mp4?tag=29",
+        "bitrate": 2176000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/1920x1080/Fll1PbDSVxfNXV4M.mp4?tag=29",
+        "bitrate": 10368000,
+        "content_type": "video/mp4"
+       }
+      ]
+     }
+    ],
+    "videos": [
+     {
+      "id": "2088099924718100481",
+      "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/1920x1080/Fll1PbDSVxfNXV4M.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2088099924718100481/img/B7lYFZ2RPhwPURo7.jpg",
+      "duration": 51.351,
+      "width": 1920,
+      "height": 1080,
+      "format": "video/mp4",
+      "type": "video",
+      "formats": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/pl/PReh-H50QfPqMpRk.m3u8?tag=29&v=f13",
+        "container": "m3u8"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/480x270/Syuyqg7FbbaKNAOf.mp4?tag=29",
+        "bitrate": 256000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/640x360/rHPB0hThnVUbj20i.mp4?tag=29",
+        "bitrate": 832000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/1280x720/qsZiL44AkeMcpGtF.mp4?tag=29",
+        "bitrate": 2176000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/1920x1080/Fll1PbDSVxfNXV4M.mp4?tag=29",
+        "bitrate": 10368000,
+        "container": "mp4",
+        "codec": "h264"
+       }
+      ],
+      "publisher": null,
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/pl/PReh-H50QfPqMpRk.m3u8?tag=29&v=f13",
+        "bitrate": 0,
+        "content_type": "application/x-mpegURL"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/480x270/Syuyqg7FbbaKNAOf.mp4?tag=29",
+        "bitrate": 256000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/640x360/rHPB0hThnVUbj20i.mp4?tag=29",
+        "bitrate": 832000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/1280x720/qsZiL44AkeMcpGtF.mp4?tag=29",
+        "bitrate": 2176000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2088099924718100481/vid/avc1/1920x1080/Fll1PbDSVxfNXV4M.mp4?tag=29",
+        "bitrate": 10368000,
+        "content_type": "video/mp4"
+       }
+      ]
+     }
+    ]
+   },
+   "source": "Twitter Web App",
+   "twitter_card": "player",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "source": "Twitter Web App",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

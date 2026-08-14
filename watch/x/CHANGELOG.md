@@ -14753,3 +14753,26 @@
 
 - ★★ @qtecqot: likes 27 -> 28
 - ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-14T05:02:01.705150+00:00
+
+-     @qtecqot: followers 327 -> 328
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-14T05:04:01.365184+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-14T05:06:02.031864+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-14T05:07:01.764010+00:00
+
+-     backfill media: 28 held, 6 purged (0 newly)
+- ★★ @qtecqot: likes 28 -> 29
+- ★★★ @qtecqot: CAPTURED 2088126540295155850 (Fri Aug 14 04:52:17 +0000 2026) — "Dr. Davis' name is familiar to me. It has been mentioned or cited in a number of the communications I've received from the network, regarding craft recovery and exposure mitigation. /  / I am curious if he has any knowle" [media: 2088126540295155850_1.m3u8, 2088126540295155850_2.mp4]
+-     wayback save unavailable (HTTP 498) — local body is the copy for 2088126540295155850
+- ★★★ @qtecqot: CAPTURED 2088127889787298139 (Fri Aug 14 04:57:39 +0000 2026) — "I would very much be interested in having another online discussion with Joe Rogan. /  / The previous times we've spoken, the subject of alien lifeforms was not considered."
+-     wayback save unavailable (HTTP 498) — local body is the copy for 2088127889787298139
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
