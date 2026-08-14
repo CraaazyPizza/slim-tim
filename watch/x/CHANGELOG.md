@@ -14345,3 +14345,13 @@
 
 - ★★★ @qtecqot: tweets 24 -> 25
 - ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-14T01:54:01.697523+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-14T01:56:01.449970+00:00
+
+- ★★★ @qtecqot: CAPTURED 2087976816195538983 (Thu Aug 13 18:57:20 +0000 2026) — '#UFOx #UFOtwitter #UAP #NHI /  / DAVID GRUSCH  states to DR.PHIL.  /  / ALIEN PILOTS HAVE BEEN TAKEN ALIVE AND COMMUNICATED WITH.  👽' [media: 2087976816195538983_1.m3u8, 2087976816195538983_2.mp4]
+-     wayback save unavailable (HTTP 498) — local body is the copy for 2087976816195538983
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
