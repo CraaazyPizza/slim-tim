@@ -1,0 +1,62 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/qtecqot/status/2088127889787298139",
+  "id": "2088127889787298139",
+  "text": "I would very much be interested in having another online discussion with Joe Rogan.\n\nThe previous times we've spoken, the subject of alien lifeforms was not considered.",
+  "raw_text": {
+   "text": "I would very much be interested in having another online discussion with Joe Rogan.\n\nThe previous times we've spoken, the subject of alien lifeforms was not considered.",
+   "display_text_range": [
+    0,
+    168
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "qtecqot",
+   "url": "https://x.com/qtecqot",
+   "id": "2048996761101078528",
+   "followers": 328,
+   "following": 4,
+   "likes": 29,
+   "media_count": 3,
+   "name": "qtecqot",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Tue Apr 28 05:24:54 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 1,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Fri Aug 14 04:57:39 +0000 2026",
+  "created_timestamp": 1786683459,
+  "views": 23,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}
