@@ -17652,3 +17652,17 @@
 
 - ★★★ @qtecqot: tweets 28 -> 29
 - ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-15T04:00:02.037162+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-15T04:02:01.953928+00:00
+
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-15T04:04:01.621484+00:00
+
+- ★★★ @qtecqot: CAPTURED 2088003169917731289 (Thu Aug 13 20:42:03 +0000 2026) — '**New** David Grusch: "We have captured live aliens & communicated with them telepathically" 👽🛸 /  / “Yes, and I know people who have had direct interactions in a detainment situation. Which sounds very Star Trek and sou' [media: 2088003169917731289_1.m3u8, 2088003169917731289_2.mp4]
+-     wayback save unavailable (HTTP 498) — local body is the copy for 2088003169917731289
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
