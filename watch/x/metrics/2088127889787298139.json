@@ -70,5 +70,17 @@
    "quotes": 1,
    "views": 373
   }
+ },
+ {
+  "at": "2026-08-15T17:50:02.090860+00:00",
+  "source": "official-x",
+  "values": {
+   "bookmark_count": 1,
+   "impression_count": 376,
+   "like_count": 9,
+   "quote_count": 1,
+   "reply_count": 4,
+   "repost_count": 2
+  }
  }
 ]
