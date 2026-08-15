@@ -17877,3 +17877,13 @@
 
 - ★★ @qtecqot: likes 31 -> 32
 - ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
+
+## 2026-08-15T17:07:01.572702+00:00
+
+-     backfill media: 13 held, 6 purged (0 newly)
+-     @qtecqot: followers 265 -> 343
+- ★★ @qtecqot: likes 21 -> 32
+- ★★★ @qtecqot: tweets 16 -> 29
+- ★★ @qtecqot: media_count 2 -> 4
+- ★★★ @qtecqot: DELETED 2084784908011286798 (last seen live 2026-08-06T23:14:01.218814+00:00) — body archived at x/raw/2084784908011286798.json
+- ! ERROR (instrument failure, NOT an absence of change): @qtecqot leg B2 (replies): x_search FAILED: HTTPError 403
