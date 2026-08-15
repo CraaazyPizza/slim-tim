@@ -1,0 +1,518 @@
+{
+ "data": {
+  "author_id": "2048996761101078528",
+  "context_annotations": [
+   {
+    "domain": {
+     "description": "Television shows from around the world",
+     "id": "3",
+     "name": "TV Shows"
+    },
+    "entity": {
+     "description": "All the latest basketball action from the NBA.",
+     "id": "10000607734",
+     "name": "NBA Basketball"
+    }
+   },
+   {
+    "domain": {
+     "description": "Television shows from around the world",
+     "id": "3",
+     "name": "TV Shows"
+    },
+    "entity": {
+     "description": "All the latest basketball action from the WNBA.",
+     "id": "10002734734",
+     "name": "WNBA Basketball"
+    }
+   },
+   {
+    "domain": {
+     "description": "Television shows from around the world",
+     "id": "3",
+     "name": "TV Shows"
+    },
+    "entity": {
+     "id": "10029304530",
+     "name": "NBA Basketball"
+    }
+   },
+   {
+    "domain": {
+     "description": "Types of sports, like soccer and basketball",
+     "id": "11",
+     "name": "Sport"
+    },
+    "entity": {
+     "id": "706083902411055104",
+     "name": "Basketball"
+    }
+   },
+   {
+    "domain": {
+     "description": "",
+     "id": "26",
+     "name": "Sports League"
+    },
+    "entity": {
+     "id": "706083889454813185",
+     "name": "NBA"
+    }
+   },
+   {
+    "domain": {
+     "description": "",
+     "id": "26",
+     "name": "Sports League"
+    },
+    "entity": {
+     "description": "WNBA",
+     "id": "859816871570284544",
+     "name": "WNBA"
+    }
+   },
+   {
+    "domain": {
+     "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+     "id": "46",
+     "name": "Business Taxonomy"
+    },
+    "entity": {
+     "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+     "id": "1557697289971322880",
+     "name": "Sports & Fitness Business"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "706083889454813185",
+     "name": "NBA"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "706083902411055104",
+     "name": "Basketball"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "description": "Sports",
+     "id": "847900493514891265",
+     "name": "Sports"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "description": "WNBA",
+     "id": "859816871570284544",
+     "name": "WNBA"
+    }
+   },
+   {
+    "domain": {
+     "description": "Top level entities that describe a Brands industry",
+     "id": "45",
+     "name": "Brand Vertical"
+    },
+    "entity": {
+     "id": "781974597310615553",
+     "name": "Entertainment"
+    }
+   },
+   {
+    "domain": {
+     "description": "Brands and Companies",
+     "id": "47",
+     "name": "Brand"
+    },
+    "entity": {
+     "id": "10042758024",
+     "name": "NBA"
+    }
+   }
+  ],
+  "conversation_id": "2085924608360972476",
+  "created_at": "2026-08-08T03:02:35.000Z",
+  "display_text_range": [
+   0,
+   163
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-08T04:02:35.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": true
+  },
+  "edit_history_post_ids": [
+   "2085924608360972476"
+  ],
+  "entities": {
+   "hashtags": [
+    {
+     "end": 68,
+     "start": 63,
+     "tag": "wnba"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "x.com/EnesFreedom/st…",
+     "end": 187,
+     "expanded_url": "https://twitter.com/EnesFreedom/status/2085772139869696032",
+     "start": 164,
+     "url": "https://t.co/2HzYvkHmDf"
+    }
+   ]
+  },
+  "id": "2085924608360972476",
+  "lang": "en",
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 0,
+   "impression_count": 1264,
+   "like_count": 0,
+   "quote_count": 0,
+   "reply_count": 4,
+   "repost_count": 0
+  },
+  "referenced_posts": [
+   {
+    "id": "2085772139869696032",
+    "type": "quoted"
+   }
+  ],
+  "reply_settings": "everyone",
+  "text": "Once the dam breaks, it'll just be a matter of time before the #wnba is essentially the NBA's 2nd D League.\n\nActual females won't be good enough to make the teams. https://t.co/2HzYvkHmDf"
+ },
+ "includes": {
+  "posts": [
+   {
+    "attachments": {
+     "media_keys": [
+      "13_2085771953546117121"
+     ]
+    },
+    "author_id": "302111485",
+    "context_annotations": [
+     {
+      "domain": {
+       "description": "Television shows from around the world",
+       "id": "3",
+       "name": "TV Shows"
+      },
+      "entity": {
+       "description": "All the latest basketball action from the NBA.",
+       "id": "10000607734",
+       "name": "NBA Basketball"
+      }
+     },
+     {
+      "domain": {
+       "description": "Television shows from around the world",
+       "id": "3",
+       "name": "TV Shows"
+      },
+      "entity": {
+       "description": "All the latest basketball action from the WNBA.",
+       "id": "10002734734",
+       "name": "WNBA Basketball"
+      }
+     },
+     {
+      "domain": {
+       "description": "Types of sports, like soccer and basketball",
+       "id": "11",
+       "name": "Sport"
+      },
+      "entity": {
+       "id": "706083902411055104",
+       "name": "Basketball"
+      }
+     },
+     {
+      "domain": {
+       "description": "",
+       "id": "26",
+       "name": "Sports League"
+      },
+      "entity": {
+       "id": "706083889454813185",
+       "name": "NBA"
+      }
+     },
+     {
+      "domain": {
+       "description": "",
+       "id": "26",
+       "name": "Sports League"
+      },
+      "entity": {
+       "description": "WNBA",
+       "id": "859816871570284544",
+       "name": "WNBA"
+      }
+     },
+     {
+      "domain": {
+       "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+       "id": "46",
+       "name": "Business Taxonomy"
+      },
+      "entity": {
+       "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+       "id": "1557697289971322880",
+       "name": "Sports & Fitness Business"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "id": "706083889454813185",
+       "name": "NBA"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "id": "706083902411055104",
+       "name": "Basketball"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "Sports",
+       "id": "847900493514891265",
+       "name": "Sports"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "WNBA",
+       "id": "859816871570284544",
+       "name": "WNBA"
+      }
+     },
+     {
+      "domain": {
+       "description": "Named people in the world like Nelson Mandela",
+       "id": "10",
+       "name": "Person"
+      },
+      "entity": {
+       "id": "809849106415767552",
+       "name": "Enes Kanter"
+      }
+     },
+     {
+      "domain": {
+       "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+       "id": "60",
+       "name": "Athlete"
+      },
+      "entity": {
+       "id": "809849106415767552",
+       "name": "Enes Kanter"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "id": "706083889454813185",
+       "name": "NBA"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "id": "706083902411055104",
+       "name": "Basketball"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "id": "809849106415767552",
+       "name": "Enes Kanter"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "Sports",
+       "id": "847900493514891265",
+       "name": "Sports"
+      }
+     }
+    ],
+    "conversation_id": "2085772139869696032",
+    "created_at": "2026-08-07T16:56:44.000Z",
+    "display_text_range": [
+     0,
+     275
+    ],
+    "edit_controls": {
+     "editable_until": "2026-08-07T17:56:44.000Z",
+     "edits_remaining": 5,
+     "is_edit_eligible": true
+    },
+    "edit_history_post_ids": [
+     "2085772139869696032"
+    ],
+    "entities": {
+     "mentions": [
+      {
+       "end": 117,
+       "id": "17159397",
+       "start": 112,
+       "username": "WNBA"
+      }
+     ],
+     "urls": [
+      {
+       "display_url": "pic.x.com/msncUZUT1J",
+       "end": 299,
+       "expanded_url": "https://x.com/EnesFreedom/status/2085772139869696032/video/1",
+       "media_key": "13_2085771953546117121",
+       "start": 276,
+       "url": "https://t.co/msncUZUT1J"
+      }
+     ]
+    },
+    "id": "2085772139869696032",
+    "lang": "en",
+    "media_metadata": [
+     {
+      "media_key": "13_2085771953546117121"
+     }
+    ],
+    "note_post": {
+     "entities": {
+      "hashtags": [
+       {
+        "end": 1001,
+        "start": 996,
+        "tag": "WNBA"
+       }
+      ],
+      "mentions": [
+       {
+        "end": 117,
+        "id": "17159397",
+        "start": 112,
+        "username": "WNBA"
+       }
+      ],
+      "urls": [
+       {
+        "display_url": "enesfreedom.com",
+        "end": 1085,
+        "expanded_url": "https://enesfreedom.com",
+        "start": 1062,
+        "url": "https://t.co/zlwWpVF0Ou"
+       }
+      ]
+     },
+     "text": "After careful consideration and reviewing the current eligibility guidelines,\nI’m officially declaring myself a @WNBA prospect.\n\nIf simply declaring who you are is all that’s required, then I meet every single requirement necessary to compete in the WNBA.\n\nMy team and I have carefully examined the WNBA’s eligibility criteria and governing framework surrounding self-identification and inclusion. Based on the current guidelines, I can and am officially declaring my eligibility for the upcoming WNBA draft in April 2027.\n\nI know my presence on the court will stir up strong opinions.\nI am definitely not here to mock, make fun of, or disrespect any community or personal choices.  \nI’m simply asking that the current rules be applied equally to everyone — the rules that represent the very values many WNBA players and coaches have publicly advocated for.\nMy team and I are prepared to ensure these guidelines are applied equally, consistently, and without exception, and I look forward to the #WNBA honoring its stated principles.\n\nSee you at training camp.\n\nhttps://t.co/zlwWpVF0Ou"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+     "bookmark_count": 16287,
+     "impression_count": 49158184,
+     "like_count": 256727,
+     "quote_count": 9561,
+     "reply_count": 15770,
+     "repost_count": 27791
+    },
+    "reply_settings": "everyone",
+    "text": "After careful consideration and reviewing the current eligibility guidelines,\nI’m officially declaring myself a @WNBA prospect.\n\nIf simply declaring who you are is all that’s required, then I meet every single requirement necessary to compete in the WNBA.\n\nMy team and I have https://t.co/msncUZUT1J"
+   }
+  ],
+  "media": [],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

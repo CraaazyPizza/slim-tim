@@ -1,0 +1,117 @@
+{
+ "data": {
+  "author_id": "2048996761101078528",
+  "context_annotations": [
+   {
+    "domain": {
+     "description": "Named people in the world like Nelson Mandela",
+     "id": "10",
+     "name": "Person"
+    },
+    "entity": {
+     "description": "Joe Rogan",
+     "id": "819538160606539777",
+     "name": "Joe Rogan"
+    }
+   },
+   {
+    "domain": {
+     "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+     "id": "58",
+     "name": "Entertainment Personality"
+    },
+    "entity": {
+     "description": "Joe Rogan",
+     "id": "819538160606539777",
+     "name": "Joe Rogan"
+    }
+   },
+   {
+    "domain": {
+     "description": "A Sports Personality like 'Skip Bayless'",
+     "id": "92",
+     "name": "Sports Personality"
+    },
+    "entity": {
+     "description": "Joe Rogan",
+     "id": "819538160606539777",
+     "name": "Joe Rogan"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "description": "Joe Rogan",
+     "id": "819538160606539777",
+     "name": "Joe Rogan"
+    }
+   }
+  ],
+  "conversation_id": "2088127889787298139",
+  "created_at": "2026-08-14T04:57:39.000Z",
+  "display_text_range": [
+   0,
+   168
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-14T05:57:39.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": true
+  },
+  "edit_history_post_ids": [
+   "2088127889787298139"
+  ],
+  "id": "2088127889787298139",
+  "lang": "en",
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 1,
+   "impression_count": 369,
+   "like_count": 8,
+   "quote_count": 1,
+   "reply_count": 4,
+   "repost_count": 2
+  },
+  "reply_settings": "everyone",
+  "text": "I would very much be interested in having another online discussion with Joe Rogan.\n\nThe previous times we've spoken, the subject of alien lifeforms was not considered."
+ },
+ "includes": {
+  "posts": [],
+  "media": [],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

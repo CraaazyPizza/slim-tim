@@ -9,7 +9,7 @@ The only surviving copy is a browser screenshot a human happened to take. The
 recovered only because a stranger's Twitter API v2 lookups happened to be in the
 Wayback Machine. Neither is a method. This is.
 
-Four independent legs, so no single blocked endpoint means silent data loss:
+Independent legs, so no single blocked endpoint means silent data loss:
 
   A. COUNTER TRIPWIRE - api.fxtwitter.com/<handle>. Cheap, never blocked, and the
      counters move the instant anything happens: tweets +/-, media_count, following
@@ -19,6 +19,11 @@ Four independent legs, so no single blocked endpoint means silent data loss:
 
   B. TIMELINE ENUMERATION - nitter RSS mirrors, tried in order until one parses.
      Yields status IDs. New ID -> leg C archives it.
+
+  B2. REPLIES + EXACT API RECORD - the official X user-post timeline. Unlike RSS,
+      it includes replies by default and returns structured IDs, referenced posts,
+      edit metadata, engagement and media. The first successful call backfills the
+      current account timeline; later calls keep checking the newest five posts.
 
   C. FULL CAPTURE - for every ID ever seen: fetch the complete record from
      api.fxtwitter.com/<handle>/status/<id>, write x/raw/<id>.json, download every
@@ -44,15 +49,21 @@ Usage:  python3.12 watch/xwatch.py           # one pass
         python3.12 watch/xwatch.py --backfill-media   # sweep held records for assets
 Exit 10 = something changed.
 """
-import fcntl, json, os, re, shutil, sys, tempfile, time, urllib.request, urllib.error
+import fcntl, json, os, re, shutil, subprocess, sys, tempfile, time, urllib.request, urllib.error
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+
+import xapi_client
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 XDIR = os.path.join(ROOT, "x")
 RAW = os.path.join(XDIR, "raw")
+API_RAW = os.path.join(XDIR, "api_raw")
 MEDIA = os.path.join(XDIR, "media")
+REVISIONS = os.path.join(XDIR, "revisions")
+METRICS = os.path.join(XDIR, "metrics")
 STATE = os.path.join(XDIR, "state.json")
+HEALTH = os.path.join(XDIR, "health.json")
 CHANGELOG = os.path.join(XDIR, "CHANGELOG.md")
 CHECKLOG = os.path.join(XDIR, "check.log")
 LOCK = os.path.join(XDIR, ".xwatch.lock")
@@ -94,6 +105,119 @@ def write_state_atomic(state):
     finally:
         if os.path.exists(tmp):
             os.unlink(tmp)
+
+
+def write_json_atomic(path, value):
+    """Atomically write any JSON evidence/health file."""
+    directory = os.path.dirname(path)
+    os.makedirs(directory, exist_ok=True)
+    fd, tmp = tempfile.mkstemp(prefix=".json.", suffix=".tmp", dir=directory)
+    try:
+        with os.fdopen(fd, "w") as stream:
+            json.dump(value, stream, indent=1, ensure_ascii=False)
+            stream.write("\n")
+            stream.flush()
+            os.fsync(stream.fileno())
+        os.replace(tmp, path)
+    finally:
+        if os.path.exists(tmp):
+            os.unlink(tmp)
+
+
+def load_health():
+    """Load durable per-leg health without ever confusing damage with health."""
+    try:
+        value = json.load(open(HEALTH))
+        if isinstance(value, dict) and isinstance(value.get("legs"), dict):
+            return value
+    except (FileNotFoundError, json.JSONDecodeError, OSError):
+        pass
+    return {"schema": 1, "legs": {}}
+
+
+def set_leg_health(health, name, status, now, detail, **extra):
+    """Update a leg while retaining the last time it actually succeeded."""
+    previous = health.setdefault("legs", {}).get(name) or {}
+    item = {
+        "status": status,
+        "last_attempt": now.isoformat(),
+        "last_success": now.isoformat() if status == "ok" else previous.get("last_success"),
+        "detail": detail,
+        "last_error": (detail if status in ("error", "unconfigured")
+                       else previous.get("last_error")),
+        "last_error_at": (now.isoformat() if status in ("error", "unconfigured")
+                          else previous.get("last_error_at")),
+    }
+    item.update(extra)
+    health["legs"][name] = item
+    return item
+
+
+VOLATILE_RECORD_KEYS = {
+    "bookmarks", "bookmark_count", "captured_at", "followers", "following",
+    "impression_count", "like_count", "likes", "media_count", "non_public_metrics",
+    "organic_metrics", "promoted_metrics", "public_metrics", "quote_count", "quotes",
+    "replies", "reply_count", "repost_count", "retweet_count", "retweets", "views",
+}
+
+
+def semantic_record(value):
+    """Strip engagement/capture-time drift, retaining content and attribution."""
+    if isinstance(value, dict):
+        return {key: semantic_record(item) for key, item in value.items()
+                if key not in VOLATILE_RECORD_KEYS}
+    if isinstance(value, list):
+        return [semantic_record(item) for item in value]
+    return value
+
+
+def write_revisioned(path, value, sid, now, source):
+    """Update the current record only after preserving every semantic revision."""
+    try:
+        with open(path) as stream:
+            old = json.load(stream)
+    except (FileNotFoundError, json.JSONDecodeError, OSError):
+        write_json_atomic(path, value)
+        return True, False
+    if semantic_record(old) == semantic_record(value):
+        return False, False
+    directory = os.path.join(REVISIONS, sid)
+    os.makedirs(directory, exist_ok=True)
+    initial = os.path.join(directory, f"initial-{source}.json")
+    if not os.path.exists(initial):
+        write_json_atomic(initial, old)
+    stamp = now.strftime("%Y%m%dT%H%M%S.%fZ")
+    write_json_atomic(os.path.join(directory, f"{stamp}-{source}.json"), value)
+    write_json_atomic(path, value)
+    return False, True
+
+
+def record_metrics(sid, now, source, values, minimum_interval=1800):
+    """Keep useful engagement history without committing two-minute heartbeat noise."""
+    values = {key: value for key, value in values.items() if value is not None}
+    if not values:
+        return False
+    path = os.path.join(METRICS, f"{sid}.json")
+    try:
+        with open(path) as stream:
+            history = json.load(stream)
+        if not isinstance(history, list):
+            history = []
+    except (FileNotFoundError, json.JSONDecodeError, OSError):
+        history = []
+    prior = next((item for item in reversed(history) if item.get("source") == source), None)
+    if prior and prior.get("values") == values:
+        return False
+    if prior and minimum_interval:
+        try:
+            then = datetime.fromisoformat(prior["at"].replace("Z", "+00:00"))
+            if (now - then).total_seconds() < minimum_interval:
+                return False
+        except (KeyError, TypeError, ValueError):
+            pass
+    history.append({"at": now.isoformat(), "source": source, "values": values})
+    write_json_atomic(path, history)
+    return True
 
 
 def load_state():
@@ -157,7 +281,99 @@ def leg_b(handle):
     return [], "ALL MIRRORS FAILED -- " + "; ".join(tried)
 
 
-def leg_b2(handle):
+def official_media_record(record):
+    """Limit media download to this post, or the original item it reposts.
+
+    Official reply expansions can include the parent's media. We preserve that
+    context in api_raw but do not mislabel/download it as the reply's attachment.
+    """
+    data = record.get("data") or {}
+    includes = record.get("includes") or {}
+    target = data
+    refs = xapi_client.referenced_items(data)
+    repost = next((ref for ref in refs if ref.get("type") in ("retweeted", "reposted")), None)
+    if repost:
+        target = next((tweet for tweet in xapi_client.included_posts(includes)
+                       if str(tweet.get("id")) == str(repost.get("id"))), data)
+    keys = set((target.get("attachments") or {}).get("media_keys") or [])
+    media = [item for item in includes.get("media") or [] if item.get("media_key") in keys]
+    return {"data": target, "includes": {"media": media}}
+
+
+def archive_official_records(records, now, log):
+    """Persist exact API v2 records before any secondary mirror is consulted."""
+    fresh_ids = []
+    for sid, record in sorted(records.items()):
+        path = os.path.join(API_RAW, f"{sid}.json")
+        fresh, revised = write_revisioned(path, record, sid, now, "official-x")
+        saved = save_media(official_media_record(record), sid, log)
+        tweet = record.get("data") or {}
+        record_metrics(sid, now, "official-x", tweet.get("public_metrics") or {})
+        if fresh:
+            refs = xapi_client.referenced_items(tweet)
+            kind = "reply" if any(ref.get("type") in ("replied_to", "replied") for ref in refs) else \
+                   "repost" if any(ref.get("type") in ("retweeted", "reposted") for ref in refs) else "post"
+            text = (tweet.get("text") or "").replace("\n", " / ")[:220]
+            log.append(f"★★★ @qtecqot: OFFICIAL API CAPTURED {sid} {kind} "
+                       f"({tweet.get('created_at')}) — {text!r}" +
+                       (f" [media: {', '.join(saved)}]" if saved else ""))
+            fresh_ids.append(sid)
+        elif revised:
+            text = (tweet.get("text") or "").replace("\n", " / ")[:220]
+            log.append(f"★★★ @qtecqot: OFFICIAL API CONTENT UPDATED {sid} — {text!r} "
+                       f"[prior and new versions archived]")
+    return fresh_ids
+
+
+def leg_official_x(handle_state, now, log):
+    """Fetch the official user timeline, including replies, and archive it."""
+    token = xapi_client.bearer_token()
+    if not token:
+        return [], None, "not configured: X_BEARER_TOKEN is absent"
+    user_id = str((handle_state.get("profile") or {}).get("id") or "2048996761101078528")
+    source_state = handle_state.setdefault("official_x", {})
+    full_backfill = not source_state.get("backfill_complete", False)
+    try:
+        if full_backfill:
+            results = [xapi_client.get_user_posts(
+                user_id, token, now.isoformat(), full_backfill=True, max_results=100)]
+            mode = "full backfill"
+        else:
+            newest = source_state.get("newest_id")
+            results = [xapi_client.get_user_posts(
+                user_id, token, now.isoformat(), full_backfill=False, max_results=100,
+                since_id=newest)]
+            mode = "new-since-last poll"
+            # since_id deliberately does not return older items that were edited.
+            # Re-read five recent items every ten minutes to preserve semantic edits.
+            if (now.minute % 10) < 2:
+                results.append(xapi_client.get_user_posts(
+                    user_id, token, now.isoformat(), full_backfill=False, max_results=5))
+                mode += " + edit probe"
+    except xapi_client.XApiError as exc:
+        return [], None, str(exc)
+    records = {}
+    for result in results:
+        records.update(result.records)
+    archive_official_records(records, now, log)
+    if full_backfill and results[0].complete:
+        source_state["backfill_complete"] = True
+        source_state["backfilled_at"] = now.isoformat()
+    newest_ids = [result.newest_id for result in results if result.newest_id]
+    oldest_ids = [result.oldest_id for result in results if result.oldest_id]
+    if newest_ids:
+        source_state["newest_id"] = max(newest_ids, key=int)
+    if oldest_ids:
+        oldest = min(oldest_ids, key=int)
+        previous_oldest = source_state.get("oldest_id")
+        source_state["oldest_id"] = min([oldest, previous_oldest], key=int) \
+            if previous_oldest else oldest
+    note = (f"ok ({len(records)} unique posts, {sum(item.pages for item in results)} page(s), "
+            f"{mode})")
+    return sorted(records), note, None
+
+
+def leg_xai_fallback(handle):
     """Status IDs including REPLIES, via xAI x_search. Returns (ids, note).
 
     Leg B is blind to replies. Nitter's profile RSS carries only standalone posts;
@@ -235,10 +451,10 @@ def media_urls(obj):
         if isinstance(o, dict):
             for k, v in o.items():
                 if isinstance(v, str) and any(d in v for d in CDN) and v.startswith("http"):
-                    # news_img/* is the link-preview thumbnail for an article he linked
-                    # to, not media he attached. Tracking it as a loss is a false alarm.
+                    # news_img/* and card_img/* are link-preview thumbnails, not media
+                    # he attached. Tracking either as a lost attachment is a false alarm.
                     if k in ("url", "media_url", "media_url_https", "preview_image_url") \
-                            and "/news_img/" not in v:
+                            and "/news_img/" not in v and "/card_img/" not in v:
                         found.add(v)
                 walk(v)
         elif isinstance(o, list):
@@ -278,7 +494,19 @@ def save_media(rec, sid, log=None):
             body = get(fetch, timeout=90, raw=True)
             if not body:
                 raise ValueError("empty body")
-            open(path, "wb").write(body)
+            # A killed process used to leave a non-empty partial file which every
+            # later pass then treated as complete. Publish only a fully received,
+            # fsynced response.
+            fd, tmp = tempfile.mkstemp(prefix=f".{sid}_{i}.", suffix=".tmp", dir=MEDIA)
+            try:
+                with os.fdopen(fd, "wb") as stream:
+                    stream.write(body)
+                    stream.flush()
+                    os.fsync(stream.fileno())
+                os.replace(tmp, path)
+            finally:
+                if os.path.exists(tmp):
+                    os.unlink(tmp)
             out.append(os.path.basename(path))
         except Exception as e:
             # A 404 here is itself a finding: X purges assets on delete, but not
@@ -328,14 +556,14 @@ def backfill_media(extra_dirs, log):
                 else:
                     n_ok += 1
     try:
-        json.dump(sorted(known_gone), open(gone_path, "w"), indent=1)
+        write_json_atomic(gone_path, sorted(known_gone))
     except Exception:
         pass
     for name in fresh_gone:
         log.append(f"    media NEWLY {name}")
     log.append(f"    backfill media: {n_ok} held, {n_gone} purged "
                f"({len(fresh_gone)} newly)")
-    return n_ok, len(fresh_gone)
+    return n_ok, n_gone, len(fresh_gone)
 
 
 # ---------------------------------------------------------------- leg D
@@ -375,7 +603,7 @@ def git_commit(msg):
 # ---------------------------------------------------------------- main
 def main():
     quiet = "--quiet" in sys.argv
-    for d in (XDIR, RAW, MEDIA):
+    for d in (XDIR, RAW, API_RAW, MEDIA, REVISIONS, METRICS):
         os.makedirs(d, exist_ok=True)
     lock_file = open(LOCK, "w")
     try:
@@ -393,15 +621,25 @@ def main():
 
     now = datetime.now(timezone.utc)
     lines, errors = [], []
+    health = load_health()
+    health.update({"schema": 1, "generated_at": now.isoformat(), "pid": os.getpid()})
 
     # Sweep every record we hold for assets we never downloaded. Cheap after the
     # first pass (existing files are skipped), and it runs before the legs so a
     # newly recovered record gets its media on the very next tick.
     if "--backfill-media" in sys.argv or "--full" in sys.argv:
-        ok, gone = backfill_media(
-            [RAW, os.path.join(os.path.dirname(ROOT), "qtecqot-x-recovered", "raw")], lines)
+        ok, standing_gone, gone = backfill_media(
+            [RAW, API_RAW, os.path.join(os.path.dirname(ROOT), "qtecqot-x-recovered", "raw")], lines)
+        set_leg_health(health, "media_archive", "error" if gone else "ok", now,
+                       f"{ok} asset references resolved locally; {standing_gone} historical "
+                       f"attached URLs unavailable; {gone} newly unavailable",
+                       held_references=ok, unavailable_references=standing_gone,
+                       newly_unavailable=gone)
         if gone:
             errors.append(f"{gone} asset(s) purged from the twimg CDN since the last sweep")
+    else:
+        set_leg_health(health, "media_archive", "standby", now,
+                       "Full local/remote media sweep runs hourly; immediate downloads still run per capture")
 
     for handle in HANDLES:
         hs = state["handles"].setdefault(handle, {"profile": None, "statuses": {}})
@@ -409,13 +647,18 @@ def main():
         # --- leg A
         prof, err = leg_a(handle)
         if err:
+            set_leg_health(health, "profile_counters", "error", now, err)
             errors.append(f"@{handle} leg A (counters): {err}")
         elif hs["profile"] is None:
+            set_leg_health(health, "profile_counters", "ok", now,
+                           f"profile and counters fetched for @{handle}")
             lines.append(f"BASELINE @{handle}: {prof['tweets']} posts, "
                          f"{prof['followers']} followers, {prof['following']} following, "
                          f"{prof['likes']} likes, {prof['media_count']} media")
             hs["profile"] = prof
         else:
+            set_leg_health(health, "profile_counters", "ok", now,
+                           f"profile and counters fetched for @{handle}")
             old = hs["profile"]
             for k, v in prof.items():
                 if old.get(k) != v and k in LOUD:
@@ -427,27 +670,45 @@ def main():
         # --- leg B
         ids, note = leg_b(handle)
         if not ids:
+            set_leg_health(health, "timeline_rss", "error", now, note)
             errors.append(f"@{handle} leg B (timeline): {note}")
+        else:
+            set_leg_health(health, "timeline_rss", "ok", now, note, ids=len(ids))
 
-        # --- leg B2: replies, which leg B structurally cannot see.
-        #
-        # Cadence, not every tick: x_search is metered. The obvious trigger -- leg A's
-        # tweets counter running ahead of the IDs we hold -- DOES NOT WORK, and the
-        # measurement is worth recording: after capturing his two 2026-08-02 replies we
-        # held 11 live statuses while the profile counter read 10. Replies do not
-        # increment it. So the counter can never signal a new reply, and a fixed cadence
-        # is the only honest option. Ten minutes bounds reply latency to ten minutes,
-        # costs 144 calls/day, and is inside the ~1 h window in which he deletes.
-        live_n = sum(1 for v in hs["statuses"].values() if v.get("state") == "live")
-        counter_ahead = bool(prof) and prof.get("tweets", 0) > max(live_n, len(ids))
-        if "--full" in sys.argv or counter_ahead or (now.minute % 10) < 2:
-            ids2, note2 = leg_b2(handle)
-            if not ids2:
-                errors.append(f"@{handle} leg B2 (replies): {note2}")
-            elif counter_ahead:
-                lines.append(f"    leg B2 fired: counter {prof.get('tweets')} > "
-                             f"{max(live_n, len(ids))} known -- {note2}")
-            ids = sorted(set(ids) | set(ids2))
+        # --- leg B2: exact structured user timeline, including replies.
+        official_ids, official_note, official_error = leg_official_x(hs, now, lines)
+        if official_error:
+            official_status = "unconfigured" if official_error.startswith("not configured:") else "error"
+            set_leg_health(health, "official_x_api", official_status, now, official_error,
+                           configured=official_status != "unconfigured")
+            errors.append(f"@{handle} leg B2 (official replies): {official_error}")
+        else:
+            set_leg_health(health, "official_x_api", "ok", now, official_note,
+                           configured=True, ids=len(official_ids), replies_included=True)
+            lines.append(f"    official X API: {official_note}")
+            ids = sorted(set(ids) | set(official_ids))
+
+        # xAI is only an emergency fallback. It is non-deterministic and previously
+        # returned the account's user id as though it were a status. Never invoke it
+        # every two minutes, and never prefer it over the official timeline.
+        if official_error and ("--full" in sys.argv or (now.minute % 10) < 2):
+            fallback_ids, fallback_note = leg_xai_fallback(handle)
+            if not fallback_ids:
+                set_leg_health(health, "xai_reply_fallback", "error", now, fallback_note)
+                errors.append(f"@{handle} leg B3 (xAI reply fallback): {fallback_note}")
+            else:
+                set_leg_health(health, "xai_reply_fallback", "ok", now, fallback_note,
+                               ids=len(fallback_ids))
+                lines.append(f"    xAI reply fallback: {fallback_note}")
+                ids = sorted(set(ids) | set(fallback_ids))
+        elif not official_error:
+            set_leg_health(health, "xai_reply_fallback", "standby", now,
+                           "Not needed because the official X API succeeded")
+        else:
+            previous_xai = health.get("legs", {}).get("xai_reply_fallback") or {}
+            set_leg_health(health, "xai_reply_fallback", "standby", now,
+                           "Fallback is attempted every 10 minutes while official X is unavailable",
+                           last_success=previous_xai.get("last_success"))
 
         # Numbers already proven not to be statuses. Without this the same bogus id is
         # re-harvested by leg B2, re-fetched, re-dropped and re-logged every ten minutes.
@@ -473,6 +734,8 @@ def main():
         counters_moved = any(l.startswith(("★", "BASELINE")) for l in lines)
         periodic = (now.minute % 30) < 2
         sweep = full or counters_moved or periodic
+        capture_errors_before = len(errors)
+        checked = 0
         for sid, meta in sorted(hs["statuses"].items()):
             if sid not in new_ids:
                 if not sweep:
@@ -480,18 +743,28 @@ def main():
                 if meta.get("state") == "deleted" and not full:
                     continue  # deletions do not reverse; --full re-checks anyway
             rec, code = fetch_status(handle, sid)
+            checked += 1
             prev = meta.get("state")
             if code == 200 and rec:
                 path = os.path.join(RAW, f"{sid}.json")
-                fresh = not os.path.exists(path)
+                fresh, revised = write_revisioned(path, rec, sid, now, "fxtwitter")
+                tw = rec.get("tweet") or {}
+                record_metrics(sid, now, "fxtwitter", {
+                    key: tw.get(key) for key in
+                    ("replies", "retweets", "likes", "bookmarks", "quotes", "views")
+                })
                 if fresh:
-                    json.dump(rec, open(path, "w"), indent=1, ensure_ascii=False)
-                    tw = rec.get("tweet") or {}
                     txt = (tw.get("text") or "").replace("\n", " / ")[:220]
                     saved = save_media(rec, sid, lines)
                     lines.append(f"★★★ @{handle}: CAPTURED {sid} ({tw.get('created_at')}) "
                                  f"— {txt!r}" + (f" [media: {', '.join(saved)}]" if saved else ""))
                     lines.append(f"    {wayback_save(sid)} for {sid}")
+                elif revised:
+                    txt = (tw.get("text") or "").replace("\n", " / ")[:220]
+                    saved = save_media(rec, sid, lines)
+                    lines.append(f"★★★ @{handle}: CONTENT UPDATED {sid} — {txt!r} "
+                                 f"[prior and new versions archived]" +
+                                 (f" [media: {', '.join(saved)}]" if saved else ""))
                 meta["state"] = "live"
                 meta["last_live"] = now.isoformat()
             elif code == 404:
@@ -502,16 +775,21 @@ def main():
                 # a status and fired "★★★ DELETED — !! NO LOCAL BODY, this one got
                 # away". A false alarm at the loudest level is worse than no alarm: it
                 # is the one line in this log that is supposed to mean drop everything.
-                if prev == "new" and not os.path.exists(os.path.join(RAW, f"{sid}.json")):
+                held_body = (os.path.exists(os.path.join(RAW, f"{sid}.json")) or
+                             os.path.exists(os.path.join(API_RAW, f"{sid}.json")))
+                if prev == "new" and not held_body:
                     lines.append(f"    not a status, dropping {sid} "
                                  f"(404 on first fetch, no body ever held)")
                     hs["statuses"].pop(sid, None)
                     hs.setdefault("not_statuses", {})[sid] = now.isoformat()
                     continue
                 if prev in ("live", "new"):
-                    have = "body archived at x/raw/%s.json" % sid if \
-                        os.path.exists(os.path.join(RAW, f"{sid}.json")) else \
-                        "!! NO LOCAL BODY -- this one got away"
+                    if os.path.exists(os.path.join(RAW, f"{sid}.json")):
+                        have = f"body archived at x/raw/{sid}.json"
+                    elif os.path.exists(os.path.join(API_RAW, f"{sid}.json")):
+                        have = f"official body archived at x/api_raw/{sid}.json"
+                    else:
+                        have = "!! NO LOCAL BODY -- this one got away"
                     lines.append(f"★★★ @{handle}: DELETED {sid} "
                                  f"(last seen live {meta.get('last_live','?')}) — {have}")
                 meta["state"] = "deleted"
@@ -519,26 +797,100 @@ def main():
             else:
                 errors.append(f"@{handle} leg C: status {sid} returned {code}")
 
+        capture_failed = len(errors) > capture_errors_before
+        set_leg_health(
+            health, "status_capture", "error" if capture_failed else "ok", now,
+            (f"checked {checked} status(es); full liveness sweep={'yes' if sweep else 'no'}; "
+             f"{len(new_ids)} newly enumerated"), checked=checked, full_sweep=sweep,
+            known_statuses=len(hs["statuses"]), newly_enumerated=len(new_ids))
+
     real = [l for l in lines if not l.startswith("    ")]
     os.makedirs(XDIR, exist_ok=True)
     write_state_atomic(state)
+    degraded = [name for name, item in health.get("legs", {}).items()
+                if item.get("status") in ("error", "unconfigured")]
+    health["overall"] = "degraded" if degraded else "healthy"
+    health["degraded_legs"] = degraded
+    health["counts"] = {
+        "errors_this_pass": len(errors),
+        "changes_this_pass": len(real),
+        "known_statuses": sum(len(h.get("statuses") or {})
+                              for h in state.get("handles", {}).values()),
+        "local_raw_records": len([name for name in os.listdir(RAW) if name.endswith(".json")]),
+        "official_raw_records": len([name for name in os.listdir(API_RAW) if name.endswith(".json")]),
+        "media_files": len([name for name in os.listdir(MEDIA) if os.path.isfile(os.path.join(MEDIA, name))]),
+        "revision_sets": len([name for name in os.listdir(REVISIONS)
+                              if os.path.isdir(os.path.join(REVISIONS, name))]),
+        "metric_histories": len([name for name in os.listdir(METRICS) if name.endswith(".json")]),
+    }
+    # Keep persistent degradation visible in health/check.log without appending the
+    # same paragraph to CHANGELOG and cron.log every two minutes. Re-announce a
+    # standing error daily so it never disappears indefinitely.
+    reported = health.setdefault("reported_errors", {})
+    reportable_errors = []
+    for message in errors:
+        item = reported.get(message) or {}
+        should_report = not item.get("last_reported")
+        if not should_report:
+            try:
+                last = datetime.fromisoformat(item["last_reported"].replace("Z", "+00:00"))
+                should_report = (now - last).total_seconds() >= 86400
+            except (TypeError, ValueError):
+                should_report = True
+        item["last_seen"] = now.isoformat()
+        if should_report:
+            item["last_reported"] = now.isoformat()
+            reportable_errors.append(message)
+        reported[message] = item
+    write_json_atomic(HEALTH, health)
     with open(CHECKLOG, "a") as w:
         w.write(f"{now.isoformat()} changes={len(real)} notes={len(lines)-len(real)} "
                 f"errors={len(errors)}\n")
-    if lines or errors:
+    # Indented lines are operational notes attached to a real archive event.  A
+    # healthy no-op poll contains only those notes, so do not dirty the durable
+    # changelog every two minutes just to say that the API returned zero posts.
+    if real or reportable_errors:
         with open(CHANGELOG, "a") as w:
             w.write(f"\n## {now.isoformat()}\n\n")
             for l in lines:
                 w.write(f"- {l}\n")
-            for e in errors:
+            for e in reportable_errors:
                 w.write(f"- ! ERROR (instrument failure, NOT an absence of change): {e}\n")
-    if real and "--commit" in sys.argv:
-        print("  git: " + git_commit(f"xwatch: {len(real)} change(s) at {now.isoformat()}"))
-    if not quiet or real or errors:
+
+    # Keep the offline viewer synchronized with the evidence and health state. A
+    # failure is visible in health.json and the next successful cron pass retries.
+    try:
+        built = subprocess.run([sys.executable, os.path.join(ROOT, "build_timeline.py")],
+                               cwd=ROOT, capture_output=True, text=True, timeout=60)
+        if built.returncode:
+            set_leg_health(health, "offline_viewer", "error", now,
+                           (built.stderr or built.stdout).strip()[:500])
+        else:
+            set_leg_health(health, "offline_viewer", "ok", now,
+                           (built.stdout.strip().splitlines()[-1] if built.stdout.strip()
+                            else "viewer rebuilt"))
+    except Exception as exc:
+        set_leg_health(health, "offline_viewer", "error", now,
+                       f"{type(exc).__name__}: {exc}")
+    degraded = [name for name, item in health.get("legs", {}).items()
+                if item.get("status") in ("error", "unconfigured")]
+    health["overall"] = "degraded" if degraded else "healthy"
+    health["degraded_legs"] = degraded
+    write_json_atomic(HEALTH, health)
+    # Metrics, last-live timestamps, revisions, and recovered media are durable
+    # evidence even when no loud timeline event was emitted.  Let git determine
+    # whether this pass actually changed watch/x and commit every such refresh.
+    commit_result = None
+    if "--commit" in sys.argv:
+        commit_result = git_commit(
+            f"xwatch: archive refresh ({len(real)} event change(s)) at {now.isoformat()}")
+        if real or commit_result == "committed":
+            print("  git: " + commit_result)
+    if not quiet or real or reportable_errors:
         print(f"[{now.isoformat()}] {len(real)} change(s), {len(errors)} error(s)")
         for l in lines:
             print("  " + l)
-        for e in errors:
+        for e in (errors if not quiet else reportable_errors):
             print("  ! " + e)
     return 10 if real else 0
 

@@ -1,0 +1,62 @@
+[
+ {
+  "at": "2026-08-15T15:02:53.472793+00:00",
+  "source": "fxtwitter",
+  "values": {
+   "replies": 1,
+   "retweets": 1,
+   "likes": 7,
+   "bookmarks": 2,
+   "quotes": 0,
+   "views": 396
+  }
+ },
+ {
+  "at": "2026-08-15T16:00:02.038169+00:00",
+  "source": "fxtwitter",
+  "values": {
+   "replies": 1,
+   "retweets": 1,
+   "likes": 8,
+   "bookmarks": 2,
+   "quotes": 0,
+   "views": 406
+  }
+ },
+ {
+  "at": "2026-08-15T16:47:51.426215+00:00",
+  "source": "official-x",
+  "values": {
+   "bookmark_count": 2,
+   "impression_count": 408,
+   "like_count": 8,
+   "quote_count": 0,
+   "reply_count": 1,
+   "repost_count": 1
+  }
+ },
+ {
+  "at": "2026-08-15T16:47:51.426215+00:00",
+  "source": "fxtwitter",
+  "values": {
+   "replies": 1,
+   "retweets": 1,
+   "likes": 8,
+   "bookmarks": 2,
+   "quotes": 0,
+   "views": 408
+  }
+ },
+ {
+  "at": "2026-08-15T17:20:01.792223+00:00",
+  "source": "official-x",
+  "values": {
+   "bookmark_count": 2,
+   "impression_count": 410,
+   "like_count": 8,
+   "quote_count": 0,
+   "reply_count": 1,
+   "repost_count": 1
+  }
+ }
+]

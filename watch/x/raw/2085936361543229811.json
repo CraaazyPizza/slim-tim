@@ -1,0 +1,72 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/qtecqot/status/2085936361543229811",
+  "id": "2085936361543229811",
+  "text": "@internetabyss I don't see why not. I'm pretty sure Bob does not identify as male or female.  \n\nThe only question would be whether the league allows offworld species to join.",
+  "raw_text": {
+   "text": "@internetabyss I don't see why not. I'm pretty sure Bob does not identify as male or female.  \n\nThe only question would be whether the league allows offworld species to join.",
+   "display_text_range": [
+    15,
+    174
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      14
+     ],
+     "original": "internetabyss",
+     "id": "52851640"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "qtecqot",
+   "url": "https://x.com/qtecqot",
+   "id": "2048996761101078528",
+   "followers": 343,
+   "following": 4,
+   "likes": 32,
+   "media_count": 4,
+   "name": "qtecqot",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Tue Apr 28 05:24:54 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sat Aug 08 03:49:18 +0000 2026",
+  "created_timestamp": 1786160958,
+  "views": 281,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "internetabyss",
+  "replying_to_status": "2085933352465403928",
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "data": {
+  "author_id": "2048996761101078528",
+  "context_annotations": [
+   {
+    "domain": {
+     "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+     "id": "30",
+     "name": "Entities [Entity Service]"
+    },
+    "entity": {
+     "id": "781974596752842752",
+     "name": "Services"
+    }
+   },
+   {
+    "domain": {
+     "description": "Brands and Companies",
+     "id": "47",
+     "name": "Brand"
+    },
+    "entity": {
+     "id": "10026378521",
+     "name": "Google "
+    }
+   },
+   {
+    "domain": {
+     "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+     "id": "48",
+     "name": "Product"
+    },
+    "entity": {
+     "description": "Google - AI",
+     "id": "10050907858",
+     "name": "Google - AI"
+    }
+   },
+   {
+    "domain": {
+     "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+     "id": "48",
+     "name": "Product"
+    },
+    "entity": {
+     "id": "1395474411180892160",
+     "name": "Google brand conversation"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "10026378521",
+     "name": "Google "
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "1196446161223028736",
+     "name": "Social media"
+    }
+   },
+   {
+    "domain": {
+     "description": "for individual and types of technology, e.g., food technology, 3D printing",
+     "id": "165",
+     "name": "Technology"
+    },
+    "entity": {
+     "id": "1196446161223028736",
+     "name": "Social media"
+    }
+   },
+   {
+    "domain": {
+     "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+     "id": "30",
+     "name": "Entities [Entity Service]"
+    },
+    "entity": {
+     "id": "781974596752842752",
+     "name": "Services"
+    }
+   },
+   {
+    "domain": {
+     "description": "Brands and Companies",
+     "id": "47",
+     "name": "Brand"
+    },
+    "entity": {
+     "id": "10029382357",
+     "name": "YouTube"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "10029382357",
+     "name": "YouTube"
+    }
+   }
+  ],
+  "conversation_id": "2084832703879446703",
+  "created_at": "2026-08-05T02:43:45.000Z",
+  "display_text_range": [
+   0,
+   272
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-05T03:43:45.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": true
+  },
+  "edit_history_post_ids": [
+   "2084832703879446703"
+  ],
+  "id": "2084832703879446703",
+  "lang": "en",
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 3,
+   "impression_count": 1794,
+   "like_count": 22,
+   "quote_count": 0,
+   "reply_count": 16,
+   "repost_count": 2
+  },
+  "reply_settings": "everyone",
+  "text": "🔹Regarding the next release, 8/8 was intended for this month (August 2026). With the proliferation of copycat channels however, and the apparent unwillingness of Google/YouTube to police them, the network is of the belief that future footage drops are likely unproductive."
+ },
+ "includes": {
+  "posts": [],
+  "media": [],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

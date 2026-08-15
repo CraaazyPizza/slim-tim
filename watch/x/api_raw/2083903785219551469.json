@@ -1,0 +1,133 @@
+{
+ "data": {
+  "author_id": "2048996761101078528",
+  "conversation_id": "2083398773242573299",
+  "created_at": "2026-08-02T13:12:34.000Z",
+  "display_text_range": [
+   10,
+   168
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-02T14:12:34.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": false
+  },
+  "edit_history_post_ids": [
+   "2083903785219551469"
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1396803592166707202",
+     "start": 0,
+     "username": "CytHyper"
+    }
+   ]
+  },
+  "id": "2083903785219551469",
+  "in_reply_to_user_id": "2048996761101078528",
+  "lang": "en",
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 1,
+   "impression_count": 570,
+   "like_count": 10,
+   "quote_count": 0,
+   "reply_count": 6,
+   "repost_count": 1
+  },
+  "referenced_posts": [
+   {
+    "id": "2083902015831511168",
+    "type": "replied_to"
+   }
+  ],
+  "reply_settings": "everyone",
+  "text": "@CytHyper I can confirm that the next release will contain content from Tape 7 and will be in color.  \n\nSome may find it slightly more disturbing than previous footage."
+ },
+ "includes": {
+  "posts": [
+   {
+    "author_id": "2048996761101078528",
+    "conversation_id": "2083398773242573299",
+    "created_at": "2026-08-02T13:05:32.000Z",
+    "display_text_range": [
+     10,
+     289
+    ],
+    "edit_controls": {
+     "editable_until": "2026-08-02T14:05:32.000Z",
+     "edits_remaining": 5,
+     "is_edit_eligible": false
+    },
+    "edit_history_post_ids": [
+     "2083902015831511168"
+    ],
+    "entities": {
+     "mentions": [
+      {
+       "end": 9,
+       "id": "1396803592166707202",
+       "start": 0,
+       "username": "CytHyper"
+      }
+     ]
+    },
+    "id": "2083902015831511168",
+    "in_reply_to_user_id": "1396803592166707202",
+    "lang": "en",
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 493,
+     "like_count": 1,
+     "quote_count": 0,
+     "reply_count": 2,
+     "repost_count": 1
+    },
+    "referenced_posts": [
+     {
+      "id": "2083884868514058699",
+      "type": "replied_to"
+     }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CytHyper Your efforts are commendable and appreciated. The cases however are not limited to a specific run duration. They advance sequentially across 7 tapes, beginning at tape 01, case 01 and ending  at tape 07, case 40.\n\nOf note is a minor indexing error in 2011.\n\nTy for your interest."
+   }
+  ],
+  "media": [],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

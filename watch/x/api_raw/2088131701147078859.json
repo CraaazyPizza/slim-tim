@@ -1,0 +1,231 @@
+{
+ "data": {
+  "attachments": {
+   "media_keys": [
+    "3_2088131641013383168"
+   ]
+  },
+  "author_id": "2048996761101078528",
+  "conversation_id": "2087974092427190500",
+  "created_at": "2026-08-14T05:12:47.000Z",
+  "display_text_range": [
+   16,
+   16
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-14T06:12:47.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": false
+  },
+  "edit_history_post_ids": [
+   "2088131701147078859"
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "1826353111394304000",
+     "start": 0,
+     "username": "InterstellarUAP"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/ctjmu9yXxR",
+     "end": 40,
+     "expanded_url": "https://x.com/qtecqot/status/2088131701147078859/photo/1",
+     "media_key": "3_2088131641013383168",
+     "start": 17,
+     "url": "https://t.co/ctjmu9yXxR"
+    }
+   ]
+  },
+  "id": "2088131701147078859",
+  "in_reply_to_user_id": "1826353111394304000",
+  "lang": "qme",
+  "media_metadata": [
+   {
+    "media_key": "3_2088131641013383168"
+   }
+  ],
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 1,
+   "impression_count": 93,
+   "like_count": 0,
+   "quote_count": 0,
+   "reply_count": 1,
+   "repost_count": 0
+  },
+  "referenced_posts": [
+   {
+    "id": "2087974092427190500",
+    "type": "replied_to"
+   }
+  ],
+  "reply_settings": "everyone",
+  "text": "@InterstellarUAP https://t.co/ctjmu9yXxR"
+ },
+ "includes": {
+  "posts": [
+   {
+    "attachments": {
+     "media_keys": [
+      "13_2087974024294883328"
+     ]
+    },
+    "author_id": "1826353111394304000",
+    "context_annotations": [
+     {
+      "domain": {
+       "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+       "id": "66",
+       "name": "Interests and Hobbies Category"
+      },
+      "entity": {
+       "description": "Supernatural",
+       "id": "1046578491712389125",
+       "name": "Supernatural"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "Supernatural",
+       "id": "1046578491712389125",
+       "name": "Supernatural"
+      }
+     }
+    ],
+    "conversation_id": "2087974092427190500",
+    "created_at": "2026-08-13T18:46:30.000Z",
+    "display_text_range": [
+     0,
+     286
+    ],
+    "edit_controls": {
+     "editable_until": "2026-08-13T19:46:30.000Z",
+     "edits_remaining": 5,
+     "is_edit_eligible": true
+    },
+    "edit_history_post_ids": [
+     "2087974092427190500"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "pic.x.com/WpmHUrH808",
+       "end": 310,
+       "expanded_url": "https://x.com/InterstellarUAP/status/2087974092427190500/video/1",
+       "media_key": "13_2087974024294883328",
+       "start": 287,
+       "url": "https://t.co/WpmHUrH808"
+      }
+     ]
+    },
+    "id": "2087974092427190500",
+    "lang": "en",
+    "media_metadata": [
+     {
+      "media_key": "13_2087974024294883328"
+     }
+    ],
+    "note_post": {
+     "text": "David Grusch BOMBSHELL on Dr Phil: \"I have seen 'Video's & Photos' of recovered UFO craft with the Pilots.  Both Audio & Visual\" 🛸👽\n\n“I had folks from the retrieval program exfiltrate audiovisual evidence for me to see. Both video and photos. Of the retrieved craft. And some of the dead cadavers that were recovered. Call it the pilots.”\n\nHe confirmed under questioning that he has seen the cadavers. He interviewed people with direct involvement all the way up to cabinet and White House level. Those individuals had close personal participation in the retrieval programs.\n\nGrusch brought many of those witnesses to the Intelligence Community Inspector General. The complaint was deemed credible and urgent. He later gave 11 and a half hours of classified testimony to the Senate and House Intelligence Committees.\n\nThis is the hard evidence claim he has stood by publicly."
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+     "bookmark_count": 139,
+     "impression_count": 37055,
+     "like_count": 669,
+     "quote_count": 6,
+     "reply_count": 33,
+     "repost_count": 126
+    },
+    "reply_settings": "everyone",
+    "text": "David Grusch BOMBSHELL on Dr Phil: \"I have seen 'Video's &amp; Photos' of recovered UFO craft with the Pilots.  Both Audio &amp; Visual\" 🛸👽\n\n“I had folks from the retrieval program exfiltrate audiovisual evidence for me to see. Both video and photos. Of the retrieved craft. And some of https://t.co/WpmHUrH808"
+   }
+  ],
+  "media": [
+   {
+    "height": 962,
+    "media_key": "3_2088131641013383168",
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HPqIqgLbMAA0wpe.jpg",
+    "width": 1262
+   }
+  ],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   },
+   {
+    "created_at": "2024-08-21T20:18:19.000Z",
+    "description": "Disclosure of the UFO / UAP Phenomena.   Discovering the true nature of reality 👽 🛸\n\nFollow for the latest UFO news",
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "display_url": "youtube.com/@InterstellarU…",
+        "end": 23,
+        "expanded_url": "https://www.youtube.com/@InterstellarUAP",
+        "start": 0,
+        "url": "https://t.co/j1FgvSMh5y"
+       }
+      ]
+     }
+    },
+    "id": "1826353111394304000",
+    "is_identity_verified": true,
+    "location": "Interstellar",
+    "name": "Interstellar",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826353111394304000/1776030260",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1959603571688607744/T0AVhvlR_normal.jpg",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 146856,
+     "following_count": 993,
+     "like_count": 58296,
+     "listed_count": 350,
+     "media_count": 3311,
+     "post_count": 9885
+    },
+    "url": "https://t.co/j1FgvSMh5y",
+    "username": "InterstellarUAP",
+    "verified": true,
+    "verified_type": "blue"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

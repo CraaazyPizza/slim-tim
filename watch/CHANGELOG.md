@@ -2759,3 +2759,6612 @@
 -     ivan0135/RsQCXN4o4Ps: likes 16590 -> 16592 (+2)
 -     ivan0135/a6TLGkrfNKI: views 707294 -> 707324 (+30)
 -     ivan0135/a6TLGkrfNKI: likes 8819 -> 8820 (+1)
+
+## 2026-08-02T19:30:01.203588+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 23426 -> 23527 (+101)
+-     qtecqot/Oqw96jCOP7A: likes 840 -> 844 (+4)
+-     qtecqot/OpSTlDJWFFI: views 26093 -> 26174 (+81)
+-     qtecqot/OpSTlDJWFFI: likes 958 -> 960 (+2)
+-     qtecqot/l9RAhmPHM_A: views 41462 -> 41590 (+128)
+-     qtecqot/l9RAhmPHM_A: likes 1310 -> 1314 (+4)
+-     ivan0135/Xju_CY5ZESA: views 349925 -> 349946 (+21)
+-     ivan0135/Xju_CY5ZESA: likes 4668 -> 4670 (+2)
+-     ivan0135/ZB788PtqQvg: views 684015 -> 684048 (+33)
+-     ivan0135/ZB788PtqQvg: likes 7708 -> 7710 (+2)
+-     ivan0135/a6TLGkrfNKI: views 707324 -> 707351 (+27)
+-     ivan0135/a6TLGkrfNKI: likes 8820 -> 8821 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1493460 -> 1493493 (+33)
+-     ivan0135/RsQCXN4o4Ps: likes 16592 -> 16593 (+1)
+
+## 2026-08-02T20:00:01.928622+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 26174 -> 26305 (+131)
+-     qtecqot/OpSTlDJWFFI: likes 960 -> 961 (+1)
+-     qtecqot/l9RAhmPHM_A: views 41590 -> 41757 (+167)
+-     qtecqot/l9RAhmPHM_A: likes 1314 -> 1316 (+2)
+-     qtecqot/Oqw96jCOP7A: views 23527 -> 23652 (+125)
+-     qtecqot/Oqw96jCOP7A: likes 844 -> 847 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1493493 -> 1493579 (+86)
+-     ivan0135/RsQCXN4o4Ps: likes 16593 -> 16595 (+2)
+-     ivan0135/Xju_CY5ZESA: views 349946 -> 349999 (+53)
+-     ivan0135/a6TLGkrfNKI: views 707351 -> 707396 (+45)
+-     ivan0135/ZB788PtqQvg: views 684048 -> 684099 (+51)
+
+## 2026-08-02T20:30:01.229809+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 23652 -> 23715 (+63)
+-     qtecqot/Oqw96jCOP7A: likes 847 -> 852 (+5)
+-     qtecqot/l9RAhmPHM_A: views 41757 -> 41897 (+140)
+-     qtecqot/l9RAhmPHM_A: likes 1316 -> 1321 (+5)
+-     qtecqot/OpSTlDJWFFI: views 26305 -> 26411 (+106)
+-     qtecqot/OpSTlDJWFFI: likes 961 -> 963 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1493579 -> 1493635 (+56)
+-     ivan0135/a6TLGkrfNKI: views 707396 -> 707443 (+47)
+-     ivan0135/a6TLGkrfNKI: likes 8821 -> 8822 (+1)
+-     ivan0135/ZB788PtqQvg: views 684099 -> 684147 (+48)
+-     ivan0135/ZB788PtqQvg: likes 7710 -> 7711 (+1)
+-     ivan0135/Xju_CY5ZESA: views 349999 -> 350032 (+33)
+
+## 2026-08-02T21:00:01.424302+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 26411 -> 26484 (+73)
+-     qtecqot/OpSTlDJWFFI: likes 963 -> 965 (+2)
+-     qtecqot/l9RAhmPHM_A: views 41897 -> 42023 (+126)
+-     qtecqot/l9RAhmPHM_A: likes 1321 -> 1326 (+5)
+-     qtecqot/Oqw96jCOP7A: views 23715 -> 23806 (+91)
+-     qtecqot/Oqw96jCOP7A: likes 852 -> 854 (+2)
+-     ivan0135/Xju_CY5ZESA: views 350032 -> 350062 (+30)
+-     ivan0135/RsQCXN4o4Ps: views 1493635 -> 1493689 (+54)
+-     ivan0135/RsQCXN4o4Ps: likes 16595 -> 16597 (+2)
+-     ivan0135/ZB788PtqQvg: views 684147 -> 684186 (+39)
+-     ivan0135/a6TLGkrfNKI: views 707443 -> 707481 (+38)
+-     ivan0135/a6TLGkrfNKI: likes 8822 -> 8823 (+1)
+
+## 2026-08-02T21:30:01.440223+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 23806 -> 23958 (+152)
+-     qtecqot/Oqw96jCOP7A: likes 854 -> 856 (+2)
+-     qtecqot/OpSTlDJWFFI: views 26484 -> 26609 (+125)
+-     qtecqot/OpSTlDJWFFI: likes 965 -> 970 (+5)
+-     qtecqot/l9RAhmPHM_A: views 42023 -> 42221 (+198)
+-     qtecqot/l9RAhmPHM_A: likes 1326 -> 1328 (+2)
+-     ivan0135/Xju_CY5ZESA: views 350062 -> 350116 (+54)
+-     ivan0135/Xju_CY5ZESA: likes 4670 -> 4675 (+5)
+-     ivan0135/a6TLGkrfNKI: views 707481 -> 707547 (+66)
+-     ivan0135/a6TLGkrfNKI: likes 8823 -> 8824 (+1)
+-     ivan0135/ZB788PtqQvg: views 684186 -> 684245 (+59)
+-     ivan0135/ZB788PtqQvg: likes 7711 -> 7713 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1493689 -> 1493771 (+82)
+-     ivan0135/RsQCXN4o4Ps: likes 16597 -> 16599 (+2)
+
+## 2026-08-02T22:00:01.740717+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 42221 -> 42376 (+155)
+-     qtecqot/l9RAhmPHM_A: likes 1328 -> 1332 (+4)
+-     qtecqot/Oqw96jCOP7A: views 23958 -> 24066 (+108)
+-     qtecqot/Oqw96jCOP7A: likes 856 -> 858 (+2)
+-     qtecqot/OpSTlDJWFFI: views 26609 -> 26708 (+99)
+-     qtecqot/OpSTlDJWFFI: likes 970 -> 977 (+7)
+-     ivan0135/ZB788PtqQvg: views 684245 -> 684307 (+62)
+-     ivan0135/ZB788PtqQvg: likes 7713 -> 7715 (+2)
+-     ivan0135/Xju_CY5ZESA: views 350116 -> 350172 (+56)
+-     ivan0135/Xju_CY5ZESA: likes 4675 -> 4677 (+2)
+-     ivan0135/a6TLGkrfNKI: views 707547 -> 707600 (+53)
+-     ivan0135/a6TLGkrfNKI: likes 8824 -> 8825 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1493771 -> 1493830 (+59)
+-     ivan0135/RsQCXN4o4Ps: likes 16599 -> 16601 (+2)
+
+## 2026-08-02T22:30:01.995585+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 24066 -> 24201 (+135)
+-     qtecqot/Oqw96jCOP7A: likes 858 -> 859 (+1)
+-     qtecqot/l9RAhmPHM_A: views 42376 -> 42562 (+186)
+-     qtecqot/l9RAhmPHM_A: likes 1332 -> 1337 (+5)
+-     qtecqot/OpSTlDJWFFI: views 26708 -> 26828 (+120)
+-     qtecqot/OpSTlDJWFFI: likes 977 -> 981 (+4)
+-     ivan0135/a6TLGkrfNKI: views 707600 -> 707672 (+72)
+-     ivan0135/a6TLGkrfNKI: likes 8825 -> 8826 (+1)
+-     ivan0135/ZB788PtqQvg: views 684307 -> 684363 (+56)
+-     ivan0135/ZB788PtqQvg: likes 7715 -> 7717 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1493830 -> 1493898 (+68)
+-     ivan0135/RsQCXN4o4Ps: likes 16601 -> 16603 (+2)
+-     ivan0135/Xju_CY5ZESA: views 350172 -> 350216 (+44)
+-     ivan0135/Xju_CY5ZESA: likes 4677 -> 4679 (+2)
+
+## 2026-08-02T23:00:01.892176+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 26828 -> 26954 (+126)
+-     qtecqot/OpSTlDJWFFI: likes 981 -> 982 (+1)
+-     qtecqot/Oqw96jCOP7A: views 24201 -> 24343 (+142)
+-     qtecqot/Oqw96jCOP7A: likes 859 -> 860 (+1)
+-     qtecqot/l9RAhmPHM_A: views 42562 -> 42754 (+192)
+-     qtecqot/l9RAhmPHM_A: likes 1337 -> 1343 (+6)
+-     ivan0135/ZB788PtqQvg: views 684363 -> 684404 (+41)
+-     ivan0135/ZB788PtqQvg: likes 7717 -> 7718 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1493898 -> 1493950 (+52)
+-     ivan0135/RsQCXN4o4Ps: likes 16603 -> 16605 (+2)
+-     ivan0135/Xju_CY5ZESA: views 350216 -> 350251 (+35)
+-     ivan0135/Xju_CY5ZESA: likes 4679 -> 4681 (+2)
+-     ivan0135/a6TLGkrfNKI: views 707672 -> 707716 (+44)
+-     ivan0135/a6TLGkrfNKI: likes 8826 -> 8827 (+1)
+
+## 2026-08-02T23:30:02.008444+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 26954 -> 27031 (+77)
+-     qtecqot/OpSTlDJWFFI: likes 982 -> 984 (+2)
+-     qtecqot/l9RAhmPHM_A: views 42754 -> 42965 (+211)
+-     qtecqot/l9RAhmPHM_A: likes 1343 -> 1350 (+7)
+-     qtecqot/Oqw96jCOP7A: views 24343 -> 24474 (+131)
+-     qtecqot/Oqw96jCOP7A: likes 860 -> 862 (+2)
+-     ivan0135/Xju_CY5ZESA: views 350251 -> 350289 (+38)
+-     ivan0135/Xju_CY5ZESA: likes 4681 -> 4682 (+1)
+-     ivan0135/a6TLGkrfNKI: views 707716 -> 707761 (+45)
+-     ivan0135/a6TLGkrfNKI: likes 8827 -> 8830 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1493950 -> 1494002 (+52)
+-     ivan0135/RsQCXN4o4Ps: likes 16605 -> 16607 (+2)
+-     ivan0135/ZB788PtqQvg: views 684404 -> 684446 (+42)
+-     ivan0135/ZB788PtqQvg: likes 7718 -> 7721 (+3)
+
+## 2026-08-03T00:00:01.303459+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 24474 -> 24597 (+123)
+-     qtecqot/Oqw96jCOP7A: likes 862 -> 868 (+6)
+-     qtecqot/OpSTlDJWFFI: views 27031 -> 27135 (+104)
+-     qtecqot/OpSTlDJWFFI: likes 984 -> 992 (+8)
+-     qtecqot/l9RAhmPHM_A: views 42965 -> 43140 (+175)
+-     qtecqot/l9RAhmPHM_A: likes 1350 -> 1354 (+4)
+-     ivan0135/a6TLGkrfNKI: views 707761 -> 707806 (+45)
+-     ivan0135/Xju_CY5ZESA: views 350289 -> 350334 (+45)
+-     ivan0135/RsQCXN4o4Ps: views 1494002 -> 1494080 (+78)
+-     ivan0135/RsQCXN4o4Ps: likes 16607 -> 16608 (+1)
+-     ivan0135/ZB788PtqQvg: views 684446 -> 684490 (+44)
+-     ivan0135/ZB788PtqQvg: likes 7721 -> 7724 (+3)
+
+## 2026-08-03T00:30:02.101266+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 43140 -> 43287 (+147)
+-     qtecqot/Oqw96jCOP7A: views 24597 -> 24714 (+117)
+-     qtecqot/Oqw96jCOP7A: likes 868 -> 869 (+1)
+-     qtecqot/OpSTlDJWFFI: views 27135 -> 27232 (+97)
+-     qtecqot/OpSTlDJWFFI: likes 992 -> 993 (+1)
+-     ivan0135/a6TLGkrfNKI: views 707806 -> 707848 (+42)
+-     ivan0135/a6TLGkrfNKI: likes 8830 -> 8832 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1494080 -> 1494130 (+50)
+-     ivan0135/RsQCXN4o4Ps: likes 16608 -> 16613 (+5)
+-     ivan0135/Xju_CY5ZESA: views 350334 -> 350362 (+28)
+-     ivan0135/Xju_CY5ZESA: likes 4682 -> 4684 (+2)
+-     ivan0135/ZB788PtqQvg: views 684490 -> 684536 (+46)
+-     ivan0135/ZB788PtqQvg: likes 7724 -> 7727 (+3)
+
+## 2026-08-03T01:00:02.054560+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 24714 -> 24800 (+86)
+-     qtecqot/Oqw96jCOP7A: likes 869 -> 871 (+2)
+-     qtecqot/l9RAhmPHM_A: views 43287 -> 43451 (+164)
+-     qtecqot/l9RAhmPHM_A: likes 1354 -> 1358 (+4)
+-     qtecqot/OpSTlDJWFFI: views 27232 -> 27314 (+82)
+-     qtecqot/OpSTlDJWFFI: likes 993 -> 995 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1494130 -> 1494188 (+58)
+-     ivan0135/Xju_CY5ZESA: views 350362 -> 350404 (+42)
+-     ivan0135/Xju_CY5ZESA: likes 4684 -> 4686 (+2)
+-     ivan0135/a6TLGkrfNKI: views 707848 -> 707899 (+51)
+-     ivan0135/ZB788PtqQvg: views 684536 -> 684596 (+60)
+-     ivan0135/ZB788PtqQvg: likes 7727 -> 7728 (+1)
+
+## 2026-08-03T01:30:01.554767+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 27314 -> 27418 (+104)
+-     qtecqot/OpSTlDJWFFI: likes 995 -> 996 (+1)
+-     qtecqot/Oqw96jCOP7A: views 24800 -> 24912 (+112)
+-     qtecqot/l9RAhmPHM_A: views 43451 -> 43635 (+184)
+-     qtecqot/l9RAhmPHM_A: likes 1358 -> 1360 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1494188 -> 1494260 (+72)
+-     ivan0135/RsQCXN4o4Ps: likes 16613 -> 16615 (+2)
+-     ivan0135/ZB788PtqQvg: views 684596 -> 684651 (+55)
+-     ivan0135/Xju_CY5ZESA: views 350404 -> 350452 (+48)
+-     ivan0135/a6TLGkrfNKI: views 707899 -> 707953 (+54)
+
+## 2026-08-03T02:00:01.471001+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 27418 -> 27506 (+88)
+-     qtecqot/OpSTlDJWFFI: likes 996 -> 1001 (+5)
+-     qtecqot/l9RAhmPHM_A: views 43635 -> 43767 (+132)
+-     qtecqot/l9RAhmPHM_A: likes 1360 -> 1365 (+5)
+-     qtecqot/Oqw96jCOP7A: views 24912 -> 24998 (+86)
+-     qtecqot/Oqw96jCOP7A: likes 871 -> 872 (+1)
+-     ivan0135/Xju_CY5ZESA: views 350452 -> 350500 (+48)
+-     ivan0135/RsQCXN4o4Ps: views 1494260 -> 1494311 (+51)
+-     ivan0135/ZB788PtqQvg: views 684651 -> 684707 (+56)
+-     ivan0135/ZB788PtqQvg: likes 7728 -> 7729 (+1)
+-     ivan0135/a6TLGkrfNKI: views 707953 -> 707994 (+41)
+-     ivan0135/a6TLGkrfNKI: likes 8832 -> 8833 (+1)
+
+## 2026-08-03T02:30:02.042240+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 24998 -> 25116 (+118)
+-     qtecqot/Oqw96jCOP7A: likes 872 -> 875 (+3)
+-     qtecqot/OpSTlDJWFFI: views 27506 -> 27606 (+100)
+-     qtecqot/OpSTlDJWFFI: likes 1001 -> 1003 (+2)
+-     qtecqot/l9RAhmPHM_A: views 43767 -> 43979 (+212)
+-     qtecqot/l9RAhmPHM_A: likes 1365 -> 1368 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1494311 -> 1494389 (+78)
+-     ivan0135/RsQCXN4o4Ps: likes 16615 -> 16616 (+1)
+-     ivan0135/a6TLGkrfNKI: views 707994 -> 708054 (+60)
+-     ivan0135/Xju_CY5ZESA: views 350500 -> 350543 (+43)
+-     ivan0135/ZB788PtqQvg: views 684707 -> 684748 (+41)
+
+## 2026-08-03T03:00:01.185755+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 25116 -> 25201 (+85)
+-     qtecqot/Oqw96jCOP7A: likes 875 -> 878 (+3)
+-     qtecqot/OpSTlDJWFFI: views 27606 -> 27696 (+90)
+-     qtecqot/OpSTlDJWFFI: likes 1003 -> 1004 (+1)
+-     qtecqot/l9RAhmPHM_A: views 43979 -> 44155 (+176)
+-     ivan0135/Xju_CY5ZESA: views 350543 -> 350588 (+45)
+-     ivan0135/a6TLGkrfNKI: views 708054 -> 708100 (+46)
+-     ivan0135/RsQCXN4o4Ps: views 1494389 -> 1494452 (+63)
+-     ivan0135/RsQCXN4o4Ps: likes 16616 -> 16618 (+2)
+-     ivan0135/ZB788PtqQvg: views 684748 -> 684793 (+45)
+-     ivan0135/ZB788PtqQvg: likes 7729 -> 7730 (+1)
+
+## 2026-08-03T03:30:01.563706+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 25201 -> 25308 (+107)
+-     qtecqot/Oqw96jCOP7A: likes 878 -> 879 (+1)
+-     qtecqot/l9RAhmPHM_A: views 44155 -> 44300 (+145)
+-     qtecqot/l9RAhmPHM_A: likes 1368 -> 1371 (+3)
+-     qtecqot/OpSTlDJWFFI: views 27696 -> 27767 (+71)
+-     qtecqot/OpSTlDJWFFI: likes 1004 -> 1005 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1494452 -> 1494492 (+40)
+-     ivan0135/RsQCXN4o4Ps: likes 16618 -> 16619 (+1)
+-     ivan0135/a6TLGkrfNKI: views 708100 -> 708131 (+31)
+-     ivan0135/Xju_CY5ZESA: views 350588 -> 350621 (+33)
+-     ivan0135/Xju_CY5ZESA: likes 4686 -> 4687 (+1)
+-     ivan0135/ZB788PtqQvg: views 684793 -> 684829 (+36)
+-     ivan0135/ZB788PtqQvg: likes 7730 -> 7731 (+1)
+
+## 2026-08-03T04:00:02.103486+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 44300 -> 44447 (+147)
+-     qtecqot/l9RAhmPHM_A: likes 1371 -> 1373 (+2)
+-     qtecqot/Oqw96jCOP7A: views 25308 -> 25398 (+90)
+-     qtecqot/Oqw96jCOP7A: likes 879 -> 880 (+1)
+-     qtecqot/OpSTlDJWFFI: views 27767 -> 27863 (+96)
+-     qtecqot/OpSTlDJWFFI: likes 1005 -> 1008 (+3)
+-     ivan0135/ZB788PtqQvg: views 684829 -> 684848 (+19)
+-     ivan0135/Xju_CY5ZESA: views 350621 -> 350631 (+10)
+-     ivan0135/a6TLGkrfNKI: views 708131 -> 708165 (+34)
+-     ivan0135/RsQCXN4o4Ps: views 1494492 -> 1494519 (+27)
+-     ivan0135/RsQCXN4o4Ps: likes 16619 -> 16620 (+1)
+
+## 2026-08-03T04:30:02.020041+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 27863 -> 27953 (+90)
+-     qtecqot/OpSTlDJWFFI: likes 1008 -> 1014 (+6)
+-     qtecqot/Oqw96jCOP7A: views 25398 -> 25500 (+102)
+-     qtecqot/Oqw96jCOP7A: likes 880 -> 886 (+6)
+-     qtecqot/l9RAhmPHM_A: views 44447 -> 44633 (+186)
+-     qtecqot/l9RAhmPHM_A: likes 1373 -> 1377 (+4)
+-     ivan0135/ZB788PtqQvg: views 684848 -> 684912 (+64)
+-     ivan0135/Xju_CY5ZESA: views 350631 -> 350678 (+47)
+-     ivan0135/Xju_CY5ZESA: likes 4687 -> 4688 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1494519 -> 1494601 (+82)
+-     ivan0135/a6TLGkrfNKI: views 708165 -> 708219 (+54)
+-     ivan0135/a6TLGkrfNKI: likes 8833 -> 8835 (+2)
+
+## 2026-08-03T05:00:01.631253+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 44633 -> 44789 (+156)
+-     qtecqot/l9RAhmPHM_A: likes 1377 -> 1385 (+8)
+-     qtecqot/OpSTlDJWFFI: views 27953 -> 28033 (+80)
+-     qtecqot/OpSTlDJWFFI: likes 1014 -> 1019 (+5)
+-     qtecqot/Oqw96jCOP7A: views 25500 -> 25599 (+99)
+-     qtecqot/Oqw96jCOP7A: likes 886 -> 888 (+2)
+-     ivan0135/a6TLGkrfNKI: views 708219 -> 708258 (+39)
+-     ivan0135/a6TLGkrfNKI: likes 8835 -> 8836 (+1)
+-     ivan0135/Xju_CY5ZESA: views 350678 -> 350705 (+27)
+-     ivan0135/Xju_CY5ZESA: likes 4688 -> 4689 (+1)
+-     ivan0135/ZB788PtqQvg: views 684912 -> 684938 (+26)
+-     ivan0135/ZB788PtqQvg: likes 7731 -> 7732 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1494601 -> 1494648 (+47)
+
+## 2026-08-03T05:30:01.340552+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 28033 -> 28112 (+79)
+-     qtecqot/OpSTlDJWFFI: likes 1019 -> 1020 (+1)
+-     qtecqot/Oqw96jCOP7A: views 25599 -> 25676 (+77)
+-     qtecqot/Oqw96jCOP7A: likes 888 -> 890 (+2)
+-     qtecqot/l9RAhmPHM_A: views 44789 -> 44933 (+144)
+-     qtecqot/l9RAhmPHM_A: likes 1385 -> 1389 (+4)
+-     ivan0135/ZB788PtqQvg: views 684938 -> 684954 (+16)
+-     ivan0135/a6TLGkrfNKI: views 708258 -> 708265 (+7)
+-     ivan0135/RsQCXN4o4Ps: views 1494648 -> 1494659 (+11)
+-     ivan0135/Xju_CY5ZESA: views 350705 -> 350715 (+10)
+
+## 2026-08-03T06:00:01.923465+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 25676 -> 25781 (+105)
+-     qtecqot/l9RAhmPHM_A: views 44933 -> 45093 (+160)
+-     qtecqot/l9RAhmPHM_A: likes 1389 -> 1390 (+1)
+-     qtecqot/OpSTlDJWFFI: views 28112 -> 28226 (+114)
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-03T06:30:01.278260+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-03T07:00:01.529479+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-03T07:30:01.306361+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+
+## 2026-08-03T08:00:02.020262+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 28436 -> 28507 (+71)
+-     qtecqot/OpSTlDJWFFI: likes 1023 -> 1025 (+2)
+-     qtecqot/Oqw96jCOP7A: views 26014 -> 26075 (+61)
+-     qtecqot/l9RAhmPHM_A: views 45496 -> 45611 (+115)
+-     qtecqot/l9RAhmPHM_A: likes 1395 -> 1397 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1494866 -> 1494915 (+49)
+-     ivan0135/a6TLGkrfNKI: views 708425 -> 708460 (+35)
+-     ivan0135/Xju_CY5ZESA: views 350838 -> 350863 (+25)
+-     ivan0135/ZB788PtqQvg: views 685119 -> 685158 (+39)
+
+## 2026-08-03T08:30:01.335737+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 28507 -> 28581 (+74)
+-     qtecqot/OpSTlDJWFFI: likes 1025 -> 1026 (+1)
+-     qtecqot/Oqw96jCOP7A: views 26075 -> 26145 (+70)
+-     qtecqot/l9RAhmPHM_A: views 45611 -> 45735 (+124)
+-     qtecqot/l9RAhmPHM_A: likes 1397 -> 1400 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1494915 -> 1494952 (+37)
+-     ivan0135/a6TLGkrfNKI: views 708460 -> 708502 (+42)
+-     ivan0135/Xju_CY5ZESA: views 350863 -> 350886 (+23)
+-     ivan0135/ZB788PtqQvg: views 685158 -> 685186 (+28)
+
+## 2026-08-03T09:00:01.777692+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 45735 -> 45864 (+129)
+-     qtecqot/l9RAhmPHM_A: likes 1400 -> 1404 (+4)
+-     qtecqot/Oqw96jCOP7A: views 26145 -> 26212 (+67)
+-     qtecqot/Oqw96jCOP7A: likes 892 -> 895 (+3)
+-     qtecqot/OpSTlDJWFFI: views 28581 -> 28640 (+59)
+-     ivan0135/ZB788PtqQvg: views 685186 -> 685201 (+15)
+-     ivan0135/RsQCXN4o4Ps: views 1494952 -> 1494985 (+33)
+-     ivan0135/RsQCXN4o4Ps: likes 16622 -> 16624 (+2)
+-     ivan0135/Xju_CY5ZESA: views 350886 -> 350896 (+10)
+-     ivan0135/a6TLGkrfNKI: views 708502 -> 708521 (+19)
+-     ivan0135/a6TLGkrfNKI: likes 8837 -> 8838 (+1)
+
+## 2026-08-03T09:30:01.603289+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 45864 -> 45955 (+91)
+-     qtecqot/l9RAhmPHM_A: likes 1404 -> 1403 (-1)
+-     qtecqot/OpSTlDJWFFI: views 28640 -> 28694 (+54)
+-     qtecqot/OpSTlDJWFFI: likes 1026 -> 1027 (+1)
+-     qtecqot/Oqw96jCOP7A: views 26212 -> 26280 (+68)
+-     ivan0135/RsQCXN4o4Ps: views 1494985 -> 1495019 (+34)
+-     ivan0135/RsQCXN4o4Ps: likes 16624 -> 16625 (+1)
+-     ivan0135/a6TLGkrfNKI: views 708521 -> 708555 (+34)
+-     ivan0135/a6TLGkrfNKI: likes 8838 -> 8839 (+1)
+
+## 2026-08-03T10:00:01.316881+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 45955 -> 46143 (+188)
+-     qtecqot/Oqw96jCOP7A: views 26280 -> 26402 (+122)
+-     qtecqot/Oqw96jCOP7A: likes 895 -> 894 (-1)
+-     qtecqot/OpSTlDJWFFI: views 28694 -> 28810 (+116)
+-     qtecqot/OpSTlDJWFFI: likes 1027 -> 1028 (+1)
+-     ivan0135/Xju_CY5ZESA: views 350896 -> 350972 (+76)
+-     ivan0135/Xju_CY5ZESA: likes 4689 -> 4690 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1495019 -> 1495071 (+52)
+-     ivan0135/RsQCXN4o4Ps: likes 16625 -> 16626 (+1)
+-     ivan0135/a6TLGkrfNKI: views 708555 -> 708600 (+45)
+-     ivan0135/a6TLGkrfNKI: likes 8839 -> 8840 (+1)
+-     ivan0135/ZB788PtqQvg: views 685201 -> 685278 (+77)
+-     ivan0135/ZB788PtqQvg: likes 7733 -> 7735 (+2)
+
+## 2026-08-03T10:30:01.460558+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 28810 -> 28825 (+15)
+-     qtecqot/l9RAhmPHM_A: views 46143 -> 46174 (+31)
+-     qtecqot/Oqw96jCOP7A: views 26402 -> 26411 (+9)
+-     qtecqot/Oqw96jCOP7A: likes 894 -> 895 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1495071 -> 1495087 (+16)
+-     ivan0135/RsQCXN4o4Ps: likes 16626 -> 16625 (-1)
+-     ivan0135/a6TLGkrfNKI: views 708600 -> 708607 (+7)
+-     ivan0135/ZB788PtqQvg: views 685278 -> 685288 (+10)
+
+## 2026-08-03T11:00:01.775622+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 28825 -> 28836 (+11)
+-     qtecqot/OpSTlDJWFFI: likes 1028 -> 1029 (+1)
+-     qtecqot/l9RAhmPHM_A: views 46174 -> 46202 (+28)
+-     qtecqot/l9RAhmPHM_A: likes 1403 -> 1404 (+1)
+-     qtecqot/Oqw96jCOP7A: views 26411 -> 26423 (+12)
+-     qtecqot/Oqw96jCOP7A: likes 895 -> 896 (+1)
+-     ivan0135/ZB788PtqQvg: views 685288 -> 685294 (+6)
+-     ivan0135/RsQCXN4o4Ps: views 1495087 -> 1495096 (+9)
+
+## 2026-08-03T11:30:01.255846+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 46202 -> 46274 (+72)
+-     qtecqot/l9RAhmPHM_A: likes 1404 -> 1406 (+2)
+-     qtecqot/OpSTlDJWFFI: views 28836 -> 28869 (+33)
+-     qtecqot/OpSTlDJWFFI: likes 1029 -> 1030 (+1)
+-     qtecqot/Oqw96jCOP7A: views 26423 -> 26452 (+29)
+-     qtecqot/Oqw96jCOP7A: likes 896 -> 897 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1495096 -> 1495118 (+22)
+-     ivan0135/ZB788PtqQvg: views 685294 -> 685308 (+14)
+-     ivan0135/Xju_CY5ZESA: views 350972 -> 350986 (+14)
+-     ivan0135/Xju_CY5ZESA: likes 4690 -> 4691 (+1)
+
+## 2026-08-03T12:00:01.354675+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 26452 -> 26479 (+27)
+-     qtecqot/l9RAhmPHM_A: views 46274 -> 46329 (+55)
+-     qtecqot/l9RAhmPHM_A: likes 1406 -> 1409 (+3)
+-     qtecqot/OpSTlDJWFFI: views 28869 -> 28904 (+35)
+-     qtecqot/OpSTlDJWFFI: likes 1030 -> 1034 (+4)
+-     ivan0135/Xju_CY5ZESA: views 350986 -> 350999 (+13)
+-     ivan0135/RsQCXN4o4Ps: views 1495118 -> 1495135 (+17)
+-     ivan0135/ZB788PtqQvg: views 685308 -> 685324 (+16)
+-     ivan0135/ZB788PtqQvg: likes 7735 -> 7736 (+1)
+-     ivan0135/a6TLGkrfNKI: views 708607 -> 708651 (+44)
+-     ivan0135/a6TLGkrfNKI: likes 8840 -> 8841 (+1)
+
+## 2026-08-03T12:30:01.768413+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 28904 -> 28938 (+34)
+-     qtecqot/OpSTlDJWFFI: likes 1034 -> 1035 (+1)
+-     qtecqot/l9RAhmPHM_A: views 46329 -> 46391 (+62)
+-     qtecqot/l9RAhmPHM_A: likes 1409 -> 1413 (+4)
+-     qtecqot/Oqw96jCOP7A: views 26479 -> 26519 (+40)
+-     qtecqot/Oqw96jCOP7A: likes 897 -> 898 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1495135 -> 1495158 (+23)
+-     ivan0135/RsQCXN4o4Ps: likes 16625 -> 16626 (+1)
+-     ivan0135/a6TLGkrfNKI: views 708651 -> 708665 (+14)
+-     ivan0135/a6TLGkrfNKI: likes 8841 -> 8842 (+1)
+-     ivan0135/ZB788PtqQvg: views 685324 -> 685333 (+9)
+-     ivan0135/ZB788PtqQvg: likes 7736 -> 7737 (+1)
+-     ivan0135/Xju_CY5ZESA: views 350999 -> 351012 (+13)
+-     ivan0135/Xju_CY5ZESA: likes 4691 -> 4692 (+1)
+
+## 2026-08-03T13:00:01.397641+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 46391 -> 46468 (+77)
+-     qtecqot/l9RAhmPHM_A: likes 1413 -> 1414 (+1)
+-     qtecqot/Oqw96jCOP7A: views 26519 -> 26549 (+30)
+-     qtecqot/Oqw96jCOP7A: likes 898 -> 899 (+1)
+-     qtecqot/OpSTlDJWFFI: views 28938 -> 28972 (+34)
+-     qtecqot/OpSTlDJWFFI: likes 1035 -> 1036 (+1)
+-     ivan0135/ZB788PtqQvg: views 685333 -> 685349 (+16)
+-     ivan0135/RsQCXN4o4Ps: views 1495158 -> 1495175 (+17)
+-     ivan0135/a6TLGkrfNKI: views 708665 -> 708680 (+15)
+-     ivan0135/Xju_CY5ZESA: views 351012 -> 351015 (+3)
+
+## 2026-08-03T13:30:01.557870+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 46468 -> 46546 (+78)
+-     qtecqot/l9RAhmPHM_A: likes 1414 -> 1415 (+1)
+-     qtecqot/Oqw96jCOP7A: views 26549 -> 26598 (+49)
+-     qtecqot/Oqw96jCOP7A: likes 899 -> 901 (+2)
+-     qtecqot/OpSTlDJWFFI: views 28972 -> 29007 (+35)
+-     ivan0135/ZB788PtqQvg: views 685349 -> 685360 (+11)
+-     ivan0135/ZB788PtqQvg: likes 7737 -> 7739 (+2)
+-     ivan0135/a6TLGkrfNKI: views 708680 -> 708693 (+13)
+-     ivan0135/a6TLGkrfNKI: likes 8842 -> 8843 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1495175 -> 1495189 (+14)
+-     ivan0135/RsQCXN4o4Ps: likes 16626 -> 16627 (+1)
+
+## 2026-08-03T14:00:01.467910+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 29007 -> 29051 (+44)
+-     qtecqot/OpSTlDJWFFI: likes 1036 -> 1038 (+2)
+-     qtecqot/l9RAhmPHM_A: views 46546 -> 46607 (+61)
+-     qtecqot/l9RAhmPHM_A: likes 1415 -> 1417 (+2)
+-     qtecqot/Oqw96jCOP7A: views 26598 -> 26635 (+37)
+-     qtecqot/Oqw96jCOP7A: likes 901 -> 902 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1495189 -> 1495218 (+29)
+-     ivan0135/RsQCXN4o4Ps: likes 16627 -> 16628 (+1)
+-     ivan0135/Xju_CY5ZESA: views 351015 -> 351047 (+32)
+-     ivan0135/Xju_CY5ZESA: likes 4692 -> 4693 (+1)
+-     ivan0135/ZB788PtqQvg: views 685360 -> 685370 (+10)
+-     ivan0135/ZB788PtqQvg: likes 7739 -> 7741 (+2)
+-     ivan0135/a6TLGkrfNKI: views 708693 -> 708709 (+16)
+-     ivan0135/a6TLGkrfNKI: likes 8843 -> 8845 (+2)
+
+## 2026-08-03T14:30:01.137844+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 29051 -> 29115 (+64)
+-     qtecqot/OpSTlDJWFFI: likes 1038 -> 1041 (+3)
+-     qtecqot/Oqw96jCOP7A: views 26635 -> 26707 (+72)
+-     qtecqot/l9RAhmPHM_A: views 46607 -> 46712 (+105)
+-     ivan0135/Xju_CY5ZESA: views 351047 -> 351067 (+20)
+-     ivan0135/Xju_CY5ZESA: likes 4693 -> 4694 (+1)
+-     ivan0135/a6TLGkrfNKI: views 708709 -> 708729 (+20)
+-     ivan0135/RsQCXN4o4Ps: views 1495218 -> 1495247 (+29)
+-     ivan0135/RsQCXN4o4Ps: likes 16628 -> 16630 (+2)
+-     ivan0135/ZB788PtqQvg: views 685370 -> 685391 (+21)
+
+## 2026-08-03T15:00:01.326173+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 26707 -> 26752 (+45)
+-     qtecqot/Oqw96jCOP7A: likes 902 -> 903 (+1)
+-     qtecqot/OpSTlDJWFFI: views 29115 -> 29164 (+49)
+-     qtecqot/OpSTlDJWFFI: likes 1041 -> 1042 (+1)
+-     qtecqot/l9RAhmPHM_A: views 46712 -> 46800 (+88)
+-     qtecqot/l9RAhmPHM_A: likes 1417 -> 1420 (+3)
+-     ivan0135/a6TLGkrfNKI: views 708729 -> 708759 (+30)
+-     ivan0135/a6TLGkrfNKI: likes 8845 -> 8847 (+2)
+-     ivan0135/ZB788PtqQvg: views 685391 -> 685410 (+19)
+-     ivan0135/RsQCXN4o4Ps: views 1495247 -> 1495274 (+27)
+-     ivan0135/Xju_CY5ZESA: views 351067 -> 351086 (+19)
+-     ivan0135/Xju_CY5ZESA: likes 4694 -> 4695 (+1)
+
+## 2026-08-03T15:30:01.114117+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 26752 -> 26797 (+45)
+-     qtecqot/Oqw96jCOP7A: likes 903 -> 906 (+3)
+-     qtecqot/OpSTlDJWFFI: views 29164 -> 29210 (+46)
+-     qtecqot/OpSTlDJWFFI: likes 1042 -> 1045 (+3)
+-     qtecqot/l9RAhmPHM_A: views 46800 -> 46883 (+83)
+-     qtecqot/l9RAhmPHM_A: likes 1420 -> 1424 (+4)
+-     ivan0135/a6TLGkrfNKI: views 708759 -> 708785 (+26)
+-     ivan0135/ZB788PtqQvg: views 685410 -> 685426 (+16)
+
+## 2026-08-03T16:00:01.833072+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 29210 -> 29279 (+69)
+-     qtecqot/OpSTlDJWFFI: likes 1045 -> 1046 (+1)
+-     qtecqot/l9RAhmPHM_A: views 46883 -> 46985 (+102)
+-     qtecqot/l9RAhmPHM_A: likes 1424 -> 1425 (+1)
+-     qtecqot/Oqw96jCOP7A: views 26797 -> 26875 (+78)
+-     ivan0135/ZB788PtqQvg: views 685426 -> 685447 (+21)
+-     ivan0135/Xju_CY5ZESA: views 351086 -> 351085 (-1)
+-     ivan0135/a6TLGkrfNKI: views 708785 -> 708813 (+28)
+
+## 2026-08-03T16:30:01.859739+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 26875 -> 26920 (+45)
+-     qtecqot/OpSTlDJWFFI: views 29279 -> 29328 (+49)
+-     qtecqot/OpSTlDJWFFI: likes 1046 -> 1047 (+1)
+-     qtecqot/l9RAhmPHM_A: views 46985 -> 47079 (+94)
+-     qtecqot/l9RAhmPHM_A: likes 1425 -> 1426 (+1)
+-     ivan0135/Xju_CY5ZESA: views 351085 -> 351149 (+64)
+-     ivan0135/Xju_CY5ZESA: likes 4695 -> 4697 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1495274 -> 1495368 (+94)
+-     ivan0135/RsQCXN4o4Ps: likes 16630 -> 16631 (+1)
+-     ivan0135/a6TLGkrfNKI: views 708813 -> 708846 (+33)
+-     ivan0135/a6TLGkrfNKI: likes 8847 -> 8849 (+2)
+-     ivan0135/ZB788PtqQvg: views 685447 -> 685480 (+33)
+-     ivan0135/ZB788PtqQvg: likes 7741 -> 7743 (+2)
+
+## 2026-08-03T17:00:01.940463+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 26920 -> 26970 (+50)
+-     qtecqot/Oqw96jCOP7A: likes 906 -> 907 (+1)
+-     qtecqot/OpSTlDJWFFI: views 29328 -> 29375 (+47)
+-     qtecqot/l9RAhmPHM_A: views 47079 -> 47160 (+81)
+-     qtecqot/l9RAhmPHM_A: likes 1426 -> 1428 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1495368 -> 1495406 (+38)
+-     ivan0135/ZB788PtqQvg: views 685480 -> 685513 (+33)
+-     ivan0135/ZB788PtqQvg: likes 7743 -> 7742 (-1)
+-     ivan0135/a6TLGkrfNKI: views 708846 -> 708872 (+26)
+-     ivan0135/Xju_CY5ZESA: views 351149 -> 351168 (+19)
+
+## 2026-08-03T17:30:01.940488+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 47160 -> 47276 (+116)
+-     qtecqot/l9RAhmPHM_A: likes 1428 -> 1430 (+2)
+-     qtecqot/OpSTlDJWFFI: views 29375 -> 29443 (+68)
+-     qtecqot/OpSTlDJWFFI: likes 1047 -> 1048 (+1)
+-     qtecqot/Oqw96jCOP7A: views 26970 -> 27034 (+64)
+-     qtecqot/Oqw96jCOP7A: likes 907 -> 908 (+1)
+-     ivan0135/a6TLGkrfNKI: views 708872 -> 708894 (+22)
+-     ivan0135/ZB788PtqQvg: views 685513 -> 685537 (+24)
+-     ivan0135/RsQCXN4o4Ps: views 1495406 -> 1495433 (+27)
+-     ivan0135/Xju_CY5ZESA: views 351168 -> 351185 (+17)
+
+## 2026-08-03T18:00:01.478131+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 47276 -> 47401 (+125)
+-     qtecqot/l9RAhmPHM_A: likes 1430 -> 1436 (+6)
+-     qtecqot/Oqw96jCOP7A: views 27034 -> 27120 (+86)
+-     qtecqot/Oqw96jCOP7A: likes 908 -> 911 (+3)
+-     qtecqot/OpSTlDJWFFI: views 29443 -> 29516 (+73)
+-     qtecqot/OpSTlDJWFFI: likes 1048 -> 1050 (+2)
+-     ivan0135/Xju_CY5ZESA: views 351185 -> 351210 (+25)
+-     ivan0135/ZB788PtqQvg: views 685537 -> 685566 (+29)
+-     ivan0135/RsQCXN4o4Ps: views 1495433 -> 1495465 (+32)
+-     ivan0135/a6TLGkrfNKI: views 708894 -> 708923 (+29)
+-     ivan0135/a6TLGkrfNKI: likes 8849 -> 8850 (+1)
+
+## 2026-08-03T18:30:01.740215+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 47401 -> 47525 (+124)
+-     qtecqot/l9RAhmPHM_A: likes 1436 -> 1440 (+4)
+-     qtecqot/Oqw96jCOP7A: views 27120 -> 27176 (+56)
+-     qtecqot/Oqw96jCOP7A: likes 911 -> 916 (+5)
+-     qtecqot/OpSTlDJWFFI: views 29516 -> 29581 (+65)
+-     qtecqot/OpSTlDJWFFI: likes 1050 -> 1051 (+1)
+-     ivan0135/a6TLGkrfNKI: views 708923 -> 708948 (+25)
+-     ivan0135/a6TLGkrfNKI: likes 8850 -> 8852 (+2)
+-     ivan0135/ZB788PtqQvg: views 685566 -> 685595 (+29)
+-     ivan0135/ZB788PtqQvg: likes 7742 -> 7743 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1495465 -> 1495497 (+32)
+-     ivan0135/RsQCXN4o4Ps: likes 16631 -> 16633 (+2)
+-     ivan0135/Xju_CY5ZESA: views 351210 -> 351233 (+23)
+-     ivan0135/Xju_CY5ZESA: likes 4697 -> 4698 (+1)
+
+## 2026-08-03T19:00:01.878580+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 27176 -> 27236 (+60)
+-     qtecqot/Oqw96jCOP7A: likes 916 -> 919 (+3)
+-     qtecqot/l9RAhmPHM_A: views 47525 -> 47651 (+126)
+-     qtecqot/l9RAhmPHM_A: likes 1440 -> 1441 (+1)
+-     qtecqot/OpSTlDJWFFI: views 29581 -> 29649 (+68)
+-     qtecqot/OpSTlDJWFFI: likes 1051 -> 1055 (+4)
+-     ivan0135/Xju_CY5ZESA: views 351233 -> 351254 (+21)
+-     ivan0135/RsQCXN4o4Ps: views 1495497 -> 1495538 (+41)
+-     ivan0135/ZB788PtqQvg: views 685595 -> 685619 (+24)
+-     ivan0135/a6TLGkrfNKI: views 708948 -> 708970 (+22)
+
+## 2026-08-03T19:30:02.057941+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 47651 -> 47808 (+157)
+-     qtecqot/l9RAhmPHM_A: likes 1441 -> 1444 (+3)
+-     qtecqot/Oqw96jCOP7A: views 27236 -> 27318 (+82)
+-     qtecqot/Oqw96jCOP7A: likes 919 -> 926 (+7)
+-     qtecqot/OpSTlDJWFFI: views 29649 -> 29725 (+76)
+-     qtecqot/OpSTlDJWFFI: likes 1055 -> 1059 (+4)
+-     ivan0135/ZB788PtqQvg: views 685619 -> 685636 (+17)
+-     ivan0135/ZB788PtqQvg: likes 7743 -> 7744 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1495538 -> 1495563 (+25)
+-     ivan0135/Xju_CY5ZESA: views 351254 -> 351275 (+21)
+
+## 2026-08-03T20:00:01.776350+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 29725 -> 29834 (+109)
+-     qtecqot/OpSTlDJWFFI: likes 1059 -> 1062 (+3)
+-     qtecqot/l9RAhmPHM_A: views 47808 -> 47941 (+133)
+-     qtecqot/l9RAhmPHM_A: likes 1444 -> 1449 (+5)
+-     qtecqot/Oqw96jCOP7A: views 27318 -> 27432 (+114)
+-     qtecqot/Oqw96jCOP7A: likes 926 -> 927 (+1)
+-     ivan0135/Xju_CY5ZESA: views 351275 -> 351292 (+17)
+-     ivan0135/a6TLGkrfNKI: views 708970 -> 709018 (+48)
+-     ivan0135/RsQCXN4o4Ps: views 1495563 -> 1495599 (+36)
+-     ivan0135/ZB788PtqQvg: views 685636 -> 685651 (+15)
+
+## 2026-08-03T20:30:01.348139+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 27432 -> 27542 (+110)
+-     qtecqot/Oqw96jCOP7A: likes 927 -> 929 (+2)
+-     qtecqot/OpSTlDJWFFI: views 29834 -> 29926 (+92)
+-     qtecqot/l9RAhmPHM_A: views 47941 -> 48093 (+152)
+-     qtecqot/l9RAhmPHM_A: likes 1449 -> 1454 (+5)
+-     ivan0135/a6TLGkrfNKI: views 709018 -> 709049 (+31)
+-     ivan0135/ZB788PtqQvg: views 685651 -> 685677 (+26)
+-     ivan0135/Xju_CY5ZESA: views 351292 -> 351313 (+21)
+-     ivan0135/RsQCXN4o4Ps: views 1495599 -> 1495643 (+44)
+-     ivan0135/RsQCXN4o4Ps: likes 16633 -> 16635 (+2)
+
+## 2026-08-03T21:00:01.405868+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 29926 -> 29988 (+62)
+-     qtecqot/OpSTlDJWFFI: likes 1062 -> 1064 (+2)
+-     qtecqot/l9RAhmPHM_A: views 48093 -> 48221 (+128)
+-     qtecqot/l9RAhmPHM_A: likes 1454 -> 1458 (+4)
+-     qtecqot/Oqw96jCOP7A: views 27542 -> 27614 (+72)
+-     qtecqot/Oqw96jCOP7A: likes 929 -> 932 (+3)
+-     ivan0135/a6TLGkrfNKI: views 709049 -> 709080 (+31)
+-     ivan0135/a6TLGkrfNKI: likes 8852 -> 8853 (+1)
+-     ivan0135/Xju_CY5ZESA: views 351313 -> 351335 (+22)
+-     ivan0135/RsQCXN4o4Ps: views 1495643 -> 1495679 (+36)
+-     ivan0135/ZB788PtqQvg: views 685677 -> 685701 (+24)
+
+## 2026-08-03T21:30:01.308173+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 27614 -> 27694 (+80)
+-     qtecqot/Oqw96jCOP7A: likes 932 -> 935 (+3)
+-     qtecqot/l9RAhmPHM_A: views 48221 -> 48377 (+156)
+-     qtecqot/l9RAhmPHM_A: likes 1458 -> 1463 (+5)
+-     qtecqot/OpSTlDJWFFI: views 29988 -> 30070 (+82)
+-     qtecqot/OpSTlDJWFFI: likes 1064 -> 1066 (+2)
+-     ivan0135/ZB788PtqQvg: views 685701 -> 685720 (+19)
+-     ivan0135/ZB788PtqQvg: likes 7744 -> 7745 (+1)
+-     ivan0135/Xju_CY5ZESA: views 351335 -> 351347 (+12)
+-     ivan0135/a6TLGkrfNKI: views 709080 -> 709098 (+18)
+-     ivan0135/RsQCXN4o4Ps: views 1495679 -> 1495705 (+26)
+
+## 2026-08-03T22:00:01.679422+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 48377 -> 48499 (+122)
+-     qtecqot/l9RAhmPHM_A: likes 1463 -> 1468 (+5)
+-     qtecqot/Oqw96jCOP7A: views 27694 -> 27786 (+92)
+-     qtecqot/Oqw96jCOP7A: likes 935 -> 938 (+3)
+-     qtecqot/OpSTlDJWFFI: views 30070 -> 30145 (+75)
+-     qtecqot/OpSTlDJWFFI: likes 1066 -> 1068 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1495705 -> 1495720 (+15)
+-     ivan0135/ZB788PtqQvg: views 685720 -> 685733 (+13)
+-     ivan0135/a6TLGkrfNKI: views 709098 -> 709107 (+9)
+
+## 2026-08-03T22:30:01.902582+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 27786 -> 27877 (+91)
+-     qtecqot/Oqw96jCOP7A: likes 938 -> 940 (+2)
+-     qtecqot/l9RAhmPHM_A: views 48499 -> 48686 (+187)
+-     qtecqot/l9RAhmPHM_A: likes 1468 -> 1471 (+3)
+-     qtecqot/OpSTlDJWFFI: views 30145 -> 30236 (+91)
+-     qtecqot/OpSTlDJWFFI: likes 1068 -> 1069 (+1)
+-     ivan0135/ZB788PtqQvg: views 685733 -> 685765 (+32)
+-     ivan0135/Xju_CY5ZESA: views 351347 -> 351386 (+39)
+-     ivan0135/a6TLGkrfNKI: views 709107 -> 709136 (+29)
+-     ivan0135/RsQCXN4o4Ps: views 1495720 -> 1495755 (+35)
+
+## 2026-08-03T23:00:01.657683+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 30236 -> 30349 (+113)
+-     qtecqot/OpSTlDJWFFI: likes 1069 -> 1071 (+2)
+-     qtecqot/l9RAhmPHM_A: views 48686 -> 48838 (+152)
+-     qtecqot/l9RAhmPHM_A: likes 1471 -> 1474 (+3)
+-     qtecqot/Oqw96jCOP7A: views 27877 -> 27973 (+96)
+-     qtecqot/Oqw96jCOP7A: likes 940 -> 941 (+1)
+-     ivan0135/a6TLGkrfNKI: views 709136 -> 709151 (+15)
+-     ivan0135/a6TLGkrfNKI: likes 8853 -> 8854 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1495755 -> 1495788 (+33)
+-     ivan0135/RsQCXN4o4Ps: likes 16635 -> 16636 (+1)
+-     ivan0135/ZB788PtqQvg: views 685765 -> 685788 (+23)
+-     ivan0135/Xju_CY5ZESA: views 351386 -> 351397 (+11)
+
+## 2026-08-03T23:30:01.423154+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 27973 -> 28039 (+66)
+-     qtecqot/Oqw96jCOP7A: likes 941 -> 944 (+3)
+-     qtecqot/OpSTlDJWFFI: views 30349 -> 30422 (+73)
+-     qtecqot/OpSTlDJWFFI: likes 1071 -> 1073 (+2)
+-     qtecqot/l9RAhmPHM_A: views 48838 -> 48956 (+118)
+-     qtecqot/l9RAhmPHM_A: likes 1474 -> 1475 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1495788 -> 1495810 (+22)
+-     ivan0135/a6TLGkrfNKI: views 709151 -> 709164 (+13)
+
+## 2026-08-04T00:00:01.446541+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 30422 -> 30507 (+85)
+-     qtecqot/OpSTlDJWFFI: likes 1073 -> 1075 (+2)
+-     qtecqot/l9RAhmPHM_A: views 48956 -> 49101 (+145)
+-     qtecqot/l9RAhmPHM_A: likes 1475 -> 1479 (+4)
+-     qtecqot/Oqw96jCOP7A: views 28039 -> 28112 (+73)
+-     qtecqot/Oqw96jCOP7A: likes 944 -> 947 (+3)
+-     ivan0135/a6TLGkrfNKI: views 709164 -> 709181 (+17)
+-     ivan0135/a6TLGkrfNKI: likes 8854 -> 8855 (+1)
+-     ivan0135/ZB788PtqQvg: views 685788 -> 685819 (+31)
+-     ivan0135/ZB788PtqQvg: likes 7745 -> 7746 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1495810 -> 1495840 (+30)
+-     ivan0135/RsQCXN4o4Ps: likes 16636 -> 16637 (+1)
+
+## 2026-08-04T00:30:01.950069+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 49101 -> 49226 (+125)
+-     qtecqot/OpSTlDJWFFI: views 30507 -> 30580 (+73)
+-     qtecqot/OpSTlDJWFFI: likes 1075 -> 1077 (+2)
+-     qtecqot/Oqw96jCOP7A: views 28112 -> 28168 (+56)
+-     qtecqot/Oqw96jCOP7A: likes 947 -> 948 (+1)
+-     ivan0135/Xju_CY5ZESA: views 351397 -> 351445 (+48)
+-     ivan0135/Xju_CY5ZESA: likes 4698 -> 4699 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1495840 -> 1495870 (+30)
+-     ivan0135/RsQCXN4o4Ps: likes 16637 -> 16639 (+2)
+-     ivan0135/a6TLGkrfNKI: views 709181 -> 709202 (+21)
+-     ivan0135/ZB788PtqQvg: views 685819 -> 685834 (+15)
+
+## 2026-08-04T01:00:01.812992+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 49226 -> 49355 (+129)
+-     qtecqot/l9RAhmPHM_A: likes 1479 -> 1483 (+4)
+-     qtecqot/OpSTlDJWFFI: views 30580 -> 30647 (+67)
+-     qtecqot/Oqw96jCOP7A: views 28168 -> 28240 (+72)
+-     qtecqot/Oqw96jCOP7A: likes 948 -> 950 (+2)
+-     ivan0135/Xju_CY5ZESA: views 351445 -> 351455 (+10)
+-     ivan0135/ZB788PtqQvg: views 685834 -> 685848 (+14)
+-     ivan0135/ZB788PtqQvg: likes 7746 -> 7745 (-1)
+-     ivan0135/a6TLGkrfNKI: views 709202 -> 709216 (+14)
+-     ivan0135/a6TLGkrfNKI: likes 8855 -> 8854 (-1)
+-     ivan0135/RsQCXN4o4Ps: views 1495870 -> 1495891 (+21)
+
+## 2026-08-04T01:30:01.750265+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 30647 -> 30716 (+69)
+-     qtecqot/OpSTlDJWFFI: likes 1077 -> 1078 (+1)
+-     qtecqot/Oqw96jCOP7A: views 28240 -> 28310 (+70)
+-     qtecqot/l9RAhmPHM_A: views 49355 -> 49464 (+109)
+-     ivan0135/a6TLGkrfNKI: views 709216 -> 709238 (+22)
+-     ivan0135/ZB788PtqQvg: views 685848 -> 685864 (+16)
+-     ivan0135/ZB788PtqQvg: likes 7745 -> 7746 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1495891 -> 1495919 (+28)
+-     ivan0135/RsQCXN4o4Ps: likes 16639 -> 16638 (-1)
+-     ivan0135/Xju_CY5ZESA: views 351455 -> 351465 (+10)
+
+## 2026-08-04T02:00:01.113360+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 30716 -> 30764 (+48)
+-     qtecqot/OpSTlDJWFFI: likes 1078 -> 1080 (+2)
+-     qtecqot/l9RAhmPHM_A: views 49464 -> 49558 (+94)
+-     qtecqot/l9RAhmPHM_A: likes 1483 -> 1485 (+2)
+-     qtecqot/Oqw96jCOP7A: views 28310 -> 28379 (+69)
+-     qtecqot/Oqw96jCOP7A: likes 950 -> 953 (+3)
+-     ivan0135/Xju_CY5ZESA: views 351465 -> 351480 (+15)
+-     ivan0135/RsQCXN4o4Ps: views 1495919 -> 1495943 (+24)
+-     ivan0135/a6TLGkrfNKI: views 709238 -> 709251 (+13)
+-     ivan0135/ZB788PtqQvg: views 685864 -> 685883 (+19)
+
+## 2026-08-04T02:30:01.294837+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 28379 -> 28441 (+62)
+-     qtecqot/Oqw96jCOP7A: likes 953 -> 955 (+2)
+-     qtecqot/OpSTlDJWFFI: views 30764 -> 30819 (+55)
+-     qtecqot/OpSTlDJWFFI: likes 1080 -> 1084 (+4)
+-     qtecqot/l9RAhmPHM_A: views 49558 -> 49654 (+96)
+-     qtecqot/l9RAhmPHM_A: likes 1485 -> 1489 (+4)
+-     ivan0135/a6TLGkrfNKI: views 709251 -> 709278 (+27)
+-     ivan0135/Xju_CY5ZESA: views 351480 -> 351500 (+20)
+-     ivan0135/RsQCXN4o4Ps: views 1495943 -> 1495978 (+35)
+-     ivan0135/ZB788PtqQvg: views 685883 -> 685906 (+23)
+
+## 2026-08-04T03:00:01.770056+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 49654 -> 49745 (+91)
+-     qtecqot/l9RAhmPHM_A: likes 1489 -> 1490 (+1)
+-     qtecqot/OpSTlDJWFFI: views 30819 -> 30864 (+45)
+-     qtecqot/Oqw96jCOP7A: views 28441 -> 28485 (+44)
+-     qtecqot/Oqw96jCOP7A: likes 955 -> 957 (+2)
+-     ivan0135/ZB788PtqQvg: views 685906 -> 685926 (+20)
+-     ivan0135/Xju_CY5ZESA: views 351500 -> 351518 (+18)
+-     ivan0135/RsQCXN4o4Ps: views 1495978 -> 1496009 (+31)
+-     ivan0135/RsQCXN4o4Ps: likes 16638 -> 16637 (-1)
+-     ivan0135/a6TLGkrfNKI: views 709278 -> 709281 (+3)
+
+## 2026-08-04T03:30:01.571204+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-04T04:00:01.854345+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-04T04:30:01.370554+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-04T05:00:01.932641+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-04T05:30:01.610317+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-04T06:00:01.671815+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-04T06:30:01.987671+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-04T07:00:01.884432+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-04T07:30:01.962646+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+
+## 2026-08-04T08:00:01.480698+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 28942 -> 28986 (+44)
+-     qtecqot/Oqw96jCOP7A: likes 970 -> 972 (+2)
+-     qtecqot/OpSTlDJWFFI: views 31297 -> 31339 (+42)
+-     qtecqot/OpSTlDJWFFI: likes 1094 -> 1095 (+1)
+-     qtecqot/l9RAhmPHM_A: views 50470 -> 50552 (+82)
+-     qtecqot/l9RAhmPHM_A: likes 1504 -> 1506 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1496205 -> 1496230 (+25)
+-     ivan0135/RsQCXN4o4Ps: likes 16641 -> 16642 (+1)
+-     ivan0135/a6TLGkrfNKI: views 709462 -> 709477 (+15)
+-     ivan0135/ZB788PtqQvg: views 686051 -> 686117 (+66)
+
+## 2026-08-04T08:30:01.127014+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 28986 -> 29019 (+33)
+-     qtecqot/Oqw96jCOP7A: likes 972 -> 973 (+1)
+-     qtecqot/l9RAhmPHM_A: views 50552 -> 50599 (+47)
+-     qtecqot/l9RAhmPHM_A: likes 1506 -> 1507 (+1)
+-     qtecqot/OpSTlDJWFFI: views 31339 -> 31372 (+33)
+-     qtecqot/OpSTlDJWFFI: likes 1095 -> 1096 (+1)
+-     ivan0135/ZB788PtqQvg: views 686117 -> 686129 (+12)
+-     ivan0135/ZB788PtqQvg: likes 7746 -> 7747 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1496230 -> 1496245 (+15)
+
+## 2026-08-04T09:00:02.021224+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 29019 -> 29051 (+32)
+-     qtecqot/OpSTlDJWFFI: views 31372 -> 31413 (+41)
+-     qtecqot/l9RAhmPHM_A: views 50599 -> 50660 (+61)
+-     qtecqot/l9RAhmPHM_A: likes 1507 -> 1508 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1496245 -> 1496270 (+25)
+-     ivan0135/ZB788PtqQvg: views 686129 -> 686130 (+1)
+
+## 2026-08-04T09:30:01.737557+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 31413 -> 31455 (+42)
+-     qtecqot/l9RAhmPHM_A: views 50660 -> 50724 (+64)
+-     qtecqot/l9RAhmPHM_A: likes 1508 -> 1509 (+1)
+-     qtecqot/Oqw96jCOP7A: views 29051 -> 29103 (+52)
+-     qtecqot/Oqw96jCOP7A: likes 973 -> 975 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1496270 -> 1496284 (+14)
+
+## 2026-08-04T10:00:02.014464+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 50724 -> 50824 (+100)
+-     qtecqot/l9RAhmPHM_A: likes 1509 -> 1510 (+1)
+-     qtecqot/OpSTlDJWFFI: views 31455 -> 31520 (+65)
+-     qtecqot/Oqw96jCOP7A: views 29103 -> 29165 (+62)
+-     ivan0135/Xju_CY5ZESA: views 351620 -> 351691 (+71)
+-     ivan0135/RsQCXN4o4Ps: views 1496284 -> 1496306 (+22)
+
+## 2026-08-04T10:30:01.132436+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 50824 -> 50858 (+34)
+-     qtecqot/OpSTlDJWFFI: views 31520 -> 31534 (+14)
+-     qtecqot/Oqw96jCOP7A: views 29165 -> 29190 (+25)
+
+## 2026-08-04T11:00:01.581430+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 31534 -> 31548 (+14)
+-     qtecqot/OpSTlDJWFFI: likes 1096 -> 1098 (+2)
+-     qtecqot/Oqw96jCOP7A: views 29190 -> 29203 (+13)
+-     qtecqot/Oqw96jCOP7A: likes 975 -> 976 (+1)
+-     qtecqot/l9RAhmPHM_A: views 50858 -> 50881 (+23)
+-     qtecqot/l9RAhmPHM_A: likes 1510 -> 1511 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1496306 -> 1496315 (+9)
+
+## 2026-08-04T11:30:01.363374+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 50881 -> 50915 (+34)
+-     qtecqot/l9RAhmPHM_A: likes 1511 -> 1512 (+1)
+-     qtecqot/OpSTlDJWFFI: views 31548 -> 31567 (+19)
+-     qtecqot/Oqw96jCOP7A: views 29203 -> 29223 (+20)
+-     qtecqot/Oqw96jCOP7A: likes 976 -> 978 (+2)
+-     ivan0135/a6TLGkrfNKI: views 709477 -> 709541 (+64)
+-     ivan0135/RsQCXN4o4Ps: views 1496315 -> 1496316 (+1)
+
+## 2026-08-04T12:00:01.551951+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 50915 -> 50943 (+28)
+-     qtecqot/l9RAhmPHM_A: likes 1512 -> 1513 (+1)
+-     qtecqot/Oqw96jCOP7A: views 29223 -> 29246 (+23)
+-     qtecqot/Oqw96jCOP7A: likes 978 -> 979 (+1)
+-     qtecqot/OpSTlDJWFFI: views 31567 -> 31589 (+22)
+-     qtecqot/OpSTlDJWFFI: likes 1098 -> 1099 (+1)
+-     ivan0135/ZB788PtqQvg: views 686130 -> 686188 (+58)
+
+## 2026-08-04T12:30:01.545394+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 31589 -> 31636 (+47)
+-     qtecqot/OpSTlDJWFFI: likes 1099 -> 1100 (+1)
+-     qtecqot/Oqw96jCOP7A: views 29246 -> 29271 (+25)
+-     qtecqot/Oqw96jCOP7A: likes 979 -> 980 (+1)
+-     qtecqot/l9RAhmPHM_A: views 50943 -> 51004 (+61)
+-     qtecqot/l9RAhmPHM_A: likes 1513 -> 1514 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1496316 -> 1496346 (+30)
+-     ivan0135/RsQCXN4o4Ps: likes 16642 -> 16641 (-1)
+-     ivan0135/ZB788PtqQvg: views 686188 -> 686200 (+12)
+-     ivan0135/ZB788PtqQvg: likes 7747 -> 7746 (-1)
+
+## 2026-08-04T13:00:01.636871+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 51004 -> 51068 (+64)
+-     qtecqot/l9RAhmPHM_A: likes 1514 -> 1515 (+1)
+-     qtecqot/OpSTlDJWFFI: views 31636 -> 31678 (+42)
+-     qtecqot/OpSTlDJWFFI: likes 1100 -> 1099 (-1)
+-     qtecqot/Oqw96jCOP7A: views 29271 -> 29316 (+45)
+-     ivan0135/RsQCXN4o4Ps: views 1496346 -> 1496358 (+12)
+-     ivan0135/Xju_CY5ZESA: views 351691 -> 351732 (+41)
+-     ivan0135/ZB788PtqQvg: views 686200 -> 686205 (+5)
+
+## 2026-08-04T13:30:01.952823+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 29316 -> 29356 (+40)
+-     qtecqot/Oqw96jCOP7A: likes 980 -> 981 (+1)
+-     qtecqot/l9RAhmPHM_A: views 51068 -> 51121 (+53)
+-     qtecqot/OpSTlDJWFFI: views 31678 -> 31729 (+51)
+-     ivan0135/RsQCXN4o4Ps: views 1496358 -> 1496366 (+8)
+
+## 2026-08-04T14:00:01.608107+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 31729 -> 31765 (+36)
+-     qtecqot/OpSTlDJWFFI: likes 1099 -> 1100 (+1)
+-     qtecqot/Oqw96jCOP7A: views 29356 -> 29389 (+33)
+-     qtecqot/Oqw96jCOP7A: likes 981 -> 982 (+1)
+-     qtecqot/l9RAhmPHM_A: views 51121 -> 51167 (+46)
+-     qtecqot/l9RAhmPHM_A: likes 1515 -> 1518 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1496366 -> 1496377 (+11)
+
+## 2026-08-04T14:30:01.282338+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 51167 -> 51211 (+44)
+-     qtecqot/OpSTlDJWFFI: views 31765 -> 31788 (+23)
+-     qtecqot/Oqw96jCOP7A: views 29389 -> 29415 (+26)
+-     ivan0135/a6TLGkrfNKI: views 709541 -> 709586 (+45)
+-     ivan0135/ZB788PtqQvg: views 686205 -> 686230 (+25)
+-     ivan0135/ZB788PtqQvg: likes 7746 -> 7745 (-1)
+-     ivan0135/RsQCXN4o4Ps: views 1496377 -> 1496396 (+19)
+-     ivan0135/RsQCXN4o4Ps: likes 16641 -> 16642 (+1)
+
+## 2026-08-04T15:00:01.525791+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 31788 -> 31820 (+32)
+-     qtecqot/OpSTlDJWFFI: likes 1100 -> 1101 (+1)
+-     qtecqot/l9RAhmPHM_A: views 51211 -> 51254 (+43)
+-     qtecqot/l9RAhmPHM_A: likes 1518 -> 1521 (+3)
+-     qtecqot/Oqw96jCOP7A: views 29415 -> 29451 (+36)
+-     qtecqot/Oqw96jCOP7A: likes 982 -> 984 (+2)
+-     ivan0135/ZB788PtqQvg: views 686230 -> 686231 (+1)
+-     ivan0135/ZB788PtqQvg: likes 7745 -> 7746 (+1)
+-     ivan0135/a6TLGkrfNKI: views 709586 -> 709597 (+11)
+-     ivan0135/a6TLGkrfNKI: likes 8858 -> 8860 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1496396 -> 1496407 (+11)
+-     ivan0135/Xju_CY5ZESA: views 351732 -> 351759 (+27)
+-     ivan0135/Xju_CY5ZESA: likes 4699 -> 4700 (+1)
+
+## 2026-08-04T15:30:01.692603+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 31820 -> 31853 (+33)
+-     qtecqot/Oqw96jCOP7A: views 29451 -> 29487 (+36)
+-     qtecqot/Oqw96jCOP7A: likes 984 -> 985 (+1)
+-     qtecqot/l9RAhmPHM_A: views 51254 -> 51309 (+55)
+-     qtecqot/l9RAhmPHM_A: likes 1521 -> 1522 (+1)
+-     ivan0135/Xju_CY5ZESA: views 351759 -> 351760 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1496407 -> 1496421 (+14)
+-     ivan0135/a6TLGkrfNKI: views 709597 -> 709607 (+10)
+-     ivan0135/ZB788PtqQvg: views 686231 -> 686245 (+14)
+-     ivan0135/ZB788PtqQvg: likes 7746 -> 7747 (+1)
+
+## 2026-08-04T16:00:01.952937+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 51309 -> 51362 (+53)
+-     qtecqot/OpSTlDJWFFI: views 31853 -> 31890 (+37)
+-     qtecqot/Oqw96jCOP7A: views 29487 -> 29516 (+29)
+-     qtecqot/Oqw96jCOP7A: likes 985 -> 986 (+1)
+-     ivan0135/ZB788PtqQvg: views 686245 -> 686254 (+9)
+-     ivan0135/RsQCXN4o4Ps: views 1496421 -> 1496436 (+15)
+-     ivan0135/Xju_CY5ZESA: views 351760 -> 351759 (-1)
+-     ivan0135/a6TLGkrfNKI: views 709607 -> 709604 (-3)
+
+## 2026-08-04T16:30:01.525936+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 51362 -> 51423 (+61)
+-     qtecqot/l9RAhmPHM_A: likes 1522 -> 1523 (+1)
+-     qtecqot/OpSTlDJWFFI: views 31890 -> 31927 (+37)
+-     qtecqot/Oqw96jCOP7A: views 29516 -> 29543 (+27)
+-     qtecqot/Oqw96jCOP7A: likes 986 -> 987 (+1)
+-     ivan0135/Xju_CY5ZESA: views 351759 -> 351760 (+1)
+-     ivan0135/a6TLGkrfNKI: views 709604 -> 709607 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1496436 -> 1496440 (+4)
+
+## 2026-08-04T17:00:01.664098+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 31927 -> 31964 (+37)
+-     qtecqot/OpSTlDJWFFI: likes 1101 -> 1103 (+2)
+-     qtecqot/l9RAhmPHM_A: views 51423 -> 51483 (+60)
+-     qtecqot/l9RAhmPHM_A: likes 1523 -> 1526 (+3)
+-     qtecqot/Oqw96jCOP7A: views 29543 -> 29592 (+49)
+-     qtecqot/Oqw96jCOP7A: likes 987 -> 989 (+2)
+
+## 2026-08-04T17:30:01.310472+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 31964 -> 31997 (+33)
+-     qtecqot/OpSTlDJWFFI: likes 1103 -> 1105 (+2)
+-     qtecqot/Oqw96jCOP7A: views 29592 -> 29632 (+40)
+-     qtecqot/Oqw96jCOP7A: likes 989 -> 990 (+1)
+-     qtecqot/l9RAhmPHM_A: views 51483 -> 51533 (+50)
+-     qtecqot/l9RAhmPHM_A: likes 1526 -> 1528 (+2)
+-     ivan0135/a6TLGkrfNKI: views 709607 -> 709648 (+41)
+
+## 2026-08-04T18:00:01.548860+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 51533 -> 51590 (+57)
+-     qtecqot/l9RAhmPHM_A: likes 1528 -> 1532 (+4)
+-     qtecqot/OpSTlDJWFFI: views 31997 -> 32039 (+42)
+-     qtecqot/OpSTlDJWFFI: likes 1105 -> 1107 (+2)
+-     qtecqot/Oqw96jCOP7A: views 29632 -> 29679 (+47)
+-     qtecqot/Oqw96jCOP7A: likes 990 -> 993 (+3)
+-     ivan0135/a6TLGkrfNKI: views 709648 -> 709671 (+23)
+-     ivan0135/Xju_CY5ZESA: views 351760 -> 351759 (-1)
+-     ivan0135/RsQCXN4o4Ps: views 1496440 -> 1496497 (+57)
+-     ivan0135/RsQCXN4o4Ps: likes 16642 -> 16643 (+1)
+
+## 2026-08-04T18:30:01.923034+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 51590 -> 51646 (+56)
+-     qtecqot/l9RAhmPHM_A: likes 1532 -> 1534 (+2)
+-     qtecqot/Oqw96jCOP7A: views 29679 -> 29717 (+38)
+-     qtecqot/Oqw96jCOP7A: likes 993 -> 994 (+1)
+-     qtecqot/OpSTlDJWFFI: views 32039 -> 32079 (+40)
+-     qtecqot/OpSTlDJWFFI: likes 1107 -> 1108 (+1)
+-     ivan0135/Xju_CY5ZESA: views 351759 -> 351809 (+50)
+-     ivan0135/ZB788PtqQvg: views 686254 -> 686317 (+63)
+-     ivan0135/ZB788PtqQvg: likes 7747 -> 7748 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1496497 -> 1496517 (+20)
+-     ivan0135/a6TLGkrfNKI: views 709671 -> 709677 (+6)
+
+## 2026-08-04T19:00:01.463623+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 29717 -> 29761 (+44)
+-     qtecqot/Oqw96jCOP7A: likes 994 -> 995 (+1)
+-     qtecqot/OpSTlDJWFFI: views 32079 -> 32123 (+44)
+-     qtecqot/OpSTlDJWFFI: likes 1108 -> 1112 (+4)
+-     qtecqot/l9RAhmPHM_A: views 51646 -> 51713 (+67)
+-     qtecqot/l9RAhmPHM_A: likes 1534 -> 1537 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1496517 -> 1496526 (+9)
+
+## 2026-08-04T19:30:01.985364+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 51713 -> 51787 (+74)
+-     qtecqot/l9RAhmPHM_A: likes 1537 -> 1539 (+2)
+-     qtecqot/Oqw96jCOP7A: views 29761 -> 29797 (+36)
+-     qtecqot/OpSTlDJWFFI: views 32123 -> 32174 (+51)
+-     ivan0135/ZB788PtqQvg: views 686317 -> 686339 (+22)
+-     ivan0135/Xju_CY5ZESA: views 351809 -> 351834 (+25)
+-     ivan0135/a6TLGkrfNKI: views 709677 -> 709717 (+40)
+-     ivan0135/RsQCXN4o4Ps: views 1496526 -> 1496560 (+34)
+-     ivan0135/RsQCXN4o4Ps: likes 16643 -> 16644 (+1)
+
+## 2026-08-04T20:00:01.894635+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 32174 -> 32211 (+37)
+-     qtecqot/OpSTlDJWFFI: likes 1112 -> 1113 (+1)
+-     qtecqot/l9RAhmPHM_A: views 51787 -> 51846 (+59)
+-     qtecqot/l9RAhmPHM_A: likes 1539 -> 1541 (+2)
+-     qtecqot/Oqw96jCOP7A: views 29797 -> 29848 (+51)
+-     qtecqot/Oqw96jCOP7A: likes 995 -> 996 (+1)
+-     ivan0135/a6TLGkrfNKI: views 709717 -> 709732 (+15)
+-     ivan0135/ZB788PtqQvg: views 686339 -> 686355 (+16)
+-     ivan0135/ZB788PtqQvg: likes 7748 -> 7749 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1496560 -> 1496585 (+25)
+-     ivan0135/Xju_CY5ZESA: views 351834 -> 351840 (+6)
+
+## 2026-08-04T20:30:01.903191+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 29848 -> 29882 (+34)
+-     qtecqot/Oqw96jCOP7A: likes 996 -> 1002 (+6)
+-     qtecqot/l9RAhmPHM_A: views 51846 -> 51900 (+54)
+-     qtecqot/l9RAhmPHM_A: likes 1541 -> 1544 (+3)
+-     qtecqot/OpSTlDJWFFI: views 32211 -> 32238 (+27)
+-     qtecqot/OpSTlDJWFFI: likes 1113 -> 1114 (+1)
+-     ivan0135/ZB788PtqQvg: views 686355 -> 686375 (+20)
+-     ivan0135/RsQCXN4o4Ps: views 1496585 -> 1496604 (+19)
+-     ivan0135/RsQCXN4o4Ps: likes 16644 -> 16645 (+1)
+-     ivan0135/a6TLGkrfNKI: views 709732 -> 709746 (+14)
+-     ivan0135/a6TLGkrfNKI: likes 8860 -> 8859 (-1)
+
+## 2026-08-04T21:00:01.227344+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 29882 -> 29922 (+40)
+-     qtecqot/Oqw96jCOP7A: likes 1002 -> 1005 (+3)
+-     qtecqot/l9RAhmPHM_A: views 51900 -> 51954 (+54)
+-     qtecqot/l9RAhmPHM_A: likes 1544 -> 1549 (+5)
+-     qtecqot/OpSTlDJWFFI: views 32238 -> 32277 (+39)
+-     qtecqot/OpSTlDJWFFI: likes 1114 -> 1116 (+2)
+-     ivan0135/ZB788PtqQvg: views 686375 -> 686383 (+8)
+-     ivan0135/a6TLGkrfNKI: views 709746 -> 709765 (+19)
+-     ivan0135/RsQCXN4o4Ps: views 1496604 -> 1496626 (+22)
+
+## 2026-08-04T21:30:01.736382+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 29922 -> 29968 (+46)
+-     qtecqot/Oqw96jCOP7A: likes 1005 -> 1006 (+1)
+-     qtecqot/OpSTlDJWFFI: views 32277 -> 32317 (+40)
+-     qtecqot/l9RAhmPHM_A: views 51954 -> 52012 (+58)
+-     qtecqot/l9RAhmPHM_A: likes 1549 -> 1551 (+2)
+-     ivan0135/Xju_CY5ZESA: views 351840 -> 351874 (+34)
+-     ivan0135/RsQCXN4o4Ps: views 1496626 -> 1496648 (+22)
+
+## 2026-08-04T22:00:01.937670+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 29968 -> 30070 (+102)
+-     qtecqot/Oqw96jCOP7A: likes 1006 -> 1008 (+2)
+-     qtecqot/l9RAhmPHM_A: views 52012 -> 52105 (+93)
+-     qtecqot/l9RAhmPHM_A: likes 1551 -> 1553 (+2)
+-     qtecqot/OpSTlDJWFFI: views 32317 -> 32365 (+48)
+-     qtecqot/OpSTlDJWFFI: likes 1116 -> 1119 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1496648 -> 1496664 (+16)
+-     ivan0135/RsQCXN4o4Ps: likes 16645 -> 16646 (+1)
+
+## 2026-08-04T22:30:01.808055+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 52105 -> 52200 (+95)
+-     qtecqot/l9RAhmPHM_A: likes 1553 -> 1555 (+2)
+-     qtecqot/Oqw96jCOP7A: views 30070 -> 30100 (+30)
+-     qtecqot/Oqw96jCOP7A: likes 1008 -> 1009 (+1)
+-     qtecqot/OpSTlDJWFFI: views 32365 -> 32410 (+45)
+-     qtecqot/OpSTlDJWFFI: likes 1119 -> 1121 (+2)
+-     ivan0135/a6TLGkrfNKI: views 709765 -> 709798 (+33)
+-     ivan0135/a6TLGkrfNKI: likes 8859 -> 8860 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1496664 -> 1496690 (+26)
+
+## 2026-08-04T23:00:01.216993+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 30100 -> 30132 (+32)
+-     qtecqot/Oqw96jCOP7A: likes 1009 -> 1011 (+2)
+-     qtecqot/OpSTlDJWFFI: views 32410 -> 32441 (+31)
+-     qtecqot/OpSTlDJWFFI: likes 1121 -> 1122 (+1)
+-     qtecqot/l9RAhmPHM_A: views 52200 -> 52270 (+70)
+-     qtecqot/l9RAhmPHM_A: likes 1555 -> 1560 (+5)
+-     ivan0135/a6TLGkrfNKI: views 709798 -> 709806 (+8)
+-     ivan0135/Xju_CY5ZESA: views 351874 -> 351901 (+27)
+-     ivan0135/RsQCXN4o4Ps: views 1496690 -> 1496703 (+13)
+-     ivan0135/ZB788PtqQvg: views 686383 -> 686434 (+51)
+
+## 2026-08-04T23:30:01.723172+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 30132 -> 30172 (+40)
+-     qtecqot/Oqw96jCOP7A: likes 1011 -> 1012 (+1)
+-     qtecqot/OpSTlDJWFFI: views 32441 -> 32484 (+43)
+-     qtecqot/l9RAhmPHM_A: views 52270 -> 52350 (+80)
+-     qtecqot/l9RAhmPHM_A: likes 1560 -> 1559 (-1)
+-     ivan0135/ZB788PtqQvg: views 686434 -> 686446 (+12)
+-     ivan0135/RsQCXN4o4Ps: views 1496703 -> 1496723 (+20)
+-     ivan0135/RsQCXN4o4Ps: likes 16646 -> 16647 (+1)
+
+## 2026-08-05T00:00:01.388220+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 52350 -> 52411 (+61)
+-     qtecqot/OpSTlDJWFFI: views 32484 -> 32509 (+25)
+-     qtecqot/Oqw96jCOP7A: views 30172 -> 30215 (+43)
+-     ivan0135/a6TLGkrfNKI: views 709806 -> 709835 (+29)
+-     ivan0135/ZB788PtqQvg: views 686446 -> 686466 (+20)
+-     ivan0135/ZB788PtqQvg: likes 7749 -> 7750 (+1)
+-     ivan0135/Xju_CY5ZESA: views 351901 -> 351923 (+22)
+-     ivan0135/RsQCXN4o4Ps: views 1496723 -> 1496747 (+24)
+
+## 2026-08-05T00:30:01.864978+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 52411 -> 52481 (+70)
+-     qtecqot/l9RAhmPHM_A: likes 1559 -> 1561 (+2)
+-     qtecqot/OpSTlDJWFFI: views 32509 -> 32555 (+46)
+-     qtecqot/OpSTlDJWFFI: likes 1122 -> 1124 (+2)
+-     qtecqot/Oqw96jCOP7A: views 30215 -> 30256 (+41)
+-     ivan0135/RsQCXN4o4Ps: views 1496747 -> 1496777 (+30)
+-     ivan0135/Xju_CY5ZESA: views 351923 -> 351937 (+14)
+-     ivan0135/ZB788PtqQvg: views 686466 -> 686474 (+8)
+-     ivan0135/ZB788PtqQvg: likes 7750 -> 7749 (-1)
+-     ivan0135/a6TLGkrfNKI: views 709835 -> 709861 (+26)
+
+## 2026-08-05T01:00:01.474788+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 32555 -> 32594 (+39)
+-     qtecqot/l9RAhmPHM_A: views 52481 -> 52534 (+53)
+-     qtecqot/Oqw96jCOP7A: views 30256 -> 30293 (+37)
+-     ivan0135/ZB788PtqQvg: views 686474 -> 686491 (+17)
+-     ivan0135/ZB788PtqQvg: likes 7749 -> 7750 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1496777 -> 1496801 (+24)
+-     ivan0135/a6TLGkrfNKI: views 709861 -> 709877 (+16)
+-     ivan0135/a6TLGkrfNKI: likes 8860 -> 8861 (+1)
+-     ivan0135/Xju_CY5ZESA: views 351937 -> 351952 (+15)
+
+## 2026-08-05T01:30:01.369559+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 52534 -> 52596 (+62)
+-     qtecqot/l9RAhmPHM_A: likes 1561 -> 1562 (+1)
+-     qtecqot/OpSTlDJWFFI: views 32594 -> 32647 (+53)
+-     qtecqot/OpSTlDJWFFI: likes 1124 -> 1125 (+1)
+-     qtecqot/Oqw96jCOP7A: views 30293 -> 30349 (+56)
+-     qtecqot/Oqw96jCOP7A: likes 1012 -> 1015 (+3)
+-     ivan0135/Xju_CY5ZESA: views 351952 -> 351968 (+16)
+-     ivan0135/Xju_CY5ZESA: likes 4700 -> 4701 (+1)
+-     ivan0135/ZB788PtqQvg: views 686491 -> 686509 (+18)
+-     ivan0135/ZB788PtqQvg: likes 7750 -> 7751 (+1)
+-     ivan0135/a6TLGkrfNKI: views 709877 -> 709897 (+20)
+-     ivan0135/a6TLGkrfNKI: likes 8861 -> 8862 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1496801 -> 1496822 (+21)
+-     ivan0135/RsQCXN4o4Ps: likes 16647 -> 16648 (+1)
+
+## 2026-08-05T02:00:01.165492+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 30349 -> 30386 (+37)
+-     qtecqot/OpSTlDJWFFI: views 32647 -> 32682 (+35)
+-     qtecqot/l9RAhmPHM_A: views 52596 -> 52717 (+121)
+-     qtecqot/l9RAhmPHM_A: likes 1562 -> 1563 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1496822 -> 1496849 (+27)
+-     ivan0135/ZB788PtqQvg: views 686509 -> 686522 (+13)
+-     ivan0135/a6TLGkrfNKI: views 709897 -> 709909 (+12)
+-     ivan0135/Xju_CY5ZESA: views 351968 -> 351974 (+6)
+
+## 2026-08-05T02:30:01.455556+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-05T03:00:01.980574+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-05T03:30:01.534776+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-05T04:00:01.741280+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-05T04:30:01.934185+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-05T05:00:01.868798+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-05T05:30:01.877201+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-05T06:00:01.462359+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-05T06:30:01.539723+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-05T07:00:01.128051+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-05T07:30:01.473597+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-05T08:00:01.814235+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 30773 -> 30795 (+22)
+-     qtecqot/Oqw96jCOP7A: likes 1026 -> 1030 (+4)
+-     qtecqot/l9RAhmPHM_A: views 53188 -> 53218 (+30)
+-     qtecqot/l9RAhmPHM_A: likes 1578 -> 1579 (+1)
+-     qtecqot/OpSTlDJWFFI: views 33011 -> 33025 (+14)
+-     qtecqot/OpSTlDJWFFI: likes 1135 -> 1136 (+1)
+
+## 2026-08-05T08:30:01.950204+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 53218 -> 53245 (+27)
+-     qtecqot/l9RAhmPHM_A: likes 1579 -> 1580 (+1)
+-     qtecqot/Oqw96jCOP7A: views 30795 -> 30810 (+15)
+-     qtecqot/OpSTlDJWFFI: views 33025 -> 33051 (+26)
+
+## 2026-08-05T09:00:01.712040+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 53245 -> 53291 (+46)
+-     qtecqot/l9RAhmPHM_A: likes 1580 -> 1582 (+2)
+-     qtecqot/OpSTlDJWFFI: views 33051 -> 33077 (+26)
+-     qtecqot/OpSTlDJWFFI: likes 1136 -> 1137 (+1)
+-     qtecqot/Oqw96jCOP7A: views 30810 -> 30848 (+38)
+-     qtecqot/Oqw96jCOP7A: likes 1030 -> 1031 (+1)
+
+## 2026-08-05T09:30:01.977249+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 30848 -> 30868 (+20)
+-     qtecqot/OpSTlDJWFFI: views 33077 -> 33098 (+21)
+-     qtecqot/l9RAhmPHM_A: views 53291 -> 53318 (+27)
+-     ivan0135/RsQCXN4o4Ps: views 1496961 -> 1497010 (+49)
+-     ivan0135/RsQCXN4o4Ps: likes 16650 -> 16651 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352033 -> 352062 (+29)
+-     ivan0135/Xju_CY5ZESA: likes 4703 -> 4704 (+1)
+
+## 2026-08-05T10:00:01.394930+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 30868 -> 30916 (+48)
+-     qtecqot/Oqw96jCOP7A: likes 1031 -> 1032 (+1)
+-     qtecqot/l9RAhmPHM_A: views 53318 -> 53388 (+70)
+-     qtecqot/l9RAhmPHM_A: likes 1582 -> 1583 (+1)
+-     qtecqot/OpSTlDJWFFI: views 33098 -> 33116 (+18)
+-     qtecqot/OpSTlDJWFFI: likes 1137 -> 1139 (+2)
+-     ivan0135/a6TLGkrfNKI: views 709983 -> 710036 (+53)
+-     ivan0135/RsQCXN4o4Ps: views 1497010 -> 1497032 (+22)
+
+## 2026-08-05T10:30:01.758634+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 53388 -> 53405 (+17)
+-     qtecqot/l9RAhmPHM_A: likes 1583 -> 1582 (-1)
+-     qtecqot/OpSTlDJWFFI: views 33116 -> 33134 (+18)
+-     qtecqot/OpSTlDJWFFI: likes 1139 -> 1138 (-1)
+-     qtecqot/Oqw96jCOP7A: views 30916 -> 30934 (+18)
+-     ivan0135/ZB788PtqQvg: views 686619 -> 686682 (+63)
+
+## 2026-08-05T11:00:01.934070+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 30934 -> 30950 (+16)
+-     qtecqot/Oqw96jCOP7A: likes 1032 -> 1033 (+1)
+-     qtecqot/OpSTlDJWFFI: views 33134 -> 33145 (+11)
+-     qtecqot/OpSTlDJWFFI: likes 1138 -> 1140 (+2)
+-     qtecqot/l9RAhmPHM_A: views 53405 -> 53415 (+10)
+-     qtecqot/l9RAhmPHM_A: likes 1582 -> 1583 (+1)
+-     ivan0135/ZB788PtqQvg: views 686682 -> 686678 (-4)
+
+## 2026-08-05T11:30:01.999795+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 53415 -> 53442 (+27)
+-     qtecqot/l9RAhmPHM_A: likes 1583 -> 1585 (+2)
+-     qtecqot/Oqw96jCOP7A: views 30950 -> 30963 (+13)
+-     qtecqot/OpSTlDJWFFI: views 33145 -> 33154 (+9)
+-     qtecqot/OpSTlDJWFFI: likes 1140 -> 1141 (+1)
+-     ivan0135/ZB788PtqQvg: views 686678 -> 686689 (+11)
+-     ivan0135/ZB788PtqQvg: likes 7754 -> 7755 (+1)
+
+## 2026-08-05T12:00:01.161505+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 30963 -> 30964 (+1)
+-     qtecqot/l9RAhmPHM_A: views 53442 -> 53470 (+28)
+-     ivan0135/ZB788PtqQvg: views 686689 -> 686694 (+5)
+-     ivan0135/ZB788PtqQvg: likes 7755 -> 7756 (+1)
+
+## 2026-08-05T12:30:01.481986+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 33154 -> 33195 (+41)
+-     qtecqot/OpSTlDJWFFI: likes 1141 -> 1140 (-1)
+-     qtecqot/Oqw96jCOP7A: views 30964 -> 31000 (+36)
+-     qtecqot/Oqw96jCOP7A: likes 1033 -> 1032 (-1)
+-     qtecqot/l9RAhmPHM_A: views 53470 -> 53500 (+30)
+-     ivan0135/ZB788PtqQvg: views 686694 -> 686701 (+7)
+-     ivan0135/Xju_CY5ZESA: views 352062 -> 352088 (+26)
+
+## 2026-08-05T13:00:01.549350+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 53500 -> 53529 (+29)
+-     qtecqot/l9RAhmPHM_A: likes 1585 -> 1587 (+2)
+-     qtecqot/OpSTlDJWFFI: views 33195 -> 33214 (+19)
+-     qtecqot/OpSTlDJWFFI: likes 1140 -> 1141 (+1)
+-     qtecqot/Oqw96jCOP7A: views 31000 -> 31018 (+18)
+-     qtecqot/Oqw96jCOP7A: likes 1032 -> 1033 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1497032 -> 1497069 (+37)
+
+## 2026-08-05T13:30:01.248986+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 33214 -> 33237 (+23)
+-     qtecqot/l9RAhmPHM_A: views 53529 -> 53560 (+31)
+-     qtecqot/l9RAhmPHM_A: likes 1587 -> 1588 (+1)
+-     ivan0135/a6TLGkrfNKI: views 710036 -> 710056 (+20)
+-     ivan0135/RsQCXN4o4Ps: views 1497069 -> 1497073 (+4)
+-     ivan0135/Xju_CY5ZESA: views 352088 -> 352093 (+5)
+
+## 2026-08-05T14:00:01.118716+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 33237 -> 33266 (+29)
+-     qtecqot/OpSTlDJWFFI: likes 1141 -> 1142 (+1)
+-     qtecqot/Oqw96jCOP7A: views 31018 -> 31067 (+49)
+-     qtecqot/Oqw96jCOP7A: likes 1033 -> 1035 (+2)
+-     qtecqot/l9RAhmPHM_A: views 53560 -> 53597 (+37)
+-     qtecqot/l9RAhmPHM_A: likes 1588 -> 1590 (+2)
+-     ivan0135/a6TLGkrfNKI: views 710056 -> 710068 (+12)
+-     ivan0135/RsQCXN4o4Ps: views 1497073 -> 1497079 (+6)
+-     ivan0135/RsQCXN4o4Ps: likes 16651 -> 16652 (+1)
+
+## 2026-08-05T14:30:01.227206+00:00
+
+- ★★ qtecqot/l9RAhmPHM_A: METADATA EDITED (updated 2026-07-28T07:07:01+00:00 -> 2026-08-05T14:02:34+00:00) — check the description
+-     qtecqot/l9RAhmPHM_A: views 53597 -> 53569 (-28)
+-     qtecqot/l9RAhmPHM_A: likes 1590 -> 1591 (+1)
+- ★★ qtecqot/OpSTlDJWFFI: METADATA EDITED (updated 2026-07-26T11:31:44+00:00 -> 2026-08-05T14:05:27+00:00) — check the description
+-     qtecqot/OpSTlDJWFFI: views 33266 -> 33293 (+27)
+-     qtecqot/OpSTlDJWFFI: likes 1142 -> 1143 (+1)
+- ★★ qtecqot/Oqw96jCOP7A: METADATA EDITED (updated 2026-07-26T01:53:26+00:00 -> 2026-08-05T14:04:32+00:00) — check the description
+-     qtecqot/Oqw96jCOP7A: views 31067 -> 31057 (-10)
+-     qtecqot/Oqw96jCOP7A: likes 1035 -> 1036 (+1)
+-     ivan0135/a6TLGkrfNKI: views 710068 -> 710070 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1497079 -> 1497089 (+10)
+-     ivan0135/RsQCXN4o4Ps: likes 16652 -> 16653 (+1)
+
+## 2026-08-05T15:00:01.621122+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 31057 -> 31086 (+29)
+-     qtecqot/l9RAhmPHM_A: views 53569 -> 53614 (+45)
+-     qtecqot/OpSTlDJWFFI: views 33293 -> 33318 (+25)
+-     ivan0135/Xju_CY5ZESA: views 352093 -> 352111 (+18)
+-     ivan0135/Xju_CY5ZESA: likes 4704 -> 4705 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1497089 -> 1497100 (+11)
+-     ivan0135/RsQCXN4o4Ps: likes 16653 -> 16654 (+1)
+-     ivan0135/a6TLGkrfNKI: views 710070 -> 710077 (+7)
+-     ivan0135/a6TLGkrfNKI: likes 8864 -> 8866 (+2)
+
+## 2026-08-05T15:30:01.266645+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 31086 -> 31111 (+25)
+-     qtecqot/Oqw96jCOP7A: likes 1036 -> 1037 (+1)
+-     qtecqot/l9RAhmPHM_A: views 53614 -> 53656 (+42)
+-     qtecqot/l9RAhmPHM_A: likes 1591 -> 1594 (+3)
+-     qtecqot/OpSTlDJWFFI: views 33318 -> 33340 (+22)
+-     qtecqot/OpSTlDJWFFI: likes 1143 -> 1145 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1497100 -> 1497114 (+14)
+-     ivan0135/a6TLGkrfNKI: views 710077 -> 710085 (+8)
+-     ivan0135/ZB788PtqQvg: views 686701 -> 686731 (+30)
+
+## 2026-08-05T16:00:01.763440+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 31111 -> 31134 (+23)
+-     qtecqot/OpSTlDJWFFI: views 33340 -> 33363 (+23)
+-     qtecqot/OpSTlDJWFFI: likes 1145 -> 1146 (+1)
+-     qtecqot/l9RAhmPHM_A: views 53656 -> 53685 (+29)
+-     ivan0135/a6TLGkrfNKI: views 710085 -> 710095 (+10)
+-     ivan0135/ZB788PtqQvg: views 686731 -> 686742 (+11)
+-     ivan0135/ZB788PtqQvg: likes 7756 -> 7757 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352111 -> 352109 (-2)
+-     ivan0135/RsQCXN4o4Ps: views 1497114 -> 1497133 (+19)
+
+## 2026-08-05T16:30:01.586776+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 31134 -> 31146 (+12)
+-     qtecqot/OpSTlDJWFFI: views 33363 -> 33390 (+27)
+-     qtecqot/l9RAhmPHM_A: views 53685 -> 53712 (+27)
+-     ivan0135/RsQCXN4o4Ps: views 1497133 -> 1497134 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352109 -> 352111 (+2)
+
+## 2026-08-05T17:00:01.222579+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 31146 -> 31176 (+30)
+-     qtecqot/Oqw96jCOP7A: likes 1037 -> 1038 (+1)
+-     qtecqot/l9RAhmPHM_A: views 53712 -> 53739 (+27)
+-     qtecqot/OpSTlDJWFFI: views 33390 -> 33415 (+25)
+-     ivan0135/RsQCXN4o4Ps: views 1497134 -> 1497163 (+29)
+-     ivan0135/RsQCXN4o4Ps: likes 16654 -> 16655 (+1)
+-     ivan0135/ZB788PtqQvg: views 686742 -> 686764 (+22)
+-     ivan0135/ZB788PtqQvg: likes 7757 -> 7758 (+1)
+
+## 2026-08-05T17:30:01.830615+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 53739 -> 53773 (+34)
+-     qtecqot/l9RAhmPHM_A: likes 1594 -> 1596 (+2)
+-     qtecqot/Oqw96jCOP7A: views 31176 -> 31200 (+24)
+-     qtecqot/Oqw96jCOP7A: likes 1038 -> 1039 (+1)
+-     qtecqot/OpSTlDJWFFI: views 33415 -> 33429 (+14)
+-     qtecqot/OpSTlDJWFFI: likes 1146 -> 1147 (+1)
+-     ivan0135/ZB788PtqQvg: views 686764 -> 686775 (+11)
+-     ivan0135/RsQCXN4o4Ps: views 1497163 -> 1497174 (+11)
+
+## 2026-08-05T18:00:01.764486+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 53773 -> 53830 (+57)
+-     qtecqot/l9RAhmPHM_A: likes 1596 -> 1597 (+1)
+-     qtecqot/OpSTlDJWFFI: views 33429 -> 33461 (+32)
+-     qtecqot/Oqw96jCOP7A: views 31200 -> 31237 (+37)
+-     qtecqot/Oqw96jCOP7A: likes 1039 -> 1040 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352111 -> 352142 (+31)
+-     ivan0135/a6TLGkrfNKI: views 710095 -> 710129 (+34)
+-     ivan0135/RsQCXN4o4Ps: views 1497174 -> 1497196 (+22)
+
+## 2026-08-05T18:30:01.103429+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 31237 -> 31262 (+25)
+-     qtecqot/OpSTlDJWFFI: views 33461 -> 33490 (+29)
+-     qtecqot/OpSTlDJWFFI: likes 1147 -> 1148 (+1)
+-     qtecqot/l9RAhmPHM_A: views 53830 -> 53866 (+36)
+-     ivan0135/RsQCXN4o4Ps: views 1497196 -> 1497212 (+16)
+-     ivan0135/RsQCXN4o4Ps: likes 16655 -> 16656 (+1)
+-     ivan0135/a6TLGkrfNKI: views 710129 -> 710140 (+11)
+-     ivan0135/ZB788PtqQvg: views 686775 -> 686791 (+16)
+-     ivan0135/ZB788PtqQvg: likes 7758 -> 7759 (+1)
+
+## 2026-08-05T19:00:01.679622+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 31262 -> 31287 (+25)
+-     qtecqot/Oqw96jCOP7A: likes 1040 -> 1041 (+1)
+-     qtecqot/l9RAhmPHM_A: views 53866 -> 53915 (+49)
+-     qtecqot/l9RAhmPHM_A: likes 1597 -> 1599 (+2)
+-     qtecqot/OpSTlDJWFFI: views 33490 -> 33526 (+36)
+-     qtecqot/OpSTlDJWFFI: likes 1148 -> 1149 (+1)
+-     ivan0135/a6TLGkrfNKI: views 710140 -> 710150 (+10)
+-     ivan0135/RsQCXN4o4Ps: views 1497212 -> 1497229 (+17)
+-     ivan0135/RsQCXN4o4Ps: likes 16656 -> 16657 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352142 -> 352161 (+19)
+-     ivan0135/ZB788PtqQvg: views 686791 -> 686800 (+9)
+
+## 2026-08-05T19:30:01.610120+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 33526 -> 33559 (+33)
+-     qtecqot/OpSTlDJWFFI: likes 1149 -> 1150 (+1)
+-     qtecqot/l9RAhmPHM_A: views 53915 -> 53952 (+37)
+-     qtecqot/l9RAhmPHM_A: likes 1599 -> 1600 (+1)
+-     qtecqot/Oqw96jCOP7A: views 31287 -> 31331 (+44)
+-     ivan0135/ZB788PtqQvg: views 686800 -> 686811 (+11)
+-     ivan0135/ZB788PtqQvg: likes 7759 -> 7760 (+1)
+-     ivan0135/a6TLGkrfNKI: views 710150 -> 710159 (+9)
+-     ivan0135/a6TLGkrfNKI: likes 8866 -> 8867 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352161 -> 352169 (+8)
+-     ivan0135/RsQCXN4o4Ps: views 1497229 -> 1497245 (+16)
+
+## 2026-08-05T20:00:01.886395+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 53952 -> 53995 (+43)
+-     qtecqot/Oqw96jCOP7A: views 31331 -> 31360 (+29)
+-     qtecqot/OpSTlDJWFFI: views 33559 -> 33593 (+34)
+-     ivan0135/a6TLGkrfNKI: views 710159 -> 710168 (+9)
+-     ivan0135/RsQCXN4o4Ps: views 1497245 -> 1497261 (+16)
+-     ivan0135/RsQCXN4o4Ps: likes 16657 -> 16658 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352169 -> 352176 (+7)
+-     ivan0135/ZB788PtqQvg: views 686811 -> 686818 (+7)
+
+## 2026-08-05T20:30:01.397227+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 53995 -> 54039 (+44)
+-     qtecqot/l9RAhmPHM_A: likes 1600 -> 1601 (+1)
+-     qtecqot/OpSTlDJWFFI: views 33593 -> 33622 (+29)
+-     qtecqot/OpSTlDJWFFI: likes 1150 -> 1151 (+1)
+-     qtecqot/Oqw96jCOP7A: views 31360 -> 31387 (+27)
+-     qtecqot/Oqw96jCOP7A: likes 1041 -> 1043 (+2)
+-     ivan0135/ZB788PtqQvg: views 686818 -> 686842 (+24)
+-     ivan0135/RsQCXN4o4Ps: views 1497261 -> 1497297 (+36)
+-     ivan0135/a6TLGkrfNKI: views 710168 -> 710194 (+26)
+-     ivan0135/Xju_CY5ZESA: views 352176 -> 352198 (+22)
+
+## 2026-08-05T21:00:01.565441+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 33622 -> 33652 (+30)
+-     qtecqot/Oqw96jCOP7A: views 31387 -> 31428 (+41)
+-     qtecqot/l9RAhmPHM_A: views 54039 -> 54084 (+45)
+-     qtecqot/l9RAhmPHM_A: likes 1601 -> 1602 (+1)
+-     ivan0135/ZB788PtqQvg: views 686842 -> 686864 (+22)
+-     ivan0135/ZB788PtqQvg: likes 7760 -> 7761 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352198 -> 352206 (+8)
+-     ivan0135/a6TLGkrfNKI: views 710194 -> 710215 (+21)
+-     ivan0135/a6TLGkrfNKI: likes 8867 -> 8868 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1497297 -> 1497323 (+26)
+-     ivan0135/RsQCXN4o4Ps: likes 16658 -> 16660 (+2)
+
+## 2026-08-05T21:30:01.713444+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 54084 -> 54118 (+34)
+-     qtecqot/OpSTlDJWFFI: views 33652 -> 33666 (+14)
+-     qtecqot/Oqw96jCOP7A: views 31428 -> 31445 (+17)
+-     ivan0135/Xju_CY5ZESA: views 352206 -> 352233 (+27)
+-     ivan0135/ZB788PtqQvg: views 686864 -> 686882 (+18)
+-     ivan0135/a6TLGkrfNKI: views 710215 -> 710239 (+24)
+-     ivan0135/RsQCXN4o4Ps: views 1497323 -> 1497355 (+32)
+
+## 2026-08-05T22:00:01.722219+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 31445 -> 31504 (+59)
+-     qtecqot/Oqw96jCOP7A: likes 1043 -> 1048 (+5)
+-     qtecqot/OpSTlDJWFFI: views 33666 -> 33735 (+69)
+-     qtecqot/OpSTlDJWFFI: likes 1151 -> 1152 (+1)
+-     qtecqot/l9RAhmPHM_A: views 54118 -> 54151 (+33)
+-     qtecqot/l9RAhmPHM_A: likes 1602 -> 1607 (+5)
+-     ivan0135/RsQCXN4o4Ps: views 1497355 -> 1497374 (+19)
+-     ivan0135/RsQCXN4o4Ps: likes 16660 -> 16661 (+1)
+-     ivan0135/ZB788PtqQvg: views 686882 -> 686895 (+13)
+-     ivan0135/ZB788PtqQvg: likes 7761 -> 7762 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352233 -> 352241 (+8)
+-     ivan0135/Xju_CY5ZESA: likes 4705 -> 4706 (+1)
+-     ivan0135/a6TLGkrfNKI: views 710239 -> 710252 (+13)
+-     ivan0135/a6TLGkrfNKI: likes 8868 -> 8869 (+1)
+
+## 2026-08-05T22:30:01.366885+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 33735 -> 33763 (+28)
+-     qtecqot/OpSTlDJWFFI: likes 1152 -> 1155 (+3)
+-     qtecqot/Oqw96jCOP7A: views 31504 -> 31535 (+31)
+-     qtecqot/Oqw96jCOP7A: likes 1048 -> 1051 (+3)
+-     qtecqot/l9RAhmPHM_A: views 54151 -> 54185 (+34)
+-     qtecqot/l9RAhmPHM_A: likes 1607 -> 1612 (+5)
+-     ivan0135/RsQCXN4o4Ps: views 1497374 -> 1497393 (+19)
+-     ivan0135/RsQCXN4o4Ps: likes 16661 -> 16663 (+2)
+-     ivan0135/Xju_CY5ZESA: views 352241 -> 352248 (+7)
+-     ivan0135/Xju_CY5ZESA: likes 4706 -> 4708 (+2)
+-     ivan0135/ZB788PtqQvg: views 686895 -> 686908 (+13)
+-     ivan0135/ZB788PtqQvg: likes 7762 -> 7764 (+2)
+-     ivan0135/a6TLGkrfNKI: views 710252 -> 710268 (+16)
+-     ivan0135/a6TLGkrfNKI: likes 8869 -> 8872 (+3)
+
+## 2026-08-05T23:00:01.215759+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 33763 -> 33800 (+37)
+-     qtecqot/OpSTlDJWFFI: likes 1155 -> 1156 (+1)
+-     qtecqot/l9RAhmPHM_A: views 54185 -> 54237 (+52)
+-     qtecqot/l9RAhmPHM_A: likes 1612 -> 1613 (+1)
+-     qtecqot/Oqw96jCOP7A: views 31535 -> 31564 (+29)
+-     qtecqot/Oqw96jCOP7A: likes 1051 -> 1052 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352248 -> 352263 (+15)
+-     ivan0135/Xju_CY5ZESA: likes 4708 -> 4709 (+1)
+-     ivan0135/ZB788PtqQvg: views 686908 -> 686922 (+14)
+-     ivan0135/ZB788PtqQvg: likes 7764 -> 7765 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1497393 -> 1497403 (+10)
+-     ivan0135/RsQCXN4o4Ps: likes 16663 -> 16665 (+2)
+-     ivan0135/a6TLGkrfNKI: views 710268 -> 710279 (+11)
+-     ivan0135/a6TLGkrfNKI: likes 8872 -> 8874 (+2)
+
+## 2026-08-05T23:30:01.611123+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 31564 -> 31598 (+34)
+-     qtecqot/l9RAhmPHM_A: views 54237 -> 54270 (+33)
+-     qtecqot/l9RAhmPHM_A: likes 1613 -> 1614 (+1)
+-     qtecqot/OpSTlDJWFFI: views 33800 -> 33833 (+33)
+-     qtecqot/OpSTlDJWFFI: likes 1156 -> 1158 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1497403 -> 1497448 (+45)
+-     ivan0135/RsQCXN4o4Ps: likes 16665 -> 16667 (+2)
+-     ivan0135/Xju_CY5ZESA: views 352263 -> 352289 (+26)
+-     ivan0135/Xju_CY5ZESA: likes 4709 -> 4710 (+1)
+-     ivan0135/ZB788PtqQvg: views 686922 -> 686936 (+14)
+-     ivan0135/ZB788PtqQvg: likes 7765 -> 7767 (+2)
+-     ivan0135/a6TLGkrfNKI: views 710279 -> 710311 (+32)
+
+## 2026-08-06T00:00:01.266411+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 33833 -> 33829 (-4)
+-     qtecqot/OpSTlDJWFFI: likes 1158 -> 1160 (+2)
+-     qtecqot/l9RAhmPHM_A: views 54270 -> 54321 (+51)
+-     qtecqot/l9RAhmPHM_A: likes 1614 -> 1617 (+3)
+-     qtecqot/Oqw96jCOP7A: views 31598 -> 31636 (+38)
+-     qtecqot/Oqw96jCOP7A: likes 1052 -> 1054 (+2)
+-     ivan0135/a6TLGkrfNKI: views 710311 -> 710349 (+38)
+-     ivan0135/RsQCXN4o4Ps: views 1497448 -> 1497496 (+48)
+-     ivan0135/RsQCXN4o4Ps: likes 16667 -> 16668 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352289 -> 352318 (+29)
+-     ivan0135/ZB788PtqQvg: views 686936 -> 686969 (+33)
+
+## 2026-08-06T00:30:01.678547+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 31636 -> 31678 (+42)
+-     qtecqot/Oqw96jCOP7A: likes 1054 -> 1055 (+1)
+-     qtecqot/l9RAhmPHM_A: views 54321 -> 54379 (+58)
+-     qtecqot/l9RAhmPHM_A: likes 1617 -> 1620 (+3)
+-     qtecqot/OpSTlDJWFFI: views 33829 -> 33870 (+41)
+-     qtecqot/OpSTlDJWFFI: likes 1160 -> 1162 (+2)
+-     ivan0135/ZB788PtqQvg: views 686969 -> 686982 (+13)
+-     ivan0135/a6TLGkrfNKI: views 710349 -> 710375 (+26)
+-     ivan0135/a6TLGkrfNKI: likes 8874 -> 8875 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1497496 -> 1497520 (+24)
+-     ivan0135/Xju_CY5ZESA: views 352318 -> 352335 (+17)
+
+## 2026-08-06T01:00:01.878095+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 31678 -> 31723 (+45)
+-     qtecqot/Oqw96jCOP7A: likes 1055 -> 1058 (+3)
+-     qtecqot/OpSTlDJWFFI: views 33870 -> 33916 (+46)
+-     qtecqot/OpSTlDJWFFI: likes 1162 -> 1164 (+2)
+-     qtecqot/l9RAhmPHM_A: views 54379 -> 54436 (+57)
+-     qtecqot/l9RAhmPHM_A: likes 1620 -> 1624 (+4)
+-     ivan0135/ZB788PtqQvg: views 686982 -> 687009 (+27)
+-     ivan0135/RsQCXN4o4Ps: views 1497520 -> 1497560 (+40)
+-     ivan0135/Xju_CY5ZESA: views 352335 -> 352354 (+19)
+-     ivan0135/a6TLGkrfNKI: views 710375 -> 710401 (+26)
+
+## 2026-08-06T01:30:01.475007+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 33916 -> 33957 (+41)
+-     qtecqot/Oqw96jCOP7A: views 31723 -> 31765 (+42)
+-     qtecqot/Oqw96jCOP7A: likes 1058 -> 1059 (+1)
+-     qtecqot/l9RAhmPHM_A: views 54436 -> 54487 (+51)
+-     ivan0135/RsQCXN4o4Ps: views 1497560 -> 1497602 (+42)
+-     ivan0135/RsQCXN4o4Ps: likes 16668 -> 16671 (+3)
+-     ivan0135/Xju_CY5ZESA: views 352354 -> 352386 (+32)
+-     ivan0135/Xju_CY5ZESA: likes 4710 -> 4711 (+1)
+-     ivan0135/a6TLGkrfNKI: views 710401 -> 710435 (+34)
+-     ivan0135/a6TLGkrfNKI: likes 8875 -> 8877 (+2)
+-     ivan0135/ZB788PtqQvg: views 687009 -> 687040 (+31)
+-     ivan0135/ZB788PtqQvg: likes 7767 -> 7768 (+1)
+
+## 2026-08-06T02:00:01.794130+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 33957 -> 34001 (+44)
+-     qtecqot/OpSTlDJWFFI: likes 1164 -> 1165 (+1)
+-     qtecqot/l9RAhmPHM_A: views 54487 -> 54558 (+71)
+-     qtecqot/l9RAhmPHM_A: likes 1624 -> 1626 (+2)
+-     qtecqot/Oqw96jCOP7A: views 31765 -> 31818 (+53)
+-     qtecqot/Oqw96jCOP7A: likes 1059 -> 1061 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1497602 -> 1497657 (+55)
+-     ivan0135/RsQCXN4o4Ps: likes 16671 -> 16673 (+2)
+-     ivan0135/a6TLGkrfNKI: views 710435 -> 710465 (+30)
+-     ivan0135/a6TLGkrfNKI: likes 8877 -> 8878 (+1)
+-     ivan0135/ZB788PtqQvg: views 687040 -> 687078 (+38)
+-     ivan0135/ZB788PtqQvg: likes 7768 -> 7770 (+2)
+-     ivan0135/Xju_CY5ZESA: views 352386 -> 352413 (+27)
+
+## 2026-08-06T02:30:01.119052+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 34001 -> 34032 (+31)
+-     qtecqot/OpSTlDJWFFI: likes 1165 -> 1167 (+2)
+-     qtecqot/l9RAhmPHM_A: views 54558 -> 54598 (+40)
+-     qtecqot/l9RAhmPHM_A: likes 1626 -> 1627 (+1)
+-     qtecqot/Oqw96jCOP7A: views 31818 -> 31845 (+27)
+-     qtecqot/Oqw96jCOP7A: likes 1061 -> 1065 (+4)
+-     ivan0135/RsQCXN4o4Ps: views 1497657 -> 1497686 (+29)
+-     ivan0135/RsQCXN4o4Ps: likes 16673 -> 16675 (+2)
+-     ivan0135/a6TLGkrfNKI: views 710465 -> 710490 (+25)
+-     ivan0135/a6TLGkrfNKI: likes 8878 -> 8881 (+3)
+-     ivan0135/ZB788PtqQvg: views 687078 -> 687100 (+22)
+-     ivan0135/ZB788PtqQvg: likes 7770 -> 7771 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352413 -> 352416 (+3)
+
+## 2026-08-06T03:00:01.528178+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-06T03:30:01.336487+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-06T04:00:01.730924+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-06T04:30:01.248452+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-06T05:00:01.627917+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-06T05:30:01.280963+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-06T06:00:01.935654+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-06T06:30:01.564130+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-06T07:00:01.843326+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-06T07:30:01.927851+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+-     ivan0135/a6TLGkrfNKI: views 710823 -> 710849 (+26)
+-     ivan0135/a6TLGkrfNKI: likes 8891 -> 8892 (+1)
+-     ivan0135/ZB788PtqQvg: views 687413 -> 687445 (+32)
+-     ivan0135/RsQCXN4o4Ps: views 1498149 -> 1498170 (+21)
+-     ivan0135/RsQCXN4o4Ps: likes 16685 -> 16687 (+2)
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-06T08:00:01.935667+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 55073 -> 55118 (+45)
+-     qtecqot/l9RAhmPHM_A: likes 1643 -> 1642 (-1)
+-     qtecqot/OpSTlDJWFFI: views 34441 -> 34483 (+42)
+-     qtecqot/OpSTlDJWFFI: likes 1181 -> 1183 (+2)
+-     qtecqot/Oqw96jCOP7A: views 32202 -> 32252 (+50)
+-     qtecqot/Oqw96jCOP7A: likes 1084 -> 1086 (+2)
+-     ivan0135/Xju_CY5ZESA: views 352624 -> 352757 (+133)
+-     ivan0135/Xju_CY5ZESA: likes 4715 -> 4716 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1498170 -> 1498207 (+37)
+-     ivan0135/RsQCXN4o4Ps: likes 16687 -> 16688 (+1)
+-     ivan0135/a6TLGkrfNKI: views 710849 -> 710865 (+16)
+-     ivan0135/ZB788PtqQvg: views 687445 -> 687463 (+18)
+
+## 2026-08-06T08:30:01.296163+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 55118 -> 55153 (+35)
+-     qtecqot/l9RAhmPHM_A: likes 1642 -> 1644 (+2)
+-     qtecqot/OpSTlDJWFFI: views 34483 -> 34512 (+29)
+-     qtecqot/OpSTlDJWFFI: likes 1183 -> 1185 (+2)
+-     qtecqot/Oqw96jCOP7A: views 32252 -> 32277 (+25)
+-     ivan0135/Xju_CY5ZESA: views 352757 -> 352774 (+17)
+-     ivan0135/Xju_CY5ZESA: likes 4716 -> 4717 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1498207 -> 1498234 (+27)
+-     ivan0135/RsQCXN4o4Ps: likes 16688 -> 16690 (+2)
+-     ivan0135/ZB788PtqQvg: views 687463 -> 687475 (+12)
+-     ivan0135/ZB788PtqQvg: likes 7781 -> 7782 (+1)
+-     ivan0135/a6TLGkrfNKI: views 710865 -> 710882 (+17)
+-     ivan0135/a6TLGkrfNKI: likes 8892 -> 8894 (+2)
+
+## 2026-08-06T09:00:01.251003+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 55153 -> 55177 (+24)
+-     qtecqot/l9RAhmPHM_A: likes 1644 -> 1646 (+2)
+-     qtecqot/OpSTlDJWFFI: views 34512 -> 34538 (+26)
+-     qtecqot/OpSTlDJWFFI: likes 1185 -> 1187 (+2)
+-     qtecqot/Oqw96jCOP7A: views 32277 -> 32298 (+21)
+-     qtecqot/Oqw96jCOP7A: likes 1086 -> 1087 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352774 -> 352790 (+16)
+-     ivan0135/RsQCXN4o4Ps: views 1498234 -> 1498273 (+39)
+-     ivan0135/ZB788PtqQvg: views 687475 -> 687508 (+33)
+-     ivan0135/a6TLGkrfNKI: views 710882 -> 710903 (+21)
+
+## 2026-08-06T09:30:01.206244+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 55177 -> 55234 (+57)
+-     qtecqot/Oqw96jCOP7A: views 32298 -> 32345 (+47)
+-     qtecqot/Oqw96jCOP7A: likes 1087 -> 1088 (+1)
+-     qtecqot/OpSTlDJWFFI: views 34538 -> 34580 (+42)
+-     ivan0135/Xju_CY5ZESA: views 352790 -> 352806 (+16)
+-     ivan0135/Xju_CY5ZESA: likes 4717 -> 4718 (+1)
+-     ivan0135/ZB788PtqQvg: views 687508 -> 687527 (+19)
+-     ivan0135/RsQCXN4o4Ps: views 1498273 -> 1498299 (+26)
+-     ivan0135/RsQCXN4o4Ps: likes 16690 -> 16691 (+1)
+-     ivan0135/a6TLGkrfNKI: views 710903 -> 710925 (+22)
+-     ivan0135/a6TLGkrfNKI: likes 8894 -> 8895 (+1)
+
+## 2026-08-06T10:00:01.210112+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 34580 -> 34667 (+87)
+-     qtecqot/l9RAhmPHM_A: views 55234 -> 55315 (+81)
+-     qtecqot/Oqw96jCOP7A: views 32345 -> 32435 (+90)
+-     ivan0135/RsQCXN4o4Ps: views 1498299 -> 1498342 (+43)
+-     ivan0135/a6TLGkrfNKI: views 710925 -> 710958 (+33)
+-     ivan0135/ZB788PtqQvg: views 687527 -> 687542 (+15)
+-     ivan0135/Xju_CY5ZESA: views 352806 -> 352833 (+27)
+
+## 2026-08-06T10:30:01.340504+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 55315 -> 55335 (+20)
+-     qtecqot/l9RAhmPHM_A: likes 1646 -> 1647 (+1)
+-     qtecqot/OpSTlDJWFFI: views 34667 -> 34683 (+16)
+-     qtecqot/Oqw96jCOP7A: views 32435 -> 32445 (+10)
+-     qtecqot/Oqw96jCOP7A: likes 1088 -> 1089 (+1)
+-     ivan0135/ZB788PtqQvg: views 687542 -> 687546 (+4)
+-     ivan0135/RsQCXN4o4Ps: views 1498342 -> 1498360 (+18)
+-     ivan0135/RsQCXN4o4Ps: likes 16691 -> 16692 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352833 -> 352836 (+3)
+-     ivan0135/a6TLGkrfNKI: views 710958 -> 710966 (+8)
+
+## 2026-08-06T11:00:01.436550+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 34683 -> 34690 (+7)
+-     qtecqot/OpSTlDJWFFI: likes 1187 -> 1188 (+1)
+-     qtecqot/l9RAhmPHM_A: views 55335 -> 55370 (+35)
+-     qtecqot/l9RAhmPHM_A: likes 1647 -> 1648 (+1)
+-     qtecqot/Oqw96jCOP7A: views 32445 -> 32454 (+9)
+-     qtecqot/Oqw96jCOP7A: likes 1089 -> 1090 (+1)
+-     ivan0135/a6TLGkrfNKI: views 710966 -> 710969 (+3)
+-     ivan0135/Xju_CY5ZESA: views 352836 -> 352841 (+5)
+-     ivan0135/RsQCXN4o4Ps: views 1498360 -> 1498368 (+8)
+
+## 2026-08-06T11:30:01.190815+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 55370 -> 55382 (+12)
+-     qtecqot/l9RAhmPHM_A: likes 1648 -> 1647 (-1)
+-     qtecqot/Oqw96jCOP7A: views 32454 -> 32464 (+10)
+-     qtecqot/OpSTlDJWFFI: views 34690 -> 34705 (+15)
+-     qtecqot/OpSTlDJWFFI: likes 1188 -> 1189 (+1)
+-     ivan0135/a6TLGkrfNKI: views 710969 -> 710984 (+15)
+-     ivan0135/a6TLGkrfNKI: likes 8895 -> 8896 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352841 -> 352849 (+8)
+-     ivan0135/Xju_CY5ZESA: likes 4718 -> 4719 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1498368 -> 1498388 (+20)
+-     ivan0135/RsQCXN4o4Ps: likes 16692 -> 16694 (+2)
+-     ivan0135/ZB788PtqQvg: views 687546 -> 687574 (+28)
+-     ivan0135/ZB788PtqQvg: likes 7782 -> 7784 (+2)
+
+## 2026-08-06T12:00:01.499892+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 34705 -> 34724 (+19)
+-     qtecqot/OpSTlDJWFFI: likes 1189 -> 1188 (-1)
+-     qtecqot/l9RAhmPHM_A: views 55382 -> 55403 (+21)
+-     qtecqot/l9RAhmPHM_A: likes 1647 -> 1648 (+1)
+-     qtecqot/Oqw96jCOP7A: views 32464 -> 32478 (+14)
+-     qtecqot/Oqw96jCOP7A: likes 1090 -> 1091 (+1)
+-     ivan0135/a6TLGkrfNKI: views 710984 -> 710999 (+15)
+-     ivan0135/a6TLGkrfNKI: likes 8896 -> 8897 (+1)
+-     ivan0135/ZB788PtqQvg: views 687574 -> 687592 (+18)
+-     ivan0135/ZB788PtqQvg: likes 7784 -> 7785 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352849 -> 352861 (+12)
+-     ivan0135/Xju_CY5ZESA: likes 4719 -> 4721 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1498388 -> 1498410 (+22)
+-     ivan0135/RsQCXN4o4Ps: likes 16694 -> 16696 (+2)
+
+## 2026-08-06T12:30:01.314100+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 34724 -> 34739 (+15)
+-     qtecqot/OpSTlDJWFFI: likes 1188 -> 1191 (+3)
+-     qtecqot/l9RAhmPHM_A: views 55403 -> 55419 (+16)
+-     qtecqot/l9RAhmPHM_A: likes 1648 -> 1652 (+4)
+-     qtecqot/Oqw96jCOP7A: views 32478 -> 32493 (+15)
+-     qtecqot/Oqw96jCOP7A: likes 1091 -> 1092 (+1)
+-     ivan0135/a6TLGkrfNKI: views 710999 -> 711019 (+20)
+-     ivan0135/a6TLGkrfNKI: likes 8897 -> 8898 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1498410 -> 1498428 (+18)
+-     ivan0135/ZB788PtqQvg: views 687592 -> 687599 (+7)
+-     ivan0135/Xju_CY5ZESA: views 352861 -> 352873 (+12)
+
+## 2026-08-06T13:00:01.973869+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 34739 -> 34766 (+27)
+-     qtecqot/Oqw96jCOP7A: views 32493 -> 32508 (+15)
+-     qtecqot/l9RAhmPHM_A: views 55419 -> 55440 (+21)
+-     qtecqot/l9RAhmPHM_A: likes 1652 -> 1653 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1498428 -> 1498451 (+23)
+-     ivan0135/a6TLGkrfNKI: views 711019 -> 711035 (+16)
+-     ivan0135/a6TLGkrfNKI: likes 8898 -> 8899 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352873 -> 352885 (+12)
+
+## 2026-08-06T13:30:01.157834+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 32508 -> 32533 (+25)
+-     qtecqot/l9RAhmPHM_A: views 55440 -> 55477 (+37)
+-     qtecqot/l9RAhmPHM_A: likes 1653 -> 1655 (+2)
+-     qtecqot/OpSTlDJWFFI: views 34766 -> 34791 (+25)
+-     qtecqot/OpSTlDJWFFI: likes 1191 -> 1192 (+1)
+-     ivan0135/ZB788PtqQvg: views 687599 -> 687642 (+43)
+-     ivan0135/ZB788PtqQvg: likes 7785 -> 7786 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1498451 -> 1498472 (+21)
+-     ivan0135/RsQCXN4o4Ps: likes 16696 -> 16697 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711035 -> 711050 (+15)
+
+## 2026-08-06T14:00:01.796723+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 34791 -> 34818 (+27)
+-     qtecqot/Oqw96jCOP7A: views 32533 -> 32557 (+24)
+-     qtecqot/Oqw96jCOP7A: likes 1092 -> 1093 (+1)
+-     qtecqot/l9RAhmPHM_A: views 55477 -> 55502 (+25)
+-     qtecqot/l9RAhmPHM_A: likes 1655 -> 1656 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1498472 -> 1498498 (+26)
+-     ivan0135/ZB788PtqQvg: views 687642 -> 687643 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352885 -> 352906 (+21)
+-     ivan0135/Xju_CY5ZESA: likes 4721 -> 4722 (+1)
+
+## 2026-08-06T14:30:01.440863+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 32557 -> 32581 (+24)
+-     qtecqot/l9RAhmPHM_A: views 55502 -> 55537 (+35)
+-     qtecqot/OpSTlDJWFFI: views 34818 -> 34842 (+24)
+-     qtecqot/OpSTlDJWFFI: likes 1192 -> 1193 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1498498 -> 1498524 (+26)
+-     ivan0135/RsQCXN4o4Ps: likes 16697 -> 16698 (+1)
+-     ivan0135/Xju_CY5ZESA: views 352906 -> 352919 (+13)
+-     ivan0135/a6TLGkrfNKI: views 711050 -> 711088 (+38)
+-     ivan0135/a6TLGkrfNKI: likes 8899 -> 8900 (+1)
+
+## 2026-08-06T15:00:02.001976+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 32581 -> 32604 (+23)
+-     qtecqot/Oqw96jCOP7A: likes 1093 -> 1095 (+2)
+-     qtecqot/l9RAhmPHM_A: views 55537 -> 55570 (+33)
+-     qtecqot/l9RAhmPHM_A: likes 1656 -> 1658 (+2)
+-     qtecqot/OpSTlDJWFFI: views 34842 -> 34867 (+25)
+-     qtecqot/OpSTlDJWFFI: likes 1193 -> 1195 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1498524 -> 1498551 (+27)
+-     ivan0135/RsQCXN4o4Ps: likes 16698 -> 16701 (+3)
+-     ivan0135/Xju_CY5ZESA: views 352919 -> 352935 (+16)
+-     ivan0135/Xju_CY5ZESA: likes 4722 -> 4723 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711088 -> 711107 (+19)
+-     ivan0135/a6TLGkrfNKI: likes 8900 -> 8902 (+2)
+-     ivan0135/ZB788PtqQvg: views 687643 -> 687694 (+51)
+
+## 2026-08-06T15:30:01.125945+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 55570 -> 55614 (+44)
+-     qtecqot/OpSTlDJWFFI: views 34867 -> 34898 (+31)
+-     qtecqot/OpSTlDJWFFI: likes 1195 -> 1197 (+2)
+-     qtecqot/Oqw96jCOP7A: views 32604 -> 32638 (+34)
+-     qtecqot/Oqw96jCOP7A: likes 1095 -> 1096 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711107 -> 711132 (+25)
+-     ivan0135/Xju_CY5ZESA: views 352935 -> 352938 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1498551 -> 1498579 (+28)
+-     ivan0135/ZB788PtqQvg: views 687694 -> 687716 (+22)
+
+## 2026-08-06T16:00:01.950855+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 34898 -> 34924 (+26)
+-     qtecqot/OpSTlDJWFFI: likes 1197 -> 1200 (+3)
+-     qtecqot/l9RAhmPHM_A: views 55614 -> 55661 (+47)
+-     qtecqot/l9RAhmPHM_A: likes 1658 -> 1664 (+6)
+-     qtecqot/Oqw96jCOP7A: views 32638 -> 32664 (+26)
+-     qtecqot/Oqw96jCOP7A: likes 1096 -> 1099 (+3)
+-     ivan0135/ZB788PtqQvg: views 687716 -> 687742 (+26)
+-     ivan0135/ZB788PtqQvg: likes 7786 -> 7787 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711132 -> 711153 (+21)
+-     ivan0135/RsQCXN4o4Ps: views 1498579 -> 1498614 (+35)
+-     ivan0135/RsQCXN4o4Ps: likes 16701 -> 16702 (+1)
+
+## 2026-08-06T16:30:01.498664+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 55661 -> 55698 (+37)
+-     qtecqot/l9RAhmPHM_A: likes 1664 -> 1667 (+3)
+-     qtecqot/OpSTlDJWFFI: views 34924 -> 34961 (+37)
+-     qtecqot/OpSTlDJWFFI: likes 1200 -> 1203 (+3)
+-     qtecqot/Oqw96jCOP7A: views 32664 -> 32693 (+29)
+-     qtecqot/Oqw96jCOP7A: likes 1099 -> 1101 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1498614 -> 1498657 (+43)
+-     ivan0135/RsQCXN4o4Ps: likes 16702 -> 16704 (+2)
+-     ivan0135/a6TLGkrfNKI: views 711153 -> 711195 (+42)
+-     ivan0135/a6TLGkrfNKI: likes 8902 -> 8904 (+2)
+-     ivan0135/Xju_CY5ZESA: views 352938 -> 353006 (+68)
+-     ivan0135/Xju_CY5ZESA: likes 4723 -> 4726 (+3)
+-     ivan0135/ZB788PtqQvg: views 687742 -> 687767 (+25)
+-     ivan0135/ZB788PtqQvg: likes 7787 -> 7790 (+3)
+
+## 2026-08-06T17:00:01.805171+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 55698 -> 55754 (+56)
+-     qtecqot/l9RAhmPHM_A: likes 1667 -> 1670 (+3)
+-     qtecqot/Oqw96jCOP7A: views 32693 -> 32720 (+27)
+-     qtecqot/Oqw96jCOP7A: likes 1101 -> 1104 (+3)
+-     qtecqot/OpSTlDJWFFI: views 34961 -> 34993 (+32)
+-     qtecqot/OpSTlDJWFFI: likes 1203 -> 1207 (+4)
+-     ivan0135/RsQCXN4o4Ps: views 1498657 -> 1498696 (+39)
+-     ivan0135/RsQCXN4o4Ps: likes 16704 -> 16709 (+5)
+-     ivan0135/Xju_CY5ZESA: views 353006 -> 353032 (+26)
+-     ivan0135/Xju_CY5ZESA: likes 4726 -> 4728 (+2)
+-     ivan0135/ZB788PtqQvg: views 687767 -> 687803 (+36)
+-     ivan0135/ZB788PtqQvg: likes 7790 -> 7791 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711195 -> 711223 (+28)
+-     ivan0135/a6TLGkrfNKI: likes 8904 -> 8906 (+2)
+
+## 2026-08-06T17:30:01.990364+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 55754 -> 55799 (+45)
+-     qtecqot/l9RAhmPHM_A: likes 1670 -> 1672 (+2)
+-     qtecqot/OpSTlDJWFFI: views 34993 -> 35023 (+30)
+-     qtecqot/OpSTlDJWFFI: likes 1207 -> 1210 (+3)
+-     qtecqot/Oqw96jCOP7A: views 32720 -> 32741 (+21)
+-     qtecqot/Oqw96jCOP7A: likes 1104 -> 1105 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1498696 -> 1498724 (+28)
+-     ivan0135/RsQCXN4o4Ps: likes 16709 -> 16712 (+3)
+-     ivan0135/Xju_CY5ZESA: views 353032 -> 353049 (+17)
+-     ivan0135/Xju_CY5ZESA: likes 4728 -> 4729 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711223 -> 711246 (+23)
+-     ivan0135/a6TLGkrfNKI: likes 8906 -> 8907 (+1)
+-     ivan0135/ZB788PtqQvg: views 687803 -> 687828 (+25)
+-     ivan0135/ZB788PtqQvg: likes 7791 -> 7793 (+2)
+
+## 2026-08-06T18:00:01.192894+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 35023 -> 35064 (+41)
+-     qtecqot/OpSTlDJWFFI: likes 1210 -> 1213 (+3)
+-     qtecqot/l9RAhmPHM_A: views 55799 -> 55848 (+49)
+-     qtecqot/l9RAhmPHM_A: likes 1672 -> 1675 (+3)
+-     qtecqot/Oqw96jCOP7A: views 32741 -> 32784 (+43)
+-     qtecqot/Oqw96jCOP7A: likes 1105 -> 1108 (+3)
+-     ivan0135/ZB788PtqQvg: views 687828 -> 687867 (+39)
+-     ivan0135/ZB788PtqQvg: likes 7793 -> 7794 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711246 -> 711285 (+39)
+-     ivan0135/a6TLGkrfNKI: likes 8907 -> 8908 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1498724 -> 1498769 (+45)
+-     ivan0135/RsQCXN4o4Ps: likes 16712 -> 16714 (+2)
+-     ivan0135/Xju_CY5ZESA: views 353049 -> 353077 (+28)
+-     ivan0135/Xju_CY5ZESA: likes 4729 -> 4730 (+1)
+
+## 2026-08-06T18:30:01.961481+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 35064 -> 35100 (+36)
+-     qtecqot/OpSTlDJWFFI: likes 1213 -> 1214 (+1)
+-     qtecqot/Oqw96jCOP7A: views 32784 -> 32817 (+33)
+-     qtecqot/Oqw96jCOP7A: likes 1108 -> 1110 (+2)
+-     qtecqot/l9RAhmPHM_A: views 55848 -> 55898 (+50)
+-     qtecqot/l9RAhmPHM_A: likes 1675 -> 1678 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1498769 -> 1498804 (+35)
+-     ivan0135/ZB788PtqQvg: views 687867 -> 687899 (+32)
+-     ivan0135/Xju_CY5ZESA: views 353077 -> 353104 (+27)
+-     ivan0135/a6TLGkrfNKI: views 711285 -> 711320 (+35)
+
+## 2026-08-06T19:00:01.224452+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 35100 -> 35134 (+34)
+-     qtecqot/OpSTlDJWFFI: likes 1214 -> 1216 (+2)
+-     qtecqot/Oqw96jCOP7A: views 32817 -> 32860 (+43)
+-     qtecqot/Oqw96jCOP7A: likes 1110 -> 1111 (+1)
+-     qtecqot/l9RAhmPHM_A: views 55898 -> 55943 (+45)
+-     qtecqot/l9RAhmPHM_A: likes 1678 -> 1679 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1498804 -> 1498844 (+40)
+-     ivan0135/RsQCXN4o4Ps: likes 16714 -> 16716 (+2)
+-     ivan0135/ZB788PtqQvg: views 687899 -> 687931 (+32)
+-     ivan0135/ZB788PtqQvg: likes 7794 -> 7796 (+2)
+-     ivan0135/a6TLGkrfNKI: views 711320 -> 711347 (+27)
+-     ivan0135/a6TLGkrfNKI: likes 8908 -> 8909 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353104 -> 353128 (+24)
+-     ivan0135/Xju_CY5ZESA: likes 4730 -> 4732 (+2)
+
+## 2026-08-06T19:30:01.241078+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 55943 -> 55994 (+51)
+-     qtecqot/OpSTlDJWFFI: views 35134 -> 35169 (+35)
+-     qtecqot/Oqw96jCOP7A: views 32860 -> 32904 (+44)
+-     qtecqot/Oqw96jCOP7A: likes 1111 -> 1112 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353128 -> 353150 (+22)
+-     ivan0135/a6TLGkrfNKI: views 711347 -> 711384 (+37)
+-     ivan0135/RsQCXN4o4Ps: views 1498844 -> 1498891 (+47)
+-     ivan0135/RsQCXN4o4Ps: likes 16716 -> 16717 (+1)
+
+## 2026-08-06T20:00:02.055391+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 55994 -> 56018 (+24)
+-     qtecqot/l9RAhmPHM_A: likes 1679 -> 1680 (+1)
+-     qtecqot/OpSTlDJWFFI: views 35169 -> 35192 (+23)
+-     qtecqot/OpSTlDJWFFI: likes 1216 -> 1218 (+2)
+-     qtecqot/Oqw96jCOP7A: views 32904 -> 32938 (+34)
+-     qtecqot/Oqw96jCOP7A: likes 1112 -> 1113 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1498891 -> 1498898 (+7)
+-     ivan0135/Xju_CY5ZESA: views 353150 -> 353157 (+7)
+-     ivan0135/a6TLGkrfNKI: views 711384 -> 711395 (+11)
+
+## 2026-08-06T20:30:01.972046+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 56018 -> 56085 (+67)
+-     qtecqot/l9RAhmPHM_A: likes 1680 -> 1681 (+1)
+-     qtecqot/Oqw96jCOP7A: views 32938 -> 32969 (+31)
+-     qtecqot/Oqw96jCOP7A: likes 1113 -> 1114 (+1)
+-     qtecqot/OpSTlDJWFFI: views 35192 -> 35233 (+41)
+-     qtecqot/OpSTlDJWFFI: likes 1218 -> 1219 (+1)
+-     ivan0135/ZB788PtqQvg: views 687931 -> 688022 (+91)
+-     ivan0135/ZB788PtqQvg: likes 7796 -> 7797 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1498898 -> 1498948 (+50)
+-     ivan0135/RsQCXN4o4Ps: likes 16717 -> 16720 (+3)
+-     ivan0135/Xju_CY5ZESA: views 353157 -> 353200 (+43)
+-     ivan0135/Xju_CY5ZESA: likes 4732 -> 4733 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711395 -> 711439 (+44)
+-     ivan0135/a6TLGkrfNKI: likes 8909 -> 8911 (+2)
+
+## 2026-08-06T21:00:01.223327+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 56085 -> 56130 (+45)
+-     qtecqot/Oqw96jCOP7A: views 32969 -> 33004 (+35)
+-     qtecqot/Oqw96jCOP7A: likes 1114 -> 1113 (-1)
+-     qtecqot/OpSTlDJWFFI: views 35233 -> 35269 (+36)
+-     ivan0135/Xju_CY5ZESA: views 353200 -> 353226 (+26)
+-     ivan0135/a6TLGkrfNKI: views 711439 -> 711480 (+41)
+-     ivan0135/ZB788PtqQvg: views 688022 -> 688049 (+27)
+-     ivan0135/RsQCXN4o4Ps: views 1498948 -> 1498952 (+4)
+
+## 2026-08-06T21:30:01.288722+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 35269 -> 35301 (+32)
+-     qtecqot/OpSTlDJWFFI: likes 1219 -> 1220 (+1)
+-     qtecqot/l9RAhmPHM_A: views 56130 -> 56181 (+51)
+-     qtecqot/l9RAhmPHM_A: likes 1681 -> 1682 (+1)
+-     qtecqot/Oqw96jCOP7A: views 33004 -> 33052 (+48)
+-     qtecqot/Oqw96jCOP7A: likes 1113 -> 1114 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711480 -> 711502 (+22)
+-     ivan0135/a6TLGkrfNKI: likes 8911 -> 8912 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353226 -> 353243 (+17)
+-     ivan0135/Xju_CY5ZESA: likes 4733 -> 4734 (+1)
+-     ivan0135/ZB788PtqQvg: views 688049 -> 688075 (+26)
+-     ivan0135/RsQCXN4o4Ps: views 1498952 -> 1498978 (+26)
+-     ivan0135/RsQCXN4o4Ps: likes 16720 -> 16722 (+2)
+
+## 2026-08-06T22:00:01.850749+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 33052 -> 33087 (+35)
+-     qtecqot/Oqw96jCOP7A: likes 1114 -> 1116 (+2)
+-     qtecqot/l9RAhmPHM_A: views 56181 -> 56222 (+41)
+-     qtecqot/l9RAhmPHM_A: likes 1682 -> 1685 (+3)
+-     qtecqot/OpSTlDJWFFI: views 35301 -> 35343 (+42)
+-     qtecqot/OpSTlDJWFFI: likes 1220 -> 1222 (+2)
+-     ivan0135/ZB788PtqQvg: views 688075 -> 688102 (+27)
+-     ivan0135/Xju_CY5ZESA: views 353243 -> 353246 (+3)
+-     ivan0135/a6TLGkrfNKI: views 711502 -> 711511 (+9)
+-     ivan0135/RsQCXN4o4Ps: views 1498978 -> 1499026 (+48)
+-     ivan0135/RsQCXN4o4Ps: likes 16722 -> 16723 (+1)
+
+## 2026-08-06T22:30:02.077727+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 35343 -> 35379 (+36)
+-     qtecqot/OpSTlDJWFFI: likes 1222 -> 1223 (+1)
+-     qtecqot/Oqw96jCOP7A: views 33087 -> 33123 (+36)
+-     qtecqot/Oqw96jCOP7A: likes 1116 -> 1117 (+1)
+-     qtecqot/l9RAhmPHM_A: views 56222 -> 56280 (+58)
+-     ivan0135/ZB788PtqQvg: views 688102 -> 688117 (+15)
+-     ivan0135/RsQCXN4o4Ps: views 1499026 -> 1499054 (+28)
+
+## 2026-08-06T23:00:01.477288+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 35379 -> 35404 (+25)
+-     qtecqot/OpSTlDJWFFI: likes 1223 -> 1224 (+1)
+-     qtecqot/Oqw96jCOP7A: views 33123 -> 33158 (+35)
+-     qtecqot/Oqw96jCOP7A: likes 1117 -> 1119 (+2)
+-     qtecqot/l9RAhmPHM_A: views 56280 -> 56309 (+29)
+-     qtecqot/l9RAhmPHM_A: likes 1685 -> 1689 (+4)
+-     ivan0135/Xju_CY5ZESA: views 353246 -> 353296 (+50)
+-     ivan0135/ZB788PtqQvg: views 688117 -> 688135 (+18)
+-     ivan0135/ZB788PtqQvg: likes 7797 -> 7798 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711511 -> 711586 (+75)
+-     ivan0135/a6TLGkrfNKI: likes 8912 -> 8913 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1499054 -> 1499082 (+28)
+-     ivan0135/RsQCXN4o4Ps: likes 16723 -> 16726 (+3)
+
+## 2026-08-06T23:30:01.201905+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 56309 -> 56358 (+49)
+-     qtecqot/l9RAhmPHM_A: likes 1689 -> 1691 (+2)
+-     qtecqot/OpSTlDJWFFI: views 35404 -> 35453 (+49)
+-     qtecqot/OpSTlDJWFFI: likes 1224 -> 1225 (+1)
+-     qtecqot/Oqw96jCOP7A: views 33158 -> 33202 (+44)
+-     ivan0135/ZB788PtqQvg: views 688135 -> 688160 (+25)
+-     ivan0135/a6TLGkrfNKI: views 711586 -> 711612 (+26)
+-     ivan0135/a6TLGkrfNKI: likes 8913 -> 8914 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1499082 -> 1499119 (+37)
+-     ivan0135/RsQCXN4o4Ps: likes 16726 -> 16727 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353296 -> 353302 (+6)
+
+## 2026-08-07T00:00:01.194496+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 33202 -> 33239 (+37)
+-     qtecqot/Oqw96jCOP7A: likes 1119 -> 1121 (+2)
+-     qtecqot/l9RAhmPHM_A: views 56358 -> 56393 (+35)
+-     qtecqot/l9RAhmPHM_A: likes 1691 -> 1692 (+1)
+-     qtecqot/OpSTlDJWFFI: views 35453 -> 35484 (+31)
+-     qtecqot/OpSTlDJWFFI: likes 1225 -> 1227 (+2)
+-     ivan0135/ZB788PtqQvg: views 688160 -> 688177 (+17)
+-     ivan0135/ZB788PtqQvg: likes 7798 -> 7801 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1499119 -> 1499131 (+12)
+-     ivan0135/RsQCXN4o4Ps: likes 16727 -> 16729 (+2)
+-     ivan0135/Xju_CY5ZESA: views 353302 -> 353327 (+25)
+-     ivan0135/Xju_CY5ZESA: likes 4734 -> 4735 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711612 -> 711625 (+13)
+-     ivan0135/a6TLGkrfNKI: likes 8914 -> 8915 (+1)
+
+## 2026-08-07T00:30:01.206745+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 56393 -> 56445 (+52)
+-     qtecqot/OpSTlDJWFFI: views 35484 -> 35507 (+23)
+-     qtecqot/OpSTlDJWFFI: likes 1227 -> 1228 (+1)
+-     qtecqot/Oqw96jCOP7A: views 33239 -> 33273 (+34)
+-     qtecqot/Oqw96jCOP7A: likes 1121 -> 1122 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1499131 -> 1499166 (+35)
+-     ivan0135/RsQCXN4o4Ps: likes 16729 -> 16730 (+1)
+-     ivan0135/ZB788PtqQvg: views 688177 -> 688198 (+21)
+-     ivan0135/ZB788PtqQvg: likes 7801 -> 7802 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353327 -> 353343 (+16)
+-     ivan0135/Xju_CY5ZESA: likes 4735 -> 4736 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711625 -> 711649 (+24)
+-     ivan0135/a6TLGkrfNKI: likes 8915 -> 8916 (+1)
+
+## 2026-08-07T01:00:01.895189+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 56445 -> 56491 (+46)
+-     qtecqot/l9RAhmPHM_A: likes 1692 -> 1695 (+3)
+-     qtecqot/OpSTlDJWFFI: views 35507 -> 35554 (+47)
+-     qtecqot/OpSTlDJWFFI: likes 1228 -> 1231 (+3)
+-     qtecqot/Oqw96jCOP7A: views 33273 -> 33316 (+43)
+-     qtecqot/Oqw96jCOP7A: likes 1122 -> 1125 (+3)
+-     ivan0135/a6TLGkrfNKI: views 711649 -> 711678 (+29)
+-     ivan0135/RsQCXN4o4Ps: views 1499166 -> 1499206 (+40)
+-     ivan0135/ZB788PtqQvg: views 688198 -> 688221 (+23)
+-     ivan0135/ZB788PtqQvg: likes 7802 -> 7803 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353343 -> 353360 (+17)
+
+## 2026-08-07T01:30:01.860172+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 56491 -> 56537 (+46)
+-     qtecqot/Oqw96jCOP7A: views 33316 -> 33360 (+44)
+-     qtecqot/OpSTlDJWFFI: views 35554 -> 35605 (+51)
+-     ivan0135/Xju_CY5ZESA: views 353360 -> 353375 (+15)
+-     ivan0135/Xju_CY5ZESA: likes 4736 -> 4737 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1499206 -> 1499245 (+39)
+-     ivan0135/ZB788PtqQvg: views 688221 -> 688237 (+16)
+-     ivan0135/ZB788PtqQvg: likes 7803 -> 7804 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711678 -> 711701 (+23)
+
+## 2026-08-07T02:00:01.747856+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 35605 -> 35642 (+37)
+-     qtecqot/l9RAhmPHM_A: views 56537 -> 56592 (+55)
+-     qtecqot/l9RAhmPHM_A: likes 1695 -> 1696 (+1)
+-     qtecqot/Oqw96jCOP7A: views 33360 -> 33409 (+49)
+-     qtecqot/Oqw96jCOP7A: likes 1125 -> 1126 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711701 -> 711727 (+26)
+-     ivan0135/Xju_CY5ZESA: views 353375 -> 353392 (+17)
+-     ivan0135/RsQCXN4o4Ps: views 1499245 -> 1499275 (+30)
+-     ivan0135/ZB788PtqQvg: views 688237 -> 688256 (+19)
+
+## 2026-08-07T02:30:02.057058+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-07T03:00:01.864090+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-07T03:30:01.612218+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-07T04:00:01.438297+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-07T04:30:01.613364+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ivan0135/ZB788PtqQvg: views 688332 -> 688334 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1499381 -> 1499403 (+22)
+-     ivan0135/RsQCXN4o4Ps: likes 16734 -> 16735 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353451 -> 353452 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711802 -> 711805 (+3)
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-07T05:00:01.460337+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-07T05:30:01.676205+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-07T06:00:01.901082+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-07T06:30:02.067260+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-07T07:00:01.566183+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-07T07:30:01.208105+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+-     ivan0135/RsQCXN4o4Ps: views 1499553 -> 1499596 (+43)
+-     ivan0135/ZB788PtqQvg: views 688398 -> 688483 (+85)
+-     ivan0135/Xju_CY5ZESA: views 353562 -> 353576 (+14)
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-07T08:00:01.243086+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 33651 -> 33684 (+33)
+-     qtecqot/Oqw96jCOP7A: likes 1132 -> 1133 (+1)
+-     qtecqot/l9RAhmPHM_A: views 56851 -> 56891 (+40)
+-     qtecqot/OpSTlDJWFFI: views 35863 -> 35892 (+29)
+-     ivan0135/RsQCXN4o4Ps: views 1499596 -> 1499622 (+26)
+-     ivan0135/RsQCXN4o4Ps: likes 16737 -> 16739 (+2)
+-     ivan0135/Xju_CY5ZESA: views 353576 -> 353593 (+17)
+-     ivan0135/Xju_CY5ZESA: likes 4740 -> 4741 (+1)
+-     ivan0135/a6TLGkrfNKI: views 711873 -> 711980 (+107)
+-     ivan0135/a6TLGkrfNKI: likes 8920 -> 8921 (+1)
+-     ivan0135/ZB788PtqQvg: views 688483 -> 688501 (+18)
+-     ivan0135/ZB788PtqQvg: likes 7807 -> 7808 (+1)
+
+## 2026-08-07T08:30:01.940093+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 33684 -> 33702 (+18)
+-     qtecqot/OpSTlDJWFFI: views 35892 -> 35910 (+18)
+-     qtecqot/OpSTlDJWFFI: likes 1240 -> 1241 (+1)
+-     qtecqot/l9RAhmPHM_A: views 56891 -> 56922 (+31)
+-     ivan0135/Xju_CY5ZESA: views 353593 -> 353596 (+3)
+-     ivan0135/ZB788PtqQvg: views 688501 -> 688503 (+2)
+-     ivan0135/a6TLGkrfNKI: views 711980 -> 711988 (+8)
+-     ivan0135/RsQCXN4o4Ps: views 1499622 -> 1499638 (+16)
+
+## 2026-08-07T09:00:01.682575+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 33702 -> 33714 (+12)
+-     qtecqot/Oqw96jCOP7A: likes 1133 -> 1134 (+1)
+-     qtecqot/l9RAhmPHM_A: views 56922 -> 56942 (+20)
+-     qtecqot/l9RAhmPHM_A: likes 1711 -> 1712 (+1)
+-     qtecqot/OpSTlDJWFFI: views 35910 -> 35926 (+16)
+-     qtecqot/OpSTlDJWFFI: likes 1241 -> 1243 (+2)
+-     ivan0135/Xju_CY5ZESA: views 353596 -> 353602 (+6)
+-     ivan0135/Xju_CY5ZESA: likes 4741 -> 4742 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1499638 -> 1499651 (+13)
+-     ivan0135/RsQCXN4o4Ps: likes 16739 -> 16740 (+1)
+-     ivan0135/ZB788PtqQvg: views 688503 -> 688513 (+10)
+-     ivan0135/ZB788PtqQvg: likes 7808 -> 7810 (+2)
+-     ivan0135/a6TLGkrfNKI: views 711988 -> 711997 (+9)
+-     ivan0135/a6TLGkrfNKI: likes 8921 -> 8922 (+1)
+
+## 2026-08-07T09:30:01.522268+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 56942 -> 56956 (+14)
+-     qtecqot/l9RAhmPHM_A: likes 1712 -> 1713 (+1)
+-     qtecqot/Oqw96jCOP7A: views 33714 -> 33729 (+15)
+-     qtecqot/OpSTlDJWFFI: views 35926 -> 35940 (+14)
+-     ivan0135/ZB788PtqQvg: views 688513 -> 688520 (+7)
+-     ivan0135/a6TLGkrfNKI: views 711997 -> 712004 (+7)
+-     ivan0135/a6TLGkrfNKI: likes 8922 -> 8923 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353602 -> 353610 (+8)
+-     ivan0135/Xju_CY5ZESA: likes 4742 -> 4743 (+1)
+
+## 2026-08-07T10:00:02.066391+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 33729 -> 33734 (+5)
+-     qtecqot/OpSTlDJWFFI: views 35940 -> 35953 (+13)
+-     qtecqot/l9RAhmPHM_A: views 56956 -> 56980 (+24)
+-     ivan0135/Xju_CY5ZESA: views 353610 -> 353614 (+4)
+
+## 2026-08-07T10:30:02.028491+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 56980 -> 56995 (+15)
+-     qtecqot/Oqw96jCOP7A: views 33734 -> 33752 (+18)
+-     qtecqot/OpSTlDJWFFI: views 35953 -> 35961 (+8)
+-     qtecqot/OpSTlDJWFFI: likes 1243 -> 1244 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1499651 -> 1499679 (+28)
+
+## 2026-08-07T11:00:01.939725+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 56995 -> 57003 (+8)
+-     qtecqot/OpSTlDJWFFI: views 35961 -> 35970 (+9)
+-     qtecqot/Oqw96jCOP7A: views 33752 -> 33760 (+8)
+-     ivan0135/RsQCXN4o4Ps: views 1499679 -> 1499686 (+7)
+-     ivan0135/RsQCXN4o4Ps: likes 16740 -> 16741 (+1)
+
+## 2026-08-07T11:30:01.778163+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 35970 -> 35971 (+1)
+-     qtecqot/Oqw96jCOP7A: views 33760 -> 33762 (+2)
+-     qtecqot/l9RAhmPHM_A: views 57003 -> 57024 (+21)
+-     ivan0135/RsQCXN4o4Ps: views 1499686 -> 1499701 (+15)
+-     ivan0135/RsQCXN4o4Ps: likes 16741 -> 16742 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353614 -> 353635 (+21)
+-     ivan0135/Xju_CY5ZESA: likes 4743 -> 4744 (+1)
+
+## 2026-08-07T12:00:01.098081+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 35971 -> 35999 (+28)
+-     qtecqot/OpSTlDJWFFI: likes 1244 -> 1245 (+1)
+-     qtecqot/l9RAhmPHM_A: views 57024 -> 57041 (+17)
+-     qtecqot/l9RAhmPHM_A: likes 1713 -> 1714 (+1)
+-     qtecqot/Oqw96jCOP7A: views 33762 -> 33781 (+19)
+-     ivan0135/Xju_CY5ZESA: views 353635 -> 353644 (+9)
+-     ivan0135/RsQCXN4o4Ps: views 1499701 -> 1499719 (+18)
+
+## 2026-08-07T12:30:01.226770+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 35999 -> 36002 (+3)
+-     qtecqot/Oqw96jCOP7A: views 33781 -> 33794 (+13)
+-     qtecqot/l9RAhmPHM_A: views 57041 -> 57051 (+10)
+-     qtecqot/l9RAhmPHM_A: likes 1714 -> 1715 (+1)
+-     ivan0135/ZB788PtqQvg: views 688520 -> 688566 (+46)
+-     ivan0135/Xju_CY5ZESA: views 353644 -> 353647 (+3)
+-     ivan0135/a6TLGkrfNKI: views 712004 -> 712053 (+49)
+-     ivan0135/RsQCXN4o4Ps: views 1499719 -> 1499726 (+7)
+
+## 2026-08-07T13:00:01.135941+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 57051 -> 57076 (+25)
+-     qtecqot/l9RAhmPHM_A: likes 1715 -> 1716 (+1)
+-     qtecqot/Oqw96jCOP7A: views 33794 -> 33807 (+13)
+-     ivan0135/a6TLGkrfNKI: views 712053 -> 712059 (+6)
+-     ivan0135/a6TLGkrfNKI: likes 8923 -> 8922 (-1)
+-     ivan0135/ZB788PtqQvg: views 688566 -> 688569 (+3)
+
+## 2026-08-07T13:30:01.619135+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 57076 -> 57097 (+21)
+-     qtecqot/l9RAhmPHM_A: likes 1716 -> 1719 (+3)
+-     qtecqot/Oqw96jCOP7A: views 33807 -> 33817 (+10)
+-     qtecqot/Oqw96jCOP7A: likes 1134 -> 1135 (+1)
+-     qtecqot/OpSTlDJWFFI: views 36002 -> 36032 (+30)
+-     qtecqot/OpSTlDJWFFI: likes 1245 -> 1246 (+1)
+-     ivan0135/ZB788PtqQvg: views 688569 -> 688582 (+13)
+-     ivan0135/ZB788PtqQvg: likes 7810 -> 7811 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353647 -> 353661 (+14)
+-     ivan0135/Xju_CY5ZESA: likes 4744 -> 4745 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1499726 -> 1499746 (+20)
+-     ivan0135/RsQCXN4o4Ps: likes 16742 -> 16743 (+1)
+
+## 2026-08-07T14:00:02.024293+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 36032 -> 36050 (+18)
+-     qtecqot/OpSTlDJWFFI: likes 1246 -> 1250 (+4)
+-     qtecqot/Oqw96jCOP7A: views 33817 -> 33832 (+15)
+-     qtecqot/Oqw96jCOP7A: likes 1135 -> 1137 (+2)
+-     qtecqot/l9RAhmPHM_A: views 57097 -> 57122 (+25)
+-     qtecqot/l9RAhmPHM_A: likes 1719 -> 1720 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353661 -> 353665 (+4)
+-     ivan0135/a6TLGkrfNKI: views 712059 -> 712074 (+15)
+-     ivan0135/a6TLGkrfNKI: likes 8922 -> 8923 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1499746 -> 1499758 (+12)
+
+## 2026-08-07T14:30:01.329042+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 57122 -> 57137 (+15)
+-     qtecqot/l9RAhmPHM_A: likes 1720 -> 1721 (+1)
+-     qtecqot/Oqw96jCOP7A: views 33832 -> 33843 (+11)
+-     qtecqot/OpSTlDJWFFI: views 36050 -> 36059 (+9)
+-     ivan0135/RsQCXN4o4Ps: views 1499758 -> 1499766 (+8)
+-     ivan0135/RsQCXN4o4Ps: likes 16743 -> 16744 (+1)
+-     ivan0135/a6TLGkrfNKI: views 712074 -> 712076 (+2)
+-     ivan0135/ZB788PtqQvg: views 688582 -> 688595 (+13)
+
+## 2026-08-07T15:00:01.864655+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 36059 -> 36082 (+23)
+-     qtecqot/OpSTlDJWFFI: likes 1250 -> 1251 (+1)
+-     qtecqot/l9RAhmPHM_A: views 57137 -> 57167 (+30)
+-     qtecqot/Oqw96jCOP7A: views 33843 -> 33865 (+22)
+-     ivan0135/ZB788PtqQvg: views 688595 -> 688613 (+18)
+-     ivan0135/ZB788PtqQvg: likes 7811 -> 7812 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353665 -> 353679 (+14)
+-     ivan0135/Xju_CY5ZESA: likes 4745 -> 4746 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1499766 -> 1499785 (+19)
+-     ivan0135/RsQCXN4o4Ps: likes 16744 -> 16747 (+3)
+
+## 2026-08-07T15:30:01.919049+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 33865 -> 33880 (+15)
+-     qtecqot/Oqw96jCOP7A: likes 1137 -> 1138 (+1)
+-     qtecqot/OpSTlDJWFFI: views 36082 -> 36090 (+8)
+-     qtecqot/l9RAhmPHM_A: views 57167 -> 57192 (+25)
+-     qtecqot/l9RAhmPHM_A: likes 1721 -> 1722 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353679 -> 353692 (+13)
+-     ivan0135/RsQCXN4o4Ps: views 1499785 -> 1499786 (+1)
+
+## 2026-08-07T16:00:01.464034+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 33880 -> 33898 (+18)
+-     qtecqot/OpSTlDJWFFI: views 36090 -> 36115 (+25)
+-     qtecqot/l9RAhmPHM_A: views 57192 -> 57218 (+26)
+-     ivan0135/ZB788PtqQvg: views 688613 -> 688633 (+20)
+-     ivan0135/RsQCXN4o4Ps: views 1499786 -> 1499806 (+20)
+-     ivan0135/a6TLGkrfNKI: views 712076 -> 712120 (+44)
+
+## 2026-08-07T16:30:01.801202+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 33898 -> 33926 (+28)
+-     qtecqot/Oqw96jCOP7A: likes 1138 -> 1137 (-1)
+-     qtecqot/l9RAhmPHM_A: views 57218 -> 57243 (+25)
+-     qtecqot/l9RAhmPHM_A: likes 1722 -> 1725 (+3)
+-     qtecqot/OpSTlDJWFFI: views 36115 -> 36128 (+13)
+-     ivan0135/Xju_CY5ZESA: views 353692 -> 353718 (+26)
+-     ivan0135/RsQCXN4o4Ps: views 1499806 -> 1499821 (+15)
+-     ivan0135/a6TLGkrfNKI: views 712120 -> 712129 (+9)
+-     ivan0135/a6TLGkrfNKI: likes 8923 -> 8924 (+1)
+-     ivan0135/ZB788PtqQvg: views 688633 -> 688650 (+17)
+-     ivan0135/ZB788PtqQvg: likes 7812 -> 7814 (+2)
+
+## 2026-08-07T17:00:01.488257+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 33926 -> 33941 (+15)
+-     qtecqot/Oqw96jCOP7A: likes 1137 -> 1138 (+1)
+-     qtecqot/l9RAhmPHM_A: views 57243 -> 57272 (+29)
+-     ivan0135/RsQCXN4o4Ps: views 1499821 -> 1499854 (+33)
+-     ivan0135/RsQCXN4o4Ps: likes 16747 -> 16748 (+1)
+-     ivan0135/ZB788PtqQvg: views 688650 -> 688662 (+12)
+-     ivan0135/Xju_CY5ZESA: views 353718 -> 353734 (+16)
+-     ivan0135/a6TLGkrfNKI: views 712129 -> 712151 (+22)
+-     ivan0135/a6TLGkrfNKI: likes 8924 -> 8925 (+1)
+
+## 2026-08-07T17:30:01.686227+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 33941 -> 33960 (+19)
+-     qtecqot/Oqw96jCOP7A: likes 1138 -> 1139 (+1)
+-     qtecqot/OpSTlDJWFFI: views 36128 -> 36172 (+44)
+-     qtecqot/OpSTlDJWFFI: likes 1251 -> 1252 (+1)
+-     qtecqot/l9RAhmPHM_A: views 57272 -> 57299 (+27)
+-     qtecqot/l9RAhmPHM_A: likes 1725 -> 1728 (+3)
+-     ivan0135/a6TLGkrfNKI: views 712151 -> 712163 (+12)
+-     ivan0135/Xju_CY5ZESA: views 353734 -> 353737 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1499854 -> 1499873 (+19)
+-     ivan0135/ZB788PtqQvg: views 688662 -> 688676 (+14)
+
+## 2026-08-07T18:00:01.128340+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 33960 -> 33997 (+37)
+-     qtecqot/OpSTlDJWFFI: views 36172 -> 36203 (+31)
+-     qtecqot/l9RAhmPHM_A: views 57299 -> 57342 (+43)
+-     ivan0135/Xju_CY5ZESA: views 353737 -> 353759 (+22)
+-     ivan0135/ZB788PtqQvg: views 688676 -> 688702 (+26)
+-     ivan0135/RsQCXN4o4Ps: views 1499873 -> 1499914 (+41)
+-     ivan0135/a6TLGkrfNKI: views 712163 -> 712194 (+31)
+
+## 2026-08-07T18:30:01.705302+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 33997 -> 34023 (+26)
+-     qtecqot/l9RAhmPHM_A: views 57342 -> 57380 (+38)
+-     qtecqot/l9RAhmPHM_A: likes 1728 -> 1729 (+1)
+-     qtecqot/OpSTlDJWFFI: views 36203 -> 36229 (+26)
+-     ivan0135/ZB788PtqQvg: views 688702 -> 688713 (+11)
+-     ivan0135/RsQCXN4o4Ps: views 1499914 -> 1499931 (+17)
+-     ivan0135/a6TLGkrfNKI: views 712194 -> 712213 (+19)
+-     ivan0135/Xju_CY5ZESA: views 353759 -> 353772 (+13)
+
+## 2026-08-07T19:00:01.167372+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 36229 -> 36254 (+25)
+-     qtecqot/OpSTlDJWFFI: likes 1252 -> 1254 (+2)
+-     qtecqot/Oqw96jCOP7A: views 34023 -> 34044 (+21)
+-     qtecqot/Oqw96jCOP7A: likes 1139 -> 1141 (+2)
+-     qtecqot/l9RAhmPHM_A: views 57380 -> 57404 (+24)
+-     qtecqot/l9RAhmPHM_A: likes 1729 -> 1731 (+2)
+-     ivan0135/ZB788PtqQvg: views 688713 -> 688738 (+25)
+-     ivan0135/ZB788PtqQvg: likes 7814 -> 7815 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353772 -> 353801 (+29)
+-     ivan0135/RsQCXN4o4Ps: views 1499931 -> 1499970 (+39)
+-     ivan0135/RsQCXN4o4Ps: likes 16748 -> 16750 (+2)
+-     ivan0135/a6TLGkrfNKI: views 712213 -> 712238 (+25)
+-     ivan0135/a6TLGkrfNKI: likes 8925 -> 8926 (+1)
+
+## 2026-08-07T19:30:01.148168+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 36254 -> 36279 (+25)
+-     qtecqot/Oqw96jCOP7A: views 34044 -> 34065 (+21)
+-     qtecqot/l9RAhmPHM_A: views 57404 -> 57437 (+33)
+-     qtecqot/l9RAhmPHM_A: likes 1731 -> 1732 (+1)
+-     ivan0135/ZB788PtqQvg: views 688738 -> 688763 (+25)
+-     ivan0135/ZB788PtqQvg: likes 7815 -> 7816 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1499970 -> 1499998 (+28)
+-     ivan0135/RsQCXN4o4Ps: likes 16750 -> 16751 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353801 -> 353802 (+1)
+-     ivan0135/a6TLGkrfNKI: views 712238 -> 712248 (+10)
+-     ivan0135/a6TLGkrfNKI: likes 8926 -> 8927 (+1)
+
+## 2026-08-07T20:00:01.586886+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 36279 -> 36297 (+18)
+-     qtecqot/OpSTlDJWFFI: likes 1254 -> 1255 (+1)
+-     qtecqot/Oqw96jCOP7A: views 34065 -> 34092 (+27)
+-     qtecqot/Oqw96jCOP7A: likes 1141 -> 1142 (+1)
+-     qtecqot/l9RAhmPHM_A: views 57437 -> 57471 (+34)
+-     qtecqot/l9RAhmPHM_A: likes 1732 -> 1733 (+1)
+-     ivan0135/ZB788PtqQvg: views 688763 -> 688774 (+11)
+-     ivan0135/RsQCXN4o4Ps: views 1499998 -> 1500018 (+20)
+-     ivan0135/RsQCXN4o4Ps: likes 16751 -> 16752 (+1)
+-     ivan0135/a6TLGkrfNKI: views 712248 -> 712258 (+10)
+-     ivan0135/Xju_CY5ZESA: views 353802 -> 353828 (+26)
+-     ivan0135/Xju_CY5ZESA: likes 4746 -> 4747 (+1)
+
+## 2026-08-07T20:30:01.679818+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 36297 -> 36325 (+28)
+-     qtecqot/OpSTlDJWFFI: likes 1255 -> 1256 (+1)
+-     qtecqot/l9RAhmPHM_A: views 57471 -> 57518 (+47)
+-     qtecqot/l9RAhmPHM_A: likes 1733 -> 1735 (+2)
+-     qtecqot/Oqw96jCOP7A: views 34092 -> 34127 (+35)
+-     qtecqot/Oqw96jCOP7A: likes 1142 -> 1143 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353828 -> 353832 (+4)
+-     ivan0135/RsQCXN4o4Ps: views 1500018 -> 1500046 (+28)
+-     ivan0135/RsQCXN4o4Ps: likes 16752 -> 16753 (+1)
+-     ivan0135/ZB788PtqQvg: views 688774 -> 688796 (+22)
+-     ivan0135/ZB788PtqQvg: likes 7816 -> 7817 (+1)
+-     ivan0135/a6TLGkrfNKI: views 712258 -> 712283 (+25)
+
+## 2026-08-07T21:00:01.324922+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 36325 -> 36356 (+31)
+-     qtecqot/Oqw96jCOP7A: views 34127 -> 34154 (+27)
+-     qtecqot/Oqw96jCOP7A: likes 1143 -> 1144 (+1)
+-     qtecqot/l9RAhmPHM_A: views 57518 -> 57541 (+23)
+-     qtecqot/l9RAhmPHM_A: likes 1735 -> 1736 (+1)
+-     ivan0135/ZB788PtqQvg: views 688796 -> 688805 (+9)
+-     ivan0135/ZB788PtqQvg: likes 7817 -> 7818 (+1)
+-     ivan0135/a6TLGkrfNKI: views 712283 -> 712301 (+18)
+-     ivan0135/a6TLGkrfNKI: likes 8927 -> 8929 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1500046 -> 1500075 (+29)
+-     ivan0135/RsQCXN4o4Ps: likes 16753 -> 16754 (+1)
+
+## 2026-08-07T21:30:01.411375+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 57541 -> 57583 (+42)
+-     qtecqot/l9RAhmPHM_A: likes 1736 -> 1737 (+1)
+-     qtecqot/Oqw96jCOP7A: views 34154 -> 34183 (+29)
+-     qtecqot/Oqw96jCOP7A: likes 1144 -> 1145 (+1)
+-     qtecqot/OpSTlDJWFFI: views 36356 -> 36378 (+22)
+-     ivan0135/ZB788PtqQvg: views 688805 -> 688840 (+35)
+-     ivan0135/ZB788PtqQvg: likes 7818 -> 7819 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353832 -> 353872 (+40)
+-     ivan0135/RsQCXN4o4Ps: views 1500075 -> 1500106 (+31)
+-     ivan0135/RsQCXN4o4Ps: likes 16754 -> 16756 (+2)
+-     ivan0135/a6TLGkrfNKI: views 712301 -> 712328 (+27)
+
+## 2026-08-07T22:00:01.725827+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 34183 -> 34213 (+30)
+-     qtecqot/Oqw96jCOP7A: likes 1145 -> 1147 (+2)
+-     qtecqot/OpSTlDJWFFI: views 36378 -> 36400 (+22)
+-     qtecqot/OpSTlDJWFFI: likes 1256 -> 1257 (+1)
+-     qtecqot/l9RAhmPHM_A: views 57583 -> 57621 (+38)
+-     qtecqot/l9RAhmPHM_A: likes 1737 -> 1738 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1500106 -> 1500125 (+19)
+-     ivan0135/RsQCXN4o4Ps: likes 16756 -> 16757 (+1)
+-     ivan0135/ZB788PtqQvg: views 688840 -> 688861 (+21)
+-     ivan0135/a6TLGkrfNKI: views 712328 -> 712346 (+18)
+-     ivan0135/Xju_CY5ZESA: views 353872 -> 353888 (+16)
+
+## 2026-08-07T22:30:01.971922+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 57621 -> 57656 (+35)
+-     qtecqot/l9RAhmPHM_A: likes 1738 -> 1739 (+1)
+-     qtecqot/OpSTlDJWFFI: views 36400 -> 36422 (+22)
+-     qtecqot/Oqw96jCOP7A: views 34213 -> 34255 (+42)
+-     ivan0135/a6TLGkrfNKI: views 712346 -> 712376 (+30)
+-     ivan0135/a6TLGkrfNKI: likes 8929 -> 8930 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353888 -> 353912 (+24)
+-     ivan0135/ZB788PtqQvg: views 688861 -> 688885 (+24)
+-     ivan0135/RsQCXN4o4Ps: views 1500125 -> 1500162 (+37)
+-     ivan0135/RsQCXN4o4Ps: likes 16757 -> 16758 (+1)
+
+## 2026-08-07T23:00:01.437762+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 36422 -> 36445 (+23)
+-     qtecqot/OpSTlDJWFFI: likes 1257 -> 1259 (+2)
+-     qtecqot/l9RAhmPHM_A: views 57656 -> 57676 (+20)
+-     qtecqot/l9RAhmPHM_A: likes 1739 -> 1741 (+2)
+-     qtecqot/Oqw96jCOP7A: views 34255 -> 34275 (+20)
+-     ivan0135/a6TLGkrfNKI: views 712376 -> 712389 (+13)
+-     ivan0135/a6TLGkrfNKI: likes 8930 -> 8931 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353912 -> 353920 (+8)
+-     ivan0135/RsQCXN4o4Ps: views 1500162 -> 1500174 (+12)
+-     ivan0135/ZB788PtqQvg: views 688885 -> 688897 (+12)
+
+## 2026-08-07T23:30:01.792589+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 57676 -> 57710 (+34)
+-     qtecqot/Oqw96jCOP7A: views 34275 -> 34308 (+33)
+-     qtecqot/Oqw96jCOP7A: likes 1147 -> 1148 (+1)
+-     qtecqot/OpSTlDJWFFI: views 36445 -> 36465 (+20)
+-     ivan0135/a6TLGkrfNKI: views 712389 -> 712415 (+26)
+-     ivan0135/a6TLGkrfNKI: likes 8931 -> 8932 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1500174 -> 1500214 (+40)
+-     ivan0135/RsQCXN4o4Ps: likes 16758 -> 16759 (+1)
+-     ivan0135/ZB788PtqQvg: views 688897 -> 688921 (+24)
+-     ivan0135/ZB788PtqQvg: likes 7819 -> 7820 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353920 -> 353940 (+20)
+-     ivan0135/Xju_CY5ZESA: likes 4747 -> 4748 (+1)
+
+## 2026-08-08T00:00:01.111860+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 36465 -> 36492 (+27)
+-     qtecqot/OpSTlDJWFFI: likes 1259 -> 1261 (+2)
+-     qtecqot/Oqw96jCOP7A: views 34308 -> 34337 (+29)
+-     qtecqot/Oqw96jCOP7A: likes 1148 -> 1149 (+1)
+-     qtecqot/l9RAhmPHM_A: views 57710 -> 57747 (+37)
+-     qtecqot/l9RAhmPHM_A: likes 1741 -> 1743 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1500214 -> 1500235 (+21)
+-     ivan0135/RsQCXN4o4Ps: likes 16759 -> 16760 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353940 -> 353949 (+9)
+-     ivan0135/Xju_CY5ZESA: likes 4748 -> 4749 (+1)
+-     ivan0135/a6TLGkrfNKI: views 712415 -> 712421 (+6)
+-     ivan0135/ZB788PtqQvg: views 688921 -> 688935 (+14)
+-     ivan0135/ZB788PtqQvg: likes 7820 -> 7822 (+2)
+
+## 2026-08-08T00:30:01.156567+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 57747 -> 57771 (+24)
+-     qtecqot/l9RAhmPHM_A: likes 1743 -> 1744 (+1)
+-     qtecqot/OpSTlDJWFFI: views 36492 -> 36523 (+31)
+-     qtecqot/OpSTlDJWFFI: likes 1261 -> 1262 (+1)
+-     qtecqot/Oqw96jCOP7A: views 34337 -> 34358 (+21)
+-     qtecqot/Oqw96jCOP7A: likes 1149 -> 1150 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353949 -> 353957 (+8)
+-     ivan0135/ZB788PtqQvg: views 688935 -> 688940 (+5)
+-     ivan0135/RsQCXN4o4Ps: views 1500235 -> 1500248 (+13)
+-     ivan0135/RsQCXN4o4Ps: likes 16760 -> 16761 (+1)
+
+## 2026-08-08T01:00:01.413793+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 57771 -> 57803 (+32)
+-     qtecqot/l9RAhmPHM_A: likes 1744 -> 1746 (+2)
+-     qtecqot/Oqw96jCOP7A: views 34358 -> 34393 (+35)
+-     qtecqot/OpSTlDJWFFI: views 36523 -> 36555 (+32)
+-     ivan0135/ZB788PtqQvg: views 688940 -> 688973 (+33)
+-     ivan0135/ZB788PtqQvg: likes 7822 -> 7823 (+1)
+-     ivan0135/a6TLGkrfNKI: views 712421 -> 712466 (+45)
+-     ivan0135/a6TLGkrfNKI: likes 8932 -> 8933 (+1)
+-     ivan0135/Xju_CY5ZESA: views 353957 -> 353979 (+22)
+-     ivan0135/Xju_CY5ZESA: likes 4749 -> 4750 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1500248 -> 1500290 (+42)
+-     ivan0135/RsQCXN4o4Ps: likes 16761 -> 16763 (+2)
+
+## 2026-08-08T01:30:01.357597+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 36555 -> 36564 (+9)
+-     qtecqot/OpSTlDJWFFI: likes 1262 -> 1263 (+1)
+-     qtecqot/Oqw96jCOP7A: views 34393 -> 34413 (+20)
+-     qtecqot/Oqw96jCOP7A: likes 1150 -> 1151 (+1)
+-     qtecqot/l9RAhmPHM_A: views 57803 -> 57822 (+19)
+-     qtecqot/l9RAhmPHM_A: likes 1746 -> 1749 (+3)
+-     ivan0135/a6TLGkrfNKI: views 712466 -> 712480 (+14)
+-     ivan0135/Xju_CY5ZESA: views 353979 -> 353988 (+9)
+-     ivan0135/ZB788PtqQvg: views 688973 -> 688985 (+12)
+-     ivan0135/RsQCXN4o4Ps: views 1500290 -> 1500311 (+21)
+
+## 2026-08-08T02:00:01.686038+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 57822 -> 57852 (+30)
+-     qtecqot/Oqw96jCOP7A: views 34413 -> 34441 (+28)
+-     qtecqot/OpSTlDJWFFI: views 36564 -> 36593 (+29)
+-     ivan0135/RsQCXN4o4Ps: views 1500311 -> 1500338 (+27)
+-     ivan0135/RsQCXN4o4Ps: likes 16763 -> 16765 (+2)
+-     ivan0135/Xju_CY5ZESA: views 353988 -> 354003 (+15)
+-     ivan0135/Xju_CY5ZESA: likes 4750 -> 4752 (+2)
+-     ivan0135/ZB788PtqQvg: views 688985 -> 688998 (+13)
+-     ivan0135/a6TLGkrfNKI: views 712480 -> 712501 (+21)
+-     ivan0135/a6TLGkrfNKI: likes 8933 -> 8934 (+1)
+
+## 2026-08-08T02:30:01.206992+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 57852 -> 57881 (+29)
+-     qtecqot/l9RAhmPHM_A: likes 1749 -> 1750 (+1)
+-     qtecqot/Oqw96jCOP7A: views 34441 -> 34467 (+26)
+-     qtecqot/Oqw96jCOP7A: likes 1151 -> 1152 (+1)
+-     qtecqot/OpSTlDJWFFI: views 36593 -> 36616 (+23)
+-     qtecqot/OpSTlDJWFFI: likes 1263 -> 1264 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354003 -> 354010 (+7)
+-     ivan0135/Xju_CY5ZESA: likes 4752 -> 4753 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1500338 -> 1500352 (+14)
+-     ivan0135/RsQCXN4o4Ps: likes 16765 -> 16767 (+2)
+-     ivan0135/ZB788PtqQvg: views 688998 -> 689014 (+16)
+-     ivan0135/ZB788PtqQvg: likes 7823 -> 7824 (+1)
+-     ivan0135/a6TLGkrfNKI: views 712501 -> 712509 (+8)
+-     ivan0135/a6TLGkrfNKI: likes 8934 -> 8935 (+1)
+
+## 2026-08-08T03:00:01.509932+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 57881 -> 57908 (+27)
+-     qtecqot/l9RAhmPHM_A: likes 1750 -> 1751 (+1)
+-     qtecqot/OpSTlDJWFFI: views 36616 -> 36639 (+23)
+-     qtecqot/Oqw96jCOP7A: views 34467 -> 34487 (+20)
+-     ivan0135/ZB788PtqQvg: views 689014 -> 689018 (+4)
+-     ivan0135/RsQCXN4o4Ps: views 1500352 -> 1500377 (+25)
+-     ivan0135/a6TLGkrfNKI: views 712509 -> 712511 (+2)
+
+## 2026-08-08T03:30:01.452701+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 57908 -> 57940 (+32)
+-     qtecqot/Oqw96jCOP7A: views 34487 -> 34514 (+27)
+-     qtecqot/OpSTlDJWFFI: views 36639 -> 36662 (+23)
+-     ivan0135/a6TLGkrfNKI: views 712511 -> 712550 (+39)
+-     ivan0135/a6TLGkrfNKI: likes 8935 -> 8936 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1500377 -> 1500403 (+26)
+-     ivan0135/RsQCXN4o4Ps: likes 16767 -> 16768 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354010 -> 354036 (+26)
+-     ivan0135/Xju_CY5ZESA: likes 4753 -> 4754 (+1)
+
+## 2026-08-08T04:00:01.072324+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 36662 -> 36688 (+26)
+-     qtecqot/Oqw96jCOP7A: views 34514 -> 34539 (+25)
+-     qtecqot/l9RAhmPHM_A: views 57940 -> 57976 (+36)
+-     qtecqot/l9RAhmPHM_A: likes 1751 -> 1752 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1500403 -> 1500442 (+39)
+-     ivan0135/RsQCXN4o4Ps: likes 16768 -> 16769 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354036 -> 354060 (+24)
+-     ivan0135/a6TLGkrfNKI: views 712550 -> 712579 (+29)
+
+## 2026-08-08T04:30:02.003275+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 57976 -> 58003 (+27)
+-     qtecqot/Oqw96jCOP7A: views 34539 -> 34560 (+21)
+-     qtecqot/OpSTlDJWFFI: views 36688 -> 36705 (+17)
+-     qtecqot/OpSTlDJWFFI: likes 1264 -> 1265 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354060 -> 354070 (+10)
+-     ivan0135/ZB788PtqQvg: views 689018 -> 689092 (+74)
+-     ivan0135/a6TLGkrfNKI: views 712579 -> 712596 (+17)
+-     ivan0135/a6TLGkrfNKI: likes 8936 -> 8937 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1500442 -> 1500463 (+21)
+-     ivan0135/RsQCXN4o4Ps: likes 16769 -> 16770 (+1)
+
+## 2026-08-08T05:00:01.386363+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 58003 -> 58040 (+37)
+-     qtecqot/OpSTlDJWFFI: views 36705 -> 36732 (+27)
+-     qtecqot/Oqw96jCOP7A: views 34560 -> 34586 (+26)
+-     ivan0135/Xju_CY5ZESA: views 354070 -> 354077 (+7)
+-     ivan0135/a6TLGkrfNKI: views 712596 -> 712607 (+11)
+-     ivan0135/RsQCXN4o4Ps: views 1500463 -> 1500480 (+17)
+-     ivan0135/RsQCXN4o4Ps: likes 16770 -> 16771 (+1)
+
+## 2026-08-08T05:30:01.395475+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 58040 -> 58074 (+34)
+-     qtecqot/OpSTlDJWFFI: views 36732 -> 36759 (+27)
+-     qtecqot/Oqw96jCOP7A: views 34586 -> 34611 (+25)
+-     qtecqot/Oqw96jCOP7A: likes 1152 -> 1151 (-1)
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-08T06:00:01.757215+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-08T06:30:01.095001+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-08T07:00:01.511394+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-08T07:30:02.000613+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-08T08:00:01.724310+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 58179 -> 58144 (-35)
+-     ivan0135/Xju_CY5ZESA: views 354136 -> 354150 (+14)
+-     ivan0135/RsQCXN4o4Ps: views 1500581 -> 1500585 (+4)
+-     ivan0135/a6TLGkrfNKI: views 712671 -> 712686 (+15)
+
+## 2026-08-08T08:30:01.386761+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 58144 -> 58165 (+21)
+-     ivan0135/a6TLGkrfNKI: views 712686 -> 712692 (+6)
+-     ivan0135/Xju_CY5ZESA: views 354150 -> 354156 (+6)
+
+## 2026-08-08T09:00:01.798492+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 58165 -> 58190 (+25)
+-     ivan0135/a6TLGkrfNKI: views 712692 -> 712702 (+10)
+-     ivan0135/a6TLGkrfNKI: likes 8939 -> 8941 (+2)
+
+## 2026-08-08T09:30:01.371581+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 58190 -> 58208 (+18)
+-     qtecqot/Oqw96jCOP7A: views 34682 -> 34738 (+56)
+-     qtecqot/OpSTlDJWFFI: views 36800 -> 36872 (+72)
+-     qtecqot/OpSTlDJWFFI: likes 1266 -> 1268 (+2)
+-     ivan0135/ZB788PtqQvg: views 689152 -> 689221 (+69)
+-     ivan0135/ZB788PtqQvg: likes 7825 -> 7826 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354156 -> 354173 (+17)
+-     ivan0135/Xju_CY5ZESA: likes 4755 -> 4756 (+1)
+-     ivan0135/a6TLGkrfNKI: views 712702 -> 712715 (+13)
+-     ivan0135/a6TLGkrfNKI: likes 8941 -> 8942 (+1)
+
+## 2026-08-08T10:00:01.822411+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 36872 -> 36886 (+14)
+-     qtecqot/l9RAhmPHM_A: views 58208 -> 58213 (+5)
+
+## 2026-08-08T10:30:01.671252+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 58213 -> 58229 (+16)
+-     qtecqot/l9RAhmPHM_A: likes 1756 -> 1757 (+1)
+-     qtecqot/Oqw96jCOP7A: views 34738 -> 34758 (+20)
+-     qtecqot/Oqw96jCOP7A: likes 1152 -> 1153 (+1)
+-     qtecqot/OpSTlDJWFFI: views 36886 -> 36892 (+6)
+-     qtecqot/OpSTlDJWFFI: likes 1268 -> 1269 (+1)
+
+## 2026-08-08T11:00:01.101992+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 58229 -> 58246 (+17)
+-     qtecqot/l9RAhmPHM_A: likes 1757 -> 1758 (+1)
+-     qtecqot/Oqw96jCOP7A: views 34758 -> 34771 (+13)
+-     qtecqot/OpSTlDJWFFI: views 36892 -> 36903 (+11)
+-     qtecqot/OpSTlDJWFFI: likes 1269 -> 1270 (+1)
+-     ivan0135/a6TLGkrfNKI: views 712715 -> 712736 (+21)
+-     ivan0135/RsQCXN4o4Ps: views 1500585 -> 1500658 (+73)
+
+## 2026-08-08T11:30:01.115900+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 36903 -> 36906 (+3)
+-     qtecqot/l9RAhmPHM_A: views 58246 -> 58252 (+6)
+-     qtecqot/l9RAhmPHM_A: likes 1758 -> 1759 (+1)
+-     qtecqot/Oqw96jCOP7A: views 34771 -> 34779 (+8)
+-     ivan0135/RsQCXN4o4Ps: views 1500658 -> 1500676 (+18)
+-     ivan0135/RsQCXN4o4Ps: likes 16772 -> 16773 (+1)
+
+## 2026-08-08T12:00:01.469741+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 34779 -> 34791 (+12)
+-     qtecqot/l9RAhmPHM_A: views 58252 -> 58275 (+23)
+-     qtecqot/l9RAhmPHM_A: likes 1759 -> 1761 (+2)
+
+## 2026-08-08T12:30:01.151297+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 34791 -> 34793 (+2)
+-     qtecqot/l9RAhmPHM_A: views 58275 -> 58289 (+14)
+-     ivan0135/ZB788PtqQvg: views 689221 -> 689255 (+34)
+-     ivan0135/RsQCXN4o4Ps: views 1500676 -> 1500691 (+15)
+
+## 2026-08-08T13:00:01.575807+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 58289 -> 58303 (+14)
+-     qtecqot/OpSTlDJWFFI: views 36906 -> 36947 (+41)
+-     ivan0135/a6TLGkrfNKI: views 712736 -> 712757 (+21)
+-     ivan0135/ZB788PtqQvg: views 689255 -> 689264 (+9)
+-     ivan0135/Xju_CY5ZESA: views 354173 -> 354212 (+39)
+-     ivan0135/RsQCXN4o4Ps: views 1500691 -> 1500702 (+11)
+
+## 2026-08-08T13:30:01.653090+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 58303 -> 58307 (+4)
+-     qtecqot/OpSTlDJWFFI: views 36947 -> 36955 (+8)
+-     ivan0135/Xju_CY5ZESA: views 354212 -> 354217 (+5)
+-     ivan0135/ZB788PtqQvg: views 689264 -> 689265 (+1)
+
+## 2026-08-08T14:00:01.102974+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 34793 -> 34834 (+41)
+-     qtecqot/l9RAhmPHM_A: views 58307 -> 58337 (+30)
+-     qtecqot/l9RAhmPHM_A: likes 1761 -> 1762 (+1)
+-     qtecqot/OpSTlDJWFFI: views 36955 -> 36976 (+21)
+-     ivan0135/RsQCXN4o4Ps: views 1500702 -> 1500713 (+11)
+-     ivan0135/RsQCXN4o4Ps: likes 16773 -> 16774 (+1)
+
+## 2026-08-08T14:30:01.380129+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 34834 -> 34843 (+9)
+-     qtecqot/Oqw96jCOP7A: likes 1153 -> 1155 (+2)
+-     qtecqot/OpSTlDJWFFI: views 36976 -> 36992 (+16)
+-     qtecqot/l9RAhmPHM_A: views 58337 -> 58350 (+13)
+-     qtecqot/l9RAhmPHM_A: likes 1762 -> 1765 (+3)
+
+## 2026-08-08T15:00:01.778157+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 34843 -> 34858 (+15)
+-     qtecqot/Oqw96jCOP7A: likes 1155 -> 1156 (+1)
+-     qtecqot/OpSTlDJWFFI: views 36992 -> 37009 (+17)
+-     qtecqot/OpSTlDJWFFI: likes 1270 -> 1271 (+1)
+-     qtecqot/l9RAhmPHM_A: views 58350 -> 58366 (+16)
+-     qtecqot/l9RAhmPHM_A: likes 1765 -> 1766 (+1)
+-     ivan0135/ZB788PtqQvg: views 689265 -> 689302 (+37)
+-     ivan0135/ZB788PtqQvg: likes 7826 -> 7827 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1500713 -> 1500752 (+39)
+-     ivan0135/RsQCXN4o4Ps: likes 16774 -> 16775 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354217 -> 354242 (+25)
+-     ivan0135/Xju_CY5ZESA: likes 4756 -> 4757 (+1)
+-     ivan0135/a6TLGkrfNKI: views 712757 -> 712802 (+45)
+-     ivan0135/a6TLGkrfNKI: likes 8942 -> 8944 (+2)
+
+## 2026-08-08T15:30:02.012262+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 58366 -> 58379 (+13)
+-     qtecqot/OpSTlDJWFFI: views 37009 -> 37026 (+17)
+-     qtecqot/OpSTlDJWFFI: likes 1271 -> 1272 (+1)
+-     qtecqot/Oqw96jCOP7A: views 34858 -> 34871 (+13)
+-     ivan0135/ZB788PtqQvg: views 689302 -> 689318 (+16)
+-     ivan0135/ZB788PtqQvg: likes 7827 -> 7829 (+2)
+-     ivan0135/Xju_CY5ZESA: views 354242 -> 354245 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1500752 -> 1500768 (+16)
+-     ivan0135/a6TLGkrfNKI: views 712802 -> 712811 (+9)
+
+## 2026-08-08T16:00:01.438265+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 34871 -> 34886 (+15)
+-     qtecqot/l9RAhmPHM_A: views 58379 -> 58396 (+17)
+-     qtecqot/l9RAhmPHM_A: likes 1766 -> 1767 (+1)
+-     qtecqot/OpSTlDJWFFI: views 37026 -> 37037 (+11)
+-     ivan0135/a6TLGkrfNKI: views 712811 -> 712827 (+16)
+-     ivan0135/ZB788PtqQvg: views 689318 -> 689327 (+9)
+-     ivan0135/RsQCXN4o4Ps: views 1500768 -> 1500780 (+12)
+-     ivan0135/RsQCXN4o4Ps: likes 16775 -> 16776 (+1)
+
+## 2026-08-08T16:30:01.438701+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 37037 -> 37061 (+24)
+-     qtecqot/OpSTlDJWFFI: likes 1272 -> 1273 (+1)
+-     qtecqot/Oqw96jCOP7A: views 34886 -> 34910 (+24)
+-     qtecqot/Oqw96jCOP7A: likes 1156 -> 1158 (+2)
+-     qtecqot/l9RAhmPHM_A: views 58396 -> 58433 (+37)
+-     qtecqot/l9RAhmPHM_A: likes 1767 -> 1769 (+2)
+
+## 2026-08-08T17:00:01.879885+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 34910 -> 34930 (+20)
+-     qtecqot/l9RAhmPHM_A: views 58433 -> 58466 (+33)
+-     qtecqot/OpSTlDJWFFI: views 37061 -> 37082 (+21)
+-     qtecqot/OpSTlDJWFFI: likes 1273 -> 1275 (+2)
+-     ivan0135/a6TLGkrfNKI: views 712827 -> 712823 (-4)
+
+## 2026-08-08T17:30:01.462042+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 37082 -> 37103 (+21)
+-     qtecqot/OpSTlDJWFFI: likes 1275 -> 1276 (+1)
+-     qtecqot/Oqw96jCOP7A: views 34930 -> 34945 (+15)
+-     qtecqot/l9RAhmPHM_A: views 58466 -> 58485 (+19)
+-     ivan0135/RsQCXN4o4Ps: views 1500780 -> 1500835 (+55)
+
+## 2026-08-08T18:00:01.874979+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 58485 -> 58507 (+22)
+-     qtecqot/OpSTlDJWFFI: views 37103 -> 37120 (+17)
+-     qtecqot/OpSTlDJWFFI: likes 1276 -> 1278 (+2)
+-     qtecqot/Oqw96jCOP7A: views 34945 -> 34965 (+20)
+-     ivan0135/a6TLGkrfNKI: views 712823 -> 712827 (+4)
+-     ivan0135/RsQCXN4o4Ps: views 1500835 -> 1500868 (+33)
+
+## 2026-08-08T18:30:01.997878+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 58507 -> 58532 (+25)
+-     qtecqot/OpSTlDJWFFI: views 37120 -> 37148 (+28)
+-     qtecqot/Oqw96jCOP7A: views 34965 -> 34989 (+24)
+-     qtecqot/Oqw96jCOP7A: likes 1158 -> 1159 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1500868 -> 1500894 (+26)
+-     ivan0135/RsQCXN4o4Ps: likes 16776 -> 16777 (+1)
+-     ivan0135/ZB788PtqQvg: views 689327 -> 689400 (+73)
+-     ivan0135/Xju_CY5ZESA: views 354245 -> 354302 (+57)
+
+## 2026-08-08T19:00:01.512239+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 37148 -> 37168 (+20)
+-     qtecqot/OpSTlDJWFFI: likes 1278 -> 1279 (+1)
+-     qtecqot/Oqw96jCOP7A: views 34989 -> 35010 (+21)
+-     qtecqot/Oqw96jCOP7A: likes 1159 -> 1160 (+1)
+-     qtecqot/l9RAhmPHM_A: views 58532 -> 58556 (+24)
+-     qtecqot/l9RAhmPHM_A: likes 1769 -> 1771 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1500894 -> 1500908 (+14)
+-     ivan0135/ZB788PtqQvg: views 689400 -> 689414 (+14)
+-     ivan0135/ZB788PtqQvg: likes 7829 -> 7830 (+1)
+-     ivan0135/a6TLGkrfNKI: views 712827 -> 712901 (+74)
+-     ivan0135/a6TLGkrfNKI: likes 8944 -> 8945 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354302 -> 354325 (+23)
+
+## 2026-08-08T19:30:01.513158+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 35010 -> 35030 (+20)
+-     qtecqot/Oqw96jCOP7A: likes 1160 -> 1162 (+2)
+-     qtecqot/l9RAhmPHM_A: views 58556 -> 58592 (+36)
+-     qtecqot/l9RAhmPHM_A: likes 1771 -> 1773 (+2)
+-     qtecqot/OpSTlDJWFFI: views 37168 -> 37193 (+25)
+-     qtecqot/OpSTlDJWFFI: likes 1279 -> 1281 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1500908 -> 1500943 (+35)
+-     ivan0135/RsQCXN4o4Ps: likes 16777 -> 16778 (+1)
+-     ivan0135/ZB788PtqQvg: views 689414 -> 689437 (+23)
+-     ivan0135/ZB788PtqQvg: likes 7830 -> 7831 (+1)
+
+## 2026-08-08T20:00:01.975170+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 35030 -> 35047 (+17)
+-     qtecqot/Oqw96jCOP7A: likes 1162 -> 1168 (+6)
+-     qtecqot/OpSTlDJWFFI: views 37193 -> 37218 (+25)
+-     qtecqot/OpSTlDJWFFI: likes 1281 -> 1287 (+6)
+-     qtecqot/l9RAhmPHM_A: views 58592 -> 58622 (+30)
+-     qtecqot/l9RAhmPHM_A: likes 1773 -> 1781 (+8)
+-     ivan0135/RsQCXN4o4Ps: views 1500943 -> 1500961 (+18)
+-     ivan0135/a6TLGkrfNKI: views 712901 -> 712948 (+47)
+-     ivan0135/Xju_CY5ZESA: views 354325 -> 354358 (+33)
+-     ivan0135/ZB788PtqQvg: views 689437 -> 689452 (+15)
+
+## 2026-08-08T20:30:02.024560+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 58622 -> 58656 (+34)
+-     qtecqot/l9RAhmPHM_A: likes 1781 -> 1784 (+3)
+-     qtecqot/Oqw96jCOP7A: views 35047 -> 35068 (+21)
+-     qtecqot/Oqw96jCOP7A: likes 1168 -> 1173 (+5)
+-     qtecqot/OpSTlDJWFFI: views 37218 -> 37247 (+29)
+-     qtecqot/OpSTlDJWFFI: likes 1287 -> 1291 (+4)
+-     ivan0135/RsQCXN4o4Ps: views 1500961 -> 1500978 (+17)
+-     ivan0135/a6TLGkrfNKI: views 712948 -> 712959 (+11)
+-     ivan0135/ZB788PtqQvg: views 689452 -> 689469 (+17)
+-     ivan0135/Xju_CY5ZESA: views 354358 -> 354369 (+11)
+
+## 2026-08-08T21:00:01.311189+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 58656 -> 58690 (+34)
+-     qtecqot/l9RAhmPHM_A: likes 1784 -> 1787 (+3)
+-     qtecqot/Oqw96jCOP7A: views 35068 -> 35090 (+22)
+-     qtecqot/Oqw96jCOP7A: likes 1173 -> 1176 (+3)
+-     qtecqot/OpSTlDJWFFI: views 37247 -> 37273 (+26)
+-     qtecqot/OpSTlDJWFFI: likes 1291 -> 1293 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1500978 -> 1501007 (+29)
+-     ivan0135/RsQCXN4o4Ps: likes 16778 -> 16779 (+1)
+-     ivan0135/ZB788PtqQvg: views 689469 -> 689491 (+22)
+-     ivan0135/a6TLGkrfNKI: views 712959 -> 712978 (+19)
+-     ivan0135/a6TLGkrfNKI: likes 8945 -> 8946 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354369 -> 354385 (+16)
+
+## 2026-08-08T21:30:01.566331+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 37273 -> 37306 (+33)
+-     qtecqot/OpSTlDJWFFI: likes 1293 -> 1298 (+5)
+-     qtecqot/l9RAhmPHM_A: views 58690 -> 58735 (+45)
+-     qtecqot/l9RAhmPHM_A: likes 1787 -> 1795 (+8)
+-     qtecqot/Oqw96jCOP7A: views 35090 -> 35134 (+44)
+-     qtecqot/Oqw96jCOP7A: likes 1176 -> 1178 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1501007 -> 1501036 (+29)
+-     ivan0135/Xju_CY5ZESA: views 354385 -> 354400 (+15)
+-     ivan0135/ZB788PtqQvg: views 689491 -> 689515 (+24)
+
+## 2026-08-08T22:00:01.983308+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 35134 -> 35171 (+37)
+-     qtecqot/Oqw96jCOP7A: likes 1178 -> 1181 (+3)
+-     qtecqot/OpSTlDJWFFI: views 37306 -> 37351 (+45)
+-     qtecqot/OpSTlDJWFFI: likes 1298 -> 1302 (+4)
+-     qtecqot/l9RAhmPHM_A: views 58735 -> 58780 (+45)
+-     qtecqot/l9RAhmPHM_A: likes 1795 -> 1801 (+6)
+-     ivan0135/ZB788PtqQvg: views 689515 -> 689533 (+18)
+-     ivan0135/Xju_CY5ZESA: views 354400 -> 354422 (+22)
+-     ivan0135/Xju_CY5ZESA: likes 4757 -> 4758 (+1)
+-     ivan0135/a6TLGkrfNKI: views 712978 -> 713018 (+40)
+-     ivan0135/a6TLGkrfNKI: likes 8946 -> 8947 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501036 -> 1501063 (+27)
+
+## 2026-08-08T22:30:01.232750+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 35171 -> 35224 (+53)
+-     qtecqot/Oqw96jCOP7A: likes 1181 -> 1186 (+5)
+-     qtecqot/l9RAhmPHM_A: views 58780 -> 58873 (+93)
+-     qtecqot/l9RAhmPHM_A: likes 1801 -> 1810 (+9)
+-     qtecqot/OpSTlDJWFFI: views 37351 -> 37389 (+38)
+-     qtecqot/OpSTlDJWFFI: likes 1302 -> 1306 (+4)
+-     ivan0135/a6TLGkrfNKI: views 713018 -> 713035 (+17)
+-     ivan0135/a6TLGkrfNKI: likes 8947 -> 8946 (-1)
+-     ivan0135/Xju_CY5ZESA: views 354422 -> 354434 (+12)
+-     ivan0135/Xju_CY5ZESA: likes 4758 -> 4757 (-1)
+-     ivan0135/RsQCXN4o4Ps: views 1501063 -> 1501091 (+28)
+-     ivan0135/ZB788PtqQvg: views 689533 -> 689549 (+16)
+
+## 2026-08-08T23:00:01.595352+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 37389 -> 37463 (+74)
+-     qtecqot/OpSTlDJWFFI: likes 1306 -> 1313 (+7)
+-     qtecqot/Oqw96jCOP7A: views 35224 -> 35285 (+61)
+-     qtecqot/Oqw96jCOP7A: likes 1186 -> 1190 (+4)
+-     qtecqot/l9RAhmPHM_A: views 58873 -> 58956 (+83)
+-     qtecqot/l9RAhmPHM_A: likes 1810 -> 1820 (+10)
+-     ivan0135/ZB788PtqQvg: views 689549 -> 689565 (+16)
+-     ivan0135/ZB788PtqQvg: likes 7831 -> 7832 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713035 -> 713058 (+23)
+-     ivan0135/a6TLGkrfNKI: likes 8946 -> 8948 (+2)
+-     ivan0135/Xju_CY5ZESA: views 354434 -> 354445 (+11)
+-     ivan0135/Xju_CY5ZESA: likes 4757 -> 4758 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501091 -> 1501114 (+23)
+-     ivan0135/RsQCXN4o4Ps: likes 16779 -> 16780 (+1)
+
+## 2026-08-08T23:30:01.831945+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 37463 -> 37519 (+56)
+-     qtecqot/OpSTlDJWFFI: likes 1313 -> 1314 (+1)
+-     qtecqot/l9RAhmPHM_A: views 58956 -> 59025 (+69)
+-     qtecqot/Oqw96jCOP7A: views 35285 -> 35323 (+38)
+-     qtecqot/Oqw96jCOP7A: likes 1190 -> 1191 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501114 -> 1501138 (+24)
+-     ivan0135/RsQCXN4o4Ps: likes 16780 -> 16781 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713058 -> 713068 (+10)
+-     ivan0135/a6TLGkrfNKI: likes 8948 -> 8949 (+1)
+-     ivan0135/ZB788PtqQvg: views 689565 -> 689582 (+17)
+-     ivan0135/Xju_CY5ZESA: views 354445 -> 354458 (+13)
+
+## 2026-08-09T00:00:01.372139+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 37519 -> 37567 (+48)
+-     qtecqot/OpSTlDJWFFI: likes 1314 -> 1316 (+2)
+-     qtecqot/Oqw96jCOP7A: views 35323 -> 35374 (+51)
+-     qtecqot/Oqw96jCOP7A: likes 1191 -> 1193 (+2)
+-     qtecqot/l9RAhmPHM_A: views 59025 -> 59102 (+77)
+-     qtecqot/l9RAhmPHM_A: likes 1820 -> 1826 (+6)
+-     ivan0135/RsQCXN4o4Ps: views 1501138 -> 1501167 (+29)
+-     ivan0135/RsQCXN4o4Ps: likes 16781 -> 16782 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713068 -> 713096 (+28)
+-     ivan0135/a6TLGkrfNKI: likes 8949 -> 8950 (+1)
+-     ivan0135/ZB788PtqQvg: views 689582 -> 689600 (+18)
+-     ivan0135/ZB788PtqQvg: likes 7832 -> 7833 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354458 -> 354459 (+1)
+
+## 2026-08-09T00:30:01.373963+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 35374 -> 35426 (+52)
+-     qtecqot/Oqw96jCOP7A: likes 1193 -> 1194 (+1)
+-     qtecqot/OpSTlDJWFFI: views 37567 -> 37626 (+59)
+-     qtecqot/OpSTlDJWFFI: likes 1316 -> 1321 (+5)
+-     qtecqot/l9RAhmPHM_A: views 59102 -> 59184 (+82)
+-     qtecqot/l9RAhmPHM_A: likes 1826 -> 1829 (+3)
+-     ivan0135/ZB788PtqQvg: views 689600 -> 689621 (+21)
+-     ivan0135/ZB788PtqQvg: likes 7833 -> 7834 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501167 -> 1501211 (+44)
+-     ivan0135/Xju_CY5ZESA: views 354459 -> 354491 (+32)
+-     ivan0135/Xju_CY5ZESA: likes 4758 -> 4759 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713096 -> 713122 (+26)
+-     ivan0135/a6TLGkrfNKI: likes 8950 -> 8951 (+1)
+
+## 2026-08-09T01:00:01.811028+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 37626 -> 37689 (+63)
+-     qtecqot/OpSTlDJWFFI: likes 1321 -> 1324 (+3)
+-     qtecqot/Oqw96jCOP7A: views 35426 -> 35469 (+43)
+-     qtecqot/Oqw96jCOP7A: likes 1194 -> 1196 (+2)
+-     qtecqot/l9RAhmPHM_A: views 59184 -> 59263 (+79)
+-     qtecqot/l9RAhmPHM_A: likes 1829 -> 1835 (+6)
+-     ivan0135/RsQCXN4o4Ps: views 1501211 -> 1501228 (+17)
+-     ivan0135/a6TLGkrfNKI: views 713122 -> 713143 (+21)
+-     ivan0135/a6TLGkrfNKI: likes 8951 -> 8953 (+2)
+-     ivan0135/ZB788PtqQvg: views 689621 -> 689643 (+22)
+-     ivan0135/Xju_CY5ZESA: views 354491 -> 354507 (+16)
+
+## 2026-08-09T01:30:01.989889+00:00
+
+- ★★ qtecqot/l9RAhmPHM_A: METADATA EDITED (updated 2026-08-05T14:02:34+00:00 -> 2026-08-09T01:00:48+00:00) — check the description
+-     qtecqot/l9RAhmPHM_A: views 59263 -> 59324 (+61)
+-     qtecqot/l9RAhmPHM_A: likes 1835 -> 1837 (+2)
+-     qtecqot/OpSTlDJWFFI: views 37689 -> 37740 (+51)
+-     qtecqot/OpSTlDJWFFI: likes 1324 -> 1328 (+4)
+-     qtecqot/Oqw96jCOP7A: views 35469 -> 35517 (+48)
+-     qtecqot/Oqw96jCOP7A: likes 1196 -> 1199 (+3)
+-     ivan0135/a6TLGkrfNKI: views 713143 -> 713169 (+26)
+-     ivan0135/a6TLGkrfNKI: likes 8953 -> 8954 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501228 -> 1501252 (+24)
+-     ivan0135/RsQCXN4o4Ps: likes 16782 -> 16783 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354507 -> 354531 (+24)
+-     ivan0135/Xju_CY5ZESA: likes 4759 -> 4760 (+1)
+-     ivan0135/ZB788PtqQvg: views 689643 -> 689660 (+17)
+
+## 2026-08-09T02:00:01.360039+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 59324 -> 59398 (+74)
+-     qtecqot/l9RAhmPHM_A: likes 1837 -> 1839 (+2)
+-     qtecqot/Oqw96jCOP7A: views 35517 -> 35562 (+45)
+-     qtecqot/Oqw96jCOP7A: likes 1199 -> 1201 (+2)
+-     qtecqot/OpSTlDJWFFI: views 37740 -> 37784 (+44)
+-     qtecqot/OpSTlDJWFFI: likes 1328 -> 1329 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501252 -> 1501292 (+40)
+-     ivan0135/RsQCXN4o4Ps: likes 16783 -> 16784 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354531 -> 354547 (+16)
+-     ivan0135/ZB788PtqQvg: views 689660 -> 689678 (+18)
+
+## 2026-08-09T02:30:01.369671+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 35562 -> 35607 (+45)
+-     qtecqot/Oqw96jCOP7A: likes 1201 -> 1202 (+1)
+-     qtecqot/l9RAhmPHM_A: views 59398 -> 59451 (+53)
+-     qtecqot/l9RAhmPHM_A: likes 1839 -> 1844 (+5)
+-     qtecqot/OpSTlDJWFFI: views 37784 -> 37840 (+56)
+-     qtecqot/OpSTlDJWFFI: likes 1329 -> 1330 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354547 -> 354564 (+17)
+-     ivan0135/ZB788PtqQvg: views 689678 -> 689694 (+16)
+-     ivan0135/a6TLGkrfNKI: views 713169 -> 713211 (+42)
+-     ivan0135/RsQCXN4o4Ps: views 1501292 -> 1501328 (+36)
+-     ivan0135/RsQCXN4o4Ps: likes 16784 -> 16785 (+1)
+
+## 2026-08-09T03:00:01.755397+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 59451 -> 59514 (+63)
+-     qtecqot/l9RAhmPHM_A: likes 1844 -> 1845 (+1)
+-     qtecqot/OpSTlDJWFFI: views 37840 -> 37882 (+42)
+-     qtecqot/OpSTlDJWFFI: likes 1330 -> 1331 (+1)
+-     qtecqot/Oqw96jCOP7A: views 35607 -> 35650 (+43)
+-     ivan0135/ZB788PtqQvg: views 689694 -> 689714 (+20)
+-     ivan0135/a6TLGkrfNKI: views 713211 -> 713228 (+17)
+-     ivan0135/a6TLGkrfNKI: likes 8954 -> 8956 (+2)
+-     ivan0135/Xju_CY5ZESA: views 354564 -> 354585 (+21)
+-     ivan0135/RsQCXN4o4Ps: views 1501328 -> 1501349 (+21)
+
+## 2026-08-09T03:30:01.764039+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 59514 -> 59562 (+48)
+-     qtecqot/l9RAhmPHM_A: likes 1845 -> 1848 (+3)
+-     qtecqot/OpSTlDJWFFI: views 37882 -> 37931 (+49)
+-     qtecqot/OpSTlDJWFFI: likes 1331 -> 1333 (+2)
+-     qtecqot/Oqw96jCOP7A: views 35650 -> 35685 (+35)
+-     qtecqot/Oqw96jCOP7A: likes 1202 -> 1204 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1501349 -> 1501367 (+18)
+-     ivan0135/RsQCXN4o4Ps: likes 16785 -> 16786 (+1)
+-     ivan0135/ZB788PtqQvg: views 689714 -> 689726 (+12)
+-     ivan0135/ZB788PtqQvg: likes 7834 -> 7835 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713228 -> 713246 (+18)
+-     ivan0135/Xju_CY5ZESA: views 354585 -> 354596 (+11)
+-     ivan0135/Xju_CY5ZESA: likes 4760 -> 4761 (+1)
+
+## 2026-08-09T04:00:01.532039+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 35685 -> 35721 (+36)
+-     qtecqot/l9RAhmPHM_A: views 59562 -> 59613 (+51)
+-     qtecqot/l9RAhmPHM_A: likes 1848 -> 1849 (+1)
+-     qtecqot/OpSTlDJWFFI: views 37931 -> 37962 (+31)
+-     qtecqot/OpSTlDJWFFI: likes 1333 -> 1334 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713246 -> 713260 (+14)
+-     ivan0135/ZB788PtqQvg: views 689726 -> 689740 (+14)
+-     ivan0135/ZB788PtqQvg: likes 7835 -> 7836 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501367 -> 1501392 (+25)
+-     ivan0135/RsQCXN4o4Ps: likes 16786 -> 16787 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354596 -> 354605 (+9)
+-     ivan0135/Xju_CY5ZESA: likes 4761 -> 4762 (+1)
+
+## 2026-08-09T04:30:01.765861+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 59613 -> 59651 (+38)
+-     qtecqot/l9RAhmPHM_A: likes 1849 -> 1851 (+2)
+-     qtecqot/Oqw96jCOP7A: views 35721 -> 35745 (+24)
+-     qtecqot/Oqw96jCOP7A: likes 1204 -> 1206 (+2)
+-     qtecqot/OpSTlDJWFFI: views 37962 -> 37999 (+37)
+-     qtecqot/OpSTlDJWFFI: likes 1334 -> 1335 (+1)
+-     ivan0135/ZB788PtqQvg: views 689740 -> 689754 (+14)
+-     ivan0135/ZB788PtqQvg: likes 7836 -> 7837 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354605 -> 354617 (+12)
+-     ivan0135/RsQCXN4o4Ps: views 1501392 -> 1501415 (+23)
+-     ivan0135/a6TLGkrfNKI: views 713260 -> 713278 (+18)
+
+## 2026-08-09T05:00:01.333142+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 37999 -> 38026 (+27)
+-     qtecqot/Oqw96jCOP7A: views 35745 -> 35759 (+14)
+-     qtecqot/l9RAhmPHM_A: views 59651 -> 59673 (+22)
+-     ivan0135/RsQCXN4o4Ps: views 1501415 -> 1501420 (+5)
+-     ivan0135/a6TLGkrfNKI: views 713278 -> 713287 (+9)
+-     ivan0135/Xju_CY5ZESA: views 354617 -> 354621 (+4)
+-     ivan0135/ZB788PtqQvg: views 689754 -> 689764 (+10)
+
+## 2026-08-09T05:30:01.900123+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 38026 -> 38055 (+29)
+-     qtecqot/OpSTlDJWFFI: likes 1335 -> 1336 (+1)
+-     qtecqot/Oqw96jCOP7A: views 35759 -> 35781 (+22)
+-     qtecqot/Oqw96jCOP7A: likes 1206 -> 1207 (+1)
+-     qtecqot/l9RAhmPHM_A: views 59673 -> 59715 (+42)
+-     qtecqot/l9RAhmPHM_A: likes 1851 -> 1855 (+4)
+-     ivan0135/a6TLGkrfNKI: views 713287 -> 713304 (+17)
+
+## 2026-08-09T06:00:01.180382+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 35781 -> 35809 (+28)
+-     qtecqot/Oqw96jCOP7A: likes 1207 -> 1208 (+1)
+-     qtecqot/l9RAhmPHM_A: views 59715 -> 59755 (+40)
+-     qtecqot/l9RAhmPHM_A: likes 1855 -> 1856 (+1)
+-     qtecqot/OpSTlDJWFFI: views 38055 -> 38088 (+33)
+-     qtecqot/OpSTlDJWFFI: likes 1336 -> 1337 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713304 -> 713323 (+19)
+-     ivan0135/RsQCXN4o4Ps: views 1501420 -> 1501468 (+48)
+-     ivan0135/RsQCXN4o4Ps: likes 16787 -> 16788 (+1)
+
+## 2026-08-09T06:30:01.917552+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ivan0135/a6TLGkrfNKI: views 713323 -> 713329 (+6)
+-     ivan0135/RsQCXN4o4Ps: views 1501468 -> 1501480 (+12)
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-09T07:00:01.173457+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ivan0135/a6TLGkrfNKI: views 713329 -> 713345 (+16)
+-     ivan0135/a6TLGkrfNKI: likes 8956 -> 8957 (+1)
+-     ivan0135/ZB788PtqQvg: views 689764 -> 689817 (+53)
+-     ivan0135/ZB788PtqQvg: likes 7837 -> 7838 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501480 -> 1501507 (+27)
+-     ivan0135/RsQCXN4o4Ps: likes 16788 -> 16791 (+3)
+-     ivan0135/Xju_CY5ZESA: views 354621 -> 354665 (+44)
+-     ivan0135/Xju_CY5ZESA: likes 4762 -> 4764 (+2)
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-09T07:30:01.970674+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+-     ivan0135/a6TLGkrfNKI: views 713345 -> 713358 (+13)
+-     ivan0135/ZB788PtqQvg: views 689817 -> 689830 (+13)
+-     ivan0135/ZB788PtqQvg: likes 7838 -> 7839 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501507 -> 1501529 (+22)
+-     ivan0135/RsQCXN4o4Ps: likes 16791 -> 16792 (+1)
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-09T08:00:01.326534+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 38162 -> 38183 (+21)
+-     qtecqot/OpSTlDJWFFI: likes 1343 -> 1344 (+1)
+-     qtecqot/l9RAhmPHM_A: views 59832 -> 59852 (+20)
+-     qtecqot/l9RAhmPHM_A: likes 1863 -> 1865 (+2)
+-     qtecqot/Oqw96jCOP7A: views 35884 -> 35904 (+20)
+-     qtecqot/Oqw96jCOP7A: likes 1215 -> 1216 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713358 -> 713365 (+7)
+-     ivan0135/RsQCXN4o4Ps: views 1501529 -> 1501532 (+3)
+
+## 2026-08-09T08:30:01.834022+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 59852 -> 59890 (+38)
+-     qtecqot/l9RAhmPHM_A: likes 1865 -> 1868 (+3)
+-     qtecqot/Oqw96jCOP7A: views 35904 -> 35927 (+23)
+-     qtecqot/Oqw96jCOP7A: likes 1216 -> 1218 (+2)
+-     qtecqot/OpSTlDJWFFI: views 38183 -> 38210 (+27)
+-     qtecqot/OpSTlDJWFFI: likes 1344 -> 1347 (+3)
+
+## 2026-08-09T09:00:01.274169+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 59890 -> 59931 (+41)
+-     qtecqot/l9RAhmPHM_A: likes 1868 -> 1870 (+2)
+-     qtecqot/OpSTlDJWFFI: views 38210 -> 38227 (+17)
+-     qtecqot/OpSTlDJWFFI: likes 1347 -> 1349 (+2)
+-     qtecqot/Oqw96jCOP7A: views 35927 -> 35957 (+30)
+-     qtecqot/Oqw96jCOP7A: likes 1218 -> 1220 (+2)
+
+## 2026-08-09T09:30:01.099839+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 59931 -> 59998 (+67)
+-     qtecqot/l9RAhmPHM_A: likes 1870 -> 1874 (+4)
+-     qtecqot/Oqw96jCOP7A: views 35957 -> 35998 (+41)
+-     qtecqot/Oqw96jCOP7A: likes 1220 -> 1222 (+2)
+-     qtecqot/OpSTlDJWFFI: views 38227 -> 38273 (+46)
+-     qtecqot/OpSTlDJWFFI: likes 1349 -> 1350 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501532 -> 1501596 (+64)
+-     ivan0135/RsQCXN4o4Ps: likes 16792 -> 16793 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713365 -> 713409 (+44)
+-     ivan0135/ZB788PtqQvg: views 689830 -> 689884 (+54)
+-     ivan0135/ZB788PtqQvg: likes 7839 -> 7840 (+1)
+
+## 2026-08-09T10:00:01.730781+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 38273 -> 38301 (+28)
+-     qtecqot/OpSTlDJWFFI: likes 1350 -> 1351 (+1)
+-     qtecqot/Oqw96jCOP7A: views 35998 -> 36030 (+32)
+-     qtecqot/Oqw96jCOP7A: likes 1222 -> 1224 (+2)
+-     qtecqot/l9RAhmPHM_A: views 59998 -> 60039 (+41)
+-     qtecqot/l9RAhmPHM_A: likes 1874 -> 1879 (+5)
+-     ivan0135/ZB788PtqQvg: views 689884 -> 689891 (+7)
+-     ivan0135/RsQCXN4o4Ps: views 1501596 -> 1501605 (+9)
+-     ivan0135/a6TLGkrfNKI: views 713409 -> 713418 (+9)
+-     ivan0135/Xju_CY5ZESA: views 354665 -> 354715 (+50)
+
+## 2026-08-09T10:30:01.603874+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 38301 -> 38333 (+32)
+-     qtecqot/OpSTlDJWFFI: likes 1351 -> 1353 (+2)
+-     qtecqot/l9RAhmPHM_A: views 60039 -> 60067 (+28)
+-     qtecqot/l9RAhmPHM_A: likes 1879 -> 1880 (+1)
+-     qtecqot/Oqw96jCOP7A: views 36030 -> 36053 (+23)
+-     ivan0135/RsQCXN4o4Ps: views 1501605 -> 1501612 (+7)
+-     ivan0135/RsQCXN4o4Ps: likes 16793 -> 16794 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713418 -> 713426 (+8)
+-     ivan0135/a6TLGkrfNKI: likes 8957 -> 8958 (+1)
+-     ivan0135/ZB788PtqQvg: views 689891 -> 689899 (+8)
+-     ivan0135/ZB788PtqQvg: likes 7840 -> 7841 (+1)
+
+## 2026-08-09T11:00:01.480376+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 60067 -> 60113 (+46)
+-     qtecqot/l9RAhmPHM_A: likes 1880 -> 1882 (+2)
+-     qtecqot/Oqw96jCOP7A: views 36053 -> 36084 (+31)
+-     qtecqot/Oqw96jCOP7A: likes 1224 -> 1226 (+2)
+-     qtecqot/OpSTlDJWFFI: views 38333 -> 38368 (+35)
+-     qtecqot/OpSTlDJWFFI: likes 1353 -> 1354 (+1)
+
+## 2026-08-09T11:30:01.707145+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 60113 -> 60146 (+33)
+-     qtecqot/l9RAhmPHM_A: likes 1882 -> 1888 (+6)
+-     qtecqot/OpSTlDJWFFI: views 38368 -> 38396 (+28)
+-     qtecqot/OpSTlDJWFFI: likes 1354 -> 1356 (+2)
+-     qtecqot/Oqw96jCOP7A: views 36084 -> 36113 (+29)
+-     qtecqot/Oqw96jCOP7A: likes 1226 -> 1229 (+3)
+-     ivan0135/a6TLGkrfNKI: views 713426 -> 713438 (+12)
+-     ivan0135/a6TLGkrfNKI: likes 8958 -> 8960 (+2)
+-     ivan0135/ZB788PtqQvg: views 689899 -> 689917 (+18)
+-     ivan0135/ZB788PtqQvg: likes 7841 -> 7843 (+2)
+
+## 2026-08-09T12:00:01.557352+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 60146 -> 60192 (+46)
+-     qtecqot/l9RAhmPHM_A: likes 1888 -> 1891 (+3)
+-     qtecqot/Oqw96jCOP7A: views 36113 -> 36137 (+24)
+-     qtecqot/Oqw96jCOP7A: likes 1229 -> 1232 (+3)
+-     qtecqot/OpSTlDJWFFI: views 38396 -> 38434 (+38)
+-     qtecqot/OpSTlDJWFFI: likes 1356 -> 1360 (+4)
+-     ivan0135/a6TLGkrfNKI: views 713438 -> 713446 (+8)
+
+## 2026-08-09T12:30:01.656337+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 36137 -> 36164 (+27)
+-     qtecqot/Oqw96jCOP7A: likes 1232 -> 1233 (+1)
+-     qtecqot/l9RAhmPHM_A: views 60192 -> 60232 (+40)
+-     qtecqot/l9RAhmPHM_A: likes 1891 -> 1893 (+2)
+-     qtecqot/OpSTlDJWFFI: views 38434 -> 38458 (+24)
+-     qtecqot/OpSTlDJWFFI: likes 1360 -> 1363 (+3)
+-     ivan0135/a6TLGkrfNKI: views 713446 -> 713459 (+13)
+
+## 2026-08-09T13:00:01.869849+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 36164 -> 36192 (+28)
+-     qtecqot/Oqw96jCOP7A: likes 1233 -> 1234 (+1)
+-     qtecqot/OpSTlDJWFFI: views 38458 -> 38490 (+32)
+-     qtecqot/l9RAhmPHM_A: views 60232 -> 60275 (+43)
+-     qtecqot/l9RAhmPHM_A: likes 1893 -> 1896 (+3)
+-     ivan0135/a6TLGkrfNKI: views 713459 -> 713475 (+16)
+-     ivan0135/a6TLGkrfNKI: likes 8960 -> 8962 (+2)
+-     ivan0135/Xju_CY5ZESA: views 354715 -> 354756 (+41)
+-     ivan0135/Xju_CY5ZESA: likes 4764 -> 4765 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501612 -> 1501685 (+73)
+-     ivan0135/RsQCXN4o4Ps: likes 16794 -> 16795 (+1)
+-     ivan0135/ZB788PtqQvg: views 689917 -> 689956 (+39)
+-     ivan0135/ZB788PtqQvg: likes 7843 -> 7844 (+1)
+
+## 2026-08-09T13:30:01.992339+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 60275 -> 60325 (+50)
+-     qtecqot/l9RAhmPHM_A: likes 1896 -> 1899 (+3)
+-     qtecqot/OpSTlDJWFFI: views 38490 -> 38519 (+29)
+-     qtecqot/OpSTlDJWFFI: likes 1363 -> 1367 (+4)
+-     qtecqot/Oqw96jCOP7A: views 36192 -> 36222 (+30)
+-     qtecqot/Oqw96jCOP7A: likes 1234 -> 1237 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1501685 -> 1501700 (+15)
+-     ivan0135/RsQCXN4o4Ps: likes 16795 -> 16796 (+1)
+-     ivan0135/ZB788PtqQvg: views 689956 -> 689969 (+13)
+-     ivan0135/ZB788PtqQvg: likes 7844 -> 7845 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354756 -> 354767 (+11)
+-     ivan0135/Xju_CY5ZESA: likes 4765 -> 4766 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713475 -> 713486 (+11)
+
+## 2026-08-09T14:00:01.138047+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 60325 -> 60373 (+48)
+-     qtecqot/l9RAhmPHM_A: likes 1899 -> 1905 (+6)
+-     qtecqot/OpSTlDJWFFI: views 38519 -> 38567 (+48)
+-     qtecqot/OpSTlDJWFFI: likes 1367 -> 1369 (+2)
+-     qtecqot/Oqw96jCOP7A: views 36222 -> 36266 (+44)
+-     qtecqot/Oqw96jCOP7A: likes 1237 -> 1239 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1501700 -> 1501702 (+2)
+-     ivan0135/Xju_CY5ZESA: views 354767 -> 354786 (+19)
+-     ivan0135/a6TLGkrfNKI: views 713486 -> 713496 (+10)
+-     ivan0135/a6TLGkrfNKI: likes 8962 -> 8963 (+1)
+
+## 2026-08-09T14:30:02.103939+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 36266 -> 36295 (+29)
+-     qtecqot/Oqw96jCOP7A: likes 1239 -> 1241 (+2)
+-     qtecqot/OpSTlDJWFFI: views 38567 -> 38598 (+31)
+-     qtecqot/OpSTlDJWFFI: likes 1369 -> 1372 (+3)
+-     qtecqot/l9RAhmPHM_A: views 60373 -> 60400 (+27)
+-     qtecqot/l9RAhmPHM_A: likes 1905 -> 1908 (+3)
+-     ivan0135/a6TLGkrfNKI: views 713496 -> 713507 (+11)
+-     ivan0135/RsQCXN4o4Ps: views 1501702 -> 1501721 (+19)
+-     ivan0135/RsQCXN4o4Ps: likes 16796 -> 16797 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354786 -> 354795 (+9)
+-     ivan0135/Xju_CY5ZESA: likes 4766 -> 4767 (+1)
+
+## 2026-08-09T15:00:02.039187+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 38598 -> 38642 (+44)
+-     qtecqot/OpSTlDJWFFI: likes 1372 -> 1374 (+2)
+-     qtecqot/Oqw96jCOP7A: views 36295 -> 36328 (+33)
+-     qtecqot/Oqw96jCOP7A: likes 1241 -> 1243 (+2)
+-     qtecqot/l9RAhmPHM_A: views 60400 -> 60446 (+46)
+-     qtecqot/l9RAhmPHM_A: likes 1908 -> 1912 (+4)
+-     ivan0135/ZB788PtqQvg: views 689969 -> 689997 (+28)
+-     ivan0135/ZB788PtqQvg: likes 7845 -> 7847 (+2)
+-     ivan0135/a6TLGkrfNKI: views 713507 -> 713529 (+22)
+-     ivan0135/a6TLGkrfNKI: likes 8963 -> 8964 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354795 -> 354813 (+18)
+-     ivan0135/Xju_CY5ZESA: likes 4767 -> 4768 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501721 -> 1501752 (+31)
+-     ivan0135/RsQCXN4o4Ps: likes 16797 -> 16799 (+2)
+
+## 2026-08-09T15:30:02.147042+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 36328 -> 36367 (+39)
+-     qtecqot/Oqw96jCOP7A: likes 1243 -> 1245 (+2)
+-     qtecqot/OpSTlDJWFFI: views 38642 -> 38683 (+41)
+-     qtecqot/OpSTlDJWFFI: likes 1374 -> 1377 (+3)
+-     qtecqot/l9RAhmPHM_A: views 60446 -> 60482 (+36)
+-     qtecqot/l9RAhmPHM_A: likes 1912 -> 1915 (+3)
+-     ivan0135/a6TLGkrfNKI: views 713529 -> 713544 (+15)
+-     ivan0135/Xju_CY5ZESA: views 354813 -> 354831 (+18)
+-     ivan0135/RsQCXN4o4Ps: views 1501752 -> 1501772 (+20)
+
+## 2026-08-09T16:00:02.181586+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 60482 -> 60521 (+39)
+-     qtecqot/l9RAhmPHM_A: likes 1915 -> 1918 (+3)
+-     qtecqot/OpSTlDJWFFI: views 38683 -> 38716 (+33)
+-     qtecqot/OpSTlDJWFFI: likes 1377 -> 1379 (+2)
+-     qtecqot/Oqw96jCOP7A: views 36367 -> 36391 (+24)
+-     qtecqot/Oqw96jCOP7A: likes 1245 -> 1247 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1501772 -> 1501785 (+13)
+-     ivan0135/RsQCXN4o4Ps: likes 16799 -> 16800 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354831 -> 354839 (+8)
+-     ivan0135/Xju_CY5ZESA: likes 4768 -> 4769 (+1)
+-     ivan0135/ZB788PtqQvg: views 689997 -> 690029 (+32)
+-     ivan0135/ZB788PtqQvg: likes 7847 -> 7849 (+2)
+-     ivan0135/a6TLGkrfNKI: views 713544 -> 713555 (+11)
+-     ivan0135/a6TLGkrfNKI: likes 8964 -> 8965 (+1)
+
+## 2026-08-09T16:30:01.103218+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 36391 -> 36430 (+39)
+-     qtecqot/OpSTlDJWFFI: views 38716 -> 38748 (+32)
+-     qtecqot/OpSTlDJWFFI: likes 1379 -> 1378 (-1)
+-     qtecqot/l9RAhmPHM_A: views 60521 -> 60575 (+54)
+-     qtecqot/l9RAhmPHM_A: likes 1918 -> 1921 (+3)
+-     ivan0135/a6TLGkrfNKI: views 713555 -> 713557 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1501785 -> 1501800 (+15)
+-     ivan0135/Xju_CY5ZESA: views 354839 -> 354849 (+10)
+-     ivan0135/Xju_CY5ZESA: likes 4769 -> 4770 (+1)
+-     ivan0135/ZB788PtqQvg: views 690029 -> 690045 (+16)
+
+## 2026-08-09T17:00:01.888789+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 60575 -> 60632 (+57)
+-     qtecqot/l9RAhmPHM_A: likes 1921 -> 1922 (+1)
+-     qtecqot/OpSTlDJWFFI: views 38748 -> 38804 (+56)
+-     qtecqot/OpSTlDJWFFI: likes 1378 -> 1379 (+1)
+-     qtecqot/Oqw96jCOP7A: views 36430 -> 36471 (+41)
+-     qtecqot/Oqw96jCOP7A: likes 1247 -> 1248 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501800 -> 1501820 (+20)
+-     ivan0135/RsQCXN4o4Ps: likes 16800 -> 16799 (-1)
+-     ivan0135/ZB788PtqQvg: views 690045 -> 690058 (+13)
+-     ivan0135/ZB788PtqQvg: likes 7849 -> 7848 (-1)
+-     ivan0135/a6TLGkrfNKI: views 713557 -> 713583 (+26)
+-     ivan0135/a6TLGkrfNKI: likes 8965 -> 8964 (-1)
+-     ivan0135/Xju_CY5ZESA: views 354849 -> 354861 (+12)
+-     ivan0135/Xju_CY5ZESA: likes 4770 -> 4769 (-1)
+
+## 2026-08-09T17:30:01.910658+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 60632 -> 60687 (+55)
+-     qtecqot/l9RAhmPHM_A: likes 1922 -> 1926 (+4)
+-     qtecqot/Oqw96jCOP7A: views 36471 -> 36509 (+38)
+-     qtecqot/Oqw96jCOP7A: likes 1248 -> 1251 (+3)
+-     qtecqot/OpSTlDJWFFI: views 38804 -> 38841 (+37)
+-     qtecqot/OpSTlDJWFFI: likes 1379 -> 1383 (+4)
+-     ivan0135/RsQCXN4o4Ps: views 1501820 -> 1501842 (+22)
+-     ivan0135/RsQCXN4o4Ps: likes 16799 -> 16800 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354861 -> 354875 (+14)
+-     ivan0135/Xju_CY5ZESA: likes 4769 -> 4768 (-1)
+
+## 2026-08-09T18:00:01.946550+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 38841 -> 38880 (+39)
+-     qtecqot/OpSTlDJWFFI: likes 1383 -> 1385 (+2)
+-     qtecqot/Oqw96jCOP7A: views 36509 -> 36550 (+41)
+-     qtecqot/Oqw96jCOP7A: likes 1251 -> 1253 (+2)
+-     qtecqot/l9RAhmPHM_A: views 60687 -> 60744 (+57)
+-     qtecqot/l9RAhmPHM_A: likes 1926 -> 1932 (+6)
+-     ivan0135/RsQCXN4o4Ps: views 1501842 -> 1501847 (+5)
+-     ivan0135/Xju_CY5ZESA: views 354875 -> 354884 (+9)
+
+## 2026-08-09T18:30:01.731823+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 38880 -> 38915 (+35)
+-     qtecqot/Oqw96jCOP7A: views 36550 -> 36586 (+36)
+-     qtecqot/l9RAhmPHM_A: views 60744 -> 60800 (+56)
+-     qtecqot/l9RAhmPHM_A: likes 1932 -> 1936 (+4)
+-     ivan0135/a6TLGkrfNKI: views 713583 -> 713628 (+45)
+-     ivan0135/a6TLGkrfNKI: likes 8964 -> 8965 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501847 -> 1501883 (+36)
+-     ivan0135/RsQCXN4o4Ps: likes 16800 -> 16801 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354884 -> 354889 (+5)
+
+## 2026-08-09T19:00:01.408958+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 36586 -> 36637 (+51)
+-     qtecqot/Oqw96jCOP7A: likes 1253 -> 1254 (+1)
+-     qtecqot/l9RAhmPHM_A: views 60800 -> 60857 (+57)
+-     qtecqot/l9RAhmPHM_A: likes 1936 -> 1939 (+3)
+-     qtecqot/OpSTlDJWFFI: views 38915 -> 38947 (+32)
+-     qtecqot/OpSTlDJWFFI: likes 1385 -> 1387 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1501883 -> 1501898 (+15)
+-     ivan0135/RsQCXN4o4Ps: likes 16801 -> 16802 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713628 -> 713646 (+18)
+-     ivan0135/a6TLGkrfNKI: likes 8965 -> 8966 (+1)
+-     ivan0135/ZB788PtqQvg: views 690058 -> 690111 (+53)
+
+## 2026-08-09T19:30:01.352328+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 38947 -> 38984 (+37)
+-     qtecqot/Oqw96jCOP7A: views 36637 -> 36667 (+30)
+-     qtecqot/Oqw96jCOP7A: likes 1254 -> 1256 (+2)
+-     qtecqot/l9RAhmPHM_A: views 60857 -> 60906 (+49)
+-     qtecqot/l9RAhmPHM_A: likes 1939 -> 1942 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1501898 -> 1501923 (+25)
+-     ivan0135/RsQCXN4o4Ps: likes 16802 -> 16804 (+2)
+-     ivan0135/Xju_CY5ZESA: views 354889 -> 354921 (+32)
+-     ivan0135/Xju_CY5ZESA: likes 4768 -> 4769 (+1)
+-     ivan0135/ZB788PtqQvg: views 690111 -> 690132 (+21)
+-     ivan0135/ZB788PtqQvg: likes 7848 -> 7851 (+3)
+-     ivan0135/a6TLGkrfNKI: views 713646 -> 713668 (+22)
+
+## 2026-08-09T20:00:01.296107+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 60906 -> 60999 (+93)
+-     qtecqot/l9RAhmPHM_A: likes 1942 -> 1948 (+6)
+-     qtecqot/OpSTlDJWFFI: views 38984 -> 39041 (+57)
+-     qtecqot/OpSTlDJWFFI: likes 1387 -> 1390 (+3)
+-     qtecqot/Oqw96jCOP7A: views 36667 -> 36728 (+61)
+-     qtecqot/Oqw96jCOP7A: likes 1256 -> 1257 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713668 -> 713677 (+9)
+-     ivan0135/a6TLGkrfNKI: likes 8966 -> 8968 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1501923 -> 1501945 (+22)
+-     ivan0135/Xju_CY5ZESA: views 354921 -> 354932 (+11)
+-     ivan0135/Xju_CY5ZESA: likes 4769 -> 4770 (+1)
+-     ivan0135/ZB788PtqQvg: views 690132 -> 690141 (+9)
+
+## 2026-08-09T20:30:01.297649+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 39041 -> 39084 (+43)
+-     qtecqot/OpSTlDJWFFI: likes 1390 -> 1393 (+3)
+-     qtecqot/l9RAhmPHM_A: views 60999 -> 61023 (+24)
+-     qtecqot/l9RAhmPHM_A: likes 1948 -> 1949 (+1)
+-     qtecqot/Oqw96jCOP7A: views 36728 -> 36753 (+25)
+-     qtecqot/Oqw96jCOP7A: likes 1257 -> 1258 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501945 -> 1501977 (+32)
+-     ivan0135/RsQCXN4o4Ps: likes 16804 -> 16805 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713677 -> 713705 (+28)
+-     ivan0135/a6TLGkrfNKI: likes 8968 -> 8969 (+1)
+-     ivan0135/Xju_CY5ZESA: views 354932 -> 354949 (+17)
+-     ivan0135/Xju_CY5ZESA: likes 4770 -> 4772 (+2)
+-     ivan0135/ZB788PtqQvg: views 690141 -> 690169 (+28)
+
+## 2026-08-09T21:00:01.258260+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 36753 -> 36793 (+40)
+-     qtecqot/Oqw96jCOP7A: likes 1258 -> 1260 (+2)
+-     qtecqot/OpSTlDJWFFI: views 39084 -> 39122 (+38)
+-     qtecqot/OpSTlDJWFFI: likes 1393 -> 1394 (+1)
+-     qtecqot/l9RAhmPHM_A: views 61023 -> 61073 (+50)
+-     ivan0135/Xju_CY5ZESA: views 354949 -> 354954 (+5)
+-     ivan0135/a6TLGkrfNKI: views 713705 -> 713714 (+9)
+-     ivan0135/a6TLGkrfNKI: likes 8969 -> 8970 (+1)
+-     ivan0135/ZB788PtqQvg: views 690169 -> 690184 (+15)
+-     ivan0135/ZB788PtqQvg: likes 7851 -> 7852 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1501977 -> 1501997 (+20)
+-     ivan0135/RsQCXN4o4Ps: likes 16805 -> 16806 (+1)
+
+## 2026-08-09T21:30:01.528428+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 39122 -> 39158 (+36)
+-     qtecqot/OpSTlDJWFFI: likes 1394 -> 1395 (+1)
+-     qtecqot/Oqw96jCOP7A: views 36793 -> 36823 (+30)
+-     qtecqot/Oqw96jCOP7A: likes 1260 -> 1261 (+1)
+-     qtecqot/l9RAhmPHM_A: views 61073 -> 61128 (+55)
+-     qtecqot/l9RAhmPHM_A: likes 1949 -> 1950 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713714 -> 713731 (+17)
+-     ivan0135/RsQCXN4o4Ps: views 1501997 -> 1502001 (+4)
+-     ivan0135/ZB788PtqQvg: views 690184 -> 690195 (+11)
+
+## 2026-08-09T22:00:02.021453+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 36823 -> 36868 (+45)
+-     qtecqot/Oqw96jCOP7A: likes 1261 -> 1264 (+3)
+-     qtecqot/l9RAhmPHM_A: views 61128 -> 61187 (+59)
+-     qtecqot/l9RAhmPHM_A: likes 1950 -> 1954 (+4)
+-     qtecqot/OpSTlDJWFFI: views 39158 -> 39200 (+42)
+-     qtecqot/OpSTlDJWFFI: likes 1395 -> 1398 (+3)
+-     ivan0135/Xju_CY5ZESA: views 354954 -> 354979 (+25)
+-     ivan0135/ZB788PtqQvg: views 690195 -> 690209 (+14)
+-     ivan0135/a6TLGkrfNKI: views 713731 -> 713741 (+10)
+-     ivan0135/a6TLGkrfNKI: likes 8970 -> 8969 (-1)
+
+## 2026-08-09T22:30:01.771861+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 39200 -> 39243 (+43)
+-     qtecqot/Oqw96jCOP7A: views 36868 -> 36911 (+43)
+-     qtecqot/l9RAhmPHM_A: views 61187 -> 61245 (+58)
+-     qtecqot/l9RAhmPHM_A: likes 1954 -> 1958 (+4)
+-     ivan0135/Xju_CY5ZESA: views 354979 -> 354987 (+8)
+-     ivan0135/ZB788PtqQvg: views 690209 -> 690219 (+10)
+
+## 2026-08-09T23:00:01.140497+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 39243 -> 39286 (+43)
+-     qtecqot/OpSTlDJWFFI: likes 1398 -> 1401 (+3)
+-     qtecqot/l9RAhmPHM_A: views 61245 -> 61308 (+63)
+-     qtecqot/l9RAhmPHM_A: likes 1958 -> 1960 (+2)
+-     qtecqot/Oqw96jCOP7A: views 36911 -> 36954 (+43)
+-     qtecqot/Oqw96jCOP7A: likes 1264 -> 1265 (+1)
+-     ivan0135/ZB788PtqQvg: views 690219 -> 690233 (+14)
+-     ivan0135/a6TLGkrfNKI: views 713741 -> 713766 (+25)
+-     ivan0135/Xju_CY5ZESA: views 354987 -> 355005 (+18)
+-     ivan0135/Xju_CY5ZESA: likes 4772 -> 4773 (+1)
+
+## 2026-08-09T23:30:01.544708+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 61308 -> 61367 (+59)
+-     qtecqot/l9RAhmPHM_A: likes 1960 -> 1962 (+2)
+-     qtecqot/Oqw96jCOP7A: views 36954 -> 36990 (+36)
+-     qtecqot/OpSTlDJWFFI: views 39286 -> 39316 (+30)
+-     qtecqot/OpSTlDJWFFI: likes 1401 -> 1402 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713766 -> 713778 (+12)
+-     ivan0135/ZB788PtqQvg: views 690233 -> 690248 (+15)
+
+## 2026-08-10T00:00:01.717818+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 61367 -> 61413 (+46)
+-     qtecqot/l9RAhmPHM_A: likes 1962 -> 1966 (+4)
+-     qtecqot/OpSTlDJWFFI: views 39316 -> 39346 (+30)
+-     qtecqot/OpSTlDJWFFI: likes 1402 -> 1405 (+3)
+-     qtecqot/Oqw96jCOP7A: views 36990 -> 37016 (+26)
+-     qtecqot/Oqw96jCOP7A: likes 1265 -> 1267 (+2)
+-     ivan0135/a6TLGkrfNKI: views 713778 -> 713791 (+13)
+-     ivan0135/RsQCXN4o4Ps: views 1502001 -> 1502119 (+118)
+-     ivan0135/Xju_CY5ZESA: views 355005 -> 355015 (+10)
+
+## 2026-08-10T00:30:01.967239+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 39346 -> 39371 (+25)
+-     qtecqot/OpSTlDJWFFI: likes 1405 -> 1406 (+1)
+-     qtecqot/Oqw96jCOP7A: views 37016 -> 37037 (+21)
+-     qtecqot/Oqw96jCOP7A: likes 1267 -> 1268 (+1)
+-     qtecqot/l9RAhmPHM_A: views 61413 -> 61451 (+38)
+-     qtecqot/l9RAhmPHM_A: likes 1966 -> 1968 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1502119 -> 1502137 (+18)
+-     ivan0135/RsQCXN4o4Ps: likes 16806 -> 16807 (+1)
+-     ivan0135/ZB788PtqQvg: views 690248 -> 690269 (+21)
+-     ivan0135/Xju_CY5ZESA: views 355015 -> 355032 (+17)
+-     ivan0135/a6TLGkrfNKI: views 713791 -> 713802 (+11)
+
+## 2026-08-10T01:00:01.633634+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37037 -> 37053 (+16)
+-     qtecqot/Oqw96jCOP7A: likes 1268 -> 1271 (+3)
+-     qtecqot/OpSTlDJWFFI: views 39371 -> 39395 (+24)
+-     qtecqot/OpSTlDJWFFI: likes 1406 -> 1407 (+1)
+-     qtecqot/l9RAhmPHM_A: views 61451 -> 61489 (+38)
+-     qtecqot/l9RAhmPHM_A: likes 1968 -> 1972 (+4)
+-     ivan0135/RsQCXN4o4Ps: views 1502137 -> 1502157 (+20)
+-     ivan0135/ZB788PtqQvg: views 690269 -> 690283 (+14)
+-     ivan0135/ZB788PtqQvg: likes 7852 -> 7853 (+1)
+
+## 2026-08-10T01:30:01.205321+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37053 -> 37082 (+29)
+-     qtecqot/Oqw96jCOP7A: likes 1271 -> 1272 (+1)
+-     qtecqot/l9RAhmPHM_A: views 61489 -> 61534 (+45)
+-     qtecqot/l9RAhmPHM_A: likes 1972 -> 1975 (+3)
+-     qtecqot/OpSTlDJWFFI: views 39395 -> 39425 (+30)
+-     ivan0135/ZB788PtqQvg: views 690283 -> 690293 (+10)
+-     ivan0135/Xju_CY5ZESA: views 355032 -> 355053 (+21)
+-     ivan0135/RsQCXN4o4Ps: views 1502157 -> 1502168 (+11)
+-     ivan0135/a6TLGkrfNKI: views 713802 -> 713816 (+14)
+
+## 2026-08-10T02:00:01.417644+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37082 -> 37109 (+27)
+-     qtecqot/OpSTlDJWFFI: views 39425 -> 39456 (+31)
+-     qtecqot/l9RAhmPHM_A: views 61534 -> 61576 (+42)
+-     qtecqot/l9RAhmPHM_A: likes 1975 -> 1976 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355053 -> 355075 (+22)
+
+## 2026-08-10T02:30:01.716396+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37109 -> 37128 (+19)
+-     qtecqot/OpSTlDJWFFI: views 39456 -> 39462 (+6)
+-     qtecqot/l9RAhmPHM_A: views 61576 -> 61615 (+39)
+-     ivan0135/RsQCXN4o4Ps: views 1502168 -> 1502235 (+67)
+-     ivan0135/Xju_CY5ZESA: views 355075 -> 355077 (+2)
+-     ivan0135/ZB788PtqQvg: views 690293 -> 690329 (+36)
+
+## 2026-08-10T03:00:02.048780+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 61615 -> 61659 (+44)
+-     qtecqot/l9RAhmPHM_A: likes 1976 -> 1977 (+1)
+-     qtecqot/Oqw96jCOP7A: views 37128 -> 37159 (+31)
+-     qtecqot/Oqw96jCOP7A: likes 1272 -> 1271 (-1)
+-     qtecqot/OpSTlDJWFFI: views 39462 -> 39511 (+49)
+-     qtecqot/OpSTlDJWFFI: likes 1407 -> 1408 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355077 -> 355102 (+25)
+-     ivan0135/Xju_CY5ZESA: likes 4773 -> 4774 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713816 -> 713877 (+61)
+-     ivan0135/a6TLGkrfNKI: likes 8969 -> 8970 (+1)
+-     ivan0135/ZB788PtqQvg: views 690329 -> 690343 (+14)
+-     ivan0135/RsQCXN4o4Ps: views 1502235 -> 1502255 (+20)
+
+## 2026-08-10T03:30:02.013174+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 61659 -> 61695 (+36)
+-     qtecqot/l9RAhmPHM_A: likes 1977 -> 1978 (+1)
+-     qtecqot/OpSTlDJWFFI: views 39511 -> 39539 (+28)
+-     qtecqot/OpSTlDJWFFI: likes 1408 -> 1410 (+2)
+-     qtecqot/Oqw96jCOP7A: views 37159 -> 37182 (+23)
+-     qtecqot/Oqw96jCOP7A: likes 1271 -> 1273 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1502255 -> 1502264 (+9)
+-     ivan0135/RsQCXN4o4Ps: likes 16807 -> 16808 (+1)
+-     ivan0135/ZB788PtqQvg: views 690343 -> 690345 (+2)
+-     ivan0135/Xju_CY5ZESA: views 355102 -> 355106 (+4)
+
+## 2026-08-10T04:00:01.893101+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37182 -> 37198 (+16)
+-     qtecqot/Oqw96jCOP7A: likes 1273 -> 1274 (+1)
+-     qtecqot/OpSTlDJWFFI: views 39539 -> 39560 (+21)
+-     qtecqot/l9RAhmPHM_A: views 61695 -> 61731 (+36)
+-     ivan0135/RsQCXN4o4Ps: views 1502264 -> 1502282 (+18)
+-     ivan0135/Xju_CY5ZESA: views 355106 -> 355119 (+13)
+
+## 2026-08-10T04:30:01.961227+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 39560 -> 39575 (+15)
+-     qtecqot/l9RAhmPHM_A: views 61731 -> 61769 (+38)
+-     qtecqot/l9RAhmPHM_A: likes 1978 -> 1980 (+2)
+-     qtecqot/Oqw96jCOP7A: views 37198 -> 37215 (+17)
+-     qtecqot/Oqw96jCOP7A: likes 1274 -> 1275 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1502282 -> 1502294 (+12)
+
+## 2026-08-10T05:00:01.420047+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 61769 -> 61771 (+2)
+-     qtecqot/Oqw96jCOP7A: views 37215 -> 37227 (+12)
+-     qtecqot/Oqw96jCOP7A: likes 1275 -> 1276 (+1)
+-     qtecqot/OpSTlDJWFFI: views 39575 -> 39598 (+23)
+-     ivan0135/RsQCXN4o4Ps: views 1502294 -> 1502306 (+12)
+
+## 2026-08-10T05:30:01.476606+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37227 -> 37245 (+18)
+-     qtecqot/OpSTlDJWFFI: views 39598 -> 39617 (+19)
+-     ivan0135/RsQCXN4o4Ps: views 1502306 -> 1502336 (+30)
+
+## 2026-08-10T06:00:01.985521+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+
+## 2026-08-10T06:30:01.876750+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-10T07:00:02.221586+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+
+## 2026-08-10T07:30:01.559929+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 39680 -> 39689 (+9)
+-     qtecqot/OpSTlDJWFFI: likes 1412 -> 1413 (+1)
+-     qtecqot/Oqw96jCOP7A: views 37283 -> 37298 (+15)
+-     qtecqot/l9RAhmPHM_A: views 61904 -> 61927 (+23)
+-     qtecqot/l9RAhmPHM_A: likes 1982 -> 1983 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355168 -> 355175 (+7)
+-     ivan0135/RsQCXN4o4Ps: views 1502379 -> 1502389 (+10)
+-     ivan0135/RsQCXN4o4Ps: likes 16808 -> 16809 (+1)
+-     ivan0135/ZB788PtqQvg: views 690432 -> 690434 (+2)
+-     ivan0135/a6TLGkrfNKI: views 713956 -> 713948 (-8)
+
+## 2026-08-10T08:00:01.766477+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 39689 -> 39718 (+29)
+-     qtecqot/Oqw96jCOP7A: views 37298 -> 37310 (+12)
+-     qtecqot/l9RAhmPHM_A: views 61927 -> 61949 (+22)
+-     ivan0135/RsQCXN4o4Ps: views 1502389 -> 1502405 (+16)
+-     ivan0135/ZB788PtqQvg: views 690434 -> 690454 (+20)
+
+## 2026-08-10T08:30:01.869357+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 61949 -> 61968 (+19)
+-     qtecqot/l9RAhmPHM_A: likes 1983 -> 1985 (+2)
+-     qtecqot/OpSTlDJWFFI: views 39718 -> 39730 (+12)
+-     qtecqot/Oqw96jCOP7A: views 37310 -> 37327 (+17)
+-     ivan0135/Xju_CY5ZESA: views 355175 -> 355194 (+19)
+-     ivan0135/RsQCXN4o4Ps: views 1502405 -> 1502414 (+9)
+
+## 2026-08-10T09:00:01.772601+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 61968 -> 61999 (+31)
+-     qtecqot/l9RAhmPHM_A: likes 1985 -> 1986 (+1)
+-     qtecqot/OpSTlDJWFFI: views 39730 -> 39757 (+27)
+-     qtecqot/OpSTlDJWFFI: likes 1413 -> 1414 (+1)
+-     qtecqot/Oqw96jCOP7A: views 37327 -> 37345 (+18)
+-     ivan0135/RsQCXN4o4Ps: views 1502414 -> 1502419 (+5)
+
+## 2026-08-10T09:30:02.138002+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 39757 -> 39771 (+14)
+-     qtecqot/OpSTlDJWFFI: likes 1414 -> 1415 (+1)
+-     qtecqot/Oqw96jCOP7A: views 37345 -> 37367 (+22)
+-     qtecqot/Oqw96jCOP7A: likes 1278 -> 1279 (+1)
+-     qtecqot/l9RAhmPHM_A: views 61999 -> 62023 (+24)
+-     qtecqot/l9RAhmPHM_A: likes 1986 -> 1987 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713948 -> 713956 (+8)
+-     ivan0135/Xju_CY5ZESA: views 355194 -> 355168 (-26)
+
+## 2026-08-10T10:00:01.960801+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 39771 -> 39777 (+6)
+-     qtecqot/OpSTlDJWFFI: likes 1415 -> 1416 (+1)
+-     qtecqot/Oqw96jCOP7A: views 37367 -> 37376 (+9)
+-     qtecqot/l9RAhmPHM_A: views 62023 -> 62038 (+15)
+-     qtecqot/l9RAhmPHM_A: likes 1987 -> 1988 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355168 -> 355194 (+26)
+-     ivan0135/RsQCXN4o4Ps: views 1502419 -> 1502440 (+21)
+-     ivan0135/RsQCXN4o4Ps: likes 16809 -> 16810 (+1)
+-     ivan0135/a6TLGkrfNKI: views 713956 -> 713993 (+37)
+-     ivan0135/ZB788PtqQvg: views 690454 -> 690475 (+21)
+-     ivan0135/ZB788PtqQvg: likes 7855 -> 7856 (+1)
+
+## 2026-08-10T10:30:01.855656+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 39777 -> 39795 (+18)
+-     qtecqot/OpSTlDJWFFI: likes 1416 -> 1417 (+1)
+-     qtecqot/Oqw96jCOP7A: views 37376 -> 37385 (+9)
+-     qtecqot/Oqw96jCOP7A: likes 1279 -> 1280 (+1)
+-     qtecqot/l9RAhmPHM_A: views 62038 -> 62064 (+26)
+-     qtecqot/l9RAhmPHM_A: likes 1988 -> 1990 (+2)
+-     ivan0135/ZB788PtqQvg: views 690475 -> 690477 (+2)
+-     ivan0135/Xju_CY5ZESA: views 355194 -> 355215 (+21)
+-     ivan0135/Xju_CY5ZESA: likes 4775 -> 4776 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1502440 -> 1502443 (+3)
+
+## 2026-08-10T11:00:01.305182+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 39795 -> 39803 (+8)
+-     qtecqot/OpSTlDJWFFI: likes 1417 -> 1419 (+2)
+-     qtecqot/Oqw96jCOP7A: views 37385 -> 37395 (+10)
+-     qtecqot/Oqw96jCOP7A: likes 1280 -> 1282 (+2)
+-     qtecqot/l9RAhmPHM_A: views 62064 -> 62082 (+18)
+-     qtecqot/l9RAhmPHM_A: likes 1990 -> 1992 (+2)
+
+## 2026-08-10T11:30:01.572257+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 62082 -> 62108 (+26)
+-     qtecqot/Oqw96jCOP7A: views 37395 -> 37412 (+17)
+-     qtecqot/Oqw96jCOP7A: likes 1282 -> 1283 (+1)
+-     qtecqot/OpSTlDJWFFI: views 39803 -> 39821 (+18)
+-     ivan0135/RsQCXN4o4Ps: views 1502443 -> 1502468 (+25)
+-     ivan0135/RsQCXN4o4Ps: likes 16810 -> 16811 (+1)
+
+## 2026-08-10T12:00:01.813107+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 39821 -> 39839 (+18)
+-     qtecqot/OpSTlDJWFFI: likes 1419 -> 1421 (+2)
+-     qtecqot/Oqw96jCOP7A: views 37412 -> 37433 (+21)
+-     qtecqot/Oqw96jCOP7A: likes 1283 -> 1285 (+2)
+-     qtecqot/l9RAhmPHM_A: views 62108 -> 62135 (+27)
+-     qtecqot/l9RAhmPHM_A: likes 1992 -> 1994 (+2)
+-     ivan0135/a6TLGkrfNKI: views 713993 -> 713989 (-4)
+-     ivan0135/RsQCXN4o4Ps: views 1502468 -> 1502478 (+10)
+-     ivan0135/RsQCXN4o4Ps: likes 16811 -> 16812 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355215 -> 355210 (-5)
+-     ivan0135/Xju_CY5ZESA: likes 4776 -> 4775 (-1)
+-     ivan0135/ZB788PtqQvg: views 690477 -> 690500 (+23)
+-     ivan0135/ZB788PtqQvg: likes 7856 -> 7857 (+1)
+
+## 2026-08-10T12:30:02.003915+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 62135 -> 62164 (+29)
+-     qtecqot/l9RAhmPHM_A: likes 1994 -> 1996 (+2)
+-     qtecqot/Oqw96jCOP7A: views 37433 -> 37453 (+20)
+-     qtecqot/Oqw96jCOP7A: likes 1285 -> 1286 (+1)
+-     qtecqot/OpSTlDJWFFI: views 39839 -> 39864 (+25)
+-     qtecqot/OpSTlDJWFFI: likes 1421 -> 1422 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1502478 -> 1502484 (+6)
+-     ivan0135/RsQCXN4o4Ps: likes 16812 -> 16813 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355210 -> 355235 (+25)
+-     ivan0135/Xju_CY5ZESA: likes 4775 -> 4777 (+2)
+-     ivan0135/a6TLGkrfNKI: views 713989 -> 714032 (+43)
+
+## 2026-08-10T13:00:01.822297+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 39864 -> 39873 (+9)
+-     qtecqot/OpSTlDJWFFI: likes 1422 -> 1421 (-1)
+-     qtecqot/l9RAhmPHM_A: views 62164 -> 62185 (+21)
+-     qtecqot/Oqw96jCOP7A: views 37453 -> 37459 (+6)
+
+## 2026-08-10T13:30:02.007575+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 39873 -> 39901 (+28)
+-     qtecqot/OpSTlDJWFFI: likes 1421 -> 1422 (+1)
+-     qtecqot/l9RAhmPHM_A: views 62185 -> 62216 (+31)
+-     ivan0135/ZB788PtqQvg: views 690500 -> 690521 (+21)
+
+## 2026-08-10T14:00:01.376662+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 62216 -> 62238 (+22)
+-     qtecqot/l9RAhmPHM_A: likes 1996 -> 1997 (+1)
+-     qtecqot/OpSTlDJWFFI: views 39901 -> 39915 (+14)
+-     qtecqot/OpSTlDJWFFI: likes 1422 -> 1423 (+1)
+-     qtecqot/Oqw96jCOP7A: views 37459 -> 37505 (+46)
+-     qtecqot/Oqw96jCOP7A: likes 1286 -> 1287 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1502484 -> 1502513 (+29)
+-     ivan0135/RsQCXN4o4Ps: likes 16813 -> 16814 (+1)
+-     ivan0135/ZB788PtqQvg: views 690521 -> 690525 (+4)
+-     ivan0135/ZB788PtqQvg: likes 7857 -> 7858 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714032 -> 714045 (+13)
+-     ivan0135/Xju_CY5ZESA: views 355235 -> 355250 (+15)
+-     ivan0135/Xju_CY5ZESA: likes 4777 -> 4778 (+1)
+
+## 2026-08-10T14:30:01.889974+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37505 -> 37527 (+22)
+-     qtecqot/Oqw96jCOP7A: likes 1287 -> 1289 (+2)
+-     qtecqot/l9RAhmPHM_A: views 62238 -> 62272 (+34)
+-     qtecqot/l9RAhmPHM_A: likes 1997 -> 1998 (+1)
+-     qtecqot/OpSTlDJWFFI: views 39915 -> 39934 (+19)
+-     qtecqot/OpSTlDJWFFI: likes 1423 -> 1425 (+2)
+-     ivan0135/ZB788PtqQvg: views 690525 -> 690532 (+7)
+-     ivan0135/RsQCXN4o4Ps: views 1502513 -> 1502521 (+8)
+
+## 2026-08-10T15:00:01.255305+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37527 -> 37555 (+28)
+-     qtecqot/Oqw96jCOP7A: likes 1289 -> 1290 (+1)
+-     qtecqot/OpSTlDJWFFI: views 39934 -> 39955 (+21)
+-     qtecqot/OpSTlDJWFFI: likes 1425 -> 1426 (+1)
+-     qtecqot/l9RAhmPHM_A: views 62272 -> 62310 (+38)
+-     qtecqot/l9RAhmPHM_A: likes 1998 -> 2003 (+5)
+-     ivan0135/a6TLGkrfNKI: views 714045 -> 714074 (+29)
+-     ivan0135/a6TLGkrfNKI: likes 8970 -> 8971 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355250 -> 355270 (+20)
+-     ivan0135/Xju_CY5ZESA: likes 4778 -> 4779 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1502521 -> 1502541 (+20)
+-     ivan0135/RsQCXN4o4Ps: likes 16814 -> 16815 (+1)
+-     ivan0135/ZB788PtqQvg: views 690532 -> 690537 (+5)
+
+## 2026-08-10T15:30:01.081156+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37555 -> 37572 (+17)
+-     qtecqot/OpSTlDJWFFI: views 39955 -> 39978 (+23)
+-     qtecqot/l9RAhmPHM_A: views 62310 -> 62330 (+20)
+-     ivan0135/Xju_CY5ZESA: views 355270 -> 355274 (+4)
+-     ivan0135/RsQCXN4o4Ps: views 1502541 -> 1502549 (+8)
+-     ivan0135/RsQCXN4o4Ps: likes 16815 -> 16816 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714074 -> 714083 (+9)
+-     ivan0135/ZB788PtqQvg: views 690537 -> 690549 (+12)
+-     ivan0135/ZB788PtqQvg: likes 7858 -> 7859 (+1)
+
+## 2026-08-10T16:00:02.107690+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37572 -> 37582 (+10)
+-     qtecqot/Oqw96jCOP7A: likes 1290 -> 1291 (+1)
+-     qtecqot/OpSTlDJWFFI: views 39978 -> 39998 (+20)
+-     qtecqot/OpSTlDJWFFI: likes 1426 -> 1427 (+1)
+-     qtecqot/l9RAhmPHM_A: views 62330 -> 62362 (+32)
+-     qtecqot/l9RAhmPHM_A: likes 2003 -> 2006 (+3)
+-     ivan0135/Xju_CY5ZESA: views 355274 -> 355277 (+3)
+-     ivan0135/a6TLGkrfNKI: views 714083 -> 714087 (+4)
+-     ivan0135/RsQCXN4o4Ps: views 1502549 -> 1502554 (+5)
+-     ivan0135/ZB788PtqQvg: views 690549 -> 690550 (+1)
+
+## 2026-08-10T16:30:01.842925+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 62362 -> 62406 (+44)
+-     qtecqot/l9RAhmPHM_A: likes 2006 -> 2007 (+1)
+-     qtecqot/OpSTlDJWFFI: views 39998 -> 40020 (+22)
+-     qtecqot/Oqw96jCOP7A: views 37582 -> 37617 (+35)
+-     qtecqot/Oqw96jCOP7A: likes 1291 -> 1292 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714087 -> 714105 (+18)
+-     ivan0135/a6TLGkrfNKI: likes 8971 -> 8972 (+1)
+
+## 2026-08-10T17:00:01.345648+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37617 -> 37633 (+16)
+-     qtecqot/Oqw96jCOP7A: likes 1292 -> 1296 (+4)
+-     qtecqot/l9RAhmPHM_A: views 62406 -> 62453 (+47)
+-     qtecqot/l9RAhmPHM_A: likes 2007 -> 2011 (+4)
+-     qtecqot/OpSTlDJWFFI: views 40020 -> 40048 (+28)
+-     qtecqot/OpSTlDJWFFI: likes 1427 -> 1431 (+4)
+-     ivan0135/a6TLGkrfNKI: views 714105 -> 714115 (+10)
+-     ivan0135/a6TLGkrfNKI: likes 8972 -> 8974 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1502554 -> 1502608 (+54)
+-     ivan0135/RsQCXN4o4Ps: likes 16816 -> 16818 (+2)
+-     ivan0135/ZB788PtqQvg: views 690550 -> 690582 (+32)
+-     ivan0135/ZB788PtqQvg: likes 7859 -> 7861 (+2)
+-     ivan0135/Xju_CY5ZESA: views 355277 -> 355302 (+25)
+-     ivan0135/Xju_CY5ZESA: likes 4779 -> 4781 (+2)
+
+## 2026-08-10T17:30:01.710995+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 62453 -> 62490 (+37)
+-     qtecqot/l9RAhmPHM_A: likes 2011 -> 2013 (+2)
+-     qtecqot/Oqw96jCOP7A: views 37633 -> 37667 (+34)
+-     qtecqot/Oqw96jCOP7A: likes 1296 -> 1298 (+2)
+-     qtecqot/OpSTlDJWFFI: views 40048 -> 40072 (+24)
+-     qtecqot/OpSTlDJWFFI: likes 1431 -> 1433 (+2)
+-     ivan0135/a6TLGkrfNKI: views 714115 -> 714120 (+5)
+-     ivan0135/ZB788PtqQvg: views 690582 -> 690589 (+7)
+-     ivan0135/Xju_CY5ZESA: views 355302 -> 355309 (+7)
+-     ivan0135/RsQCXN4o4Ps: views 1502608 -> 1502621 (+13)
+-     ivan0135/RsQCXN4o4Ps: likes 16818 -> 16819 (+1)
+
+## 2026-08-10T18:00:01.934901+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37667 -> 37699 (+32)
+-     qtecqot/OpSTlDJWFFI: views 40072 -> 40109 (+37)
+-     qtecqot/l9RAhmPHM_A: views 62490 -> 62549 (+59)
+-     ivan0135/RsQCXN4o4Ps: views 1502621 -> 1502632 (+11)
+-     ivan0135/Xju_CY5ZESA: views 355309 -> 355313 (+4)
+-     ivan0135/ZB788PtqQvg: views 690589 -> 690597 (+8)
+
+## 2026-08-10T18:30:01.795117+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 62549 -> 62578 (+29)
+-     qtecqot/Oqw96jCOP7A: views 37699 -> 37728 (+29)
+-     qtecqot/Oqw96jCOP7A: likes 1298 -> 1299 (+1)
+-     qtecqot/OpSTlDJWFFI: views 40109 -> 40136 (+27)
+-     ivan0135/RsQCXN4o4Ps: views 1502632 -> 1502642 (+10)
+
+## 2026-08-10T19:00:02.012112+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 62578 -> 62627 (+49)
+-     qtecqot/l9RAhmPHM_A: likes 2013 -> 2015 (+2)
+-     qtecqot/OpSTlDJWFFI: views 40136 -> 40168 (+32)
+-     qtecqot/OpSTlDJWFFI: likes 1433 -> 1434 (+1)
+-     qtecqot/Oqw96jCOP7A: views 37728 -> 37764 (+36)
+-     qtecqot/Oqw96jCOP7A: likes 1299 -> 1300 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714120 -> 714156 (+36)
+-     ivan0135/ZB788PtqQvg: views 690597 -> 690624 (+27)
+-     ivan0135/Xju_CY5ZESA: views 355313 -> 355347 (+34)
+-     ivan0135/Xju_CY5ZESA: likes 4781 -> 4782 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1502642 -> 1502679 (+37)
+-     ivan0135/RsQCXN4o4Ps: likes 16819 -> 16820 (+1)
+
+## 2026-08-10T19:30:01.476667+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37764 -> 37788 (+24)
+-     qtecqot/Oqw96jCOP7A: likes 1300 -> 1301 (+1)
+-     qtecqot/OpSTlDJWFFI: views 40168 -> 40192 (+24)
+-     qtecqot/OpSTlDJWFFI: likes 1434 -> 1435 (+1)
+-     qtecqot/l9RAhmPHM_A: views 62627 -> 62665 (+38)
+-     qtecqot/l9RAhmPHM_A: likes 2015 -> 2017 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1502679 -> 1502698 (+19)
+-     ivan0135/RsQCXN4o4Ps: likes 16820 -> 16821 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714156 -> 714168 (+12)
+-     ivan0135/a6TLGkrfNKI: likes 8974 -> 8975 (+1)
+
+## 2026-08-10T20:00:01.922433+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37788 -> 37806 (+18)
+-     qtecqot/Oqw96jCOP7A: likes 1301 -> 1303 (+2)
+-     qtecqot/l9RAhmPHM_A: views 62665 -> 62701 (+36)
+-     qtecqot/l9RAhmPHM_A: likes 2017 -> 2019 (+2)
+-     qtecqot/OpSTlDJWFFI: views 40192 -> 40218 (+26)
+-     qtecqot/OpSTlDJWFFI: likes 1435 -> 1437 (+2)
+-     ivan0135/ZB788PtqQvg: views 690624 -> 690652 (+28)
+-     ivan0135/ZB788PtqQvg: likes 7861 -> 7862 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355347 -> 355372 (+25)
+-     ivan0135/Xju_CY5ZESA: likes 4782 -> 4783 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1502698 -> 1502715 (+17)
+-     ivan0135/RsQCXN4o4Ps: likes 16821 -> 16822 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714168 -> 714182 (+14)
+-     ivan0135/a6TLGkrfNKI: likes 8975 -> 8976 (+1)
+
+## 2026-08-10T20:30:02.014739+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 62701 -> 62735 (+34)
+-     qtecqot/Oqw96jCOP7A: views 37806 -> 37824 (+18)
+-     qtecqot/OpSTlDJWFFI: views 40218 -> 40247 (+29)
+-     ivan0135/RsQCXN4o4Ps: views 1502715 -> 1502729 (+14)
+-     ivan0135/RsQCXN4o4Ps: likes 16822 -> 16823 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355372 -> 355375 (+3)
+-     ivan0135/ZB788PtqQvg: views 690652 -> 690658 (+6)
+-     ivan0135/a6TLGkrfNKI: views 714182 -> 714190 (+8)
+
+## 2026-08-10T21:00:01.173579+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 62735 -> 62779 (+44)
+-     qtecqot/l9RAhmPHM_A: likes 2019 -> 2023 (+4)
+-     qtecqot/Oqw96jCOP7A: views 37824 -> 37847 (+23)
+-     qtecqot/Oqw96jCOP7A: likes 1303 -> 1305 (+2)
+-     qtecqot/OpSTlDJWFFI: views 40247 -> 40266 (+19)
+-     qtecqot/OpSTlDJWFFI: likes 1437 -> 1440 (+3)
+-     ivan0135/Xju_CY5ZESA: views 355375 -> 355382 (+7)
+-     ivan0135/ZB788PtqQvg: views 690658 -> 690661 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1502729 -> 1502744 (+15)
+
+## 2026-08-10T21:30:01.155301+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 40266 -> 40295 (+29)
+-     qtecqot/l9RAhmPHM_A: views 62779 -> 62817 (+38)
+-     qtecqot/l9RAhmPHM_A: likes 2023 -> 2024 (+1)
+-     qtecqot/Oqw96jCOP7A: views 37847 -> 37873 (+26)
+-     qtecqot/Oqw96jCOP7A: likes 1305 -> 1306 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714190 -> 714218 (+28)
+-     ivan0135/a6TLGkrfNKI: likes 8976 -> 8977 (+1)
+-     ivan0135/ZB788PtqQvg: views 690661 -> 690662 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1502744 -> 1502768 (+24)
+
+## 2026-08-10T22:00:01.255516+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 40295 -> 40323 (+28)
+-     qtecqot/OpSTlDJWFFI: likes 1440 -> 1441 (+1)
+-     qtecqot/l9RAhmPHM_A: views 62817 -> 62855 (+38)
+-     qtecqot/Oqw96jCOP7A: views 37873 -> 37901 (+28)
+-     qtecqot/Oqw96jCOP7A: likes 1306 -> 1307 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1502768 -> 1502794 (+26)
+-     ivan0135/a6TLGkrfNKI: views 714218 -> 714235 (+17)
+
+## 2026-08-10T22:30:01.842695+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37901 -> 37935 (+34)
+-     qtecqot/Oqw96jCOP7A: likes 1307 -> 1310 (+3)
+-     qtecqot/OpSTlDJWFFI: views 40323 -> 40355 (+32)
+-     qtecqot/OpSTlDJWFFI: likes 1441 -> 1443 (+2)
+-     qtecqot/l9RAhmPHM_A: views 62855 -> 62909 (+54)
+-     qtecqot/l9RAhmPHM_A: likes 2024 -> 2027 (+3)
+-     ivan0135/Xju_CY5ZESA: views 355382 -> 355426 (+44)
+-     ivan0135/ZB788PtqQvg: views 690662 -> 690714 (+52)
+-     ivan0135/ZB788PtqQvg: likes 7862 -> 7863 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1502794 -> 1502810 (+16)
+-     ivan0135/RsQCXN4o4Ps: likes 16823 -> 16824 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714235 -> 714251 (+16)
+
+## 2026-08-10T23:00:01.545304+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 40355 -> 40374 (+19)
+-     qtecqot/OpSTlDJWFFI: likes 1443 -> 1445 (+2)
+-     qtecqot/Oqw96jCOP7A: views 37935 -> 37964 (+29)
+-     qtecqot/Oqw96jCOP7A: likes 1310 -> 1312 (+2)
+-     qtecqot/l9RAhmPHM_A: views 62909 -> 62938 (+29)
+-     qtecqot/l9RAhmPHM_A: likes 2027 -> 2030 (+3)
+-     ivan0135/Xju_CY5ZESA: views 355426 -> 355431 (+5)
+-     ivan0135/ZB788PtqQvg: views 690714 -> 690727 (+13)
+-     ivan0135/RsQCXN4o4Ps: views 1502810 -> 1502833 (+23)
+-     ivan0135/RsQCXN4o4Ps: likes 16824 -> 16825 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714251 -> 714265 (+14)
+
+## 2026-08-10T23:30:01.594089+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 62938 -> 62962 (+24)
+-     qtecqot/l9RAhmPHM_A: likes 2030 -> 2031 (+1)
+-     qtecqot/Oqw96jCOP7A: views 37964 -> 37994 (+30)
+-     qtecqot/OpSTlDJWFFI: views 40374 -> 40402 (+28)
+-     qtecqot/OpSTlDJWFFI: likes 1445 -> 1446 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1502833 -> 1502844 (+11)
+-     ivan0135/a6TLGkrfNKI: views 714265 -> 714270 (+5)
+-     ivan0135/a6TLGkrfNKI: likes 8977 -> 8978 (+1)
+-     ivan0135/ZB788PtqQvg: views 690727 -> 690734 (+7)
+-     ivan0135/ZB788PtqQvg: likes 7863 -> 7864 (+1)
+
+## 2026-08-11T00:00:01.386230+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 37994 -> 38021 (+27)
+-     qtecqot/l9RAhmPHM_A: views 62962 -> 62995 (+33)
+-     qtecqot/l9RAhmPHM_A: likes 2031 -> 2032 (+1)
+-     qtecqot/OpSTlDJWFFI: views 40402 -> 40433 (+31)
+-     ivan0135/RsQCXN4o4Ps: views 1502844 -> 1502873 (+29)
+-     ivan0135/ZB788PtqQvg: views 690734 -> 690758 (+24)
+
+## 2026-08-11T00:30:01.461457+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 38021 -> 38061 (+40)
+-     qtecqot/l9RAhmPHM_A: views 62995 -> 63040 (+45)
+-     qtecqot/l9RAhmPHM_A: likes 2032 -> 2033 (+1)
+-     qtecqot/OpSTlDJWFFI: views 40433 -> 40451 (+18)
+-     ivan0135/RsQCXN4o4Ps: views 1502873 -> 1502887 (+14)
+-     ivan0135/ZB788PtqQvg: views 690758 -> 690761 (+3)
+
+## 2026-08-11T01:00:01.998303+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 40451 -> 40468 (+17)
+-     qtecqot/OpSTlDJWFFI: likes 1446 -> 1447 (+1)
+-     qtecqot/l9RAhmPHM_A: views 63040 -> 63070 (+30)
+-     qtecqot/l9RAhmPHM_A: likes 2033 -> 2032 (-1)
+-     qtecqot/Oqw96jCOP7A: views 38061 -> 38080 (+19)
+-     qtecqot/Oqw96jCOP7A: likes 1312 -> 1313 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1502887 -> 1502902 (+15)
+
+## 2026-08-11T01:30:01.235108+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 38080 -> 38101 (+21)
+-     qtecqot/Oqw96jCOP7A: likes 1313 -> 1314 (+1)
+-     qtecqot/l9RAhmPHM_A: views 63070 -> 63112 (+42)
+-     qtecqot/l9RAhmPHM_A: likes 2032 -> 2033 (+1)
+-     qtecqot/OpSTlDJWFFI: views 40468 -> 40493 (+25)
+-     ivan0135/ZB788PtqQvg: views 690761 -> 690790 (+29)
+-     ivan0135/ZB788PtqQvg: likes 7864 -> 7865 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1502902 -> 1502917 (+15)
+-     ivan0135/RsQCXN4o4Ps: likes 16825 -> 16826 (+1)
+
+## 2026-08-11T02:00:02.046247+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 63112 -> 63130 (+18)
+-     qtecqot/l9RAhmPHM_A: likes 2033 -> 2034 (+1)
+-     qtecqot/OpSTlDJWFFI: views 40493 -> 40506 (+13)
+-     qtecqot/OpSTlDJWFFI: likes 1447 -> 1448 (+1)
+-     qtecqot/Oqw96jCOP7A: views 38101 -> 38120 (+19)
+-     qtecqot/Oqw96jCOP7A: likes 1314 -> 1315 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1502917 -> 1502932 (+15)
+-     ivan0135/Xju_CY5ZESA: views 355431 -> 355491 (+60)
+-     ivan0135/a6TLGkrfNKI: views 714270 -> 714330 (+60)
+-     ivan0135/a6TLGkrfNKI: likes 8978 -> 8979 (+1)
+
+## 2026-08-11T02:30:01.928391+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-11T03:00:01.419942+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-11T03:30:01.209881+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-11T04:00:01.946597+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-11T04:30:01.703552+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-11T05:00:01.500108+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-11T05:30:01.361952+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-11T06:00:01.866160+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-11T06:30:01.422456+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-11T07:00:01.674969+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-11T07:30:01.910759+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 63354 -> 63373 (+19)
+-     qtecqot/l9RAhmPHM_A: likes 2041 -> 2043 (+2)
+-     qtecqot/OpSTlDJWFFI: views 40662 -> 40683 (+21)
+-     qtecqot/OpSTlDJWFFI: likes 1454 -> 1457 (+3)
+-     qtecqot/Oqw96jCOP7A: views 38347 -> 38374 (+27)
+-     qtecqot/Oqw96jCOP7A: likes 1322 -> 1323 (+1)
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-11T08:00:01.757148+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 40683 -> 40700 (+17)
+-     qtecqot/OpSTlDJWFFI: likes 1457 -> 1456 (-1)
+-     qtecqot/l9RAhmPHM_A: views 63373 -> 63392 (+19)
+-     qtecqot/l9RAhmPHM_A: likes 2043 -> 2044 (+1)
+-     qtecqot/Oqw96jCOP7A: views 38374 -> 38404 (+30)
+-     qtecqot/Oqw96jCOP7A: likes 1323 -> 1322 (-1)
+-     ivan0135/a6TLGkrfNKI: views 714413 -> 714417 (+4)
+-     ivan0135/RsQCXN4o4Ps: views 1503077 -> 1503078 (+1)
+
+## 2026-08-11T08:30:01.865605+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 38404 -> 38422 (+18)
+-     qtecqot/Oqw96jCOP7A: likes 1322 -> 1323 (+1)
+-     qtecqot/l9RAhmPHM_A: views 63392 -> 63403 (+11)
+-     qtecqot/l9RAhmPHM_A: likes 2044 -> 2045 (+1)
+-     qtecqot/OpSTlDJWFFI: views 40700 -> 40716 (+16)
+-     qtecqot/OpSTlDJWFFI: likes 1456 -> 1457 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1503078 -> 1503091 (+13)
+-     ivan0135/ZB788PtqQvg: views 690873 -> 690904 (+31)
+-     ivan0135/ZB788PtqQvg: likes 7866 -> 7867 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714417 -> 714423 (+6)
+
+## 2026-08-11T09:00:01.198558+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 38422 -> 38430 (+8)
+-     qtecqot/Oqw96jCOP7A: likes 1323 -> 1322 (-1)
+-     qtecqot/l9RAhmPHM_A: views 63403 -> 63415 (+12)
+-     qtecqot/l9RAhmPHM_A: likes 2045 -> 2046 (+1)
+-     qtecqot/OpSTlDJWFFI: views 40716 -> 40724 (+8)
+-     qtecqot/OpSTlDJWFFI: likes 1457 -> 1456 (-1)
+-     ivan0135/RsQCXN4o4Ps: views 1503091 -> 1503101 (+10)
+-     ivan0135/a6TLGkrfNKI: views 714423 -> 714426 (+3)
+
+## 2026-08-11T09:30:01.839221+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 63415 -> 63436 (+21)
+-     qtecqot/l9RAhmPHM_A: likes 2046 -> 2047 (+1)
+-     qtecqot/OpSTlDJWFFI: views 40724 -> 40734 (+10)
+-     qtecqot/OpSTlDJWFFI: likes 1456 -> 1457 (+1)
+-     qtecqot/Oqw96jCOP7A: views 38430 -> 38445 (+15)
+-     qtecqot/Oqw96jCOP7A: likes 1322 -> 1323 (+1)
+-     ivan0135/ZB788PtqQvg: views 690904 -> 690921 (+17)
+-     ivan0135/ZB788PtqQvg: likes 7867 -> 7866 (-1)
+-     ivan0135/RsQCXN4o4Ps: views 1503101 -> 1503115 (+14)
+-     ivan0135/Xju_CY5ZESA: views 355563 -> 355592 (+29)
+
+## 2026-08-11T10:00:01.138728+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 40734 -> 40752 (+18)
+-     qtecqot/l9RAhmPHM_A: views 63436 -> 63453 (+17)
+-     qtecqot/Oqw96jCOP7A: views 38445 -> 38461 (+16)
+-     ivan0135/RsQCXN4o4Ps: views 1503115 -> 1503117 (+2)
+-     ivan0135/a6TLGkrfNKI: views 714426 -> 714444 (+18)
+-     ivan0135/a6TLGkrfNKI: likes 8980 -> 8981 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355592 -> 355563 (-29)
+-     ivan0135/ZB788PtqQvg: views 690921 -> 690920 (-1)
+
+## 2026-08-11T10:30:01.282787+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 40752 -> 40766 (+14)
+-     qtecqot/Oqw96jCOP7A: views 38461 -> 38463 (+2)
+-     qtecqot/l9RAhmPHM_A: views 63453 -> 63473 (+20)
+-     qtecqot/l9RAhmPHM_A: likes 2047 -> 2048 (+1)
+-     ivan0135/ZB788PtqQvg: views 690920 -> 690921 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714444 -> 714445 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355563 -> 355592 (+29)
+
+## 2026-08-11T11:00:02.089526+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 40766 -> 40779 (+13)
+-     qtecqot/Oqw96jCOP7A: views 38463 -> 38486 (+23)
+-     qtecqot/Oqw96jCOP7A: likes 1323 -> 1324 (+1)
+-     qtecqot/l9RAhmPHM_A: views 63473 -> 63498 (+25)
+-     ivan0135/Xju_CY5ZESA: views 355592 -> 355596 (+4)
+-     ivan0135/a6TLGkrfNKI: views 714445 -> 714456 (+11)
+-     ivan0135/ZB788PtqQvg: views 690921 -> 690935 (+14)
+
+## 2026-08-11T11:30:01.147525+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 38486 -> 38498 (+12)
+-     qtecqot/Oqw96jCOP7A: likes 1324 -> 1325 (+1)
+-     qtecqot/l9RAhmPHM_A: views 63498 -> 63518 (+20)
+-     qtecqot/l9RAhmPHM_A: likes 2048 -> 2049 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714456 -> 714463 (+7)
+
+## 2026-08-11T12:00:01.592662+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 38498 -> 38509 (+11)
+-     qtecqot/Oqw96jCOP7A: likes 1325 -> 1326 (+1)
+-     qtecqot/OpSTlDJWFFI: views 40779 -> 40817 (+38)
+-     qtecqot/OpSTlDJWFFI: likes 1457 -> 1459 (+2)
+-     qtecqot/l9RAhmPHM_A: views 63518 -> 63539 (+21)
+-     qtecqot/l9RAhmPHM_A: likes 2049 -> 2050 (+1)
+-     ivan0135/ZB788PtqQvg: views 690935 -> 690941 (+6)
+-     ivan0135/RsQCXN4o4Ps: views 1503117 -> 1503149 (+32)
+-     ivan0135/RsQCXN4o4Ps: likes 16828 -> 16829 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355596 -> 355615 (+19)
+-     ivan0135/Xju_CY5ZESA: likes 4783 -> 4784 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714463 -> 714467 (+4)
+
+## 2026-08-11T12:30:01.323325+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 38509 -> 38529 (+20)
+-     qtecqot/l9RAhmPHM_A: views 63539 -> 63565 (+26)
+-     qtecqot/OpSTlDJWFFI: views 40817 -> 40834 (+17)
+-     ivan0135/RsQCXN4o4Ps: views 1503149 -> 1503157 (+8)
+-     ivan0135/Xju_CY5ZESA: views 355615 -> 355617 (+2)
+
+## 2026-08-11T13:00:01.238347+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 63565 -> 63577 (+12)
+-     qtecqot/OpSTlDJWFFI: views 40834 -> 40852 (+18)
+-     qtecqot/Oqw96jCOP7A: views 38529 -> 38536 (+7)
+-     ivan0135/RsQCXN4o4Ps: views 1503157 -> 1503159 (+2)
+
+## 2026-08-11T13:30:01.478980+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 63577 -> 63601 (+24)
+-     qtecqot/l9RAhmPHM_A: likes 2050 -> 2053 (+3)
+-     qtecqot/Oqw96jCOP7A: views 38536 -> 38549 (+13)
+-     qtecqot/OpSTlDJWFFI: views 40852 -> 40864 (+12)
+-     ivan0135/a6TLGkrfNKI: views 714467 -> 714482 (+15)
+-     ivan0135/a6TLGkrfNKI: likes 8981 -> 8980 (-1)
+-     ivan0135/RsQCXN4o4Ps: views 1503159 -> 1503171 (+12)
+-     ivan0135/RsQCXN4o4Ps: likes 16829 -> 16827 (-2)
+-     ivan0135/ZB788PtqQvg: views 690941 -> 690960 (+19)
+-     ivan0135/ZB788PtqQvg: likes 7866 -> 7865 (-1)
+-     ivan0135/Xju_CY5ZESA: views 355617 -> 355629 (+12)
+-     ivan0135/Xju_CY5ZESA: likes 4784 -> 4783 (-1)
+
+## 2026-08-11T14:00:01.683283+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 38549 -> 38574 (+25)
+-     qtecqot/Oqw96jCOP7A: likes 1326 -> 1327 (+1)
+-     qtecqot/OpSTlDJWFFI: views 40864 -> 40883 (+19)
+-     qtecqot/l9RAhmPHM_A: views 63601 -> 63628 (+27)
+-     qtecqot/l9RAhmPHM_A: likes 2053 -> 2055 (+2)
+-     ivan0135/a6TLGkrfNKI: views 714482 -> 714489 (+7)
+-     ivan0135/RsQCXN4o4Ps: views 1503171 -> 1503180 (+9)
+-     ivan0135/ZB788PtqQvg: views 690960 -> 690964 (+4)
+-     ivan0135/Xju_CY5ZESA: views 355629 -> 355634 (+5)
+
+## 2026-08-11T14:30:01.295106+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 40883 -> 40895 (+12)
+-     qtecqot/OpSTlDJWFFI: likes 1459 -> 1460 (+1)
+-     qtecqot/Oqw96jCOP7A: views 38574 -> 38584 (+10)
+-     qtecqot/Oqw96jCOP7A: likes 1327 -> 1328 (+1)
+-     qtecqot/l9RAhmPHM_A: views 63628 -> 63651 (+23)
+-     qtecqot/l9RAhmPHM_A: likes 2055 -> 2056 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1503180 -> 1503186 (+6)
+-     ivan0135/RsQCXN4o4Ps: likes 16827 -> 16828 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714489 -> 714496 (+7)
+-     ivan0135/a6TLGkrfNKI: likes 8980 -> 8981 (+1)
+
+## 2026-08-11T15:00:01.318322+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 63651 -> 63667 (+16)
+-     qtecqot/l9RAhmPHM_A: likes 2056 -> 2057 (+1)
+-     qtecqot/Oqw96jCOP7A: views 38584 -> 38593 (+9)
+-     qtecqot/OpSTlDJWFFI: views 40895 -> 40912 (+17)
+-     ivan0135/RsQCXN4o4Ps: views 1503186 -> 1503188 (+2)
+-     ivan0135/a6TLGkrfNKI: views 714496 -> 714497 (+1)
+
+## 2026-08-11T15:30:01.226817+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 63667 -> 63699 (+32)
+-     qtecqot/OpSTlDJWFFI: views 40912 -> 40926 (+14)
+-     qtecqot/OpSTlDJWFFI: likes 1460 -> 1462 (+2)
+
+## 2026-08-11T16:00:01.468306+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 40926 -> 40951 (+25)
+-     qtecqot/Oqw96jCOP7A: views 38593 -> 38639 (+46)
+-     qtecqot/Oqw96jCOP7A: likes 1328 -> 1330 (+2)
+-     qtecqot/l9RAhmPHM_A: views 63699 -> 63720 (+21)
+-     ivan0135/RsQCXN4o4Ps: views 1503188 -> 1503206 (+18)
+
+## 2026-08-11T16:30:01.190238+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 40951 -> 40964 (+13)
+-     qtecqot/OpSTlDJWFFI: likes 1462 -> 1464 (+2)
+-     qtecqot/Oqw96jCOP7A: views 38639 -> 38652 (+13)
+-     qtecqot/l9RAhmPHM_A: views 63720 -> 63746 (+26)
+-     ivan0135/RsQCXN4o4Ps: views 1503206 -> 1503216 (+10)
+
+## 2026-08-11T17:00:01.903587+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 40964 -> 40986 (+22)
+-     qtecqot/OpSTlDJWFFI: likes 1464 -> 1465 (+1)
+-     qtecqot/Oqw96jCOP7A: views 38652 -> 38671 (+19)
+-     qtecqot/Oqw96jCOP7A: likes 1330 -> 1331 (+1)
+-     qtecqot/l9RAhmPHM_A: views 63746 -> 63777 (+31)
+-     qtecqot/l9RAhmPHM_A: likes 2057 -> 2058 (+1)
+
+## 2026-08-11T17:30:01.363698+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 40986 -> 41003 (+17)
+-     qtecqot/Oqw96jCOP7A: views 38671 -> 38689 (+18)
+-     qtecqot/l9RAhmPHM_A: views 63777 -> 63807 (+30)
+-     ivan0135/ZB788PtqQvg: views 690964 -> 690984 (+20)
+-     ivan0135/Xju_CY5ZESA: views 355634 -> 355654 (+20)
+
+## 2026-08-11T18:00:01.233283+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41003 -> 41018 (+15)
+-     qtecqot/OpSTlDJWFFI: likes 1465 -> 1466 (+1)
+-     qtecqot/l9RAhmPHM_A: views 63807 -> 63835 (+28)
+-     qtecqot/l9RAhmPHM_A: likes 2058 -> 2060 (+2)
+-     qtecqot/Oqw96jCOP7A: views 38689 -> 38706 (+17)
+-     qtecqot/Oqw96jCOP7A: likes 1331 -> 1333 (+2)
+-     ivan0135/Xju_CY5ZESA: views 355654 -> 355658 (+4)
+-     ivan0135/Xju_CY5ZESA: likes 4783 -> 4784 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1503216 -> 1503247 (+31)
+-     ivan0135/a6TLGkrfNKI: views 714497 -> 714523 (+26)
+
+## 2026-08-11T18:30:01.873495+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 63835 -> 63854 (+19)
+-     qtecqot/l9RAhmPHM_A: likes 2060 -> 2061 (+1)
+-     qtecqot/Oqw96jCOP7A: views 38706 -> 38721 (+15)
+
+## 2026-08-11T19:00:02.046536+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 38721 -> 38729 (+8)
+-     qtecqot/l9RAhmPHM_A: views 63854 -> 63871 (+17)
+-     ivan0135/RsQCXN4o4Ps: views 1503247 -> 1503258 (+11)
+-     ivan0135/RsQCXN4o4Ps: likes 16828 -> 16829 (+1)
+-     ivan0135/ZB788PtqQvg: views 690984 -> 691011 (+27)
+-     ivan0135/ZB788PtqQvg: likes 7865 -> 7866 (+1)
+
+## 2026-08-11T19:30:01.660320+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41018 -> 41056 (+38)
+-     qtecqot/Oqw96jCOP7A: views 38729 -> 38741 (+12)
+-     qtecqot/l9RAhmPHM_A: views 63871 -> 63895 (+24)
+-     ivan0135/ZB788PtqQvg: views 691011 -> 691018 (+7)
+
+## 2026-08-11T20:00:02.077113+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 63895 -> 63922 (+27)
+-     qtecqot/l9RAhmPHM_A: likes 2061 -> 2062 (+1)
+-     qtecqot/OpSTlDJWFFI: views 41056 -> 41077 (+21)
+-     qtecqot/Oqw96jCOP7A: views 38741 -> 38759 (+18)
+-     ivan0135/ZB788PtqQvg: views 691018 -> 691020 (+2)
+-     ivan0135/ZB788PtqQvg: likes 7866 -> 7867 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1503258 -> 1503282 (+24)
+-     ivan0135/RsQCXN4o4Ps: likes 16829 -> 16830 (+1)
+
+## 2026-08-11T20:30:01.960663+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 63922 -> 63945 (+23)
+-     qtecqot/l9RAhmPHM_A: likes 2062 -> 2066 (+4)
+-     qtecqot/Oqw96jCOP7A: views 38759 -> 38771 (+12)
+-     qtecqot/Oqw96jCOP7A: likes 1333 -> 1334 (+1)
+-     qtecqot/OpSTlDJWFFI: views 41077 -> 41087 (+10)
+-     qtecqot/OpSTlDJWFFI: likes 1466 -> 1467 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1503282 -> 1503293 (+11)
+-     ivan0135/RsQCXN4o4Ps: likes 16830 -> 16831 (+1)
+-     ivan0135/ZB788PtqQvg: views 691020 -> 691028 (+8)
+-     ivan0135/ZB788PtqQvg: likes 7867 -> 7866 (-1)
+-     ivan0135/a6TLGkrfNKI: views 714523 -> 714557 (+34)
+-     ivan0135/a6TLGkrfNKI: likes 8981 -> 8982 (+1)
+
+## 2026-08-11T21:00:01.439245+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41087 -> 41112 (+25)
+-     qtecqot/OpSTlDJWFFI: likes 1467 -> 1468 (+1)
+-     qtecqot/l9RAhmPHM_A: views 63945 -> 63982 (+37)
+-     qtecqot/l9RAhmPHM_A: likes 2066 -> 2067 (+1)
+-     qtecqot/Oqw96jCOP7A: views 38771 -> 38789 (+18)
+-     qtecqot/Oqw96jCOP7A: likes 1334 -> 1335 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714557 -> 714569 (+12)
+-     ivan0135/a6TLGkrfNKI: likes 8982 -> 8983 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355658 -> 355689 (+31)
+-     ivan0135/RsQCXN4o4Ps: views 1503293 -> 1503307 (+14)
+-     ivan0135/RsQCXN4o4Ps: likes 16831 -> 16832 (+1)
+-     ivan0135/ZB788PtqQvg: views 691028 -> 691042 (+14)
+
+## 2026-08-11T21:30:01.094844+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 63982 -> 64021 (+39)
+-     qtecqot/OpSTlDJWFFI: views 41112 -> 41138 (+26)
+-     qtecqot/OpSTlDJWFFI: likes 1468 -> 1469 (+1)
+-     qtecqot/Oqw96jCOP7A: views 38789 -> 38811 (+22)
+-     ivan0135/RsQCXN4o4Ps: views 1503307 -> 1503325 (+18)
+-     ivan0135/RsQCXN4o4Ps: likes 16832 -> 16833 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714569 -> 714572 (+3)
+-     ivan0135/a6TLGkrfNKI: likes 8983 -> 8984 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355689 -> 355706 (+17)
+-     ivan0135/Xju_CY5ZESA: likes 4784 -> 4785 (+1)
+-     ivan0135/ZB788PtqQvg: views 691042 -> 691050 (+8)
+-     ivan0135/ZB788PtqQvg: likes 7866 -> 7867 (+1)
+
+## 2026-08-11T22:00:01.465368+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 64021 -> 64052 (+31)
+-     qtecqot/Oqw96jCOP7A: views 38811 -> 38828 (+17)
+-     qtecqot/OpSTlDJWFFI: views 41138 -> 41164 (+26)
+-     ivan0135/RsQCXN4o4Ps: views 1503325 -> 1503328 (+3)
+-     ivan0135/ZB788PtqQvg: views 691050 -> 691053 (+3)
+
+## 2026-08-11T22:30:01.804888+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41164 -> 41188 (+24)
+-     qtecqot/l9RAhmPHM_A: views 64052 -> 64095 (+43)
+-     qtecqot/l9RAhmPHM_A: likes 2067 -> 2068 (+1)
+-     qtecqot/Oqw96jCOP7A: views 38828 -> 38862 (+34)
+-     ivan0135/Xju_CY5ZESA: views 355706 -> 355733 (+27)
+-     ivan0135/Xju_CY5ZESA: likes 4785 -> 4786 (+1)
+-     ivan0135/ZB788PtqQvg: views 691053 -> 691088 (+35)
+
+## 2026-08-11T23:00:01.585552+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41188 -> 41211 (+23)
+-     qtecqot/OpSTlDJWFFI: likes 1469 -> 1470 (+1)
+-     qtecqot/l9RAhmPHM_A: views 64095 -> 64108 (+13)
+-     qtecqot/l9RAhmPHM_A: likes 2068 -> 2069 (+1)
+-     qtecqot/Oqw96jCOP7A: views 38862 -> 38881 (+19)
+-     qtecqot/Oqw96jCOP7A: likes 1335 -> 1336 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714572 -> 714624 (+52)
+-     ivan0135/a6TLGkrfNKI: likes 8984 -> 8985 (+1)
+-     ivan0135/ZB788PtqQvg: views 691088 -> 691092 (+4)
+-     ivan0135/RsQCXN4o4Ps: views 1503328 -> 1503397 (+69)
+-     ivan0135/RsQCXN4o4Ps: likes 16833 -> 16834 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355733 -> 355737 (+4)
+
+## 2026-08-11T23:30:01.495158+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41211 -> 41235 (+24)
+-     qtecqot/OpSTlDJWFFI: likes 1470 -> 1471 (+1)
+-     qtecqot/Oqw96jCOP7A: views 38881 -> 38907 (+26)
+-     ivan0135/RsQCXN4o4Ps: views 1503397 -> 1503417 (+20)
+-     ivan0135/RsQCXN4o4Ps: likes 16834 -> 16835 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714624 -> 714642 (+18)
+
+## 2026-08-12T00:00:01.259549+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 64108 -> 64186 (+78)
+-     qtecqot/l9RAhmPHM_A: likes 2069 -> 2070 (+1)
+-     qtecqot/OpSTlDJWFFI: views 41235 -> 41251 (+16)
+-     qtecqot/OpSTlDJWFFI: likes 1471 -> 1472 (+1)
+-     qtecqot/Oqw96jCOP7A: views 38907 -> 38928 (+21)
+-     qtecqot/Oqw96jCOP7A: likes 1336 -> 1337 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714642 -> 714650 (+8)
+-     ivan0135/RsQCXN4o4Ps: views 1503417 -> 1503451 (+34)
+-     ivan0135/RsQCXN4o4Ps: likes 16835 -> 16836 (+1)
+
+## 2026-08-12T00:30:01.743560+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 38928 -> 38953 (+25)
+-     qtecqot/Oqw96jCOP7A: likes 1337 -> 1338 (+1)
+-     qtecqot/OpSTlDJWFFI: views 41251 -> 41279 (+28)
+-     ivan0135/RsQCXN4o4Ps: views 1503451 -> 1503471 (+20)
+-     ivan0135/RsQCXN4o4Ps: likes 16836 -> 16838 (+2)
+
+## 2026-08-12T01:00:01.491949+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 64186 -> 64252 (+66)
+-     qtecqot/Oqw96jCOP7A: views 38953 -> 38976 (+23)
+-     qtecqot/OpSTlDJWFFI: views 41279 -> 41292 (+13)
+-     ivan0135/RsQCXN4o4Ps: views 1503471 -> 1503494 (+23)
+
+## 2026-08-12T01:30:01.260903+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41292 -> 41309 (+17)
+-     qtecqot/Oqw96jCOP7A: views 38976 -> 38993 (+17)
+-     qtecqot/Oqw96jCOP7A: likes 1338 -> 1339 (+1)
+-     qtecqot/l9RAhmPHM_A: views 64252 -> 64280 (+28)
+-     ivan0135/RsQCXN4o4Ps: views 1503494 -> 1503514 (+20)
+
+## 2026-08-12T02:00:01.723557+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 38993 -> 39009 (+16)
+-     qtecqot/l9RAhmPHM_A: views 64280 -> 64305 (+25)
+-     ivan0135/a6TLGkrfNKI: views 714650 -> 714710 (+60)
+-     ivan0135/a6TLGkrfNKI: likes 8985 -> 8986 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355737 -> 355811 (+74)
+-     ivan0135/Xju_CY5ZESA: likes 4786 -> 4787 (+1)
+-     ivan0135/ZB788PtqQvg: views 691092 -> 691170 (+78)
+-     ivan0135/RsQCXN4o4Ps: views 1503514 -> 1503536 (+22)
+
+## 2026-08-12T02:30:01.265590+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 64305 -> 64328 (+23)
+-     qtecqot/OpSTlDJWFFI: views 41309 -> 41352 (+43)
+-     qtecqot/OpSTlDJWFFI: likes 1472 -> 1474 (+2)
+-     qtecqot/Oqw96jCOP7A: views 39009 -> 39031 (+22)
+-     qtecqot/Oqw96jCOP7A: likes 1339 -> 1342 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1503536 -> 1503563 (+27)
+-     ivan0135/RsQCXN4o4Ps: likes 16838 -> 16839 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355811 -> 355821 (+10)
+
+## 2026-08-12T03:00:01.873653+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ivan0135/ZB788PtqQvg: views 691170 -> 691202 (+32)
+-     ivan0135/Xju_CY5ZESA: views 355821 -> 355830 (+9)
+-     ivan0135/a6TLGkrfNKI: views 714710 -> 714726 (+16)
+-     ivan0135/a6TLGkrfNKI: likes 8986 -> 8987 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1503563 -> 1503582 (+19)
+
+## 2026-08-12T03:30:01.826464+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-12T04:00:01.104004+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-12T04:30:01.907291+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-12T05:00:01.902398+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-12T05:30:01.765528+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-12T06:00:01.532022+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-12T06:30:01.967724+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-12T07:00:01.343733+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-12T07:30:01.425676+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-12T08:00:02.017359+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41525 -> 41542 (+17)
+-     qtecqot/Oqw96jCOP7A: views 39204 -> 39217 (+13)
+-     qtecqot/l9RAhmPHM_A: views 64560 -> 64589 (+29)
+-     ivan0135/a6TLGkrfNKI: views 714802 -> 714850 (+48)
+-     ivan0135/a6TLGkrfNKI: likes 8988 -> 8989 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1503758 -> 1503788 (+30)
+-     ivan0135/ZB788PtqQvg: views 691304 -> 691318 (+14)
+
+## 2026-08-12T08:30:01.779534+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 64589 -> 64608 (+19)
+-     qtecqot/Oqw96jCOP7A: views 39217 -> 39232 (+15)
+-     qtecqot/OpSTlDJWFFI: views 41542 -> 41551 (+9)
+-     ivan0135/ZB788PtqQvg: views 691318 -> 691328 (+10)
+-     ivan0135/a6TLGkrfNKI: views 714850 -> 714860 (+10)
+-     ivan0135/RsQCXN4o4Ps: views 1503788 -> 1503811 (+23)
+
+## 2026-08-12T09:00:02.062495+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 64608 -> 64631 (+23)
+-     qtecqot/Oqw96jCOP7A: views 39232 -> 39246 (+14)
+-     ivan0135/RsQCXN4o4Ps: views 1503811 -> 1503824 (+13)
+-     ivan0135/ZB788PtqQvg: views 691328 -> 691335 (+7)
+
+## 2026-08-12T09:30:02.021241+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41551 -> 41578 (+27)
+-     qtecqot/l9RAhmPHM_A: views 64631 -> 64649 (+18)
+-     qtecqot/l9RAhmPHM_A: likes 2075 -> 2076 (+1)
+-     ivan0135/ZB788PtqQvg: views 691335 -> 691346 (+11)
+-     ivan0135/Xju_CY5ZESA: views 355899 -> 355967 (+68)
+-     ivan0135/RsQCXN4o4Ps: views 1503824 -> 1503831 (+7)
+
+## 2026-08-12T10:00:01.178873+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 39246 -> 39276 (+30)
+-     qtecqot/Oqw96jCOP7A: likes 1346 -> 1348 (+2)
+-     qtecqot/OpSTlDJWFFI: views 41578 -> 41599 (+21)
+-     qtecqot/OpSTlDJWFFI: likes 1479 -> 1480 (+1)
+-     qtecqot/l9RAhmPHM_A: views 64649 -> 64679 (+30)
+-     qtecqot/l9RAhmPHM_A: likes 2076 -> 2077 (+1)
+-     ivan0135/ZB788PtqQvg: views 691346 -> 691353 (+7)
+-     ivan0135/ZB788PtqQvg: likes 7868 -> 7869 (+1)
+
+## 2026-08-12T10:30:01.822895+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 39276 -> 39278 (+2)
+-     qtecqot/l9RAhmPHM_A: views 64679 -> 64683 (+4)
+-     qtecqot/l9RAhmPHM_A: likes 2077 -> 2078 (+1)
+-     qtecqot/OpSTlDJWFFI: views 41599 -> 41601 (+2)
+
+## 2026-08-12T11:00:01.358085+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41601 -> 41603 (+2)
+-     qtecqot/Oqw96jCOP7A: views 39278 -> 39279 (+1)
+-     qtecqot/l9RAhmPHM_A: views 64683 -> 64688 (+5)
+
+## 2026-08-12T11:30:01.798766+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41603 -> 41607 (+4)
+-     qtecqot/OpSTlDJWFFI: likes 1480 -> 1482 (+2)
+-     qtecqot/l9RAhmPHM_A: views 64688 -> 64701 (+13)
+-     qtecqot/l9RAhmPHM_A: likes 2078 -> 2079 (+1)
+-     qtecqot/Oqw96jCOP7A: views 39279 -> 39285 (+6)
+-     qtecqot/Oqw96jCOP7A: likes 1348 -> 1350 (+2)
+-     ivan0135/Xju_CY5ZESA: views 355967 -> 355979 (+12)
+-     ivan0135/Xju_CY5ZESA: likes 4787 -> 4788 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714860 -> 714893 (+33)
+-     ivan0135/a6TLGkrfNKI: likes 8989 -> 8990 (+1)
+
+## 2026-08-12T12:00:01.480242+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41607 -> 41621 (+14)
+-     ivan0135/RsQCXN4o4Ps: views 1503831 -> 1503876 (+45)
+-     ivan0135/RsQCXN4o4Ps: likes 16840 -> 16841 (+1)
+
+## 2026-08-12T12:30:01.160320+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 64701 -> 64735 (+34)
+-     qtecqot/l9RAhmPHM_A: likes 2079 -> 2080 (+1)
+-     ivan0135/Xju_CY5ZESA: views 355979 -> 355986 (+7)
+-     ivan0135/Xju_CY5ZESA: likes 4788 -> 4789 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1503876 -> 1503878 (+2)
+-     ivan0135/RsQCXN4o4Ps: likes 16841 -> 16842 (+1)
+-     ivan0135/ZB788PtqQvg: views 691353 -> 691374 (+21)
+-     ivan0135/ZB788PtqQvg: likes 7869 -> 7870 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714893 -> 714899 (+6)
+-     ivan0135/a6TLGkrfNKI: likes 8990 -> 8991 (+1)
+
+## 2026-08-12T13:00:01.404703+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41621 -> 41641 (+20)
+-     qtecqot/OpSTlDJWFFI: likes 1482 -> 1483 (+1)
+-     qtecqot/l9RAhmPHM_A: views 64735 -> 64749 (+14)
+-     qtecqot/Oqw96jCOP7A: views 39285 -> 39302 (+17)
+-     qtecqot/Oqw96jCOP7A: likes 1350 -> 1351 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1503878 -> 1503883 (+5)
+
+## 2026-08-12T13:30:01.215855+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 39302 -> 39314 (+12)
+-     qtecqot/l9RAhmPHM_A: views 64749 -> 64769 (+20)
+-     qtecqot/OpSTlDJWFFI: views 41641 -> 41665 (+24)
+-     ivan0135/Xju_CY5ZESA: views 355986 -> 355994 (+8)
+-     ivan0135/Xju_CY5ZESA: likes 4789 -> 4790 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1503883 -> 1503892 (+9)
+-     ivan0135/RsQCXN4o4Ps: likes 16842 -> 16843 (+1)
+-     ivan0135/ZB788PtqQvg: views 691374 -> 691379 (+5)
+
+## 2026-08-12T14:00:02.052871+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 39314 -> 39315 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714899 -> 714914 (+15)
+-     ivan0135/Xju_CY5ZESA: views 355994 -> 355998 (+4)
+-     ivan0135/ZB788PtqQvg: views 691379 -> 691388 (+9)
+-     ivan0135/RsQCXN4o4Ps: views 1503892 -> 1503893 (+1)
+
+## 2026-08-12T14:30:01.895279+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 39315 -> 39316 (+1)
+-     qtecqot/OpSTlDJWFFI: views 41665 -> 41681 (+16)
+-     qtecqot/OpSTlDJWFFI: likes 1483 -> 1484 (+1)
+-     ivan0135/ZB788PtqQvg: views 691388 -> 691394 (+6)
+-     ivan0135/Xju_CY5ZESA: views 355998 -> 356001 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1503893 -> 1503911 (+18)
+-     ivan0135/RsQCXN4o4Ps: likes 16843 -> 16844 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714914 -> 714919 (+5)
+
+## 2026-08-12T15:00:01.841568+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 64769 -> 64818 (+49)
+-     qtecqot/OpSTlDJWFFI: views 41681 -> 41687 (+6)
+-     qtecqot/OpSTlDJWFFI: likes 1484 -> 1486 (+2)
+-     ivan0135/ZB788PtqQvg: views 691394 -> 691397 (+3)
+-     ivan0135/Xju_CY5ZESA: views 356001 -> 356006 (+5)
+-     ivan0135/RsQCXN4o4Ps: views 1503911 -> 1503916 (+5)
+-     ivan0135/a6TLGkrfNKI: views 714919 -> 714921 (+2)
+
+## 2026-08-12T15:30:01.868339+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 39316 -> 39360 (+44)
+-     qtecqot/Oqw96jCOP7A: likes 1351 -> 1353 (+2)
+-     qtecqot/l9RAhmPHM_A: views 64818 -> 64851 (+33)
+-     qtecqot/l9RAhmPHM_A: likes 2080 -> 2082 (+2)
+-     qtecqot/OpSTlDJWFFI: views 41687 -> 41708 (+21)
+-     qtecqot/OpSTlDJWFFI: likes 1486 -> 1487 (+1)
+-     ivan0135/a6TLGkrfNKI: views 714921 -> 714935 (+14)
+-     ivan0135/a6TLGkrfNKI: likes 8991 -> 8992 (+1)
+-     ivan0135/ZB788PtqQvg: views 691397 -> 691411 (+14)
+-     ivan0135/RsQCXN4o4Ps: views 1503916 -> 1503933 (+17)
+-     ivan0135/RsQCXN4o4Ps: likes 16844 -> 16845 (+1)
+
+## 2026-08-12T16:00:01.795982+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41708 -> 41719 (+11)
+-     qtecqot/l9RAhmPHM_A: views 64851 -> 64863 (+12)
+-     qtecqot/Oqw96jCOP7A: views 39360 -> 39369 (+9)
+-     ivan0135/RsQCXN4o4Ps: views 1503933 -> 1503943 (+10)
+-     ivan0135/a6TLGkrfNKI: views 714935 -> 714939 (+4)
+-     ivan0135/Xju_CY5ZESA: views 356006 -> 356015 (+9)
+-     ivan0135/Xju_CY5ZESA: likes 4790 -> 4791 (+1)
+
+## 2026-08-12T16:30:01.278062+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 64863 -> 64888 (+25)
+-     qtecqot/l9RAhmPHM_A: likes 2082 -> 2083 (+1)
+-     qtecqot/Oqw96jCOP7A: views 39369 -> 39384 (+15)
+-     qtecqot/OpSTlDJWFFI: views 41719 -> 41731 (+12)
+-     ivan0135/Xju_CY5ZESA: views 356015 -> 356019 (+4)
+-     ivan0135/a6TLGkrfNKI: views 714939 -> 714941 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1503943 -> 1503959 (+16)
+-     ivan0135/RsQCXN4o4Ps: likes 16845 -> 16846 (+1)
+
+## 2026-08-12T17:00:01.097234+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 64888 -> 64908 (+20)
+-     qtecqot/l9RAhmPHM_A: likes 2083 -> 2084 (+1)
+-     qtecqot/Oqw96jCOP7A: views 39384 -> 39395 (+11)
+-     qtecqot/OpSTlDJWFFI: views 41731 -> 41741 (+10)
+-     ivan0135/RsQCXN4o4Ps: views 1503959 -> 1503965 (+6)
+-     ivan0135/RsQCXN4o4Ps: likes 16846 -> 16848 (+2)
+
+## 2026-08-12T17:30:01.613728+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 39395 -> 39399 (+4)
+-     qtecqot/OpSTlDJWFFI: views 41741 -> 41762 (+21)
+-     qtecqot/l9RAhmPHM_A: views 64908 -> 64927 (+19)
+-     ivan0135/RsQCXN4o4Ps: views 1503965 -> 1503985 (+20)
+
+## 2026-08-12T18:00:01.967622+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 64927 -> 64942 (+15)
+-     qtecqot/OpSTlDJWFFI: views 41762 -> 41765 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1503985 -> 1503997 (+12)
+
+## 2026-08-12T18:30:01.277563+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 64942 -> 64958 (+16)
+-     qtecqot/Oqw96jCOP7A: views 39399 -> 39438 (+39)
+-     qtecqot/Oqw96jCOP7A: likes 1353 -> 1354 (+1)
+-     qtecqot/OpSTlDJWFFI: views 41765 -> 41783 (+18)
+-     qtecqot/OpSTlDJWFFI: likes 1487 -> 1488 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1503997 -> 1504006 (+9)
+
+## 2026-08-12T19:00:01.667354+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41783 -> 41795 (+12)
+-     qtecqot/OpSTlDJWFFI: likes 1488 -> 1487 (-1)
+-     qtecqot/Oqw96jCOP7A: views 39438 -> 39448 (+10)
+-     qtecqot/l9RAhmPHM_A: views 64958 -> 64980 (+22)
+-     ivan0135/ZB788PtqQvg: views 691411 -> 691455 (+44)
+-     ivan0135/RsQCXN4o4Ps: views 1504006 -> 1504028 (+22)
+
+## 2026-08-12T19:30:01.083957+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41795 -> 41815 (+20)
+-     qtecqot/l9RAhmPHM_A: views 64980 -> 64995 (+15)
+-     qtecqot/l9RAhmPHM_A: likes 2084 -> 2083 (-1)
+-     qtecqot/Oqw96jCOP7A: views 39448 -> 39455 (+7)
+-     qtecqot/Oqw96jCOP7A: likes 1354 -> 1353 (-1)
+-     ivan0135/a6TLGkrfNKI: views 714941 -> 715005 (+64)
+
+## 2026-08-12T20:00:01.624430+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41815 -> 41832 (+17)
+-     qtecqot/OpSTlDJWFFI: likes 1487 -> 1488 (+1)
+-     qtecqot/l9RAhmPHM_A: views 64995 -> 65018 (+23)
+-     qtecqot/l9RAhmPHM_A: likes 2083 -> 2084 (+1)
+-     qtecqot/Oqw96jCOP7A: views 39455 -> 39476 (+21)
+-     ivan0135/RsQCXN4o4Ps: views 1504028 -> 1504057 (+29)
+-     ivan0135/Xju_CY5ZESA: views 356019 -> 356062 (+43)
+-     ivan0135/a6TLGkrfNKI: views 715005 -> 715017 (+12)
+-     ivan0135/a6TLGkrfNKI: likes 8992 -> 8991 (-1)
+
+## 2026-08-12T20:30:02.063192+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41832 -> 41845 (+13)
+-     qtecqot/Oqw96jCOP7A: views 39476 -> 39491 (+15)
+-     qtecqot/l9RAhmPHM_A: views 65018 -> 65038 (+20)
+-     ivan0135/RsQCXN4o4Ps: views 1504057 -> 1504064 (+7)
+
+## 2026-08-12T21:00:01.839749+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 39491 -> 39505 (+14)
+-     qtecqot/Oqw96jCOP7A: likes 1353 -> 1354 (+1)
+-     qtecqot/l9RAhmPHM_A: views 65038 -> 65067 (+29)
+-     qtecqot/l9RAhmPHM_A: likes 2084 -> 2085 (+1)
+-     qtecqot/OpSTlDJWFFI: views 41845 -> 41855 (+10)
+-     qtecqot/OpSTlDJWFFI: likes 1488 -> 1489 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504064 -> 1504082 (+18)
+
+## 2026-08-12T21:30:02.030887+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41855 -> 41877 (+22)
+-     qtecqot/Oqw96jCOP7A: views 39505 -> 39528 (+23)
+-     qtecqot/l9RAhmPHM_A: views 65067 -> 65098 (+31)
+-     ivan0135/Xju_CY5ZESA: views 356062 -> 356041 (-21)
+-     ivan0135/ZB788PtqQvg: views 691455 -> 691447 (-8)
+
+## 2026-08-12T22:00:01.937297+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65098 -> 65121 (+23)
+-     qtecqot/l9RAhmPHM_A: likes 2085 -> 2088 (+3)
+-     qtecqot/OpSTlDJWFFI: views 41877 -> 41893 (+16)
+-     qtecqot/OpSTlDJWFFI: likes 1489 -> 1490 (+1)
+-     qtecqot/Oqw96jCOP7A: views 39528 -> 39531 (+3)
+-     ivan0135/Xju_CY5ZESA: views 356041 -> 356089 (+48)
+-     ivan0135/ZB788PtqQvg: views 691447 -> 691502 (+55)
+-     ivan0135/RsQCXN4o4Ps: views 1504082 -> 1504107 (+25)
+-     ivan0135/RsQCXN4o4Ps: likes 16848 -> 16849 (+1)
+
+## 2026-08-12T22:30:02.041763+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41893 -> 41913 (+20)
+-     qtecqot/l9RAhmPHM_A: views 65121 -> 65154 (+33)
+-     ivan0135/ZB788PtqQvg: views 691502 -> 691505 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1504107 -> 1504124 (+17)
+-     ivan0135/RsQCXN4o4Ps: likes 16849 -> 16850 (+1)
+-     ivan0135/Xju_CY5ZESA: views 356089 -> 356062 (-27)
+-     ivan0135/a6TLGkrfNKI: views 715017 -> 715061 (+44)
+-     ivan0135/a6TLGkrfNKI: likes 8991 -> 8992 (+1)
+
+## 2026-08-12T23:00:02.054666+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 39531 -> 39581 (+50)
+-     qtecqot/l9RAhmPHM_A: views 65154 -> 65177 (+23)
+-     qtecqot/OpSTlDJWFFI: views 41913 -> 41923 (+10)
+-     qtecqot/OpSTlDJWFFI: likes 1490 -> 1491 (+1)
+-     ivan0135/ZB788PtqQvg: views 691505 -> 691531 (+26)
+-     ivan0135/ZB788PtqQvg: likes 7870 -> 7871 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504124 -> 1504139 (+15)
+-     ivan0135/a6TLGkrfNKI: views 715061 -> 715071 (+10)
+-     ivan0135/Xju_CY5ZESA: views 356062 -> 356113 (+51)
+-     ivan0135/Xju_CY5ZESA: likes 4791 -> 4792 (+1)
+
+## 2026-08-12T23:30:01.290485+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 39581 -> 39596 (+15)
+-     qtecqot/OpSTlDJWFFI: views 41923 -> 41928 (+5)
+-     qtecqot/l9RAhmPHM_A: views 65177 -> 65197 (+20)
+-     ivan0135/Xju_CY5ZESA: views 356113 -> 356120 (+7)
+-     ivan0135/Xju_CY5ZESA: likes 4792 -> 4793 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504139 -> 1504153 (+14)
+-     ivan0135/RsQCXN4o4Ps: likes 16850 -> 16851 (+1)
+-     ivan0135/ZB788PtqQvg: views 691531 -> 691535 (+4)
+-     ivan0135/ZB788PtqQvg: likes 7871 -> 7872 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715071 -> 715079 (+8)
+-     ivan0135/a6TLGkrfNKI: likes 8992 -> 8993 (+1)
+
+## 2026-08-13T00:00:01.851787+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41928 -> 41946 (+18)
+-     qtecqot/Oqw96jCOP7A: views 39596 -> 39616 (+20)
+-     qtecqot/Oqw96jCOP7A: likes 1354 -> 1355 (+1)
+-     qtecqot/l9RAhmPHM_A: views 65197 -> 65229 (+32)
+-     ivan0135/Xju_CY5ZESA: views 356120 -> 356121 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504153 -> 1504164 (+11)
+-     ivan0135/RsQCXN4o4Ps: likes 16851 -> 16853 (+2)
+-     ivan0135/a6TLGkrfNKI: views 715079 -> 715086 (+7)
+
+## 2026-08-13T00:30:01.913522+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41946 -> 41947 (+1)
+-     qtecqot/l9RAhmPHM_A: views 65229 -> 65245 (+16)
+-     qtecqot/Oqw96jCOP7A: views 39616 -> 39633 (+17)
+-     ivan0135/RsQCXN4o4Ps: views 1504164 -> 1504187 (+23)
+-     ivan0135/Xju_CY5ZESA: views 356121 -> 356134 (+13)
+
+## 2026-08-13T01:00:02.055792+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 41947 -> 41964 (+17)
+-     qtecqot/OpSTlDJWFFI: likes 1491 -> 1492 (+1)
+-     qtecqot/l9RAhmPHM_A: views 65245 -> 65263 (+18)
+-     qtecqot/l9RAhmPHM_A: likes 2088 -> 2090 (+2)
+-     qtecqot/Oqw96jCOP7A: views 39633 -> 39646 (+13)
+-     qtecqot/Oqw96jCOP7A: likes 1355 -> 1356 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504187 -> 1504216 (+29)
+-     ivan0135/ZB788PtqQvg: views 691535 -> 691574 (+39)
+-     ivan0135/ZB788PtqQvg: likes 7872 -> 7873 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715086 -> 715118 (+32)
+
+## 2026-08-13T01:30:01.149853+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65263 -> 65286 (+23)
+-     qtecqot/l9RAhmPHM_A: likes 2090 -> 2091 (+1)
+-     qtecqot/OpSTlDJWFFI: views 41964 -> 41973 (+9)
+-     qtecqot/OpSTlDJWFFI: likes 1492 -> 1493 (+1)
+-     qtecqot/Oqw96jCOP7A: views 39646 -> 39654 (+8)
+-     qtecqot/Oqw96jCOP7A: likes 1356 -> 1357 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504216 -> 1504240 (+24)
+-     ivan0135/RsQCXN4o4Ps: likes 16853 -> 16855 (+2)
+-     ivan0135/ZB788PtqQvg: views 691574 -> 691587 (+13)
+-     ivan0135/a6TLGkrfNKI: views 715118 -> 715132 (+14)
+
+## 2026-08-13T02:00:01.349984+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65286 -> 65299 (+13)
+-     qtecqot/Oqw96jCOP7A: views 39654 -> 39663 (+9)
+-     ivan0135/a6TLGkrfNKI: views 715132 -> 715145 (+13)
+-     ivan0135/a6TLGkrfNKI: likes 8993 -> 8994 (+1)
+-     ivan0135/ZB788PtqQvg: views 691587 -> 691601 (+14)
+-     ivan0135/Xju_CY5ZESA: views 356134 -> 356179 (+45)
+-     ivan0135/Xju_CY5ZESA: likes 4793 -> 4794 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504240 -> 1504259 (+19)
+-     ivan0135/RsQCXN4o4Ps: likes 16855 -> 16857 (+2)
+
+## 2026-08-13T02:30:01.983261+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65299 -> 65332 (+33)
+-     qtecqot/l9RAhmPHM_A: likes 2091 -> 2093 (+2)
+-     ivan0135/Xju_CY5ZESA: views 356179 -> 356198 (+19)
+-     ivan0135/Xju_CY5ZESA: likes 4794 -> 4795 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504259 -> 1504287 (+28)
+-     ivan0135/RsQCXN4o4Ps: likes 16857 -> 16858 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715145 -> 715167 (+22)
+-     ivan0135/a6TLGkrfNKI: likes 8994 -> 8995 (+1)
+-     ivan0135/ZB788PtqQvg: views 691601 -> 691618 (+17)
+-     ivan0135/ZB788PtqQvg: likes 7873 -> 7874 (+1)
+
+## 2026-08-13T03:00:02.041792+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-13T03:30:01.988922+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-13T04:00:01.617625+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-13T04:30:01.719050+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-13T05:00:01.240087+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-13T05:30:02.008954+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-13T06:00:01.485164+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-13T06:30:02.036402+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-13T07:00:01.707114+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-13T07:30:01.736731+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+
+## 2026-08-13T08:00:01.922500+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65507 -> 65523 (+16)
+-     qtecqot/Oqw96jCOP7A: views 39817 -> 39826 (+9)
+-     qtecqot/Oqw96jCOP7A: likes 1365 -> 1366 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504484 -> 1504506 (+22)
+-     ivan0135/ZB788PtqQvg: views 691749 -> 691752 (+3)
+-     ivan0135/ZB788PtqQvg: likes 7874 -> 7875 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715304 -> 715326 (+22)
+
+## 2026-08-13T08:30:01.691484+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65523 -> 65537 (+14)
+-     ivan0135/ZB788PtqQvg: views 691752 -> 691760 (+8)
+-     ivan0135/RsQCXN4o4Ps: views 1504506 -> 1504521 (+15)
+-     ivan0135/a6TLGkrfNKI: views 715326 -> 715338 (+12)
+-     ivan0135/Xju_CY5ZESA: views 356298 -> 356342 (+44)
+
+## 2026-08-13T09:00:01.311173+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65537 -> 65561 (+24)
+-     ivan0135/RsQCXN4o4Ps: views 1504521 -> 1504545 (+24)
+
+## 2026-08-13T09:30:01.619096+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65561 -> 65569 (+8)
+-     qtecqot/l9RAhmPHM_A: likes 2102 -> 2103 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504545 -> 1504561 (+16)
+-     ivan0135/RsQCXN4o4Ps: likes 16865 -> 16866 (+1)
+
+## 2026-08-13T10:00:01.279715+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65569 -> 65593 (+24)
+
+## 2026-08-13T10:30:01.842772+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65593 -> 65599 (+6)
+-     qtecqot/l9RAhmPHM_A: likes 2103 -> 2102 (-1)
+-     qtecqot/Oqw96jCOP7A: views 39826 -> 39898 (+72)
+-     qtecqot/Oqw96jCOP7A: likes 1366 -> 1365 (-1)
+-     qtecqot/OpSTlDJWFFI: views 42093 -> 42160 (+67)
+-     qtecqot/OpSTlDJWFFI: likes 1498 -> 1497 (-1)
+
+## 2026-08-13T11:00:01.682952+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 39898 -> 39901 (+3)
+-     qtecqot/l9RAhmPHM_A: views 65599 -> 65602 (+3)
+-     qtecqot/l9RAhmPHM_A: likes 2102 -> 2101 (-1)
+-     ivan0135/RsQCXN4o4Ps: views 1504561 -> 1504600 (+39)
+-     ivan0135/RsQCXN4o4Ps: likes 16866 -> 16867 (+1)
+
+## 2026-08-13T11:30:01.369704+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65602 -> 65603 (+1)
+-     ivan0135/ZB788PtqQvg: views 691760 -> 691813 (+53)
+-     ivan0135/ZB788PtqQvg: likes 7875 -> 7876 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504600 -> 1504606 (+6)
+-     ivan0135/RsQCXN4o4Ps: likes 16867 -> 16868 (+1)
+
+## 2026-08-13T12:00:01.943995+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 39901 -> 39915 (+14)
+-     ivan0135/a6TLGkrfNKI: views 715338 -> 715420 (+82)
+-     ivan0135/Xju_CY5ZESA: views 356342 -> 356404 (+62)
+-     ivan0135/RsQCXN4o4Ps: views 1504606 -> 1504622 (+16)
+
+## 2026-08-13T12:30:01.887526+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 39915 -> 39933 (+18)
+-     qtecqot/l9RAhmPHM_A: views 65603 -> 65635 (+32)
+-     qtecqot/l9RAhmPHM_A: likes 2101 -> 2102 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715420 -> 715432 (+12)
+-     ivan0135/a6TLGkrfNKI: likes 8997 -> 8998 (+1)
+-     ivan0135/ZB788PtqQvg: views 691813 -> 691830 (+17)
+-     ivan0135/ZB788PtqQvg: likes 7876 -> 7877 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504622 -> 1504631 (+9)
+-     ivan0135/RsQCXN4o4Ps: likes 16868 -> 16869 (+1)
+-     ivan0135/Xju_CY5ZESA: views 356404 -> 356417 (+13)
+-     ivan0135/Xju_CY5ZESA: likes 4797 -> 4798 (+1)
+
+## 2026-08-13T13:00:01.155975+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42160 -> 42193 (+33)
+-     qtecqot/OpSTlDJWFFI: likes 1497 -> 1498 (+1)
+-     qtecqot/l9RAhmPHM_A: views 65635 -> 65648 (+13)
+-     qtecqot/l9RAhmPHM_A: likes 2102 -> 2103 (+1)
+-     qtecqot/Oqw96jCOP7A: views 39933 -> 39944 (+11)
+-     qtecqot/Oqw96jCOP7A: likes 1365 -> 1366 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504631 -> 1504648 (+17)
+-     ivan0135/Xju_CY5ZESA: views 356417 -> 356429 (+12)
+-     ivan0135/Xju_CY5ZESA: likes 4798 -> 4799 (+1)
+-     ivan0135/ZB788PtqQvg: views 691830 -> 691837 (+7)
+-     ivan0135/a6TLGkrfNKI: views 715432 -> 715436 (+4)
+-     ivan0135/a6TLGkrfNKI: likes 8998 -> 8999 (+1)
+
+## 2026-08-13T13:30:01.607285+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42193 -> 42203 (+10)
+-     qtecqot/Oqw96jCOP7A: views 39944 -> 39959 (+15)
+-     qtecqot/l9RAhmPHM_A: views 65648 -> 65660 (+12)
+-     ivan0135/Xju_CY5ZESA: views 356429 -> 356441 (+12)
+-     ivan0135/RsQCXN4o4Ps: views 1504648 -> 1504662 (+14)
+-     ivan0135/RsQCXN4o4Ps: likes 16869 -> 16871 (+2)
+-     ivan0135/a6TLGkrfNKI: views 715436 -> 715444 (+8)
+-     ivan0135/ZB788PtqQvg: views 691837 -> 691853 (+16)
+
+## 2026-08-13T14:00:01.180312+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 39959 -> 39969 (+10)
+-     qtecqot/l9RAhmPHM_A: views 65660 -> 65671 (+11)
+-     qtecqot/l9RAhmPHM_A: likes 2103 -> 2104 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504662 -> 1504676 (+14)
+-     ivan0135/RsQCXN4o4Ps: likes 16871 -> 16870 (-1)
+-     ivan0135/Xju_CY5ZESA: views 356441 -> 356442 (+1)
+
+## 2026-08-13T14:30:01.534895+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65671 -> 65686 (+15)
+-     qtecqot/l9RAhmPHM_A: likes 2104 -> 2105 (+1)
+-     qtecqot/OpSTlDJWFFI: views 42203 -> 42212 (+9)
+-     qtecqot/Oqw96jCOP7A: views 39969 -> 39984 (+15)
+-     qtecqot/Oqw96jCOP7A: likes 1366 -> 1368 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1504676 -> 1504690 (+14)
+-     ivan0135/ZB788PtqQvg: views 691853 -> 691873 (+20)
+
+## 2026-08-13T15:00:01.882137+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42212 -> 42235 (+23)
+-     qtecqot/Oqw96jCOP7A: views 39984 -> 40001 (+17)
+-     qtecqot/l9RAhmPHM_A: views 65686 -> 65704 (+18)
+-     ivan0135/ZB788PtqQvg: views 691873 -> 691887 (+14)
+-     ivan0135/RsQCXN4o4Ps: views 1504690 -> 1504697 (+7)
+
+## 2026-08-13T15:30:01.692999+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65704 -> 65726 (+22)
+-     qtecqot/Oqw96jCOP7A: views 40001 -> 40021 (+20)
+-     qtecqot/OpSTlDJWFFI: views 42235 -> 42255 (+20)
+-     ivan0135/RsQCXN4o4Ps: views 1504697 -> 1504731 (+34)
+-     ivan0135/ZB788PtqQvg: views 691887 -> 691908 (+21)
+
+## 2026-08-13T16:00:01.584170+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65726 -> 65737 (+11)
+-     qtecqot/Oqw96jCOP7A: views 40021 -> 40035 (+14)
+-     qtecqot/OpSTlDJWFFI: views 42255 -> 42267 (+12)
+-     ivan0135/RsQCXN4o4Ps: views 1504731 -> 1504757 (+26)
+-     ivan0135/RsQCXN4o4Ps: likes 16870 -> 16871 (+1)
+-     ivan0135/ZB788PtqQvg: views 691908 -> 691916 (+8)
+-     ivan0135/a6TLGkrfNKI: views 715444 -> 715510 (+66)
+
+## 2026-08-13T16:30:01.702600+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 40035 -> 40051 (+16)
+-     qtecqot/Oqw96jCOP7A: likes 1368 -> 1369 (+1)
+-     qtecqot/OpSTlDJWFFI: views 42267 -> 42270 (+3)
+-     ivan0135/a6TLGkrfNKI: views 715510 -> 715513 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1504757 -> 1504759 (+2)
+-     ivan0135/ZB788PtqQvg: views 691916 -> 691920 (+4)
+
+## 2026-08-13T17:00:01.114836+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 40051 -> 40072 (+21)
+-     ivan0135/Xju_CY5ZESA: views 356442 -> 356509 (+67)
+
+## 2026-08-13T18:00:01.266422+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42270 -> 42314 (+44)
+-     qtecqot/OpSTlDJWFFI: likes 1498 -> 1499 (+1)
+-     qtecqot/Oqw96jCOP7A: views 40072 -> 40096 (+24)
+-     qtecqot/Oqw96jCOP7A: likes 1369 -> 1371 (+2)
+-     qtecqot/l9RAhmPHM_A: views 65737 -> 65790 (+53)
+-     qtecqot/l9RAhmPHM_A: likes 2105 -> 2106 (+1)
+
+## 2026-08-13T18:30:01.788313+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 40096 -> 40112 (+16)
+-     qtecqot/l9RAhmPHM_A: views 65790 -> 65803 (+13)
+-     qtecqot/OpSTlDJWFFI: views 42314 -> 42324 (+10)
+-     ivan0135/ZB788PtqQvg: views 691920 -> 691953 (+33)
+-     ivan0135/Xju_CY5ZESA: views 356509 -> 356544 (+35)
+-     ivan0135/a6TLGkrfNKI: views 715513 -> 715570 (+57)
+-     ivan0135/a6TLGkrfNKI: likes 8999 -> 9000 (+1)
+
+## 2026-08-13T19:00:01.438301+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42324 -> 42335 (+11)
+-     qtecqot/Oqw96jCOP7A: views 40112 -> 40123 (+11)
+-     qtecqot/Oqw96jCOP7A: likes 1371 -> 1372 (+1)
+-     qtecqot/l9RAhmPHM_A: views 65803 -> 65807 (+4)
+-     qtecqot/l9RAhmPHM_A: likes 2106 -> 2107 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715570 -> 715589 (+19)
+-     ivan0135/ZB788PtqQvg: views 691953 -> 691990 (+37)
+
+## 2026-08-13T19:30:01.082358+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65807 -> 65827 (+20)
+-     qtecqot/l9RAhmPHM_A: likes 2107 -> 2108 (+1)
+-     qtecqot/Oqw96jCOP7A: views 40123 -> 40141 (+18)
+-     qtecqot/Oqw96jCOP7A: likes 1372 -> 1373 (+1)
+-     qtecqot/OpSTlDJWFFI: views 42335 -> 42345 (+10)
+-     qtecqot/OpSTlDJWFFI: likes 1499 -> 1500 (+1)
+-     ivan0135/ZB788PtqQvg: views 691990 -> 692001 (+11)
+-     ivan0135/RsQCXN4o4Ps: views 1504759 -> 1504880 (+121)
+-     ivan0135/a6TLGkrfNKI: views 715589 -> 715603 (+14)
+
+## 2026-08-13T20:00:01.666977+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 40141 -> 40154 (+13)
+-     qtecqot/OpSTlDJWFFI: views 42345 -> 42350 (+5)
+-     qtecqot/l9RAhmPHM_A: views 65827 -> 65839 (+12)
+-     qtecqot/l9RAhmPHM_A: likes 2108 -> 2109 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504880 -> 1504898 (+18)
+-     ivan0135/RsQCXN4o4Ps: likes 16871 -> 16872 (+1)
+-     ivan0135/ZB788PtqQvg: views 692001 -> 692018 (+17)
+-     ivan0135/ZB788PtqQvg: likes 7877 -> 7878 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715603 -> 715615 (+12)
+-     ivan0135/a6TLGkrfNKI: likes 9000 -> 9002 (+2)
+
+## 2026-08-13T20:30:01.903988+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65839 -> 65859 (+20)
+-     qtecqot/l9RAhmPHM_A: likes 2109 -> 2112 (+3)
+-     qtecqot/OpSTlDJWFFI: views 42350 -> 42360 (+10)
+-     qtecqot/OpSTlDJWFFI: likes 1500 -> 1502 (+2)
+-     qtecqot/Oqw96jCOP7A: views 40154 -> 40163 (+9)
+-     qtecqot/Oqw96jCOP7A: likes 1373 -> 1375 (+2)
+-     ivan0135/ZB788PtqQvg: views 692018 -> 692026 (+8)
+-     ivan0135/a6TLGkrfNKI: views 715615 -> 715627 (+12)
+-     ivan0135/RsQCXN4o4Ps: views 1504898 -> 1504919 (+21)
+-     ivan0135/RsQCXN4o4Ps: likes 16872 -> 16873 (+1)
+
+## 2026-08-13T21:00:01.677916+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42360 -> 42368 (+8)
+-     qtecqot/OpSTlDJWFFI: likes 1502 -> 1503 (+1)
+-     qtecqot/l9RAhmPHM_A: views 65859 -> 65870 (+11)
+-     qtecqot/Oqw96jCOP7A: views 40163 -> 40176 (+13)
+-     ivan0135/RsQCXN4o4Ps: views 1504919 -> 1504940 (+21)
+-     ivan0135/a6TLGkrfNKI: views 715627 -> 715635 (+8)
+
+## 2026-08-13T21:30:02.047092+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42368 -> 42381 (+13)
+-     qtecqot/l9RAhmPHM_A: views 65870 -> 65894 (+24)
+-     qtecqot/Oqw96jCOP7A: views 40176 -> 40195 (+19)
+-     qtecqot/Oqw96jCOP7A: likes 1375 -> 1376 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1504940 -> 1504951 (+11)
+-     ivan0135/RsQCXN4o4Ps: likes 16873 -> 16874 (+1)
+
+## 2026-08-13T22:00:01.964840+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42381 -> 42394 (+13)
+-     qtecqot/OpSTlDJWFFI: likes 1503 -> 1505 (+2)
+-     qtecqot/l9RAhmPHM_A: views 65894 -> 65906 (+12)
+-     qtecqot/l9RAhmPHM_A: likes 2112 -> 2114 (+2)
+-     qtecqot/Oqw96jCOP7A: views 40195 -> 40209 (+14)
+-     qtecqot/Oqw96jCOP7A: likes 1376 -> 1378 (+2)
+-     ivan0135/a6TLGkrfNKI: views 715635 -> 715634 (-1)
+-     ivan0135/Xju_CY5ZESA: views 356544 -> 356597 (+53)
+-     ivan0135/RsQCXN4o4Ps: views 1504951 -> 1504966 (+15)
+
+## 2026-08-13T22:30:01.508160+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 40209 -> 40210 (+1)
+-     qtecqot/Oqw96jCOP7A: likes 1378 -> 1379 (+1)
+-     qtecqot/OpSTlDJWFFI: views 42394 -> 42399 (+5)
+-     ivan0135/Xju_CY5ZESA: views 356597 -> 356620 (+23)
+-     ivan0135/Xju_CY5ZESA: likes 4799 -> 4800 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715634 -> 715635 (+1)
+
+## 2026-08-13T23:00:01.392151+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42399 -> 42425 (+26)
+-     qtecqot/OpSTlDJWFFI: likes 1505 -> 1506 (+1)
+-     qtecqot/l9RAhmPHM_A: views 65906 -> 65948 (+42)
+-     qtecqot/l9RAhmPHM_A: likes 2114 -> 2117 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1504966 -> 1505013 (+47)
+-     ivan0135/RsQCXN4o4Ps: likes 16874 -> 16875 (+1)
+-     ivan0135/ZB788PtqQvg: views 692026 -> 692076 (+50)
+-     ivan0135/ZB788PtqQvg: likes 7878 -> 7879 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715635 -> 715690 (+55)
+-     ivan0135/a6TLGkrfNKI: likes 9002 -> 9003 (+1)
+
+## 2026-08-13T23:30:01.124118+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65948 -> 65954 (+6)
+-     qtecqot/l9RAhmPHM_A: likes 2117 -> 2118 (+1)
+-     qtecqot/OpSTlDJWFFI: views 42425 -> 42430 (+5)
+-     qtecqot/OpSTlDJWFFI: likes 1506 -> 1507 (+1)
+-     qtecqot/Oqw96jCOP7A: views 40210 -> 40256 (+46)
+-     qtecqot/Oqw96jCOP7A: likes 1379 -> 1381 (+2)
+-     ivan0135/ZB788PtqQvg: views 692076 -> 692081 (+5)
+-     ivan0135/RsQCXN4o4Ps: views 1505013 -> 1505029 (+16)
+-     ivan0135/RsQCXN4o4Ps: likes 16875 -> 16877 (+2)
+-     ivan0135/Xju_CY5ZESA: views 356620 -> 356655 (+35)
+-     ivan0135/Xju_CY5ZESA: likes 4800 -> 4801 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715690 -> 715706 (+16)
+-     ivan0135/a6TLGkrfNKI: likes 9003 -> 9004 (+1)
+
+## 2026-08-14T00:00:02.065206+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42430 -> 42459 (+29)
+-     qtecqot/Oqw96jCOP7A: views 40256 -> 40288 (+32)
+-     qtecqot/Oqw96jCOP7A: likes 1381 -> 1382 (+1)
+-     qtecqot/l9RAhmPHM_A: views 65954 -> 65998 (+44)
+-     qtecqot/l9RAhmPHM_A: likes 2118 -> 2116 (-2)
+-     ivan0135/ZB788PtqQvg: views 692081 -> 692105 (+24)
+-     ivan0135/ZB788PtqQvg: likes 7879 -> 7880 (+1)
+-     ivan0135/Xju_CY5ZESA: views 356655 -> 356669 (+14)
+-     ivan0135/Xju_CY5ZESA: likes 4801 -> 4802 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715706 -> 715722 (+16)
+-     ivan0135/a6TLGkrfNKI: likes 9004 -> 9005 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1505029 -> 1505064 (+35)
+-     ivan0135/RsQCXN4o4Ps: likes 16877 -> 16879 (+2)
+
+## 2026-08-14T00:30:01.996448+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 65998 -> 66015 (+17)
+-     qtecqot/OpSTlDJWFFI: views 42459 -> 42462 (+3)
+-     qtecqot/Oqw96jCOP7A: views 40288 -> 40295 (+7)
+-     ivan0135/RsQCXN4o4Ps: views 1505064 -> 1505086 (+22)
+-     ivan0135/RsQCXN4o4Ps: likes 16879 -> 16880 (+1)
+-     ivan0135/ZB788PtqQvg: views 692105 -> 692110 (+5)
+-     ivan0135/a6TLGkrfNKI: views 715722 -> 715733 (+11)
+
+## 2026-08-14T01:00:01.617486+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66015 -> 66049 (+34)
+-     qtecqot/l9RAhmPHM_A: likes 2116 -> 2117 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1505086 -> 1505118 (+32)
+-     ivan0135/RsQCXN4o4Ps: likes 16880 -> 16881 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715733 -> 715741 (+8)
+
+## 2026-08-14T01:30:01.867364+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66049 -> 66043 (-6)
+-     qtecqot/Oqw96jCOP7A: views 40295 -> 40325 (+30)
+-     qtecqot/Oqw96jCOP7A: likes 1382 -> 1383 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1505118 -> 1505123 (+5)
+-     ivan0135/RsQCXN4o4Ps: likes 16881 -> 16882 (+1)
+-     ivan0135/ZB788PtqQvg: views 692110 -> 692141 (+31)
+-     ivan0135/ZB788PtqQvg: likes 7880 -> 7881 (+1)
+
+## 2026-08-14T02:00:01.132369+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 40325 -> 40331 (+6)
+-     qtecqot/Oqw96jCOP7A: likes 1383 -> 1384 (+1)
+-     qtecqot/OpSTlDJWFFI: views 42462 -> 42497 (+35)
+-     qtecqot/OpSTlDJWFFI: likes 1507 -> 1508 (+1)
+
+## 2026-08-14T02:30:01.483956+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66043 -> 66095 (+52)
+-     qtecqot/l9RAhmPHM_A: likes 2117 -> 2118 (+1)
+-     qtecqot/OpSTlDJWFFI: views 42497 -> 42520 (+23)
+-     qtecqot/Oqw96jCOP7A: views 40331 -> 40344 (+13)
+-     ivan0135/ZB788PtqQvg: views 692141 -> 692150 (+9)
+
+## 2026-08-14T03:00:01.933020+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66095 -> 66134 (+39)
+-     qtecqot/OpSTlDJWFFI: views 42520 -> 42544 (+24)
+-     qtecqot/OpSTlDJWFFI: likes 1508 -> 1510 (+2)
+-     ivan0135/Xju_CY5ZESA: views 356669 -> 356742 (+73)
+
+## 2026-08-14T03:30:01.641796+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-14T04:00:01.494935+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-14T04:30:01.096416+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-14T05:00:01.088982+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+
+## 2026-08-14T05:30:01.760669+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-14T06:00:01.789625+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-14T06:30:01.760601+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-14T07:00:01.472146+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-14T07:30:01.490130+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-14T08:00:02.027585+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42648 -> 42653 (+5)
+-     qtecqot/l9RAhmPHM_A: views 66300 -> 66311 (+11)
+-     ivan0135/a6TLGkrfNKI: views 715902 -> 715903 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1505337 -> 1505346 (+9)
+
+## 2026-08-14T08:30:01.128544+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 40420 -> 40489 (+69)
+-     qtecqot/Oqw96jCOP7A: likes 1386 -> 1385 (-1)
+-     qtecqot/OpSTlDJWFFI: views 42653 -> 42665 (+12)
+-     qtecqot/OpSTlDJWFFI: likes 1512 -> 1511 (-1)
+-     ivan0135/Xju_CY5ZESA: views 356800 -> 356831 (+31)
+-     ivan0135/RsQCXN4o4Ps: views 1505346 -> 1505361 (+15)
+-     ivan0135/RsQCXN4o4Ps: likes 16884 -> 16885 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715903 -> 715912 (+9)
+-     ivan0135/a6TLGkrfNKI: likes 9005 -> 9006 (+1)
+-     ivan0135/ZB788PtqQvg: views 692286 -> 692296 (+10)
+-     ivan0135/ZB788PtqQvg: likes 7880 -> 7881 (+1)
+
+## 2026-08-14T09:00:01.355416+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42665 -> 42669 (+4)
+-     ivan0135/Xju_CY5ZESA: views 356831 -> 356800 (-31)
+-     ivan0135/ZB788PtqQvg: views 692296 -> 692301 (+5)
+-     ivan0135/RsQCXN4o4Ps: views 1505361 -> 1505367 (+6)
+-     ivan0135/a6TLGkrfNKI: views 715912 -> 715919 (+7)
+
+## 2026-08-14T09:30:01.581836+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66311 -> 66350 (+39)
+-     qtecqot/Oqw96jCOP7A: views 40489 -> 40501 (+12)
+-     ivan0135/a6TLGkrfNKI: views 715919 -> 715920 (+1)
+-     ivan0135/Xju_CY5ZESA: views 356800 -> 356842 (+42)
+-     ivan0135/Xju_CY5ZESA: likes 4802 -> 4803 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1505367 -> 1505373 (+6)
+-     ivan0135/RsQCXN4o4Ps: likes 16885 -> 16886 (+1)
+-     ivan0135/ZB788PtqQvg: views 692301 -> 692305 (+4)
+
+## 2026-08-14T10:00:01.678877+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42669 -> 42678 (+9)
+-     qtecqot/Oqw96jCOP7A: views 40501 -> 40507 (+6)
+-     ivan0135/RsQCXN4o4Ps: views 1505373 -> 1505380 (+7)
+-     ivan0135/Xju_CY5ZESA: views 356842 -> 356844 (+2)
+
+## 2026-08-14T10:30:01.695999+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42678 -> 42684 (+6)
+-     qtecqot/Oqw96jCOP7A: views 40507 -> 40518 (+11)
+-     qtecqot/l9RAhmPHM_A: views 66350 -> 66375 (+25)
+
+## 2026-08-14T11:00:01.798838+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66375 -> 66389 (+14)
+-     qtecqot/l9RAhmPHM_A: likes 2123 -> 2124 (+1)
+-     qtecqot/Oqw96jCOP7A: views 40518 -> 40520 (+2)
+
+## 2026-08-14T11:30:01.388125+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 40520 -> 40531 (+11)
+
+## 2026-08-14T12:00:01.135591+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 40531 -> 40534 (+3)
+-     ivan0135/RsQCXN4o4Ps: views 1505380 -> 1505420 (+40)
+-     ivan0135/Xju_CY5ZESA: views 356844 -> 356863 (+19)
+-     ivan0135/a6TLGkrfNKI: views 715920 -> 715935 (+15)
+
+## 2026-08-14T12:30:01.724044+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66389 -> 66425 (+36)
+-     ivan0135/ZB788PtqQvg: views 692305 -> 692333 (+28)
+-     ivan0135/Xju_CY5ZESA: views 356863 -> 356844 (-19)
+-     ivan0135/RsQCXN4o4Ps: views 1505420 -> 1505426 (+6)
+-     ivan0135/RsQCXN4o4Ps: likes 16886 -> 16887 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715935 -> 715947 (+12)
+
+## 2026-08-14T13:00:02.037122+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66425 -> 66439 (+14)
+-     qtecqot/OpSTlDJWFFI: views 42684 -> 42728 (+44)
+-     qtecqot/OpSTlDJWFFI: likes 1511 -> 1512 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715947 -> 715935 (-12)
+-     ivan0135/Xju_CY5ZESA: views 356844 -> 356863 (+19)
+
+## 2026-08-14T13:30:01.444185+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66439 -> 66451 (+12)
+-     qtecqot/OpSTlDJWFFI: views 42728 -> 42736 (+8)
+
+## 2026-08-14T14:00:01.671972+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42736 -> 42737 (+1)
+-     qtecqot/Oqw96jCOP7A: views 40534 -> 40573 (+39)
+-     qtecqot/l9RAhmPHM_A: views 66451 -> 66459 (+8)
+-     qtecqot/l9RAhmPHM_A: likes 2124 -> 2125 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715935 -> 715962 (+27)
+-     ivan0135/Xju_CY5ZESA: views 356863 -> 356871 (+8)
+
+## 2026-08-14T14:30:01.755744+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 40573 -> 40583 (+10)
+-     qtecqot/OpSTlDJWFFI: views 42737 -> 42746 (+9)
+-     qtecqot/OpSTlDJWFFI: likes 1512 -> 1511 (-1)
+-     qtecqot/l9RAhmPHM_A: views 66459 -> 66474 (+15)
+-     qtecqot/l9RAhmPHM_A: likes 2125 -> 2124 (-1)
+-     ivan0135/a6TLGkrfNKI: views 715962 -> 715972 (+10)
+-     ivan0135/ZB788PtqQvg: views 692333 -> 692355 (+22)
+-     ivan0135/RsQCXN4o4Ps: views 1505426 -> 1505470 (+44)
+
+## 2026-08-14T15:00:01.216664+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42746 -> 42758 (+12)
+-     qtecqot/l9RAhmPHM_A: views 66474 -> 66498 (+24)
+-     qtecqot/l9RAhmPHM_A: likes 2124 -> 2123 (-1)
+-     qtecqot/Oqw96jCOP7A: views 40583 -> 40587 (+4)
+-     ivan0135/RsQCXN4o4Ps: views 1505470 -> 1505486 (+16)
+-     ivan0135/RsQCXN4o4Ps: likes 16887 -> 16888 (+1)
+-     ivan0135/ZB788PtqQvg: views 692355 -> 692361 (+6)
+-     ivan0135/ZB788PtqQvg: likes 7881 -> 7882 (+1)
+-     ivan0135/Xju_CY5ZESA: views 356871 -> 356896 (+25)
+-     ivan0135/Xju_CY5ZESA: likes 4803 -> 4804 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715972 -> 715975 (+3)
+
+## 2026-08-14T15:30:01.177939+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66498 -> 66511 (+13)
+-     qtecqot/OpSTlDJWFFI: views 42758 -> 42775 (+17)
+-     ivan0135/Xju_CY5ZESA: views 356896 -> 356900 (+4)
+-     ivan0135/RsQCXN4o4Ps: views 1505486 -> 1505499 (+13)
+-     ivan0135/RsQCXN4o4Ps: likes 16888 -> 16889 (+1)
+
+## 2026-08-14T16:00:01.896765+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66511 -> 66532 (+21)
+-     qtecqot/l9RAhmPHM_A: likes 2123 -> 2124 (+1)
+-     qtecqot/OpSTlDJWFFI: views 42775 -> 42780 (+5)
+-     qtecqot/OpSTlDJWFFI: likes 1511 -> 1512 (+1)
+-     ivan0135/Xju_CY5ZESA: views 356900 -> 356908 (+8)
+-     ivan0135/Xju_CY5ZESA: likes 4804 -> 4805 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1505499 -> 1505509 (+10)
+-     ivan0135/RsQCXN4o4Ps: likes 16889 -> 16891 (+2)
+
+## 2026-08-14T16:30:02.054276+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66532 -> 66559 (+27)
+-     qtecqot/l9RAhmPHM_A: likes 2124 -> 2125 (+1)
+-     qtecqot/Oqw96jCOP7A: views 40587 -> 40628 (+41)
+-     qtecqot/Oqw96jCOP7A: likes 1385 -> 1386 (+1)
+-     qtecqot/OpSTlDJWFFI: views 42780 -> 42792 (+12)
+-     qtecqot/OpSTlDJWFFI: likes 1512 -> 1513 (+1)
+-     ivan0135/a6TLGkrfNKI: views 715975 -> 716002 (+27)
+-     ivan0135/a6TLGkrfNKI: likes 9006 -> 9007 (+1)
+-     ivan0135/Xju_CY5ZESA: views 356908 -> 356911 (+3)
+-     ivan0135/Xju_CY5ZESA: likes 4805 -> 4806 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1505509 -> 1505513 (+4)
+-     ivan0135/ZB788PtqQvg: views 692361 -> 692379 (+18)
+-     ivan0135/ZB788PtqQvg: likes 7882 -> 7883 (+1)
+
+## 2026-08-14T17:00:01.721068+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66559 -> 66575 (+16)
+-     qtecqot/Oqw96jCOP7A: views 40628 -> 40639 (+11)
+-     ivan0135/RsQCXN4o4Ps: views 1505513 -> 1505534 (+21)
+-     ivan0135/ZB788PtqQvg: views 692379 -> 692390 (+11)
+
+## 2026-08-14T17:30:01.245038+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66575 -> 66591 (+16)
+-     qtecqot/l9RAhmPHM_A: likes 2125 -> 2126 (+1)
+-     qtecqot/OpSTlDJWFFI: views 42792 -> 42807 (+15)
+-     qtecqot/OpSTlDJWFFI: likes 1513 -> 1515 (+2)
+-     qtecqot/Oqw96jCOP7A: views 40639 -> 40653 (+14)
+-     qtecqot/Oqw96jCOP7A: likes 1386 -> 1389 (+3)
+-     ivan0135/ZB788PtqQvg: views 692390 -> 692403 (+13)
+
+## 2026-08-14T18:00:01.594185+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66591 -> 66607 (+16)
+-     qtecqot/l9RAhmPHM_A: likes 2126 -> 2127 (+1)
+-     qtecqot/OpSTlDJWFFI: views 42807 -> 42818 (+11)
+-     qtecqot/OpSTlDJWFFI: likes 1515 -> 1516 (+1)
+-     qtecqot/Oqw96jCOP7A: views 40653 -> 40660 (+7)
+-     qtecqot/Oqw96jCOP7A: likes 1389 -> 1390 (+1)
+-     ivan0135/Xju_CY5ZESA: views 356911 -> 356937 (+26)
+-     ivan0135/Xju_CY5ZESA: likes 4806 -> 4807 (+1)
+
+## 2026-08-14T18:30:01.487253+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42818 -> 42830 (+12)
+-     qtecqot/l9RAhmPHM_A: views 66607 -> 66623 (+16)
+-     qtecqot/Oqw96jCOP7A: views 40660 -> 40669 (+9)
+-     ivan0135/Xju_CY5ZESA: views 356937 -> 356943 (+6)
+-     ivan0135/RsQCXN4o4Ps: views 1505534 -> 1505578 (+44)
+-     ivan0135/a6TLGkrfNKI: views 716002 -> 716043 (+41)
+
+## 2026-08-14T19:00:01.439678+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42830 -> 42836 (+6)
+-     qtecqot/l9RAhmPHM_A: views 66623 -> 66633 (+10)
+-     ivan0135/Xju_CY5ZESA: views 356943 -> 356958 (+15)
+-     ivan0135/RsQCXN4o4Ps: views 1505578 -> 1505593 (+15)
+-     ivan0135/a6TLGkrfNKI: views 716043 -> 716047 (+4)
+
+## 2026-08-14T19:30:02.011595+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42836 -> 42842 (+6)
+-     qtecqot/OpSTlDJWFFI: likes 1516 -> 1518 (+2)
+-     qtecqot/Oqw96jCOP7A: views 40669 -> 40697 (+28)
+-     qtecqot/Oqw96jCOP7A: likes 1390 -> 1391 (+1)
+-     qtecqot/l9RAhmPHM_A: views 66633 -> 66649 (+16)
+-     qtecqot/l9RAhmPHM_A: likes 2127 -> 2129 (+2)
+-     ivan0135/ZB788PtqQvg: views 692403 -> 692435 (+32)
+-     ivan0135/RsQCXN4o4Ps: views 1505593 -> 1505606 (+13)
+
+## 2026-08-14T20:00:01.623012+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 40697 -> 40703 (+6)
+-     qtecqot/Oqw96jCOP7A: likes 1391 -> 1392 (+1)
+-     qtecqot/l9RAhmPHM_A: views 66649 -> 66657 (+8)
+-     qtecqot/l9RAhmPHM_A: likes 2129 -> 2130 (+1)
+-     qtecqot/OpSTlDJWFFI: views 42842 -> 42847 (+5)
+-     qtecqot/OpSTlDJWFFI: likes 1518 -> 1519 (+1)
+
+## 2026-08-14T20:30:01.319847+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66657 -> 66672 (+15)
+-     qtecqot/l9RAhmPHM_A: likes 2130 -> 2132 (+2)
+-     qtecqot/Oqw96jCOP7A: views 40703 -> 40713 (+10)
+-     qtecqot/Oqw96jCOP7A: likes 1392 -> 1393 (+1)
+-     qtecqot/OpSTlDJWFFI: views 42847 -> 42852 (+5)
+-     qtecqot/OpSTlDJWFFI: likes 1519 -> 1523 (+4)
+
+## 2026-08-14T21:00:02.018285+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42852 -> 42867 (+15)
+-     qtecqot/OpSTlDJWFFI: likes 1523 -> 1524 (+1)
+-     qtecqot/l9RAhmPHM_A: views 66672 -> 66690 (+18)
+-     qtecqot/Oqw96jCOP7A: views 40713 -> 40730 (+17)
+-     qtecqot/Oqw96jCOP7A: likes 1393 -> 1395 (+2)
+-     ivan0135/a6TLGkrfNKI: views 716047 -> 716094 (+47)
+
+## 2026-08-14T21:30:01.412684+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66690 -> 66722 (+32)
+-     qtecqot/l9RAhmPHM_A: likes 2132 -> 2133 (+1)
+-     qtecqot/OpSTlDJWFFI: views 42867 -> 42888 (+21)
+-     qtecqot/Oqw96jCOP7A: views 40730 -> 40750 (+20)
+-     ivan0135/RsQCXN4o4Ps: views 1505606 -> 1505679 (+73)
+-     ivan0135/RsQCXN4o4Ps: likes 16891 -> 16892 (+1)
+-     ivan0135/a6TLGkrfNKI: views 716094 -> 716111 (+17)
+-     ivan0135/a6TLGkrfNKI: likes 9007 -> 9008 (+1)
+
+## 2026-08-14T22:00:01.215215+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42888 -> 42908 (+20)
+-     qtecqot/l9RAhmPHM_A: views 66722 -> 66759 (+37)
+-     qtecqot/l9RAhmPHM_A: likes 2133 -> 2134 (+1)
+-     qtecqot/Oqw96jCOP7A: views 40750 -> 40768 (+18)
+-     ivan0135/ZB788PtqQvg: views 692435 -> 692487 (+52)
+-     ivan0135/ZB788PtqQvg: likes 7883 -> 7884 (+1)
+-     ivan0135/a6TLGkrfNKI: views 716111 -> 716130 (+19)
+-     ivan0135/a6TLGkrfNKI: likes 9008 -> 9009 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1505679 -> 1505708 (+29)
+
+## 2026-08-14T22:30:01.619901+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42908 -> 42932 (+24)
+-     qtecqot/Oqw96jCOP7A: views 40768 -> 40785 (+17)
+-     qtecqot/l9RAhmPHM_A: views 66759 -> 66779 (+20)
+-     ivan0135/Xju_CY5ZESA: views 356958 -> 357021 (+63)
+-     ivan0135/RsQCXN4o4Ps: views 1505708 -> 1505728 (+20)
+
+## 2026-08-14T23:00:01.248502+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42932 -> 42950 (+18)
+-     qtecqot/Oqw96jCOP7A: views 40785 -> 40794 (+9)
+-     qtecqot/l9RAhmPHM_A: views 66779 -> 66798 (+19)
+
+## 2026-08-14T23:30:01.724858+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66798 -> 66810 (+12)
+-     qtecqot/l9RAhmPHM_A: likes 2134 -> 2135 (+1)
+-     qtecqot/Oqw96jCOP7A: views 40794 -> 40804 (+10)
+-     qtecqot/Oqw96jCOP7A: likes 1395 -> 1396 (+1)
+-     qtecqot/OpSTlDJWFFI: views 42950 -> 42966 (+16)
+-     qtecqot/OpSTlDJWFFI: likes 1524 -> 1525 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1505728 -> 1505780 (+52)
+
+## 2026-08-15T00:00:01.789004+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42966 -> 42977 (+11)
+-     qtecqot/Oqw96jCOP7A: views 40804 -> 40814 (+10)
+-     ivan0135/a6TLGkrfNKI: views 716130 -> 716158 (+28)
+-     ivan0135/a6TLGkrfNKI: likes 9009 -> 9011 (+2)
+-     ivan0135/Xju_CY5ZESA: views 357021 -> 357044 (+23)
+-     ivan0135/Xju_CY5ZESA: likes 4807 -> 4809 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1505780 -> 1505791 (+11)
+-     ivan0135/RsQCXN4o4Ps: likes 16892 -> 16893 (+1)
+
+## 2026-08-15T00:30:01.899271+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 40814 -> 40827 (+13)
+-     qtecqot/OpSTlDJWFFI: views 42977 -> 42999 (+22)
+-     ivan0135/RsQCXN4o4Ps: likes 16893 -> 16894 (+1)
+-     ivan0135/Xju_CY5ZESA: views 357044 -> 357049 (+5)
+
+## 2026-08-15T01:00:01.091526+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 42999 -> 43013 (+14)
+-     qtecqot/Oqw96jCOP7A: views 40827 -> 40840 (+13)
+
+## 2026-08-15T01:30:01.504329+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 43013 -> 43030 (+17)
+-     ivan0135/RsQCXN4o4Ps: views 1505791 -> 1505796 (+5)
+-     ivan0135/RsQCXN4o4Ps: likes 16894 -> 16895 (+1)
+-     ivan0135/ZB788PtqQvg: views 692487 -> 692528 (+41)
+
+## 2026-08-15T02:00:01.665485+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66810 -> 66868 (+58)
+-     qtecqot/l9RAhmPHM_A: likes 2135 -> 2136 (+1)
+-     qtecqot/Oqw96jCOP7A: views 40840 -> 40857 (+17)
+-     qtecqot/Oqw96jCOP7A: likes 1396 -> 1397 (+1)
+-     qtecqot/OpSTlDJWFFI: views 43030 -> 43042 (+12)
+-     qtecqot/OpSTlDJWFFI: likes 1525 -> 1526 (+1)
+-     ivan0135/a6TLGkrfNKI: views 716158 -> 716191 (+33)
+-     ivan0135/a6TLGkrfNKI: likes 9011 -> 9012 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1505796 -> 1505803 (+7)
+-     ivan0135/ZB788PtqQvg: views 692528 -> 692545 (+17)
+-     ivan0135/Xju_CY5ZESA: views 357049 -> 357068 (+19)
+-     ivan0135/Xju_CY5ZESA: likes 4809 -> 4810 (+1)
+
+## 2026-08-15T02:30:01.081247+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 40857 -> 40865 (+8)
+-     qtecqot/OpSTlDJWFFI: views 43042 -> 43049 (+7)
+-     qtecqot/l9RAhmPHM_A: views 66868 -> 66876 (+8)
+-     ivan0135/ZB788PtqQvg: views 692545 -> 692553 (+8)
+-     ivan0135/ZB788PtqQvg: likes 7884 -> 7885 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1505803 -> 1505812 (+9)
+-     ivan0135/RsQCXN4o4Ps: likes 16895 -> 16896 (+1)
+-     ivan0135/a6TLGkrfNKI: views 716191 -> 716200 (+9)
+-     ivan0135/a6TLGkrfNKI: likes 9012 -> 9013 (+1)
+
+## 2026-08-15T03:00:01.259848+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66876 -> 66892 (+16)
+-     qtecqot/Oqw96jCOP7A: views 40865 -> 40872 (+7)
+-     qtecqot/Oqw96jCOP7A: likes 1397 -> 1398 (+1)
+-     qtecqot/OpSTlDJWFFI: views 43049 -> 43056 (+7)
+-     qtecqot/OpSTlDJWFFI: likes 1526 -> 1527 (+1)
+-     ivan0135/ZB788PtqQvg: views 692553 -> 692558 (+5)
+-     ivan0135/RsQCXN4o4Ps: views 1505812 -> 1505819 (+7)
+-     ivan0135/a6TLGkrfNKI: views 716200 -> 716202 (+2)
+-     ivan0135/Xju_CY5ZESA: views 357068 -> 357073 (+5)
+
+## 2026-08-15T03:30:01.217207+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 66892 -> 66904 (+12)
+-     qtecqot/l9RAhmPHM_A: likes 2136 -> 2138 (+2)
+-     qtecqot/Oqw96jCOP7A: views 40872 -> 40879 (+7)
+-     qtecqot/Oqw96jCOP7A: likes 1398 -> 1400 (+2)
+-     qtecqot/OpSTlDJWFFI: views 43056 -> 43074 (+18)
+-     qtecqot/OpSTlDJWFFI: likes 1527 -> 1528 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1505819 -> 1505842 (+23)
+-     ivan0135/a6TLGkrfNKI: views 716202 -> 716225 (+23)
+-     ivan0135/ZB788PtqQvg: views 692558 -> 692566 (+8)
+
+## 2026-08-15T04:00:02.040017+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-15T04:30:01.374657+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-15T05:00:01.130846+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-15T05:30:01.146314+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 500: Internal Server Error) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-15T06:00:01.475678+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-15T06:30:01.609305+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-15T07:00:01.327314+00:00
+
+-     ! qtecqot: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! ivan0135: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+-     ! m21-b5q: FETCH FAILED (HTTPError: HTTP Error 404: Not Found) — this is an instrument failure, not an absence of change
+
+## 2026-08-15T07:30:01.632125+00:00
+
+- BASELINE established for qtecqot: 3 videos, channel created 2026-04-22T05:27:55+00:00
+- BASELINE established for ivan0135: 4 videos, channel created 2011-04-14T01:08:36+00:00
+- BASELINE established for m21-b5q: 0 videos, channel created 2015-10-02T19:36:00+00:00
+
+## 2026-08-15T08:00:01.984161+00:00
+
+-     ivan0135/ZB788PtqQvg: views 692580 -> 692626 (+46)
+-     ivan0135/RsQCXN4o4Ps: views 1505923 -> 1505931 (+8)
+
+## 2026-08-15T08:30:02.007554+00:00
+
+-     ivan0135/RsQCXN4o4Ps: views 1505931 -> 1505934 (+3)
+-     ivan0135/ZB788PtqQvg: views 692626 -> 692630 (+4)
+-     ivan0135/ZB788PtqQvg: likes 7886 -> 7887 (+1)
+
+## 2026-08-15T09:00:01.263014+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 43131 -> 43157 (+26)
+-     ivan0135/RsQCXN4o4Ps: views 1505934 -> 1505941 (+7)
+-     ivan0135/Xju_CY5ZESA: views 357110 -> 357146 (+36)
+
+## 2026-08-15T09:30:01.637967+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 43157 -> 43170 (+13)
+-     qtecqot/OpSTlDJWFFI: likes 1530 -> 1531 (+1)
+-     qtecqot/l9RAhmPHM_A: views 66967 -> 67005 (+38)
+-     qtecqot/l9RAhmPHM_A: likes 2140 -> 2141 (+1)
+-     qtecqot/Oqw96jCOP7A: views 40925 -> 40953 (+28)
+-     qtecqot/Oqw96jCOP7A: likes 1402 -> 1403 (+1)
+
+## 2026-08-15T10:00:01.831124+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 67005 -> 67006 (+1)
+-     qtecqot/OpSTlDJWFFI: views 43170 -> 43180 (+10)
+
+## 2026-08-15T10:30:01.264418+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 43180 -> 43186 (+6)
+-     qtecqot/OpSTlDJWFFI: likes 1531 -> 1532 (+1)
+-     qtecqot/l9RAhmPHM_A: views 67006 -> 67019 (+13)
+-     qtecqot/l9RAhmPHM_A: likes 2141 -> 2142 (+1)
+-     qtecqot/Oqw96jCOP7A: views 40953 -> 40970 (+17)
+-     qtecqot/Oqw96jCOP7A: likes 1403 -> 1404 (+1)
+-     ivan0135/a6TLGkrfNKI: views 716270 -> 716297 (+27)
+-     ivan0135/Xju_CY5ZESA: views 357146 -> 357142 (-4)
+
+## 2026-08-15T11:00:01.086714+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 40970 -> 40977 (+7)
+-     qtecqot/l9RAhmPHM_A: views 67019 -> 67030 (+11)
+-     qtecqot/l9RAhmPHM_A: likes 2142 -> 2144 (+2)
+-     qtecqot/OpSTlDJWFFI: views 43186 -> 43193 (+7)
+
+## 2026-08-15T11:30:01.670843+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 67030 -> 67033 (+3)
+-     qtecqot/Oqw96jCOP7A: views 40977 -> 40985 (+8)
+-     ivan0135/RsQCXN4o4Ps: views 1505941 -> 1505994 (+53)
+-     ivan0135/a6TLGkrfNKI: views 716297 -> 716318 (+21)
+-     ivan0135/ZB788PtqQvg: views 692630 -> 692661 (+31)
+-     ivan0135/Xju_CY5ZESA: views 357142 -> 357175 (+33)
+
+## 2026-08-15T12:00:01.122177+00:00
+
+-     ivan0135/RsQCXN4o4Ps: views 1505994 -> 1505997 (+3)
+-     ivan0135/RsQCXN4o4Ps: likes 16898 -> 16899 (+1)
+-     ivan0135/Xju_CY5ZESA: views 357175 -> 357176 (+1)
+
+## 2026-08-15T12:30:01.073856+00:00
+
+-     ivan0135/Xju_CY5ZESA: likes 4810 -> 4811 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1505997 -> 1506003 (+6)
+-     ivan0135/RsQCXN4o4Ps: likes 16899 -> 16900 (+1)
+-     ivan0135/a6TLGkrfNKI: views 716318 -> 716327 (+9)
+-     ivan0135/a6TLGkrfNKI: likes 9013 -> 9014 (+1)
+-     ivan0135/ZB788PtqQvg: views 692661 -> 692662 (+1)
+-     ivan0135/ZB788PtqQvg: likes 7887 -> 7888 (+1)
+
+## 2026-08-15T13:00:01.939661+00:00
+
+-     ivan0135/a6TLGkrfNKI: views 716327 -> 716329 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1506003 -> 1506009 (+6)
+-     ivan0135/ZB788PtqQvg: views 692662 -> 692663 (+1)
+-     ivan0135/ZB788PtqQvg: likes 7888 -> 7889 (+1)
+-     ivan0135/Xju_CY5ZESA: views 357176 -> 357177 (+1)
+
+## 2026-08-15T13:30:01.523489+00:00
+
+-     qtecqot/OpSTlDJWFFI: views 43193 -> 43226 (+33)
+-     qtecqot/OpSTlDJWFFI: likes 1532 -> 1533 (+1)
+-     qtecqot/l9RAhmPHM_A: views 67033 -> 67075 (+42)
+-     qtecqot/l9RAhmPHM_A: likes 2144 -> 2145 (+1)
+-     qtecqot/Oqw96jCOP7A: views 40985 -> 41013 (+28)
+-     qtecqot/Oqw96jCOP7A: likes 1404 -> 1405 (+1)
+
+## 2026-08-15T14:00:01.317718+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 41013 -> 41018 (+5)
+-     qtecqot/OpSTlDJWFFI: views 43226 -> 43229 (+3)
+-     qtecqot/l9RAhmPHM_A: views 67075 -> 67081 (+6)
+
+## 2026-08-15T14:30:01.757380+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 41018 -> 41027 (+9)
+
+## 2026-08-15T15:00:01.091462+00:00
+
+-     qtecqot/Oqw96jCOP7A: views 41027 -> 41032 (+5)
+-     qtecqot/Oqw96jCOP7A: likes 1405 -> 1407 (+2)
+-     qtecqot/l9RAhmPHM_A: views 67081 -> 67090 (+9)
+-     qtecqot/l9RAhmPHM_A: likes 2145 -> 2147 (+2)
+-     ivan0135/a6TLGkrfNKI: views 716329 -> 716354 (+25)
+-     ivan0135/a6TLGkrfNKI: likes 9014 -> 9015 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1506009 -> 1506041 (+32)
+-     ivan0135/RsQCXN4o4Ps: likes 16900 -> 16901 (+1)
+-     ivan0135/Xju_CY5ZESA: views 357177 -> 357195 (+18)
+-     ivan0135/Xju_CY5ZESA: likes 4811 -> 4810 (-1)
+
+## 2026-08-15T15:30:01.719099+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 67090 -> 67102 (+12)
+-     qtecqot/l9RAhmPHM_A: likes 2147 -> 2148 (+1)
+-     qtecqot/OpSTlDJWFFI: views 43229 -> 43262 (+33)
+-     qtecqot/OpSTlDJWFFI: likes 1533 -> 1534 (+1)
+-     qtecqot/Oqw96jCOP7A: views 41032 -> 41041 (+9)
+-     qtecqot/Oqw96jCOP7A: likes 1407 -> 1408 (+1)
+-     ivan0135/Xju_CY5ZESA: views 357195 -> 357196 (+1)
+-     ivan0135/a6TLGkrfNKI: views 716354 -> 716357 (+3)
+-     ivan0135/ZB788PtqQvg: views 692663 -> 692662 (-1)
+-     ivan0135/ZB788PtqQvg: likes 7889 -> 7888 (-1)
+
+## 2026-08-15T16:00:02.018977+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 67102 -> 67117 (+15)
+-     qtecqot/l9RAhmPHM_A: likes 2148 -> 2149 (+1)
+-     qtecqot/OpSTlDJWFFI: views 43262 -> 43274 (+12)
+-     qtecqot/OpSTlDJWFFI: likes 1534 -> 1535 (+1)
+-     qtecqot/Oqw96jCOP7A: views 41041 -> 41053 (+12)
+-     qtecqot/Oqw96jCOP7A: likes 1408 -> 1409 (+1)
+-     ivan0135/ZB788PtqQvg: views 692662 -> 692700 (+38)
+-     ivan0135/ZB788PtqQvg: likes 7888 -> 7889 (+1)
+
+## 2026-08-15T16:30:01.507460+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 67117 -> 67129 (+12)
+-     qtecqot/l9RAhmPHM_A: likes 2149 -> 2150 (+1)
+-     qtecqot/OpSTlDJWFFI: views 43274 -> 43283 (+9)
+-     qtecqot/OpSTlDJWFFI: likes 1535 -> 1536 (+1)
+-     qtecqot/Oqw96jCOP7A: views 41053 -> 41057 (+4)
+-     qtecqot/Oqw96jCOP7A: likes 1409 -> 1411 (+2)
+-     ivan0135/RsQCXN4o4Ps: views 1506041 -> 1506068 (+27)
+-     ivan0135/RsQCXN4o4Ps: likes 16901 -> 16902 (+1)
+
+## 2026-08-15T17:00:01.450046+00:00
+
+-     qtecqot/l9RAhmPHM_A: views 67129 -> 67136 (+7)
+-     qtecqot/OpSTlDJWFFI: views 43283 -> 43288 (+5)
+-     qtecqot/OpSTlDJWFFI: likes 1536 -> 1537 (+1)
+-     qtecqot/Oqw96jCOP7A: views 41057 -> 41058 (+1)
+-     ivan0135/RsQCXN4o4Ps: views 1506068 -> 1506075 (+7)

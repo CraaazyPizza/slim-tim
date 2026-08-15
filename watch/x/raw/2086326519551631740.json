@@ -1,0 +1,104 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/JonStewartIL/status/2086317726050468162",
+  "id": "2086317726050468162",
+  "text": "🚨🚨🚨🚨🚨🚨🚨🚨\nIf this is real…. It changes our lives forever…. sent to me just now! 😱",
+  "raw_text": {
+   "text": "🚨🚨🚨🚨🚨🚨🚨🚨\nIf this is real…. It changes our lives forever…. sent to me just now! 😱 https://t.co/snMGattNSj",
+   "display_text_range": [
+    0,
+    80
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      81,
+      104
+     ],
+     "id": "2086317722648928256",
+     "display": "pic.x.com/snMGattNSj",
+     "original": "https://t.co/snMGattNSj",
+     "replacement": "https://x.com/JonStewartIL/status/2086317726050468162/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "JonStewartIL",
+   "url": "https://x.com/JonStewartIL",
+   "id": "1949217766671552512",
+   "followers": 34510,
+   "following": 1470,
+   "likes": 6292,
+   "media_count": 4666,
+   "name": "Jon Stewart",
+   "description": "Businessman, Investigative Producer, former pro wrestler, author & IL Governor candidate and Joann's proud husband",
+   "raw_description": {
+    "text": "Businessman, Investigative Producer, former pro wrestler, author & IL Governor candidate and Joann's proud husband",
+    "facets": []
+   },
+   "location": "Deerfield, IL",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1949217766671552512/1777651585",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2050949779396448256/PlcaH2dG_200x200.jpg",
+   "joined": "Sat Jul 26 21:18:38 +0000 2025",
+   "protected": false,
+   "website": {
+    "url": "https://allisonelizabethstewart.my.canva.site/jon-stewart",
+    "display_url": "allisonelizabethstewart.my.canva.site/jon-stewart"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 25,
+  "retweets": 8,
+  "likes": 106,
+  "bookmarks": 16,
+  "quotes": 0,
+  "created_at": "Sun Aug 09 05:04:42 +0000 2026",
+  "created_timestamp": 1786251882,
+  "possibly_sensitive": false,
+  "views": 9637,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2086317722648928256",
+     "url": "https://pbs.twimg.com/media/HPQW6jsXYAAwhbk.jpg?name=orig",
+     "width": 961,
+     "height": 780
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2086317722648928256",
+     "url": "https://pbs.twimg.com/media/HPQW6jsXYAAwhbk.jpg?name=orig",
+     "width": 961,
+     "height": 780
+    }
+   ]
+  },
+  "source": "Twitter for iPhone",
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": {
+   "id": "2048996761101078528",
+   "name": "qtecqot",
+   "screen_name": "qtecqot",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "url": "https://x.com/qtecqot"
+  }
+ }
+}

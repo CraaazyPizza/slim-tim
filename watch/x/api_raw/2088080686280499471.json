@@ -1,0 +1,244 @@
+{
+ "data": {
+  "author_id": "2048996761101078528",
+  "context_annotations": [
+   {
+    "domain": {
+     "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+     "id": "66",
+     "name": "Interests and Hobbies Category"
+    },
+    "entity": {
+     "description": "Supernatural",
+     "id": "1046578491712389125",
+     "name": "Supernatural"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "description": "Supernatural",
+     "id": "1046578491712389125",
+     "name": "Supernatural"
+    }
+   }
+  ],
+  "conversation_id": "2088080686280499471",
+  "created_at": "2026-08-14T01:50:04.000Z",
+  "display_text_range": [
+   0,
+   139
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-14T02:50:04.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": false
+  },
+  "edit_history_post_ids": [
+   "2088080686280499471"
+  ],
+  "entities": {
+   "hashtags": [
+    {
+     "end": 22,
+     "start": 17,
+     "tag": "UFOx"
+    },
+    {
+     "end": 34,
+     "start": 23,
+     "tag": "UFOtwitter"
+    },
+    {
+     "end": 39,
+     "start": 35,
+     "tag": "UAP"
+    },
+    {
+     "end": 44,
+     "start": 40,
+     "tag": "NHI"
+    }
+   ],
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1264642161104039938",
+     "start": 3,
+     "username": "wow36932525"
+    }
+   ]
+  },
+  "id": "2088080686280499471",
+  "lang": "en",
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 0,
+   "impression_count": 8,
+   "like_count": 0,
+   "quote_count": 0,
+   "reply_count": 0,
+   "repost_count": 325
+  },
+  "referenced_posts": [
+   {
+    "id": "2087976816195538983",
+    "type": "reposted"
+   }
+  ],
+  "reply_settings": "everyone",
+  "text": "RT @wow36932525: #UFOx #UFOtwitter #UAP #NHI\n\nDAVID GRUSCH  states to DR.PHIL. \n\nALIEN PILOTS HAVE BEEN TAKEN ALIVE AND COMMUNICATED WITH.…"
+ },
+ "includes": {
+  "posts": [
+   {
+    "attachments": {
+     "media_keys": [
+      "13_2087976698864177152"
+     ]
+    },
+    "author_id": "1264642161104039938",
+    "context_annotations": [
+     {
+      "domain": {
+       "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+       "id": "66",
+       "name": "Interests and Hobbies Category"
+      },
+      "entity": {
+       "description": "Supernatural",
+       "id": "1046578491712389125",
+       "name": "Supernatural"
+      }
+     }
+    ],
+    "conversation_id": "2087976816195538983",
+    "created_at": "2026-08-13T18:57:20.000Z",
+    "display_text_range": [
+     0,
+     124
+    ],
+    "edit_controls": {
+     "editable_until": "2026-08-13T19:57:20.000Z",
+     "edits_remaining": 5,
+     "is_edit_eligible": true
+    },
+    "edit_history_post_ids": [
+     "2087976816195538983"
+    ],
+    "entities": {
+     "hashtags": [
+      {
+       "end": 5,
+       "start": 0,
+       "tag": "UFOx"
+      },
+      {
+       "end": 17,
+       "start": 6,
+       "tag": "UFOtwitter"
+      },
+      {
+       "end": 22,
+       "start": 18,
+       "tag": "UAP"
+      },
+      {
+       "end": 27,
+       "start": 23,
+       "tag": "NHI"
+      }
+     ],
+     "urls": [
+      {
+       "display_url": "pic.x.com/8N762EYAh3",
+       "end": 148,
+       "expanded_url": "https://x.com/wow36932525/status/2087976816195538983/video/1",
+       "media_key": "13_2087976698864177152",
+       "start": 125,
+       "url": "https://t.co/8N762EYAh3"
+      }
+     ]
+    },
+    "id": "2087976816195538983",
+    "lang": "en",
+    "media_metadata": [
+     {
+      "media_key": "13_2087976698864177152"
+     }
+    ],
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+     "bookmark_count": 754,
+     "impression_count": 279311,
+     "like_count": 2074,
+     "quote_count": 36,
+     "reply_count": 91,
+     "repost_count": 325
+    },
+    "reply_settings": "everyone",
+    "text": "#UFOx #UFOtwitter #UAP #NHI\n\nDAVID GRUSCH  states to DR.PHIL. \n\nALIEN PILOTS HAVE BEEN TAKEN ALIVE AND COMMUNICATED WITH.  👽 https://t.co/8N762EYAh3"
+   }
+  ],
+  "media": [],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   },
+   {
+    "created_at": "2020-05-24T19:40:26.000Z",
+    "description": "Unidentified Anomalous Phenomena",
+    "id": "1264642161104039938",
+    "is_identity_verified": false,
+    "location": "Edinburgh",
+    "name": "wow",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1264642161104039938/1646957213",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1726604429762191360/674323ws_normal.jpg",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 14751,
+     "following_count": 2524,
+     "like_count": 37071,
+     "listed_count": 146,
+     "media_count": 6087,
+     "post_count": 21806
+    },
+    "url": "",
+    "username": "wow36932525",
+    "verified": true,
+    "verified_type": "blue"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

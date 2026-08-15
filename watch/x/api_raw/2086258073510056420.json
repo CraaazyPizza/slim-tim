@@ -1,0 +1,328 @@
+{
+ "data": {
+  "author_id": "2048996761101078528",
+  "context_annotations": [
+   {
+    "domain": {
+     "description": "Television shows from around the world",
+     "id": "3",
+     "name": "TV Shows"
+    },
+    "entity": {
+     "description": "Replays of classic NFL games.",
+     "id": "10000612773",
+     "name": "NFL Football"
+    }
+   },
+   {
+    "domain": {
+     "description": "Types of sports, like soccer and basketball",
+     "id": "11",
+     "name": "Sport"
+    },
+    "entity": {
+     "id": "689566306014617600",
+     "name": "American football"
+    }
+   },
+   {
+    "domain": {
+     "description": "A sports team organization, like Arsenal and the Boston Celtics",
+     "id": "12",
+     "name": "Sports Team"
+    },
+    "entity": {
+     "id": "689566306027188224",
+     "name": "Pittsburgh Steelers"
+    }
+   },
+   {
+    "domain": {
+     "description": "",
+     "id": "26",
+     "name": "Sports League"
+    },
+    "entity": {
+     "id": "689566314835259392",
+     "name": "NFL"
+    }
+   },
+   {
+    "domain": {
+     "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+     "id": "46",
+     "name": "Business Taxonomy"
+    },
+    "entity": {
+     "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+     "id": "1557697289971322880",
+     "name": "Sports & Fitness Business"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "689566306014617600",
+     "name": "American football"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "689566306027188224",
+     "name": "Pittsburgh Steelers"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "689566314835259392",
+     "name": "NFL"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "description": "Sports",
+     "id": "847900493514891265",
+     "name": "Sports"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "1196446161223028736",
+     "name": "Social media"
+    }
+   },
+   {
+    "domain": {
+     "description": "for individual and types of technology, e.g., food technology, 3D printing",
+     "id": "165",
+     "name": "Technology"
+    },
+    "entity": {
+     "id": "1196446161223028736",
+     "name": "Social media"
+    }
+   },
+   {
+    "domain": {
+     "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+     "id": "30",
+     "name": "Entities [Entity Service]"
+    },
+    "entity": {
+     "id": "781974596752842752",
+     "name": "Services"
+    }
+   },
+   {
+    "domain": {
+     "description": "Brands and Companies",
+     "id": "47",
+     "name": "Brand"
+    },
+    "entity": {
+     "id": "10029382357",
+     "name": "YouTube"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "10029382357",
+     "name": "YouTube"
+    }
+   }
+  ],
+  "conversation_id": "2085924608360972476",
+  "created_at": "2026-08-09T01:07:40.000Z",
+  "display_text_range": [
+   15,
+   204
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-09T02:07:40.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": false
+  },
+  "edit_history_post_ids": [
+   "2086258073510056420"
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1448333643902902272",
+     "start": 0,
+     "username": "evilfriedrice"
+    }
+   ]
+  },
+  "id": "2086258073510056420",
+  "in_reply_to_user_id": "1448333643902902272",
+  "lang": "en",
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 0,
+   "impression_count": 306,
+   "like_count": 0,
+   "quote_count": 0,
+   "reply_count": 3,
+   "repost_count": 0
+  },
+  "referenced_posts": [
+   {
+    "id": "2085944834221801708",
+    "type": "replied_to"
+   }
+  ],
+  "reply_settings": "everyone",
+  "text": "@evilfriedrice My main account? My only other accounts are on IG and YouTube. I can't have opinions about sports? 😀\n\nI'm also a fan of the Steelers. Do you think Rogers is really retiring after this year?"
+ },
+ "includes": {
+  "posts": [
+   {
+    "author_id": "1448333643902902272",
+    "context_annotations": [
+     {
+      "domain": {
+       "description": "Brands and Companies",
+       "id": "47",
+       "name": "Brand"
+      },
+      "entity": {
+       "id": "10045225402",
+       "name": "X"
+      }
+     }
+    ],
+    "conversation_id": "2085924608360972476",
+    "created_at": "2026-08-08T04:22:58.000Z",
+    "display_text_range": [
+     9,
+     58
+    ],
+    "edit_controls": {
+     "editable_until": "2026-08-08T05:22:58.000Z",
+     "edits_remaining": 5,
+     "is_edit_eligible": false
+    },
+    "edit_history_post_ids": [
+     "2085944834221801708"
+    ],
+    "entities": {
+     "mentions": [
+      {
+       "end": 8,
+       "id": "2048996761101078528",
+       "start": 0,
+       "username": "qtecqot"
+      }
+     ]
+    },
+    "id": "2085944834221801708",
+    "in_reply_to_user_id": "2048996761101078528",
+    "lang": "en",
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 274,
+     "like_count": 0,
+     "quote_count": 0,
+     "reply_count": 1,
+     "repost_count": 0
+    },
+    "referenced_posts": [
+     {
+      "id": "2085924608360972476",
+      "type": "replied_to"
+     }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtecqot Did you tweet from your main account by accident?"
+   }
+  ],
+  "media": [],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   },
+   {
+    "created_at": "2021-10-13T17:03:55.000Z",
+    "description": "asshole - artist - hashishin - commenter extraordinaire",
+    "id": "1448333643902902272",
+    "is_identity_verified": false,
+    "location": "tucson arizona",
+    "name": "pher",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448333643902902272/1785774609",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2084643106461483009/BRHgyUZt_normal.jpg",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 3,
+     "following_count": 50,
+     "like_count": 24,
+     "listed_count": 0,
+     "media_count": 4,
+     "post_count": 71
+    },
+    "url": "",
+    "username": "evilfriedrice",
+    "verified": false,
+    "verified_type": "none"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}
