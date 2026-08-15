@@ -1,0 +1,135 @@
+{
+ "data": {
+  "author_id": "2048996761101078528",
+  "context_annotations": [
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "1196446161223028736",
+     "name": "Social media"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "1293615037932646400",
+     "name": "YouTubers"
+    }
+   },
+   {
+    "domain": {
+     "description": "for individual and types of technology, e.g., food technology, 3D printing",
+     "id": "165",
+     "name": "Technology"
+    },
+    "entity": {
+     "id": "1196446161223028736",
+     "name": "Social media"
+    }
+   },
+   {
+    "domain": {
+     "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+     "id": "30",
+     "name": "Entities [Entity Service]"
+    },
+    "entity": {
+     "id": "781974596752842752",
+     "name": "Services"
+    }
+   },
+   {
+    "domain": {
+     "description": "Brands and Companies",
+     "id": "47",
+     "name": "Brand"
+    },
+    "entity": {
+     "id": "10029382357",
+     "name": "YouTube"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "10029382357",
+     "name": "YouTube"
+    }
+   }
+  ],
+  "conversation_id": "2083398773242573299",
+  "created_at": "2026-08-01T03:45:49.000Z",
+  "display_text_range": [
+   0,
+   276
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-01T04:45:49.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": true
+  },
+  "edit_history_post_ids": [
+   "2083398773242573299"
+  ],
+  "id": "2083398773242573299",
+  "lang": "en",
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 1,
+   "impression_count": 2051,
+   "like_count": 17,
+   "quote_count": 0,
+   "reply_count": 8,
+   "repost_count": 2
+  },
+  "reply_settings": "everyone",
+  "text": "🔹I will not disable my channel(s) voluntarily. Any censorship or blackout should be presumed as government/corporate intervention.\n\n🔹Any \"ads\" associated with the YouTube posts were not at my direction. If anyone knows how to completely disable this feature, please advise me."
+ },
+ "includes": {
+  "posts": [],
+  "media": [],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

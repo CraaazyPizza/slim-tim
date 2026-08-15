@@ -1,0 +1,263 @@
+{
+ "data": {
+  "attachments": {
+   "media_keys": [
+    "3_2084781176204763136"
+   ]
+  },
+  "author_id": "2048996761101078528",
+  "conversation_id": "2084640222885646566",
+  "created_at": "2026-08-04T23:21:37.000Z",
+  "display_text_range": [
+   16,
+   109
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-05T00:21:37.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": false
+  },
+  "edit_history_post_ids": [
+   "2084781836652470559"
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1951281927018725377",
+     "start": 0,
+     "username": "AbbottEddi5270"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/Y5lGD466fl",
+     "end": 133,
+     "expanded_url": "https://x.com/qtecqot/status/2084781836652470559/photo/1",
+     "media_key": "3_2084781176204763136",
+     "start": 110,
+     "url": "https://t.co/Y5lGD466fl"
+    }
+   ]
+  },
+  "id": "2084781836652470559",
+  "in_reply_to_user_id": "1951281927018725377",
+  "lang": "en",
+  "media_metadata": [
+   {
+    "media_key": "3_2084781176204763136"
+   }
+  ],
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 1,
+   "impression_count": 999,
+   "like_count": 3,
+   "quote_count": 0,
+   "reply_count": 0,
+   "repost_count": 0
+  },
+  "referenced_posts": [
+   {
+    "id": "2084640222885646566",
+    "type": "replied_to"
+   }
+  ],
+  "reply_settings": "everyone",
+  "text": "@AbbottEddi5270 Still frame from tape 7. \n\nDoes the phrase \"Mantis Blueprint\" hold any significance with you? https://t.co/Y5lGD466fl"
+ },
+ "includes": {
+  "posts": [
+   {
+    "attachments": {
+     "media_keys": [
+      "3_2084640219937087488",
+      "3_2084640219895148544"
+     ]
+    },
+    "author_id": "1951281927018725377",
+    "context_annotations": [
+     {
+      "domain": {
+       "description": "Real world events. ",
+       "id": "29",
+       "name": "Events [Entity Service]"
+      },
+      "entity": {
+       "description": "2024 US Presidential Election",
+       "id": "1665772587467653121",
+       "name": "2024 US Presidential Election"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "id": "1291447199595782144",
+       "name": "United States politics"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "2024 US Presidential Election",
+       "id": "1665772587467653121",
+       "name": "2024 US Presidential Election"
+      }
+     },
+     {
+      "domain": {
+       "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+       "id": "159",
+       "name": "States"
+      },
+      "entity": {
+       "description": "Michigan",
+       "id": "1004448635902259200",
+       "name": "Michigan"
+      }
+     }
+    ],
+    "conversation_id": "2084640222885646566",
+    "created_at": "2026-08-04T13:58:54.000Z",
+    "display_text_range": [
+     0,
+     276
+    ],
+    "edit_controls": {
+     "editable_until": "2026-08-04T14:58:54.000Z",
+     "edits_remaining": 5,
+     "is_edit_eligible": false
+    },
+    "edit_history_post_ids": [
+     "2084640222885646566"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "pic.x.com/kO0Rymqmb8",
+       "end": 300,
+       "expanded_url": "https://x.com/AbbottEddi5270/status/2084640222885646566/photo/1",
+       "media_key": "3_2084640219937087488",
+       "start": 277,
+       "url": "https://t.co/kO0Rymqmb8"
+      },
+      {
+       "display_url": "pic.x.com/kO0Rymqmb8",
+       "end": 300,
+       "expanded_url": "https://x.com/AbbottEddi5270/status/2084640222885646566/photo/1",
+       "media_key": "3_2084640219895148544",
+       "start": 277,
+       "url": "https://t.co/kO0Rymqmb8"
+      }
+     ]
+    },
+    "id": "2084640222885646566",
+    "lang": "en",
+    "media_metadata": [
+     {
+      "media_key": "3_2084640219937087488"
+     },
+     {
+      "media_key": "3_2084640219895148544"
+     }
+    ],
+    "note_post": {
+     "entities": {
+      "mentions": [
+       {
+        "end": 342,
+        "id": "1949217766671552512",
+        "start": 329,
+        "username": "JonStewartIL"
+       }
+      ]
+     },
+     "text": "Y’all… Stop what you’re doing for a moment please.\n\nSent to me this morning…\n\nTaken over Lake Michigan, in the dead of night.\n\nSo the first image is what they sent me… the second one I enhanced a little.\n\nTell me what the hell y’all see!! \n\nI know what I see… but I care about what y’all see.\n\nCheck it out… you be the analyst.\n\n@JonStewartIL"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+     "bookmark_count": 305,
+     "impression_count": 150000,
+     "like_count": 760,
+     "quote_count": 6,
+     "reply_count": 179,
+     "repost_count": 45
+    },
+    "reply_settings": "everyone",
+    "text": "Y’all… Stop what you’re doing for a moment please.\n\nSent to me this morning…\n\nTaken over Lake Michigan, in the dead of night.\n\nSo the first image is what they sent me… the second one I enhanced a little.\n\nTell me what the hell y’all see!! \n\nI know what I see… but I care about https://t.co/kO0Rymqmb8"
+   }
+  ],
+  "media": [
+   {
+    "height": 1080,
+    "media_key": "3_2084781176204763136",
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HO6hbyIbIAAa7ry.jpg",
+    "width": 1440
+   }
+  ],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   },
+   {
+    "created_at": "2025-08-01T14:00:49.000Z",
+    "description": "Military Intelligence Analyst",
+    "id": "1951281927018725377",
+    "is_identity_verified": false,
+    "location": "South Carolina, USA",
+    "name": "Eddie Abbott",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951281927018725377/1774466536",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2077613074480037888/XSpQfjYi_normal.jpg",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 14057,
+     "following_count": 5,
+     "like_count": 1013,
+     "listed_count": 48,
+     "media_count": 2706,
+     "post_count": 6122
+    },
+    "url": "",
+    "username": "AbbottEddi5270",
+    "verified": true,
+    "verified_type": "blue"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

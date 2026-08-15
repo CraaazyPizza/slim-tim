@@ -1,0 +1,50 @@
+[
+ {
+  "at": "2026-08-15T15:02:53.472793+00:00",
+  "source": "fxtwitter",
+  "values": {
+   "replies": 113,
+   "retweets": 138,
+   "likes": 974,
+   "bookmarks": 415,
+   "quotes": 6,
+   "views": 68925
+  }
+ },
+ {
+  "at": "2026-08-15T16:00:02.038169+00:00",
+  "source": "fxtwitter",
+  "values": {
+   "replies": 113,
+   "retweets": 138,
+   "likes": 974,
+   "bookmarks": 415,
+   "quotes": 6,
+   "views": 68928
+  }
+ },
+ {
+  "at": "2026-08-15T16:47:51.426215+00:00",
+  "source": "official-x",
+  "values": {
+   "bookmark_count": 0,
+   "impression_count": 0,
+   "like_count": 0,
+   "quote_count": 0,
+   "reply_count": 0,
+   "repost_count": 138
+  }
+ },
+ {
+  "at": "2026-08-15T16:47:51.426215+00:00",
+  "source": "fxtwitter",
+  "values": {
+   "replies": 113,
+   "retweets": 138,
+   "likes": 974,
+   "bookmarks": 415,
+   "quotes": 6,
+   "views": 68929
+  }
+ }
+]

@@ -53,6 +53,15 @@ watch/x/keeper.log
 watch/x/.keeper.lock
 watch/x/.xwatch.lock
 watch/x/state.json.bak
+# Runtime health is rewritten every two minutes. The durable observations it
+# summarizes live in state/raw/metrics; publishing it would keep the worktree
+# permanently dirty.
+watch/x/health.json
+
+# Generated viewer output. The reviewed static copy is deployed from the
+# fail-closed public-site builder; source/configuration beside these files ships.
+watch/timeline/data.json
+watch/timeline/index.html
 
 # Un-redacted source screenshot: carries two third-party @handles of private
 # individuals. The redacted copy beside it is the one that ships. (2026-08-02)

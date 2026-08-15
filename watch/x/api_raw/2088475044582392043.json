@@ -1,0 +1,294 @@
+{
+ "data": {
+  "author_id": "2048996761101078528",
+  "conversation_id": "2088475044582392043",
+  "created_at": "2026-08-15T03:57:07.000Z",
+  "display_text_range": [
+   0,
+   144
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-15T04:57:07.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": false
+  },
+  "edit_history_post_ids": [
+   "2088475044582392043"
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 19,
+     "id": "1826353111394304000",
+     "start": 3,
+     "username": "InterstellarUAP"
+    }
+   ]
+  },
+  "id": "2088475044582392043",
+  "lang": "en",
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 0,
+   "impression_count": 12,
+   "like_count": 0,
+   "quote_count": 0,
+   "reply_count": 0,
+   "repost_count": 186
+  },
+  "referenced_posts": [
+   {
+    "id": "2088003169917731289",
+    "type": "reposted"
+   }
+  ],
+  "reply_settings": "everyone",
+  "text": "RT @InterstellarUAP: **New** David Grusch: \"We have captured live aliens &amp; communicated with them telepathically\" 👽🛸\n\n“Yes, and I know peop…"
+ },
+ "includes": {
+  "posts": [
+   {
+    "attachments": {
+     "media_keys": [
+      "13_2088003070315614209"
+     ]
+    },
+    "author_id": "1826353111394304000",
+    "context_annotations": [
+     {
+      "domain": {
+       "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+       "id": "46",
+       "name": "Business Taxonomy"
+      },
+      "entity": {
+       "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+       "id": "1557696802391859201",
+       "name": "Entertainment & Leisure Business"
+      }
+     },
+     {
+      "domain": {
+       "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+       "id": "130",
+       "name": "Multimedia Franchise"
+      },
+      "entity": {
+       "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+       "id": "1010220507482865665",
+       "name": "Star Trek"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "id": "839544274442051584",
+       "name": "Entertainment"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "Sci-fi and fantasy",
+       "id": "847869772129685504",
+       "name": "Sci-fi & fantasy"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+       "id": "1010220507482865665",
+       "name": "Star Trek"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "Television",
+       "id": "1072937043393560576",
+       "name": "Television"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "id": "1074757527995277313",
+       "name": "Entertainment franchises"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "id": "1276514328007467008",
+       "name": "Movies & TV"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "id": "1283481070956998656",
+       "name": "Sci-fi & fantasy TV"
+      }
+     },
+     {
+      "domain": {
+       "description": "Real world events. ",
+       "id": "29",
+       "name": "Events [Entity Service]"
+      },
+      "entity": {
+       "description": "Sir Patrick Stewart helped introduce the first look of the stand-alone series, which revealed the return of beloved Star Trek characters Data and Seven of Nine. ",
+       "id": "1152674945601687552",
+       "name": "Patrick Stewart unveils first full trailer for Star Trek: Picard"
+      }
+     }
+    ],
+    "conversation_id": "2088003169917731289",
+    "created_at": "2026-08-13T20:42:03.000Z",
+    "display_text_range": [
+     0,
+     279
+    ],
+    "edit_controls": {
+     "editable_until": "2026-08-13T21:42:03.000Z",
+     "edits_remaining": 5,
+     "is_edit_eligible": true
+    },
+    "edit_history_post_ids": [
+     "2088003169917731289"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "pic.x.com/E1NUjLjxQI",
+       "end": 303,
+       "expanded_url": "https://x.com/InterstellarUAP/status/2088003169917731289/video/1",
+       "media_key": "13_2088003070315614209",
+       "start": 280,
+       "url": "https://t.co/E1NUjLjxQI"
+      }
+     ]
+    },
+    "id": "2088003169917731289",
+    "lang": "en",
+    "media_metadata": [
+     {
+      "media_key": "13_2088003070315614209"
+     }
+    ],
+    "note_post": {
+     "text": "**New** David Grusch: \"We have captured live aliens & communicated with them telepathically\" 👽🛸\n\n“Yes, and I know people who have had direct interactions in a detainment situation. Which sounds very Star Trek and sounds very crazy, but it is true.”\n\nIn his new interview with Dr. Phil, the UFO whistleblower confirms that non-human pilots from recovered craft have been taken alive. He says he spoke with a former Cabinet member who worked the issue for a particular former Vice President, referring to him as “Darth Vader.”\n\nWhen asked if they could communicate, Grusch replied: “Yes, yes. And it is true that some sort of consciousness communication. You know, of course, people call it telepathy. I cannot begin to tell you how it works, but there is some sort of communication like that. And even friends of mine that were on retrievals felt that kind of communication as they approached the vehicle when they were doing a, you know, cordoning it off, waiting for transport.”\n\nHe added that he has no personal experience with it and remains as curious as anyone watching, but insists this is what people inside the government programs have reported."
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+     "bookmark_count": 223,
+     "impression_count": 52350,
+     "like_count": 990,
+     "quote_count": 12,
+     "reply_count": 51,
+     "repost_count": 186
+    },
+    "reply_settings": "everyone",
+    "text": "**New** David Grusch: \"We have captured live aliens &amp; communicated with them telepathically\" 👽🛸\n\n“Yes, and I know people who have had direct interactions in a detainment situation. Which sounds very Star Trek and sounds very crazy, but it is true.”\n\nIn his new interview with https://t.co/E1NUjLjxQI"
+   }
+  ],
+  "media": [],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   },
+   {
+    "created_at": "2024-08-21T20:18:19.000Z",
+    "description": "Disclosure of the UFO / UAP Phenomena.   Discovering the true nature of reality 👽 🛸\n\nFollow for the latest UFO news",
+    "entities": {
+     "url": {
+      "urls": [
+       {
+        "display_url": "youtube.com/@InterstellarU…",
+        "end": 23,
+        "expanded_url": "https://www.youtube.com/@InterstellarUAP",
+        "start": 0,
+        "url": "https://t.co/j1FgvSMh5y"
+       }
+      ]
+     }
+    },
+    "id": "1826353111394304000",
+    "is_identity_verified": true,
+    "location": "Interstellar",
+    "name": "Interstellar",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826353111394304000/1776030260",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1959603571688607744/T0AVhvlR_normal.jpg",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 146856,
+     "following_count": 993,
+     "like_count": 58296,
+     "listed_count": 350,
+     "media_count": 3311,
+     "post_count": 9885
+    },
+    "url": "https://t.co/j1FgvSMh5y",
+    "username": "InterstellarUAP",
+    "verified": true,
+    "verified_type": "blue"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

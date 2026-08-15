@@ -1,0 +1,38 @@
+[
+ {
+  "at": "2026-08-15T15:02:53.472793+00:00",
+  "source": "fxtwitter",
+  "values": {
+   "replies": 113,
+   "retweets": 138,
+   "likes": 974,
+   "bookmarks": 415,
+   "quotes": 6,
+   "views": 68925
+  }
+ },
+ {
+  "at": "2026-08-15T16:00:02.038169+00:00",
+  "source": "fxtwitter",
+  "values": {
+   "replies": 113,
+   "retweets": 138,
+   "likes": 974,
+   "bookmarks": 415,
+   "quotes": 6,
+   "views": 68928
+  }
+ },
+ {
+  "at": "2026-08-15T16:47:51.426215+00:00",
+  "source": "fxtwitter",
+  "values": {
+   "replies": 113,
+   "retweets": 138,
+   "likes": 974,
+   "bookmarks": 415,
+   "quotes": 6,
+   "views": 68929
+  }
+ }
+]

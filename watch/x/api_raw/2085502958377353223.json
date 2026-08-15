@@ -1,0 +1,193 @@
+{
+ "data": {
+  "author_id": "2048996761101078528",
+  "conversation_id": "2084832703879446703",
+  "created_at": "2026-08-06T23:07:06.000Z",
+  "display_text_range": [
+   15,
+   298
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-07T00:07:06.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": false
+  },
+  "edit_history_post_ids": [
+   "2085502958377353223"
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "296666118",
+     "start": 0,
+     "username": "manuelzasueta"
+    }
+   ]
+  },
+  "id": "2085502958377353223",
+  "in_reply_to_user_id": "296666118",
+  "lang": "en",
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 0,
+   "impression_count": 276,
+   "like_count": 2,
+   "quote_count": 0,
+   "reply_count": 2,
+   "repost_count": 0
+  },
+  "referenced_posts": [
+   {
+    "id": "2085263527036518481",
+    "type": "replied_to"
+   }
+  ],
+  "reply_settings": "everyone",
+  "text": "@manuelzasueta What you describe is fair use, and is of course perfectly fine.\n\nThe issue is with copycats who clone channel names, content, descriptions etc., in an attempt to fool viewers. Such channels can utilize any number of ploys to damage our cause &amp; credibility.\n\nTy for your interest."
+ },
+ "includes": {
+  "posts": [
+   {
+    "author_id": "296666118",
+    "conversation_id": "2084832703879446703",
+    "created_at": "2026-08-06T07:15:41.000Z",
+    "display_text_range": [
+     9,
+     262
+    ],
+    "edit_controls": {
+     "editable_until": "2026-08-06T08:15:41.000Z",
+     "edits_remaining": 5,
+     "is_edit_eligible": false
+    },
+    "edit_history_post_ids": [
+     "2085263527036518481"
+    ],
+    "entities": {
+     "mentions": [
+      {
+       "end": 8,
+       "id": "2048996761101078528",
+       "start": 0,
+       "username": "qtecqot"
+      }
+     ]
+    },
+    "id": "2085263527036518481",
+    "in_reply_to_user_id": "2048996761101078528",
+    "lang": "en",
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 351,
+     "like_count": 2,
+     "quote_count": 0,
+     "reply_count": 1,
+     "repost_count": 0
+    },
+    "referenced_posts": [
+     {
+      "id": "2084832703879446703",
+      "type": "replied_to"
+     }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtecqot Yes, I see—you’re referring to people who upload videos pretending to be you (like the \"qtecqot\" alias). That’s fair enough. However, I wouldn't expect you to file claims against the rest of us who analyze your leaks to give credit to you and the cause."
+   }
+  ],
+  "media": [],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   },
+   {
+    "created_at": "2011-05-11T06:00:42.000Z",
+    "description": "https://t.co/2KwBjoAnva  https://t.co/6QBSwyasZC…\nhttps://t.co/qTMMfiOe6T…",
+    "entities": {
+     "description": {
+      "urls": [
+       {
+        "display_url": "facebook.com/OVNISACTUALES1",
+        "end": 23,
+        "expanded_url": "http://facebook.com/OVNISACTUALES1",
+        "start": 0,
+        "url": "https://t.co/2KwBjoAnva"
+       },
+       {
+        "display_url": "facebook.com/groups/VIGILAN",
+        "end": 48,
+        "expanded_url": "http://facebook.com/groups/VIGILAN",
+        "start": 25,
+        "url": "https://t.co/6QBSwyasZC"
+       },
+       {
+        "display_url": "facebook.com/groups/1356022",
+        "end": 73,
+        "expanded_url": "http://facebook.com/groups/1356022",
+        "start": 50,
+        "url": "https://t.co/qTMMfiOe6T"
+       }
+      ]
+     },
+     "url": {
+      "urls": [
+       {
+        "display_url": "youtube.com/jmhz71",
+        "end": 23,
+        "expanded_url": "http://www.youtube.com/jmhz71",
+        "start": 0,
+        "url": "https://t.co/G8GbtUTXLK"
+       }
+      ]
+     }
+    },
+    "id": "296666118",
+    "is_identity_verified": false,
+    "name": "Emanuel Huza",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/296666118/1596174399",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/917598489055453185/Ntlb__4f_normal.jpg",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 307,
+     "following_count": 227,
+     "like_count": 279,
+     "listed_count": 3,
+     "media_count": 930,
+     "post_count": 1674
+    },
+    "url": "https://t.co/G8GbtUTXLK",
+    "username": "manuelzasueta",
+    "verified": false,
+    "verified_type": "none"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

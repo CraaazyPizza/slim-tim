@@ -1,0 +1,67 @@
+{
+ "data": {
+  "author_id": "2048996761101078528",
+  "conversation_id": "2083396597241835761",
+  "created_at": "2026-08-01T03:37:11.000Z",
+  "display_text_range": [
+   0,
+   265
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-01T04:37:11.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": true
+  },
+  "edit_history_post_ids": [
+   "2083396597241835761"
+  ],
+  "id": "2083396597241835761",
+  "lang": "en",
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 2,
+   "impression_count": 1738,
+   "like_count": 22,
+   "quote_count": 0,
+   "reply_count": 6,
+   "repost_count": 2
+  },
+  "reply_settings": "everyone",
+  "text": "🔹 The film recordings will never be monetized. Financial gain is not the objective. \n\n🔹 I have been given access to less than 2% of the network's cache of materials, with authorization to distribute. I have seen samples from the remainder. This is the \"tame\" stuff."
+ },
+ "includes": {
+  "posts": [],
+  "media": [],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

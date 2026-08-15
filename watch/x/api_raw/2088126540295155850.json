@@ -1,0 +1,403 @@
+{
+ "data": {
+  "author_id": "2048996761101078528",
+  "context_annotations": [
+   {
+    "domain": {
+     "description": "Named people in the world like Nelson Mandela",
+     "id": "10",
+     "name": "Person"
+    },
+    "entity": {
+     "description": "45th US President, Donald Trump",
+     "id": "799022225751871488",
+     "name": "Donald Trump"
+    }
+   },
+   {
+    "domain": {
+     "description": "Real world events. ",
+     "id": "29",
+     "name": "Events [Entity Service]"
+    },
+    "entity": {
+     "description": "2024 US Presidential Election",
+     "id": "1665772587467653121",
+     "name": "2024 US Presidential Election"
+    }
+   },
+   {
+    "domain": {
+     "description": "Politicians in the world, like Joe Biden",
+     "id": "35",
+     "name": "Politician"
+    },
+    "entity": {
+     "description": "45th US President, Donald Trump",
+     "id": "799022225751871488",
+     "name": "Donald Trump"
+    }
+   },
+   {
+    "domain": {
+     "description": "Top level entities that describe a Brands industry",
+     "id": "45",
+     "name": "Brand Vertical"
+    },
+    "entity": {
+     "description": "Aerospace",
+     "id": "872801340224806912",
+     "name": "Aerospace"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "description": "45th US President, Donald Trump",
+     "id": "799022225751871488",
+     "name": "Donald Trump"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "description": "Politics",
+     "id": "847878884917886977",
+     "name": "Politics"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "description": "Politician",
+     "id": "1070032753834438656",
+     "name": "Political figures"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "1291447199595782144",
+     "name": "United States politics"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "description": "2024 US Presidential Election",
+     "id": "1665772587467653121",
+     "name": "2024 US Presidential Election"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "1838998617064878080",
+     "name": "developers"
+    }
+   },
+   {
+    "domain": {
+     "description": "Real world events. ",
+     "id": "29",
+     "name": "Events [Entity Service]"
+    },
+    "entity": {
+     "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+     "id": "1836137739353292800",
+     "name": "2024 US Election"
+    }
+   }
+  ],
+  "conversation_id": "2088126540295155850",
+  "created_at": "2026-08-14T04:52:17.000Z",
+  "display_text_range": [
+   0,
+   244
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-14T05:52:17.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": true
+  },
+  "edit_history_post_ids": [
+   "2088126540295155850"
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/jamescfox/stat…",
+     "end": 268,
+     "expanded_url": "https://twitter.com/jamescfox/status/2088100743714668759",
+     "start": 245,
+     "url": "https://t.co/J3dfmNK1Rc"
+    }
+   ]
+  },
+  "id": "2088126540295155850",
+  "lang": "en",
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 2,
+   "impression_count": 408,
+   "like_count": 8,
+   "quote_count": 0,
+   "reply_count": 1,
+   "repost_count": 1
+  },
+  "referenced_posts": [
+   {
+    "id": "2088100743714668759",
+    "type": "quoted"
+   }
+  ],
+  "reply_settings": "everyone",
+  "text": "Dr. Davis' name is familiar to me. It has been mentioned or cited in a number of the communications I've received from the network, regarding craft recovery and exposure mitigation.\n\nI am curious if he has any knowledge of the False Cape study. https://t.co/J3dfmNK1Rc"
+ },
+ "includes": {
+  "posts": [
+   {
+    "attachments": {
+     "media_keys": [
+      "13_2088099924718100481"
+     ]
+    },
+    "author_id": "52962264",
+    "context_annotations": [
+     {
+      "domain": {
+       "description": "Named people in the world like Nelson Mandela",
+       "id": "10",
+       "name": "Person"
+      },
+      "entity": {
+       "description": "45th US President, Donald Trump",
+       "id": "799022225751871488",
+       "name": "Donald Trump"
+      }
+     },
+     {
+      "domain": {
+       "description": "Real world events. ",
+       "id": "29",
+       "name": "Events [Entity Service]"
+      },
+      "entity": {
+       "description": "2024 US Presidential Election",
+       "id": "1665772587467653121",
+       "name": "2024 US Presidential Election"
+      }
+     },
+     {
+      "domain": {
+       "description": "Politicians in the world, like Joe Biden",
+       "id": "35",
+       "name": "Politician"
+      },
+      "entity": {
+       "description": "45th US President, Donald Trump",
+       "id": "799022225751871488",
+       "name": "Donald Trump"
+      }
+     },
+     {
+      "domain": {
+       "description": "Top level entities that describe a Brands industry",
+       "id": "45",
+       "name": "Brand Vertical"
+      },
+      "entity": {
+       "description": "Aerospace",
+       "id": "872801340224806912",
+       "name": "Aerospace"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "45th US President, Donald Trump",
+       "id": "799022225751871488",
+       "name": "Donald Trump"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "Politics",
+       "id": "847878884917886977",
+       "name": "Politics"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "Politician",
+       "id": "1070032753834438656",
+       "name": "Political figures"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "id": "1291447199595782144",
+       "name": "United States politics"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "2024 US Presidential Election",
+       "id": "1665772587467653121",
+       "name": "2024 US Presidential Election"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "id": "1838998617064878080",
+       "name": "developers"
+      }
+     },
+     {
+      "domain": {
+       "description": "Real world events. ",
+       "id": "29",
+       "name": "Events [Entity Service]"
+      },
+      "entity": {
+       "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+       "id": "1836137739353292800",
+       "name": "2024 US Election"
+      }
+     }
+    ],
+    "conversation_id": "2088100743714668759",
+    "created_at": "2026-08-14T03:09:46.000Z",
+    "display_text_range": [
+     0,
+     212
+    ],
+    "edit_controls": {
+     "editable_until": "2026-08-14T04:09:13.000Z",
+     "edits_remaining": 4,
+     "is_edit_eligible": true
+    },
+    "edit_history_post_ids": [
+     "2088100604027539718",
+     "2088100743714668759"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "pic.x.com/h5pREvsT4X",
+       "end": 236,
+       "expanded_url": "https://x.com/jamescfox/status/2088100743714668759/video/1",
+       "media_key": "13_2088099924718100481",
+       "start": 213,
+       "url": "https://t.co/h5pREvsT4X"
+      }
+     ]
+    },
+    "id": "2088100743714668759",
+    "lang": "en",
+    "media_metadata": [
+     {
+      "media_key": "13_2088099924718100481"
+     }
+    ],
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+     "bookmark_count": 786,
+     "impression_count": 329023,
+     "like_count": 4850,
+     "quote_count": 97,
+     "reply_count": 262,
+     "repost_count": 819
+    },
+    "reply_settings": "everyone",
+    "text": "Aerospace engineer Dr. Eric Davis also claims to have seen classified photos of recovered craft and nonhuman bodies -- he is requesting immunity from President Trump so he can speak freely to the American public. https://t.co/h5pREvsT4X"
+   }
+  ],
+  "media": [],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

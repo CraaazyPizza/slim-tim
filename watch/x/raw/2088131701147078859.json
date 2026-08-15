@@ -1,0 +1,104 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/qtecqot/status/2088131701147078859",
+  "id": "2088131701147078859",
+  "text": "@InterstellarUAP",
+  "raw_text": {
+   "text": "@InterstellarUAP https://t.co/ctjmu9yXxR",
+   "display_text_range": [
+    16,
+    16
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      16
+     ],
+     "original": "InterstellarUAP",
+     "id": "1826353111394304000"
+    },
+    {
+     "type": "media",
+     "indices": [
+      17,
+      40
+     ],
+     "id": "2088131641013383168",
+     "display": "pic.x.com/ctjmu9yXxR",
+     "original": "https://t.co/ctjmu9yXxR",
+     "replacement": "https://x.com/qtecqot/status/2088131701147078859/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "qtecqot",
+   "url": "https://x.com/qtecqot",
+   "id": "2048996761101078528",
+   "followers": 343,
+   "following": 4,
+   "likes": 32,
+   "media_count": 4,
+   "name": "qtecqot",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Tue Apr 28 05:24:54 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 1,
+  "quotes": 0,
+  "created_at": "Fri Aug 14 05:12:47 +0000 2026",
+  "created_timestamp": 1786684367,
+  "possibly_sensitive": false,
+  "views": 93,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": null,
+  "replying_to": "InterstellarUAP",
+  "replying_to_status": "2087974092427190500",
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2088131641013383168",
+     "url": "https://pbs.twimg.com/media/HPqIqgLbMAA0wpe.jpg?name=orig",
+     "width": 1262,
+     "height": 962
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2088131641013383168",
+     "url": "https://pbs.twimg.com/media/HPqIqgLbMAA0wpe.jpg?name=orig",
+     "width": 1262,
+     "height": 962
+    }
+   ]
+  },
+  "source": "Twitter Web App",
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

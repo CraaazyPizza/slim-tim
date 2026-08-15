@@ -1,0 +1,72 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/qtecqot/status/2086662087858925949",
+  "id": "2086662087858925949",
+  "text": "@JonStewartIL \"species 13\"",
+  "raw_text": {
+   "text": "@JonStewartIL \"species 13\"",
+   "display_text_range": [
+    14,
+    26
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      13
+     ],
+     "original": "JonStewartIL",
+     "id": "1949217766671552512"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "qtecqot",
+   "url": "https://x.com/qtecqot",
+   "id": "2048996761101078528",
+   "followers": 343,
+   "following": 4,
+   "likes": 32,
+   "media_count": 4,
+   "name": "qtecqot",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
+   "joined": "Tue Apr 28 05:24:54 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 1,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Mon Aug 10 03:53:04 +0000 2026",
+  "created_timestamp": 1786333984,
+  "views": 187,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": "JonStewartIL",
+  "replying_to_status": "2086317726050468162",
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

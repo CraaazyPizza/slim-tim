@@ -1,0 +1,154 @@
+{
+ "data": {
+  "attachments": {
+   "media_keys": [
+    "3_2087738991592529920"
+   ]
+  },
+  "author_id": "2048996761101078528",
+  "context_annotations": [
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "1196446161223028736",
+     "name": "Social media"
+    }
+   },
+   {
+    "domain": {
+     "description": "for individual and types of technology, e.g., food technology, 3D printing",
+     "id": "165",
+     "name": "Technology"
+    },
+    "entity": {
+     "id": "1196446161223028736",
+     "name": "Social media"
+    }
+   },
+   {
+    "domain": {
+     "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+     "id": "30",
+     "name": "Entities [Entity Service]"
+    },
+    "entity": {
+     "id": "781974596752842752",
+     "name": "Services"
+    }
+   },
+   {
+    "domain": {
+     "description": "Brands and Companies",
+     "id": "47",
+     "name": "Brand"
+    },
+    "entity": {
+     "id": "10029382357",
+     "name": "YouTube"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "id": "10029382357",
+     "name": "YouTube"
+    }
+   }
+  ],
+  "conversation_id": "2087740944724672612",
+  "created_at": "2026-08-13T03:20:04.000Z",
+  "display_text_range": [
+   0,
+   185
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-13T04:20:04.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": false
+  },
+  "edit_history_post_ids": [
+   "2087740944724672612"
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/wH1JYe7vlz",
+     "end": 209,
+     "expanded_url": "https://x.com/qtecqot/status/2087740944724672612/photo/1",
+     "media_key": "3_2087738991592529920",
+     "start": 186,
+     "url": "https://t.co/wH1JYe7vlz"
+    }
+   ]
+  },
+  "id": "2087740944724672612",
+  "lang": "en",
+  "media_metadata": [
+   {
+    "media_key": "3_2087738991592529920"
+   }
+  ],
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 8,
+   "impression_count": 585,
+   "like_count": 12,
+   "quote_count": 0,
+   "reply_count": 4,
+   "repost_count": 1
+  },
+  "reply_settings": "everyone",
+  "text": "Do not be surprised if my X and/or YouTube accounts go away soon.\n\nPowerful forces are near....\n\nDisinformation agents stand ready to replace, with the assistance of corporate henchmen. https://t.co/wH1JYe7vlz"
+ },
+ "includes": {
+  "posts": [],
+  "media": [
+   {
+    "height": 424,
+    "media_key": "3_2087738991592529920",
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HPkjjTGa4AAQHV8.png",
+    "width": 626
+   }
+  ],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

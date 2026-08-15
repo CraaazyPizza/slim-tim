@@ -1,0 +1,26 @@
+[
+ {
+  "at": "2026-08-15T16:47:51.426215+00:00",
+  "source": "official-x",
+  "values": {
+   "bookmark_count": 0,
+   "impression_count": 8,
+   "like_count": 0,
+   "quote_count": 0,
+   "reply_count": 0,
+   "repost_count": 18
+  }
+ },
+ {
+  "at": "2026-08-15T16:47:51.426215+00:00",
+  "source": "fxtwitter",
+  "values": {
+   "replies": 16,
+   "retweets": 18,
+   "likes": 191,
+   "bookmarks": 62,
+   "quotes": 2,
+   "views": 12394
+  }
+ }
+]

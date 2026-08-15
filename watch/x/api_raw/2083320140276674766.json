@@ -1,0 +1,236 @@
+{
+ "data": {
+  "author_id": "2048996761101078528",
+  "conversation_id": "2083135181737914543",
+  "created_at": "2026-07-31T22:33:22.000Z",
+  "display_text_range": [
+   12,
+   15
+  ],
+  "edit_controls": {
+   "editable_until": "2026-07-31T23:33:22.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": false
+  },
+  "edit_history_post_ids": [
+   "2083320140276674766"
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1926964954143354880",
+     "start": 0,
+     "username": "VOprograma"
+    }
+   ]
+  },
+  "id": "2083320140276674766",
+  "in_reply_to_user_id": "1926964954143354880",
+  "lang": "qme",
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 0,
+   "impression_count": 402,
+   "like_count": 2,
+   "quote_count": 0,
+   "reply_count": 1,
+   "repost_count": 0
+  },
+  "referenced_posts": [
+   {
+    "id": "2083150753347039637",
+    "type": "replied_to"
+   }
+  ],
+  "reply_settings": "everyone",
+  "text": "@VOprograma 👽 👍"
+ },
+ "includes": {
+  "posts": [
+   {
+    "author_id": "1926964954143354880",
+    "context_annotations": [
+     {
+      "domain": {
+       "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+       "id": "66",
+       "name": "Interests and Hobbies Category"
+      },
+      "entity": {
+       "description": "Supernatural",
+       "id": "1046578491712389125",
+       "name": "Supernatural"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "Supernatural",
+       "id": "1046578491712389125",
+       "name": "Supernatural"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "id": "1196446161223028736",
+       "name": "Social media"
+      }
+     },
+     {
+      "domain": {
+       "description": "for individual and types of technology, e.g., food technology, 3D printing",
+       "id": "165",
+       "name": "Technology"
+      },
+      "entity": {
+       "id": "1196446161223028736",
+       "name": "Social media"
+      }
+     },
+     {
+      "domain": {
+       "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+       "id": "30",
+       "name": "Entities [Entity Service]"
+      },
+      "entity": {
+       "id": "781974596752842752",
+       "name": "Services"
+      }
+     },
+     {
+      "domain": {
+       "description": "Brands and Companies",
+       "id": "47",
+       "name": "Brand"
+      },
+      "entity": {
+       "id": "10029382357",
+       "name": "YouTube"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "id": "10029382357",
+       "name": "YouTube"
+      }
+     }
+    ],
+    "conversation_id": "2083135181737914543",
+    "created_at": "2026-07-31T11:20:17.000Z",
+    "display_text_range": [
+     9,
+     236
+    ],
+    "edit_controls": {
+     "editable_until": "2026-07-31T12:20:17.000Z",
+     "edits_remaining": 5,
+     "is_edit_eligible": false
+    },
+    "edit_history_post_ids": [
+     "2083150753347039637"
+    ],
+    "entities": {
+     "mentions": [
+      {
+       "end": 8,
+       "id": "2048996761101078528",
+       "start": 0,
+       "username": "qtecqot"
+      }
+     ]
+    },
+    "id": "2083150753347039637",
+    "in_reply_to_user_id": "2048996761101078528",
+    "lang": "en",
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+     "bookmark_count": 2,
+     "impression_count": 468,
+     "like_count": 4,
+     "quote_count": 0,
+     "reply_count": 1,
+     "repost_count": 0
+    },
+    "referenced_posts": [
+     {
+      "id": "2083135181737914543",
+      "type": "replied_to"
+     }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtecqot Hello, I'm Nacho Rojo, a UFO researcher. Do you have my permission to show your footage and make a program about your recordings and my research? It would be an honor! Thank you! Tell me something, I'm Verdad Oculta on YouTube."
+   }
+  ],
+  "media": [],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   },
+   {
+    "created_at": "2025-05-26T11:33:59.000Z",
+    "description": "",
+    "id": "1926964954143354880",
+    "is_identity_verified": false,
+    "name": "Ignacio",
+    "profile_banner_url": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1926965034632052736/JwBXxWD3_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 6,
+     "following_count": 1,
+     "like_count": 0,
+     "listed_count": 0,
+     "media_count": 0,
+     "post_count": 18
+    },
+    "url": "",
+    "username": "VOprograma",
+    "verified": false,
+    "verified_type": "none"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

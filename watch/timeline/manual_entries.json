@@ -1,0 +1,37 @@
+[
+  {
+    "id": "screenshot-only-2026-08-02-copycat",
+    "status_id": null,
+    "kind": "post",
+    "state": "deleted",
+    "timeline_at": "2026-08-02T10:00:00+00:00",
+    "time_label": "2 Aug 2026, approximately 09:00-11:00 UTC",
+    "author": {
+      "handle": "qtecqot",
+      "name": "qtecqot"
+    },
+    "text": "◆ Fake copycat channel:\n\n[YouTube link card]\nyoutube.com\nqtecqot\nTHERE TRYING TOO SILENCE ME",
+    "metrics": {
+      "replies": 1,
+      "reposts": 0,
+      "likes": 0,
+      "views": 20
+    },
+    "deleted_noticed": "2026-08-02T12:10:00+00:00",
+    "deletion_label": "Deleted by the 12:10 UTC check; exact posting and deletion times are unknown.",
+    "provenance": "Screenshot taken while the post was live. It is absent from Wayback, fxtwitter, and the xAI search index; this is the only surviving copy known to the project.",
+    "media": [
+      {
+        "kind": "image",
+        "src": "../../qtecqot-x-recovered/media/2026-08-02_deleted_fake-copycat-channel.png",
+        "label": "Only surviving screenshot"
+      }
+    ],
+    "source_links": [
+      {
+        "label": "Recovered record and timestamp bounds",
+        "href": "../../qtecqot-x-recovered/RECOVERED.md"
+      }
+    ]
+  }
+]

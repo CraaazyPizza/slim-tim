@@ -1,0 +1,239 @@
+{
+ "data": {
+  "author_id": "2048996761101078528",
+  "conversation_id": "2085924608360972476",
+  "created_at": "2026-08-08T03:49:18.000Z",
+  "display_text_range": [
+   15,
+   174
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-08T04:49:18.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": false
+  },
+  "edit_history_post_ids": [
+   "2085936361543229811"
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "52851640",
+     "start": 0,
+     "username": "internetabyss"
+    }
+   ]
+  },
+  "id": "2085936361543229811",
+  "in_reply_to_user_id": "52851640",
+  "lang": "en",
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 0,
+   "impression_count": 281,
+   "like_count": 0,
+   "quote_count": 0,
+   "reply_count": 0,
+   "repost_count": 0
+  },
+  "referenced_posts": [
+   {
+    "id": "2085933352465403928",
+    "type": "replied_to"
+   }
+  ],
+  "reply_settings": "everyone",
+  "text": "@internetabyss I don't see why not. I'm pretty sure Bob does not identify as male or female.  \n\nThe only question would be whether the league allows offworld species to join."
+ },
+ "includes": {
+  "posts": [
+   {
+    "author_id": "52851640",
+    "context_annotations": [
+     {
+      "domain": {
+       "description": "Television shows from around the world",
+       "id": "3",
+       "name": "TV Shows"
+      },
+      "entity": {
+       "description": "All the latest basketball action from the WNBA.",
+       "id": "10002734734",
+       "name": "WNBA Basketball"
+      }
+     },
+     {
+      "domain": {
+       "description": "Types of sports, like soccer and basketball",
+       "id": "11",
+       "name": "Sport"
+      },
+      "entity": {
+       "id": "706083902411055104",
+       "name": "Basketball"
+      }
+     },
+     {
+      "domain": {
+       "description": "",
+       "id": "26",
+       "name": "Sports League"
+      },
+      "entity": {
+       "description": "WNBA",
+       "id": "859816871570284544",
+       "name": "WNBA"
+      }
+     },
+     {
+      "domain": {
+       "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+       "id": "46",
+       "name": "Business Taxonomy"
+      },
+      "entity": {
+       "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+       "id": "1557697289971322880",
+       "name": "Sports & Fitness Business"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "id": "706083902411055104",
+       "name": "Basketball"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "Sports",
+       "id": "847900493514891265",
+       "name": "Sports"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "WNBA",
+       "id": "859816871570284544",
+       "name": "WNBA"
+      }
+     }
+    ],
+    "conversation_id": "2085924608360972476",
+    "created_at": "2026-08-08T03:37:20.000Z",
+    "display_text_range": [
+     9,
+     45
+    ],
+    "edit_controls": {
+     "editable_until": "2026-08-08T04:37:20.000Z",
+     "edits_remaining": 5,
+     "is_edit_eligible": false
+    },
+    "edit_history_post_ids": [
+     "2085933352465403928"
+    ],
+    "entities": {
+     "mentions": [
+      {
+       "end": 8,
+       "id": "2048996761101078528",
+       "start": 0,
+       "username": "qtecqot"
+      }
+     ]
+    },
+    "id": "2085933352465403928",
+    "in_reply_to_user_id": "2048996761101078528",
+    "lang": "en",
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 328,
+     "like_count": 1,
+     "quote_count": 0,
+     "reply_count": 1,
+     "repost_count": 0
+    },
+    "referenced_posts": [
+     {
+      "id": "2085924608360972476",
+      "type": "replied_to"
+     }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtecqot ????  Skinny Bob is a WNBA prospect?"
+   }
+  ],
+  "media": [],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   },
+   {
+    "created_at": "2009-07-01T21:08:35.000Z",
+    "description": "",
+    "id": "52851640",
+    "is_identity_verified": false,
+    "name": "InternetAbyss",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/52851640/1633200754",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1448516883880218633/ARzwdsdv_normal.jpg",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 33,
+     "following_count": 159,
+     "like_count": 152,
+     "listed_count": 4,
+     "media_count": 460,
+     "post_count": 2687
+    },
+    "url": "",
+    "username": "internetabyss",
+    "verified": false,
+    "verified_type": "none"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

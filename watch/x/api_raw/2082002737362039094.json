@@ -1,0 +1,67 @@
+{
+ "data": {
+  "author_id": "2048996761101078528",
+  "conversation_id": "2082002737362039094",
+  "created_at": "2026-07-28T07:18:28.000Z",
+  "display_text_range": [
+   0,
+   275
+  ],
+  "edit_controls": {
+   "editable_until": "2026-07-28T08:18:28.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": false
+  },
+  "edit_history_post_ids": [
+   "2082002737362039094"
+  ],
+  "id": "2082002737362039094",
+  "lang": "en",
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 9,
+   "impression_count": 2740,
+   "like_count": 30,
+   "quote_count": 1,
+   "reply_count": 14,
+   "repost_count": 3
+  },
+  "reply_settings": "everyone",
+  "text": "🔹 I am not Ivan0135. I have not met him/her, but I have been in intermittent contact through electronic means as circumstances dictated. No contact since April of 2026.\n\n🔹 I am of Eastern European descent, but fluent in English.\n\n🔹 I am not suicidal. DMS in use, unlike 0135."
+ },
+ "includes": {
+  "posts": [],
+  "media": [],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}

@@ -37,6 +37,8 @@ REPO="/home/user/new-skinny-bob"
 LOG="$REPO/watch/x/keeper.log"
 LOCK="$REPO/watch/x/.keeper.lock"
 CHECKLOG="$REPO/watch/x/check.log"
+HEALTH="$REPO/watch/x/health.json"
+VIEWER_LOG="$REPO/watch/x/viewer-server.log"
 PUBLISH_BRANCH="main"           # where this repo's work actually lives
 STALE_MIN=10                    # a */2 job silent this long is not idle, it is broken
 
@@ -70,6 +72,18 @@ ensure_cron() {
   fi
   # enable is idempotent and cheap; without it a reboot brings the box back mute.
   sudo -n $SYSTEMCTL enable cron >/dev/null 2>&1 || true
+}
+
+# Keep the local viewer reachable after reboot. It binds loopback only; an SSH
+# client can reach it through the same port-forward used during setup.
+ensure_viewer() {
+  if /usr/bin/pgrep -f "[s]erve_timeline.py --bind 127.0.0.1 --port 8765" >/dev/null; then
+    return 0
+  fi
+  say "offline viewer is not running -- starting it on 127.0.0.1:8765"
+  cd "$REPO/watch" || return 1
+  /usr/bin/setsid $PY serve_timeline.py --bind 127.0.0.1 --port 8765 \
+    >> "$VIEWER_LOG" 2>&1 < /dev/null &
 }
 
 # --- 4. is the watcher succeeding, not merely firing -------------------------------
@@ -131,12 +145,19 @@ flush() {
 
 # --- run ---------------------------------------------------------------------------
 ensure_cron
+ensure_viewer
 
 AGE=$(minutes_since_check)
 if [ "$MODE" = "boot" ] || [ "$AGE" -ge "$STALE_MIN" ]; then
   catch_up "$AGE"
 else
-  say "watcher healthy (last check ${AGE} min ago)"
+  OVERALL=$($PY -c 'import json,sys; print(json.load(open(sys.argv[1])).get("overall","unknown"))' \
+    "$HEALTH" 2>/dev/null || echo unknown)
+  if [ "$OVERALL" = "healthy" ]; then
+    say "watcher healthy (last check ${AGE} min ago)"
+  else
+    say "!! watcher is alive but ${OVERALL} (last check ${AGE} min ago); see x/health.json"
+  fi
 fi
 
 flush

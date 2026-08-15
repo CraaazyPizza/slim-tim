@@ -1,0 +1,273 @@
+{
+ "data": {
+  "author_id": "2048996761101078528",
+  "context_annotations": [
+   {
+    "domain": {
+     "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+     "id": "66",
+     "name": "Interests and Hobbies Category"
+    },
+    "entity": {
+     "description": "Supernatural",
+     "id": "1046578491712389125",
+     "name": "Supernatural"
+    }
+   },
+   {
+    "domain": {
+     "description": "A taxonomy of user interests. ",
+     "id": "131",
+     "name": "Unified Twitter Taxonomy"
+    },
+    "entity": {
+     "description": "Supernatural",
+     "id": "1046578491712389125",
+     "name": "Supernatural"
+    }
+   }
+  ],
+  "conversation_id": "2086713180353687946",
+  "created_at": "2026-08-10T07:16:06.000Z",
+  "display_text_range": [
+   0,
+   139
+  ],
+  "edit_controls": {
+   "editable_until": "2026-08-10T08:16:06.000Z",
+   "edits_remaining": 5,
+   "is_edit_eligible": false
+  },
+  "edit_history_post_ids": [
+   "2086713180353687946"
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1957909271146033154",
+     "start": 3,
+     "username": "UAPWixy"
+    }
+   ]
+  },
+  "id": "2086713180353687946",
+  "lang": "en",
+  "paid_partnership": false,
+  "possibly_sensitive": false,
+  "public_metrics": {
+   "bookmark_count": 0,
+   "impression_count": 12,
+   "like_count": 0,
+   "quote_count": 0,
+   "reply_count": 0,
+   "repost_count": 465
+  },
+  "referenced_posts": [
+   {
+    "id": "2086610730673963029",
+    "type": "reposted"
+   }
+  ],
+  "reply_settings": "everyone",
+  "text": "RT @UAPWixy: 🚨Photos of Alien beings that have been recovered from Crashed UFOs, by the look of some of them...\n\nAutopsy pics of others...…"
+ },
+ "includes": {
+  "posts": [
+   {
+    "attachments": {
+     "media_keys": [
+      "13_2086557790185934848",
+      "13_2086558117228314624",
+      "3_2086558432027635712",
+      "3_2086558454400135168"
+     ]
+    },
+    "author_id": "1957909271146033154",
+    "context_annotations": [
+     {
+      "domain": {
+       "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+       "id": "46",
+       "name": "Business Taxonomy"
+      },
+      "entity": {
+       "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+       "id": "1557696888568045569",
+       "name": "Food & Beverage Business"
+      }
+     },
+     {
+      "domain": {
+       "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+       "id": "66",
+       "name": "Interests and Hobbies Category"
+      },
+      "entity": {
+       "description": "Supernatural",
+       "id": "1046578491712389125",
+       "name": "Supernatural"
+      }
+     },
+     {
+      "domain": {
+       "description": "A taxonomy of user interests. ",
+       "id": "131",
+       "name": "Unified Twitter Taxonomy"
+      },
+      "entity": {
+       "description": "Supernatural",
+       "id": "1046578491712389125",
+       "name": "Supernatural"
+      }
+     }
+    ],
+    "conversation_id": "2086610730673963029",
+    "created_at": "2026-08-10T00:29:00.000Z",
+    "display_text_range": [
+     0,
+     188
+    ],
+    "edit_controls": {
+     "editable_until": "2026-08-10T01:29:00.000Z",
+     "edits_remaining": 5,
+     "is_edit_eligible": true
+    },
+    "edit_history_post_ids": [
+     "2086610730673963029"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "x.com/UAPWixy/status…",
+       "end": 188,
+       "expanded_url": "https://x.com/UAPWixy/status/2086371655496991184?s=20",
+       "start": 165,
+       "url": "https://t.co/yMMazrJ71n"
+      },
+      {
+       "display_url": "pic.x.com/tl1gka5HIU",
+       "end": 212,
+       "expanded_url": "https://x.com/UAPWixy/status/2086610730673963029/video/1",
+       "media_key": "13_2086557790185934848",
+       "start": 189,
+       "url": "https://t.co/tl1gka5HIU"
+      },
+      {
+       "display_url": "pic.x.com/tl1gka5HIU",
+       "end": 212,
+       "expanded_url": "https://x.com/UAPWixy/status/2086610730673963029/video/1",
+       "media_key": "13_2086558117228314624",
+       "start": 189,
+       "url": "https://t.co/tl1gka5HIU"
+      },
+      {
+       "display_url": "pic.x.com/tl1gka5HIU",
+       "end": 212,
+       "expanded_url": "https://x.com/UAPWixy/status/2086610730673963029/video/1",
+       "media_key": "3_2086558432027635712",
+       "start": 189,
+       "url": "https://t.co/tl1gka5HIU"
+      },
+      {
+       "display_url": "pic.x.com/tl1gka5HIU",
+       "end": 212,
+       "expanded_url": "https://x.com/UAPWixy/status/2086610730673963029/video/1",
+       "media_key": "3_2086558454400135168",
+       "start": 189,
+       "url": "https://t.co/tl1gka5HIU"
+      }
+     ]
+    },
+    "id": "2086610730673963029",
+    "lang": "en",
+    "media_metadata": [
+     {
+      "media_key": "13_2086557790185934848"
+     },
+     {
+      "media_key": "13_2086558117228314624"
+     },
+     {
+      "media_key": "3_2086558432027635712"
+     },
+     {
+      "media_key": "3_2086558454400135168"
+     }
+    ],
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+     "bookmark_count": 1483,
+     "impression_count": 345273,
+     "like_count": 3723,
+     "quote_count": 16,
+     "reply_count": 46,
+     "repost_count": 465
+    },
+    "referenced_posts": [
+     {
+      "id": "2086371655496991184",
+      "type": "quoted"
+     }
+    ],
+    "reply_settings": "everyone",
+    "text": "🚨Photos of Alien beings that have been recovered from Crashed UFOs, by the look of some of them...\n\nAutopsy pics of others...\n\nAre these the phots Bob Lazar seen..\n\nhttps://t.co/yMMazrJ71n https://t.co/tl1gka5HIU"
+   }
+  ],
+  "media": [],
+  "users": [
+   {
+    "created_at": "2026-04-28T05:24:54.000Z",
+    "description": "",
+    "id": "2048996761101078528",
+    "is_identity_verified": false,
+    "name": "qtecqot",
+    "profile_banner_url": "",
+    "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 343,
+     "following_count": 4,
+     "like_count": 32,
+     "listed_count": 1,
+     "media_count": 4,
+     "post_count": 29
+    },
+    "url": "",
+    "username": "qtecqot",
+    "verified": false,
+    "verified_type": "none"
+   },
+   {
+    "created_at": "2025-08-19T20:55:40.000Z",
+    "description": "🛸UFOs,👽Alien, Nazcamummy video's! Guitarist 🎸,Original Music!\nConsciousness is Key.\nThe TRUTH is Crazier than Fiction.Lets Go Broncos!\nHere we go again!!",
+    "id": "1957909271146033154",
+    "is_identity_verified": false,
+    "location": "BrisVegas,🇦🇺",
+    "name": "UAPWixy",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957909271146033154/1755640108",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2007931711133519872/nLg6fYCH_normal.jpg",
+    "protected": false,
+    "public_metrics": {
+     "followers_count": 32907,
+     "following_count": 4917,
+     "like_count": 59562,
+     "listed_count": 85,
+     "media_count": 8550,
+     "post_count": 16940
+    },
+    "url": "",
+    "username": "UAPWixy",
+    "verified": true,
+    "verified_type": "blue"
+   }
+  ],
+  "polls": [],
+  "places": []
+ },
+ "_archive": {
+  "source": "official X API GET /2/users/:id/tweets",
+  "captured_at": "2026-08-15T16:47:51.426215+00:00"
+ }
+}
