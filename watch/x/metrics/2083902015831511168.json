@@ -22,5 +22,17 @@
    "reply_count": 2,
    "repost_count": 1
   }
+ },
+ {
+  "at": "2026-08-15T18:00:01.455777+00:00",
+  "source": "fxtwitter",
+  "values": {
+   "replies": 2,
+   "retweets": 1,
+   "likes": 1,
+   "bookmarks": 0,
+   "quotes": 0,
+   "views": 494
+  }
  }
 ]

@@ -46,5 +46,17 @@
    "quotes": 1,
    "views": 2741
   }
+ },
+ {
+  "at": "2026-08-15T18:00:01.455777+00:00",
+  "source": "fxtwitter",
+  "values": {
+   "replies": 14,
+   "retweets": 3,
+   "likes": 30,
+   "bookmarks": 9,
+   "quotes": 1,
+   "views": 2745
+  }
  }
 ]
