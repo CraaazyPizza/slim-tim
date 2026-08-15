@@ -58,5 +58,17 @@
    "reply_count": 4,
    "repost_count": 2
   }
+ },
+ {
+  "at": "2026-08-15T17:30:50.802351+00:00",
+  "source": "fxtwitter",
+  "values": {
+   "replies": 4,
+   "retweets": 2,
+   "likes": 9,
+   "bookmarks": 1,
+   "quotes": 1,
+   "views": 373
+  }
  }
 ]
