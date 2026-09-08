@@ -113,6 +113,8 @@ assessment or quantitative matching experiment was performed in this pass.
 ![Original July 24 video frame showing the lower-panel mark](../analysis/domain-qtecqot/2026-09-08/interior-avc-f01694.png)
 
 [Website logo for comparison](../analysis/domain-qtecqot/2026-09-08/logo.png).
+
+Follow-up: [Two-view logo comparison and blind reconstruction](qtecqot-logo-comparison-2026-09-08.md) adds original frame 1600, where the lower curves are clearer. Those public-video details make a polished redraw plausible; direct tracing versus use of the older GitHub extraction remains unresolved.
 The resemblance does not establish exact artwork identity or copying direction.
 
 ## Page content and bounded endpoint checks

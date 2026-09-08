@@ -1,0 +1,24 @@
+# Reproducible intermediates remain local; publish selected evidence by inclusion.
+*
+!.gitignore
+!reconstruct.py
+!reconstruct_earlier.py
+!sample_views.py
+!reconstruction-notes.md
+!registration.json
+!earlier-registration.json
+!raw-crop-1600.png
+!raw-crop-1694.png
+!earlier-view-diagnostic.png
+!diagnostic-contact-sheet.png
+!earlier-view-reconstruction.svg
+!earlier-view-reconstruction.png
+!earlier-view-with-threshold-sensitivity.svg
+!earlier-view-with-threshold-sensitivity.png
+!reconstruction-smooth.svg
+!reconstruction-smooth.png
+!reconstruction-with-uncertainty.svg
+!reconstruction-with-uncertainty.png
+!raw/
+raw/*
+!raw/frame-1600.png

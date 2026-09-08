@@ -39,3 +39,5 @@ The screenshot crop uses rectangle (1472, 184, 1904, 723), right/bottom exclusiv
 from the 1920×1080 supplied screenshot. It preserves pixels without retouching.
 Only the page card and target comment are included. Raw authenticated browser
 captures, cookies, and the full desktop screenshot are not part of this publication.
+
+[Logo comparison report and improved reconstructions](../../reports/qtecqot-logo-comparison-2026-09-08.md) compare two original AVC views with the website artwork and the older extraction.

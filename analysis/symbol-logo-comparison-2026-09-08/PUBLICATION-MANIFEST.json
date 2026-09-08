@@ -1,0 +1,110 @@
+{
+  "analysis/symbol-reconstruction-2026-09-08/reconstruct.py": {
+    "sha256": "a57d849ebaba953fada6c8245423d07079a54e8706a267c2b7330d8e5288b547",
+    "bytes": 6781
+  },
+  "analysis/symbol-reconstruction-2026-09-08/reconstruct_earlier.py": {
+    "sha256": "3263616b1fc557f5ac2b75a5354dd23bd0f4e68983a3f50efb3c116312bbc1f4",
+    "bytes": 2637
+  },
+  "analysis/symbol-reconstruction-2026-09-08/sample_views.py": {
+    "sha256": "1bd10b2e135ebd402f18ef58a6d1267c55ad8b0f3eaaa8ce387531bbbc9e86c7",
+    "bytes": 912
+  },
+  "analysis/symbol-reconstruction-2026-09-08/reconstruction-notes.md": {
+    "sha256": "888d68f94263e3c1d81b64b31dcb8adf460a18be2404b1300228d0cce0b6ff0a",
+    "bytes": 8022
+  },
+  "analysis/symbol-reconstruction-2026-09-08/registration.json": {
+    "sha256": "ade7e314221d66c49b4432d25467761bed2283729edfb33c005b953950bc454f",
+    "bytes": 3353
+  },
+  "analysis/symbol-reconstruction-2026-09-08/earlier-registration.json": {
+    "sha256": "a0e8beda33ad2967050c3dca30cfc5bd3012843870cc01c16caeaf4d2564f57e",
+    "bytes": 1416
+  },
+  "analysis/symbol-reconstruction-2026-09-08/raw/frame-1600.png": {
+    "sha256": "915db1b55a8ba3d7f5ad9a2ad5dd8894e341afd66a078509fd73dc1c04bb984d",
+    "bytes": 233370
+  },
+  "analysis/symbol-reconstruction-2026-09-08/raw-crop-1600.png": {
+    "sha256": "9db8f040c54d6ef56cd4c6877ba8d227233f3a792f596dac7e52830bbccde31b",
+    "bytes": 15603
+  },
+  "analysis/symbol-reconstruction-2026-09-08/raw-crop-1694.png": {
+    "sha256": "3f575d64c9911258a30dcfdeebb69e2e7626152a9f18348dd05a246cfb139a56",
+    "bytes": 14207
+  },
+  "analysis/symbol-reconstruction-2026-09-08/earlier-view-diagnostic.png": {
+    "sha256": "c71ed33872bd36ca2781c8b47c2468b7bf933c1aa2e146f7a55432b595e6f546",
+    "bytes": 72426
+  },
+  "analysis/symbol-reconstruction-2026-09-08/diagnostic-contact-sheet.png": {
+    "sha256": "2e0c72ccef4142fc49d36eb690032dd0b613ec49b0f89e0ed44553678488099a",
+    "bytes": 119160
+  },
+  "analysis/symbol-reconstruction-2026-09-08/earlier-view-reconstruction.svg": {
+    "sha256": "b154af489621e342ff98590a86c3d302bfd3ed529d86b505ce9f0044523f6c3a",
+    "bytes": 4680
+  },
+  "analysis/symbol-reconstruction-2026-09-08/earlier-view-reconstruction.png": {
+    "sha256": "981ec802bad53d7992782a304a76abc9a72e55df2fc3fa246797a40daa37e3bb",
+    "bytes": 21070
+  },
+  "analysis/symbol-reconstruction-2026-09-08/earlier-view-with-threshold-sensitivity.svg": {
+    "sha256": "6b4021336ab65142680c57bf10e7577b534936cd6e27788ad5860cf56405d5af",
+    "bytes": 13782
+  },
+  "analysis/symbol-reconstruction-2026-09-08/earlier-view-with-threshold-sensitivity.png": {
+    "sha256": "93c9e0064c0b98ccb5cc43731ffcc8d84d71d87167de27d48face25b889940a3",
+    "bytes": 35493
+  },
+  "analysis/symbol-reconstruction-2026-09-08/reconstruction-smooth.svg": {
+    "sha256": "b2d401f6d583e5211b42b6805ed40a125be17a1c8b5c55e114a6ddb1c77bfc0c",
+    "bytes": 4986
+  },
+  "analysis/symbol-reconstruction-2026-09-08/reconstruction-smooth.png": {
+    "sha256": "e36229ff61bd26d7337c5cffc80bf9befaedf757d55410b3de4b366f0b135e3c",
+    "bytes": 30329
+  },
+  "analysis/symbol-reconstruction-2026-09-08/reconstruction-with-uncertainty.svg": {
+    "sha256": "9373ca01d53f9497aa70087af705bc93377a416878540206a071ece20800edd4",
+    "bytes": 13960
+  },
+  "analysis/symbol-reconstruction-2026-09-08/reconstruction-with-uncertainty.png": {
+    "sha256": "ec670bf210555f2d113d44f18129638bd56145246c6bedf04cc8a68ab8b34cb1",
+    "bytes": 58018
+  },
+  "analysis/symbol-reconstruction-2026-09-08/.gitignore": {
+    "sha256": "741ff6bfe1f995d39c75aa608d50ecee51f8ae4bd23abe09d7c576aa2cb6ff05",
+    "bytes": 638
+  },
+  "analysis/symbol-logo-comparison-2026-09-08/compare.py": {
+    "sha256": "828d214cb74a1ad34f1f2a5055b9e498d5856a8adecee14d3a19143c56888bc6",
+    "bytes": 5944
+  },
+  "analysis/symbol-logo-comparison-2026-09-08/comparison-metrics.json": {
+    "sha256": "1bed2c3df296351d7b7806306c34dea836e092faee843ee810b65e354e93150a",
+    "bytes": 910
+  },
+  "analysis/symbol-logo-comparison-2026-09-08/source-comparison.png": {
+    "sha256": "1be0609319096fcfca142cb667d289d91f7f4a9605abeaa8517f96deb81a069b",
+    "bytes": 202577
+  },
+  "analysis/symbol-logo-comparison-2026-09-08/website-fit-to-frame.png": {
+    "sha256": "2dfa92c154af578f6ea1812529ddd47f3c95a8edd08d4a7cad46058e335772d1",
+    "bytes": 248958
+  },
+  "analysis/symbol-logo-comparison-2026-09-08/two-view-comparison.png": {
+    "sha256": "91e1ce0e8b55f6fbb0a5c022177876ae4c17e7f0feb522270f38573329223e65",
+    "bytes": 332053
+  },
+  "analysis/symbol-logo-comparison-2026-09-08/verification.json": {
+    "sha256": "d4aaadb03e4db747ba73cde0a5ce53c4af89a3c7f0bbaa76a0510cc1cfeff544",
+    "bytes": 298
+  },
+  "reports/qtecqot-logo-comparison-2026-09-08.md": {
+    "sha256": "d89c84c8bbae2b3d02429619c0d51952b54ee860485758b4bc9d66d1ea2b3835",
+    "bytes": 8528
+  }
+}

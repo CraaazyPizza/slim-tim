@@ -1,5 +1,7 @@
 # Recovery and identification of the "symbol panel" marks — video 3, `l9RAhmPHM_A`
 
+September 8 follow-up: [Two-view logo comparison and blind reconstruction](qtecqot-logo-comparison-2026-09-08.md). This adds separate AVC views and compares them with the website logo; the July extraction below remains a historical analysis.
+
 Agent report, 2026-07-29. All images and code under `analysis/symbol-panel/`.
 Provenance is treated as undetermined throughout. The job here was to recover the marks as
 faithfully as the material allows, state what the recovery can and cannot support, and say

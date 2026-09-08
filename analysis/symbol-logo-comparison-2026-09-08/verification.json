@@ -1,0 +1,8 @@
+{
+  "frame_1600_matches_fresh_ffmpeg_4_4_2_decode": true,
+  "frame_1694_matches_fresh_ffmpeg_4_4_2_decode": true,
+  "frame_1694_matches_previously_published_frame": true,
+  "crop_1600_preserves_original_pixels": true,
+  "crop_1694_preserves_original_pixels": true,
+  "python_scripts_parse": true
+}

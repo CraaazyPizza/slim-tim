@@ -1,0 +1,36 @@
+{
+  "method": "Website silhouette fitted to raw AVC crop with affine warp, Gaussian blur, gain and background plane; no origin classification.",
+  "source_crop_xyxy": [
+    680,
+    580,
+    960,
+    880
+  ],
+  "website_foreground_bbox_threshold80": [
+    67,
+    25,
+    273,
+    258
+  ],
+  "affine_parameters": [
+    1.0184938362639202,
+    -0.040094280982476076,
+    0.02693720116086544,
+    0.945219322556482,
+    44.93343469313541,
+    36.05082154163582,
+    1.868151621149908
+  ],
+  "gain_background_coefficients": [
+    39.66672912192881,
+    30.648958175466223,
+    2.891932314279009,
+    -11.824676165589196
+  ],
+  "rmse_dn_masked": 10.919010695162376,
+  "median_abs_error_dn_masked": 3.7684791834354225,
+  "fit_converged": true,
+  "website_sha256": "edbcd32c5028c8f65dce41af73e2c4b60c27da2aa1d28f824c6da48e39341f59",
+  "older_pngs_compared_for_exact_hash": 39,
+  "older_png_exact_hash_matches": []
+}
