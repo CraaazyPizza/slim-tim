@@ -1,0 +1,230 @@
+{
+  "analysis/domain-qtecqot/2026-09-08/alias.body": {
+    "sha256": "346f27834a2a877ab0fbac2c4de3fae281278b953c40ff72e40a4c201c942792",
+    "bytes": 1940
+  },
+  "analysis/domain-qtecqot/2026-09-08/alias_dns.body": {
+    "sha256": "6a6c3b91aa5c346ab259c167cda2b790b9c1bddea38dd3fe9c73026e45d5b358",
+    "bytes": 275
+  },
+  "analysis/domain-qtecqot/2026-09-08/alias_logo.body": {
+    "sha256": "edbcd32c5028c8f65dce41af73e2c4b60c27da2aa1d28f824c6da48e39341f59",
+    "bytes": 30611
+  },
+  "analysis/domain-qtecqot/2026-09-08/certificate.pem": {
+    "sha256": "82431fe31f6ceeba72cb2cdb664cf820062201bdfdd74ab321dbbb8f7fada70d",
+    "bytes": 1862
+  },
+  "analysis/domain-qtecqot/2026-09-08/certificate.txt": {
+    "sha256": "5ba955b8417653a07bf94106a3a28e57d98ccb0466a3d7854561b17f537c24db",
+    "bytes": 5280
+  },
+  "analysis/domain-qtecqot/2026-09-08/dns_A.body": {
+    "sha256": "6991b09d9bf4879d5a9ad33369e1d1a8ced92884a47e14fbf334cbffe28028a7",
+    "bytes": 227
+  },
+  "analysis/domain-qtecqot/2026-09-08/dns_NS.body": {
+    "sha256": "f0679dafb00c62b0653d073a09a7ae3c69d886f312097ad492850d7da789fd87",
+    "bytes": 327
+  },
+  "analysis/domain-qtecqot/2026-09-08/index.headers.txt": {
+    "sha256": "fd818e46d123de4278f60e96da628ff14297b5e71855cf986be8914432da9bb9",
+    "bytes": 371
+  },
+  "analysis/domain-qtecqot/2026-09-08/index.html": {
+    "sha256": "346f27834a2a877ab0fbac2c4de3fae281278b953c40ff72e40a4c201c942792",
+    "bytes": 1940
+  },
+  "analysis/domain-qtecqot/2026-09-08/index_php.body": {
+    "sha256": "346f27834a2a877ab0fbac2c4de3fae281278b953c40ff72e40a4c201c942792",
+    "bytes": 1940
+  },
+  "analysis/domain-qtecqot/2026-09-08/interior-avc-f01694.png": {
+    "sha256": "8fb9cff3c82bc18200f13f3fb3eeb075ce547d5ab43c0956a283b79f1767700a",
+    "bytes": 261257
+  },
+  "analysis/domain-qtecqot/2026-09-08/logo-compression.json": {
+    "sha256": "55ce9a32a27964db2f4f01f824e3d85aeec1b7bcbd25c917cd0cfc4bab29be58",
+    "bytes": 185
+  },
+  "analysis/domain-qtecqot/2026-09-08/logo-pixels.json": {
+    "sha256": "4530cab84c9d1386d8a53fde5ce6a10f3f4a88c401933af818b9611af6f32f31",
+    "bytes": 350
+  },
+  "analysis/domain-qtecqot/2026-09-08/logo-structure.json": {
+    "sha256": "19f1a5ef5c1aac245920dadf8f97381651309753344afb1dc677eb23ed2abc6f",
+    "bytes": 914
+  },
+  "analysis/domain-qtecqot/2026-09-08/logo.headers.txt": {
+    "sha256": "e4264e2aa4814a4faf022e1034f98e6fcedb771917d98f4868cce1984596a022",
+    "bytes": 354
+  },
+  "analysis/domain-qtecqot/2026-09-08/logo.png": {
+    "sha256": "edbcd32c5028c8f65dce41af73e2c4b60c27da2aa1d28f824c6da48e39341f59",
+    "bytes": 30611
+  },
+  "analysis/domain-qtecqot/2026-09-08/parent-comingsoon.jpg": {
+    "sha256": "516a4a54ab9c0eb5a97cd1cfa25f7576eb30500df71048705e16b4b6f083d665",
+    "bytes": 129352
+  },
+  "analysis/domain-qtecqot/2026-09-08/parent-image-metadata.json": {
+    "sha256": "b1647594be0f8c151e95e7f655878c0d02f70de05c30ab5b30c9ea56590aaaf4",
+    "bytes": 237
+  },
+  "analysis/domain-qtecqot/2026-09-08/parent-jpeg-markers.json": {
+    "sha256": "d9966bdde30d3e4916c3ff415d29509c5e88421fb20f1d3c0024bb29ff006cac",
+    "bytes": 915
+  },
+  "analysis/domain-qtecqot/2026-09-08/parent.body": {
+    "sha256": "7e2949af8f9edfdf51c1ffef838179f13d8e67b051a6b41ba97f77b111d384ea",
+    "bytes": 270
+  },
+  "analysis/domain-qtecqot/2026-09-08/parent_2024.body": {
+    "sha256": "07c7d2c224ad48513047eeae8e4eca413197159baf85d8f85dd2e2018525e101",
+    "bytes": 5828
+  },
+  "analysis/domain-qtecqot/2026-09-08/parent_2025.body": {
+    "sha256": "829e918722f2964229151c5209b4e82da58201cc4ed0d4b7883d8ca3ed7456ff",
+    "bytes": 4689
+  },
+  "analysis/domain-qtecqot/2026-09-08/parent_dns.body": {
+    "sha256": "7dd11c53182aa2ffc8535afac7af91adb87830aa64429141dc5e076fce72c9a9",
+    "bytes": 259
+  },
+  "analysis/domain-qtecqot/2026-09-08/parent_image.headers.txt": {
+    "sha256": "2f53ce9b14f47cb6372e9c30d071a3a8fa43945fab8abc52aaa4cb70e7a1e264",
+    "bytes": 356
+  },
+  "analysis/domain-qtecqot/2026-09-08/parent_ns.body": {
+    "sha256": "f51c896c27cc501d552ad69441edcb4665ff8a2a0d85173f470cd86bb81696c7",
+    "bytes": 360
+  },
+  "analysis/domain-qtecqot/2026-09-08/requests-2.json": {
+    "sha256": "989beaa9bb51e626e3996614c747535d196cf1278d3d4cb97e771a8d99fb7cb9",
+    "bytes": 2681
+  },
+  "analysis/domain-qtecqot/2026-09-08/requests-3.json": {
+    "sha256": "785ad162976412aba4ed5a8f4f6f015e2db5fd8a88c2061f84291110ee04fb6e",
+    "bytes": 652
+  },
+  "analysis/domain-qtecqot/2026-09-08/requests-4.json": {
+    "sha256": "28cbc74f46b59727fbbca7b8a5afab93df0c99219cada0e174cf711efdb171d1",
+    "bytes": 1095
+  },
+  "analysis/domain-qtecqot/2026-09-08/requests.json": {
+    "sha256": "13e02dda4a605948eb42cfd27c40955aaa288477542f21a623a058b202617dcf",
+    "bytes": 4275
+  },
+  "analysis/domain-qtecqot/2026-09-08/www.body": {
+    "sha256": "346f27834a2a877ab0fbac2c4de3fae281278b953c40ff72e40a4c201c942792",
+    "bytes": 1940
+  },
+  "analysis/domain-qtecqot/README.md": {
+    "sha256": "782ec19bb6f13472c06790398b05bd608e521059c89ebfeac583b4343210ea6c",
+    "bytes": 2280
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/detomaso-facebook-comment-crop.png": {
+    "sha256": "de153951f8d9c40ea05e19e7df7409840c34459d23b554c09bb7a443b3a4ec63",
+    "bytes": 66323
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/dns_control_parent.body": {
+    "sha256": "6120feb4d15759958519d5ca4ed14147199a04dfd7898d63d56664eec2df37b0",
+    "bytes": 369
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/dns_control_qtec.body": {
+    "sha256": "0544618a5e881c23b4d72a31a42ac3fa5be8396a79232e25c37f2a0c21751226",
+    "bytes": 337
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/facebook-public-evidence.json": {
+    "sha256": "08b828c498be03baa8c6c1f611d189fc4db08428ba8ecc0f7c798fabe1b2c3e6",
+    "bytes": 2152
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/facebook-screenshot-notes.json": {
+    "sha256": "341f4fa9f68422e63c375ef68e2c1d46506646b0b62356ccb392d69ddb33eb67",
+    "bytes": 567
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/historical.warc": {
+    "sha256": "d8b39ab03e2b6b497c9e339d3c4d461e70d1d1855e4e3229fdceb5464b64bae5",
+    "bytes": 5590
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/historical.warc.gz": {
+    "sha256": "566032f02a7eb6d4008341c11b265a1489af6d6f226b087202115613b5561deb",
+    "bytes": 2633
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/icon_2024.png": {
+    "sha256": "af7392cfdeb5d4267f9322671eab42626380da5df3ca3d72aca5842bdfe26b2d",
+    "bytes": 643
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/icon_2025.png": {
+    "sha256": "3481cfe7a62980748fea2d1b001bd19429b18bdd909e64d67a0c7df4a007e281",
+    "bytes": 590
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/parent-live-certificate.pem": {
+    "sha256": "4bca9bc19170486631769785f3ff78caf6f68ed3fa0daaa979f55402dcfe96ad",
+    "bytes": 1846
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/parent_certspotter.body": {
+    "sha256": "5eb8534a98d0a6d58d0e4bf916bdd800386a35e3c2b1bc95464fcd44aff9920f",
+    "bytes": 2532
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/parking-requests.json": {
+    "sha256": "212d7de2eb4e8a5102530f7faa5c75b2f695e7929c7e8bb1fca6a14d39343b34",
+    "bytes": 428
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/public-source-extracts.json": {
+    "sha256": "900ece0ed5363fe9a2e2fe0aa263e8a6724855b177106416205f5689650d120f",
+    "bytes": 7017
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/qtec_certspotter.body": {
+    "sha256": "0eb21c5edec3d792cc3f09e81623e73221d6c2d0d2f9ea9415126ad1735400fa",
+    "bytes": 645
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/root_oct2025.body": {
+    "sha256": "117bcedfaf6e3cebe50a8605321a24f8e23eacb99b499b7cd45287d53a9286f8",
+    "bytes": 4689
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/viewdns-user-transcription.json": {
+    "sha256": "52fda1805484aae104f06e3f88ec7659f85e3ca1a0662db838ff100915096675",
+    "bytes": 2623
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/warc-integrity.json": {
+    "sha256": "fe383d858afa595c43832d4c4a6d24fbd1c27dbc7d09a5afbb82ccecdeef720b",
+    "bytes": 186
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/warc-request.json": {
+    "sha256": "2c8ba1633effb8d67b92a7bfc0d7643ed9063d0093f95f1b9278cc832286b871",
+    "bytes": 292
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/zzuss-detomaso-comparison.json": {
+    "sha256": "a1a7d11b5a4f94a27f8241fb57b5015cb7933936671e89c53c925b7497c69a8f",
+    "bytes": 259
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/zzuss_icon_2022-metadata.json": {
+    "sha256": "b8959a5d135b1fdd063db61027a7360bc77fd802704eaa243ab984db5a18f974",
+    "bytes": 147
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/zzuss_icon_2022.body": {
+    "sha256": "46e724258378df5e04fd249dcc4d4dab569f767ebdccc12e275778bcba0957a6",
+    "bytes": 480
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/zzuss_logo_2022-metadata.json": {
+    "sha256": "4afaadff0dedbf065bc5712841bdd89231e06e85930cdf745408d5e901b3d06e",
+    "bytes": 149
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/zzuss_logo_2022.body": {
+    "sha256": "cbd477b56c4cc64fb4f342f8aa03ff826766fda0fddebcb7802d03d799276c82",
+    "bytes": 77589
+  },
+  "reports/qtecqot-domain-2026-09-08.md": {
+    "sha256": "79fb7dff3d1222c77014a6e7d0a6a631a60aa9c16890fe61a753089ac29548bd",
+    "bytes": 13735
+  },
+  "reports/qtecqot-domain-archaeology-2026-09-08.md": {
+    "sha256": "35a695a4304f2b03cb6b9cac08e16abade854490c5044f7ce3c907cf8b5ba977",
+    "bytes": 10709
+  },
+  "reports/qtecqot-facebook-zzuss-2026-09-08.md": {
+    "sha256": "497522b17c0680e692778fb3a7a2ead1a46610a0ea75cebb867d346460ce5f09",
+    "bytes": 8572
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "info": {},
+  "mode": "RGBA",
+  "alpha_unique": 1,
+  "alpha_min": 255,
+  "alpha_max": 255,
+  "transparent_pixels": 0,
+  "partial_alpha_pixels": 0,
+  "opaque_pixels": 92610,
+  "rgb_equal_pixels": 92610,
+  "total_pixels": 92610,
+  "rgb_extrema": [
+    [
+      0,
+      243
+    ],
+    [
+      0,
+      243
+    ],
+    [
+      0,
+      243
+    ]
+  ]
+}

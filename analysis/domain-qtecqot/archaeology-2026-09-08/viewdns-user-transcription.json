@@ -1,0 +1,152 @@
+{
+  "source": "User pasted ViewDNS IP History results on 2026-09-08; not directly fetched",
+  "field_names": [
+    "ip",
+    "reported_location",
+    "reported_owner",
+    "last_seen"
+  ],
+  "detomaso.org": [
+    [
+      "198.50.252.64",
+      "Canada",
+      "OVH SAS",
+      "2026-08-10"
+    ],
+    [
+      "65.21.178.24",
+      "Helsinki - Finland",
+      "Hetzner Online GmbH",
+      "2026-03-13"
+    ],
+    [
+      "217.160.0.41",
+      "Germany",
+      "IONOS SE",
+      "2026-02-27"
+    ],
+    [
+      "74.208.236.189",
+      "United States",
+      "IONOS SE",
+      "2026-02-20"
+    ],
+    [
+      "74.208.236.215",
+      "United States",
+      "IONOS SE",
+      "2025-12-19"
+    ],
+    [
+      "65.60.61.97",
+      "United States",
+      "SINGLEHOP-LLC",
+      "2024-12-27"
+    ],
+    [
+      "91.195.240.117",
+      "Germany",
+      "SEDO GmbH",
+      "2023-11-26"
+    ],
+    [
+      "62.149.128.74",
+      "Arezzo - Italy",
+      "Aruba S.p.A.",
+      "2020-10-02"
+    ],
+    [
+      "62.149.128.72",
+      "Arezzo - Italy",
+      "Aruba S.p.A.",
+      "2020-10-02"
+    ],
+    [
+      "62.149.128.166",
+      "Arezzo - Italy",
+      "Aruba S.p.A.",
+      "2020-10-02"
+    ],
+    [
+      "62.149.128.163",
+      "Arezzo - Italy",
+      "Aruba S.p.A.",
+      "2020-10-02"
+    ],
+    [
+      "62.149.128.160",
+      "Arezzo - Italy",
+      "Aruba S.p.A.",
+      "2020-10-02"
+    ],
+    [
+      "62.149.128.157",
+      "Arezzo - Italy",
+      "Aruba S.p.A.",
+      "2020-10-02"
+    ],
+    [
+      "62.149.128.154",
+      "Arezzo - Italy",
+      "Aruba S.p.A.",
+      "2020-10-02"
+    ],
+    [
+      "62.149.128.151",
+      "Arezzo - Italy",
+      "Aruba S.p.A.",
+      "2020-10-02"
+    ],
+    [
+      "64.74.223.34",
+      "United States",
+      "INTERNAP-2BLK",
+      "2014-09-05"
+    ],
+    [
+      "64.95.64.162",
+      "United States",
+      "INTERNAP-BLOCK-4",
+      "2014-07-25"
+    ],
+    [
+      "64.95.64.218",
+      "United States",
+      "INTERNAP-BLOCK-4",
+      "2013-04-12"
+    ],
+    [
+      "64.95.64.223",
+      "United States",
+      "INTERNAP-BLOCK-4",
+      "2012-07-06"
+    ],
+    [
+      "64.95.64.219",
+      "United States",
+      "INTERNAP-BLOCK-4",
+      "2012-04-27"
+    ],
+    [
+      "64.95.64.195",
+      "United States",
+      "INTERNAP-BLOCK-4",
+      "2012-03-02"
+    ],
+    [
+      "64.95.64.197",
+      "United States",
+      "INTERNAP-BLOCK-4",
+      "2011-09-06"
+    ]
+  ],
+  "qtecqot.com": [
+    [
+      "198.50.252.64",
+      "Canada",
+      "OVH SAS",
+      "2026-08-07"
+    ]
+  ],
+  "excluded": "Unrelated site footer and user connection information omitted by inclusion."
+}

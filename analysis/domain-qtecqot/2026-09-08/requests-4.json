@@ -1,0 +1,42 @@
+[
+  {
+    "key": "parent_2025",
+    "url": "https://web.archive.org/web/20250122175232id_/https://detomaso.org/",
+    "utc": "2026-09-08T09:07:41.799801+00:00",
+    "exit": 0,
+    "result": "200",
+    "error": ""
+  },
+  {
+    "key": "parent_2024",
+    "url": "https://web.archive.org/web/20240228182647id_/https://www.detomaso.org/",
+    "utc": "2026-09-08T09:07:41.485226+00:00",
+    "exit": 0,
+    "result": "200",
+    "error": ""
+  },
+  {
+    "key": "parent_2001",
+    "url": "https://web.archive.org/web/20011116204102id_/http://detomaso.org:80/",
+    "utc": "2026-09-08T09:07:41.569668+00:00",
+    "exit": 0,
+    "result": "200",
+    "error": ""
+  },
+  {
+    "key": "youtube_feed",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw1EA-KJud9OmMA5p7_MWgw",
+    "utc": "2026-09-08T09:07:41.613344+00:00",
+    "exit": 0,
+    "result": "200",
+    "error": ""
+  },
+  {
+    "key": "parent_rdap",
+    "url": "https://rdap.publicinterestregistry.org/rdap/domain/detomaso.org",
+    "utc": "2026-09-08T09:07:42.002133+00:00",
+    "exit": 0,
+    "result": "200",
+    "error": ""
+  }
+]

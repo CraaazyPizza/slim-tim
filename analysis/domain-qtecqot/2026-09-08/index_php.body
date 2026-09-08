@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coming Soon</title>
+    <!-- Importing a Google Font for a thin, elegant serif style -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;1,300&display=swap" rel="stylesheet">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #000000;
+            color: #ffffff;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Cormorant Garamond', serif;
+            overflow: hidden;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            gap: 24px; /* Space between the logo and text */
+        }
+
+        .logo {
+            max-width: 220px;
+            width: 100%;
+            height: auto;
+            object-fit: contain;
+            display: block;
+        }
+
+        .coming-soon {
+            font-family: 'Cormorant Garamond', serif;
+            font-weight: 300; /* Thin font weight */
+            font-size: 1.5rem;
+            letter-spacing: 0.3em; /* Adds a sophisticated spacing look */
+            text-transform: uppercase;
+            color: #e0e0e0;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">       
+        <a href="https://www.youtube.com/@qtecqot" target="_blank"><img src="i/logo.png" alt="Logo" class="logo" border=0></a>
+        <h1 class="coming-soon">Coming Soon</h1>
+    </div>
+
+</body>
+</html>

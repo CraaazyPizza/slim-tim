@@ -1,0 +1,54 @@
+{
+  "size": 30611,
+  "sha256": "edbcd32c5028c8f65dce41af73e2c4b60c27da2aa1d28f824c6da48e39341f59",
+  "signature": "89504e470d0a1a0a",
+  "chunks": [
+    {
+      "offset": 8,
+      "type": "IHDR",
+      "length": 13,
+      "crc_valid": true,
+      "values": [
+        343,
+        270,
+        8,
+        6,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "offset": 33,
+      "type": "IDAT",
+      "length": 8192,
+      "crc_valid": true
+    },
+    {
+      "offset": 8237,
+      "type": "IDAT",
+      "length": 8192,
+      "crc_valid": true
+    },
+    {
+      "offset": 16441,
+      "type": "IDAT",
+      "length": 8192,
+      "crc_valid": true
+    },
+    {
+      "offset": 24645,
+      "type": "IDAT",
+      "length": 5942,
+      "crc_valid": true
+    },
+    {
+      "offset": 30599,
+      "type": "IEND",
+      "length": 0,
+      "crc_valid": true,
+      "content": ""
+    }
+  ],
+  "trailing_bytes": 0
+}

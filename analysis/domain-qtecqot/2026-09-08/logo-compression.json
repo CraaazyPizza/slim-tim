@@ -1,0 +1,10 @@
+{
+  "zlib_header": "785e",
+  "zlib_eof": true,
+  "zlib_unused_bytes": 0,
+  "decompressed_bytes": 370710,
+  "expected_scanline_bytes": 370710,
+  "row_filter_counts": {
+    "1": 270
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "key": "logo",
+    "url": "https://qtecqot.com/i/logo.png",
+    "utc": "2026-09-08T09:04:51.584675+00:00",
+    "exit": 0,
+    "result": "200 https://qtecqot.com/i/logo.png",
+    "error": ""
+  },
+  {
+    "key": "http",
+    "url": "http://qtecqot.com/",
+    "utc": "2026-09-08T09:04:52.308658+00:00",
+    "exit": 0,
+    "result": "200 https://qtecqot.com/",
+    "error": ""
+  },
+  {
+    "key": "www",
+    "url": "https://www.qtecqot.com/",
+    "utc": "2026-09-08T09:04:52.309347+00:00",
+    "exit": 0,
+    "result": "200 https://www.qtecqot.com/",
+    "error": ""
+  },
+  {
+    "key": "robots",
+    "url": "https://qtecqot.com/robots.txt",
+    "utc": "2026-09-08T09:04:51.535025+00:00",
+    "exit": 0,
+    "result": "404 https://qtecqot.com/robots.txt",
+    "error": ""
+  },
+  {
+    "key": "sitemap",
+    "url": "https://qtecqot.com/sitemap.xml",
+    "utc": "2026-09-08T09:04:51.811937+00:00",
+    "exit": 0,
+    "result": "404 https://qtecqot.com/sitemap.xml",
+    "error": ""
+  },
+  {
+    "key": "favicon",
+    "url": "https://qtecqot.com/favicon.ico",
+    "utc": "2026-09-08T09:04:51.950003+00:00",
+    "exit": 0,
+    "result": "404 https://qtecqot.com/favicon.ico",
+    "error": ""
+  },
+  {
+    "key": "security",
+    "url": "https://qtecqot.com/.well-known/security.txt",
+    "utc": "2026-09-08T09:04:52.184850+00:00",
+    "exit": 0,
+    "result": "404 https://qtecqot.com/.well-known/security.txt",
+    "error": ""
+  },
+  {
+    "key": "rdap",
+    "url": "https://rdap.verisign.com/com/v1/domain/qtecqot.com",
+    "utc": "2026-09-08T09:04:52.039601+00:00",
+    "exit": 0,
+    "result": "200 https://rdap.verisign.com/com/v1/domain/qtecqot.com",
+    "error": ""
+  },
+  {
+    "key": "crt",
+    "url": "https://crt.sh/?q=%25.qtecqot.com&output=json",
+    "utc": "2026-09-08T09:05:01.678400+00:00",
+    "exit": 0,
+    "result": "200 https://crt.sh/?q=%25.qtecqot.com&output=json",
+    "error": ""
+  },
+  {
+    "key": "wayback",
+    "url": "https://web.archive.org/cdx/search/cdx?url=qtecqot.com%2F*&output=json&filter=statuscode%3A200&collapse=urlkey",
+    "utc": "2026-09-08T09:04:59.558161+00:00",
+    "exit": 0,
+    "result": "200 https://web.archive.org/cdx/search/cdx?url=qtecqot.com%2F*&output=json&filter=statuscode%3A200&collapse=urlkey",
+    "error": ""
+  },
+  {
+    "key": "urlscan",
+    "url": "https://urlscan.io/api/v1/search/?q=domain%3Aqtecqot.com",
+    "utc": "2026-09-08T09:04:53.424323+00:00",
+    "exit": 0,
+    "result": "200 https://urlscan.io/api/v1/search/?q=domain%3Aqtecqot.com",
+    "error": ""
+  },
+  {
+    "key": "dns_A",
+    "url": "https://dns.google/resolve?name=qtecqot.com&type=A",
+    "utc": "2026-09-08T09:04:52.473902+00:00",
+    "exit": 0,
+    "result": "200 https://dns.google/resolve?name=qtecqot.com&type=A",
+    "error": ""
+  },
+  {
+    "key": "dns_AAAA",
+    "url": "https://dns.google/resolve?name=qtecqot.com&type=AAAA",
+    "utc": "2026-09-08T09:04:52.624323+00:00",
+    "exit": 0,
+    "result": "200 https://dns.google/resolve?name=qtecqot.com&type=AAAA",
+    "error": ""
+  },
+  {
+    "key": "dns_NS",
+    "url": "https://dns.google/resolve?name=qtecqot.com&type=NS",
+    "utc": "2026-09-08T09:04:52.802888+00:00",
+    "exit": 0,
+    "result": "200 https://dns.google/resolve?name=qtecqot.com&type=NS",
+    "error": ""
+  },
+  {
+    "key": "dns_MX",
+    "url": "https://dns.google/resolve?name=qtecqot.com&type=MX",
+    "utc": "2026-09-08T09:04:52.979375+00:00",
+    "exit": 0,
+    "result": "200 https://dns.google/resolve?name=qtecqot.com&type=MX",
+    "error": ""
+  },
+  {
+    "key": "dns_TXT",
+    "url": "https://dns.google/resolve?name=qtecqot.com&type=TXT",
+    "utc": "2026-09-08T09:04:53.155040+00:00",
+    "exit": 0,
+    "result": "200 https://dns.google/resolve?name=qtecqot.com&type=TXT",
+    "error": ""
+  },
+  {
+    "key": "dns_SOA",
+    "url": "https://dns.google/resolve?name=qtecqot.com&type=SOA",
+    "utc": "2026-09-08T09:04:53.347553+00:00",
+    "exit": 0,
+    "result": "200 https://dns.google/resolve?name=qtecqot.com&type=SOA",
+    "error": ""
+  },
+  {
+    "key": "dns_CAA",
+    "url": "https://dns.google/resolve?name=qtecqot.com&type=CAA",
+    "utc": "2026-09-08T09:04:53.509858+00:00",
+    "exit": 0,
+    "result": "200 https://dns.google/resolve?name=qtecqot.com&type=CAA",
+    "error": ""
+  }
+]

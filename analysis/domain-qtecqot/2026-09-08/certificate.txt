@@ -1,0 +1,96 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            06:c0:52:e5:81:04:d9:5e:44:ef:de:c1:98:b7:23:09:46:6d
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Let's Encrypt, CN = YR1
+        Validity
+            Not Before: Sep  5 07:11:30 2026 GMT
+            Not After : Dec  4 07:11:29 2026 GMT
+        Subject: CN = qtecqot.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:bd:f0:1a:7f:98:6d:8b:12:89:aa:ca:6e:2b:53:
+                    03:ba:0c:c5:7b:79:1b:d9:03:43:26:14:4e:95:02:
+                    65:26:e9:d0:48:8c:fd:a5:3a:da:d4:2b:bf:ed:9a:
+                    7a:cb:5d:3e:86:ce:7d:34:22:dc:47:56:cc:7c:a6:
+                    f6:5f:32:c3:d0:69:64:59:a1:02:15:d9:6a:e3:db:
+                    c8:9e:78:2e:d2:3f:22:2b:e3:12:98:93:5c:07:aa:
+                    1d:62:39:93:fb:ef:db:fc:4a:97:be:40:2b:a3:48:
+                    86:d8:12:67:76:07:d0:d5:31:39:1f:10:d6:e6:fa:
+                    19:4e:26:c1:c1:26:ef:45:72:09:93:41:ce:af:ca:
+                    7f:2c:bc:5a:a7:80:34:de:49:8f:1c:a3:35:57:23:
+                    ed:e4:63:2c:cb:6c:a6:f8:23:68:d9:2d:5d:2e:2b:
+                    19:46:26:04:02:a2:c8:f3:0d:8c:46:fc:3c:51:97:
+                    9a:6a:8b:27:c6:4d:d8:32:cd:fe:03:a7:6b:59:f9:
+                    48:6e:89:c7:28:45:b7:b2:7d:6f:29:d6:a4:e8:72:
+                    4e:3f:41:ee:3b:c7:19:a9:c9:ff:29:2d:07:92:90:
+                    5c:50:fe:76:30:56:cf:68:f0:1b:4b:a5:98:12:79:
+                    b2:98:f3:92:50:db:21:27:56:5c:f1:bf:c2:4d:4f:
+                    4e:a5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                1C:7B:F6:79:24:58:4B:6D:0A:1A:7C:B5:B4:3F:70:89:6B:47:97:E0
+            X509v3 Authority Key Identifier: 
+                1F:2F:35:BE:46:14:82:CD:40:B1:AE:79:2C:55:78:FA:F7:D4:68:FB
+            Authority Information Access: 
+                CA Issuers - URI:http://yr1.i.lencr.org/
+            X509v3 Subject Alternative Name: 
+                DNS:*.qtecqot.com, DNS:qtecqot.com, DNS:qtecqot.detomaso.org, DNS:www.qtecqot.detomaso.org
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:http://yr1.c.lencr.org/110.crl
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : C8:A3:C4:7F:C7:B3:AD:B9:35:6B:01:3F:6A:7A:12:6D:
+                                E3:3A:4E:43:A5:C6:46:F9:97:AD:39:75:99:1D:CF:9A
+                    Timestamp : Sep  5 08:10:01.135 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:D6:9C:13:D1:A6:40:CC:7C:5E:4C:5E:
+                                D6:D5:16:03:33:32:EB:31:22:BD:1B:75:47:26:95:0B:
+                                DD:AD:0A:60:32:02:21:00:96:86:66:41:42:B7:A9:B6:
+                                15:EF:75:03:A4:02:02:F2:EF:D1:4D:74:2F:95:98:A4:
+                                A5:62:62:54:2F:2A:FC:DF
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 6C:FE:50:19:43:A8:5E:A9:16:BC:52:D1:33:E4:DC:C9:
+                                1E:F1:41:1C:7D:25:84:20:D1:73:80:9E:18:18:EB:3A
+                    Timestamp : Sep  5 08:10:02.032 2026 GMT
+                    Extensions: 00:00:05:00:2D:FF:2E:4E
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:20:37:CE:C2:0F:06:B6:86:0E:EA:C5:AE:63:
+                                1C:49:3D:23:DB:9F:31:35:E5:C9:1A:4B:A4:A9:15:A1:
+                                16:F8:40:23:02:21:00:F2:88:4D:05:DD:C0:AB:28:13:
+                                20:F2:9A:DE:3C:AE:24:8B:70:F5:12:D3:1C:41:1A:6C:
+                                F5:6F:87:11:00:C1:8F
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        09:1f:b8:cf:a0:69:6a:67:55:84:f6:c7:22:5d:40:52:df:28:
+        05:9b:a1:67:67:8a:49:60:47:cf:46:c7:92:5f:ca:00:b8:65:
+        d6:89:ec:45:17:d1:1f:6a:1d:58:a7:8c:f7:52:ae:fe:d0:d8:
+        5d:02:88:a1:14:16:bc:44:9e:9e:af:e8:77:91:6d:65:8d:0b:
+        ca:21:1d:17:26:3d:2d:20:70:bf:cf:cd:99:5a:6a:db:94:34:
+        a6:86:52:a6:2b:84:5b:d8:f4:6a:3e:9e:22:40:c9:78:a5:64:
+        a5:1b:4d:01:fe:c2:96:75:82:2c:4f:2c:74:d2:41:6b:0c:6a:
+        c4:70:8f:0b:99:22:92:d7:7b:9e:4b:1f:10:42:a7:60:d4:9c:
+        d5:09:ed:ac:fa:ba:b3:f5:0f:be:ad:a2:44:d0:6f:3c:99:73:
+        15:d6:f6:5c:3e:e4:b9:7a:c4:78:d0:e9:47:74:7f:49:8d:cf:
+        d5:bf:11:92:9f:da:88:39:a1:ce:a5:dc:7f:b5:5e:41:57:1d:
+        9c:be:b7:5a:7b:b0:f0:c1:44:c2:3d:a5:5f:24:30:2f:75:1b:
+        22:34:5b:28:b1:88:e3:e5:80:0a:f8:d8:7c:72:91:43:b2:f4:
+        5d:94:7f:9e:ba:17:9e:db:84:2d:62:29:ce:9e:5f:a7:a5:ca:
+        48:0c:1e:e2

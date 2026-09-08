@@ -1,0 +1,46 @@
+[
+	{
+		"id":"13095108295",
+		"tbs_sha256":"8ad4c41c78fe5ba4696722e635ceb18e44031d5795d9c8d0eac5c229cbf971e2",
+		"cert_sha256":"7dbd2f8a99e2b6d7679e12eb2d54d5c0e1024b087bd5be2a0e8851f806305154",
+		"dns_names":["*.detomaso.org","detomaso.org"],
+		"pubkey_sha256":"4b09b4850a15da35dfe97080089b0b7ee188559df72b81ba7ddeb14a473e5f24",
+		"issuer":{"friendly_name":"Sectigo","pubkey_sha256":"6bd9212ce649c659c9cabc6cb60fcffac7a20c29be61fdceb2b5f2168701688d","name":"C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36"},
+		"not_before":"2025-12-16T00:00:00Z",
+		"not_after":"2026-12-30T23:59:59Z",
+		"revoked":false
+	},
+	{
+		"id":"13721203290",
+		"tbs_sha256":"ef333d7175af36a9e95b9a9afefc69d1865421415ab13acd529cccb633ea0787",
+		"cert_sha256":"d11427bd6a009aebe4875a4ca7ce88b4c01ea8689c7c5e73efda6cbc20a3d3c3",
+		"dns_names":["*.detomaso.org","detomaso.org"],
+		"pubkey_sha256":"62b78c2a46cac5e7f29e388d6fc7864a416c9d130691ae4f00ead792affd417e",
+		"issuer":{"friendly_name":"Sectigo","pubkey_sha256":"6bd9212ce649c659c9cabc6cb60fcffac7a20c29be61fdceb2b5f2168701688d","name":"C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36"},
+		"not_before":"2026-02-08T00:00:00Z",
+		"not_after":"2027-02-08T23:59:59Z",
+		"revoked":false
+	},
+	{
+		"id":"16997836223",
+		"tbs_sha256":"be223cb60b55f5329a5e51d20222266f71a805cdc1828c897827c771a06c2d0d",
+		"cert_sha256":"415f32ff8ca4f51f1b8d7437360fcf2fc56c42b08b526b74061c668e5b991c7c",
+		"dns_names":["*.detomaso.org","detomaso.org","www.qtecqot.detomaso.org"],
+		"pubkey_sha256":"413ddd000b25acad3780606c513858076cd05f2048134ad1b6bc8c5dedcf712f",
+		"issuer":{"friendly_name":"Let's Encrypt","pubkey_sha256":"2e8307068b6db620e4a39d068b5dee5d6ef5788cbb2c0b6d23ead84fcc17178c","name":"C=US, O=Let's Encrypt, CN=YR1"},
+		"not_before":"2026-09-05T06:12:12Z",
+		"not_after":"2026-12-04T06:12:11Z",
+		"revoked":false
+	},
+	{
+		"id":"16998521739",
+		"tbs_sha256":"288e08318fcf40a54ed414ca1b6b13a0784cb6318ff3ae3cff33d26554c6c2c2",
+		"cert_sha256":"7624c4b449be95acf1b283d1a715018e53c8a5814e67ecc4999b0e2ca81821d5",
+		"dns_names":["*.qtecqot.com","qtecqot.com","qtecqot.detomaso.org","www.qtecqot.detomaso.org"],
+		"pubkey_sha256":"eacdd03ea6d3cada36ed07eb83c951cdc9d69d744e0bac1730e5093d9d6ee17d",
+		"issuer":{"friendly_name":"Let's Encrypt","pubkey_sha256":"2e8307068b6db620e4a39d068b5dee5d6ef5788cbb2c0b6d23ead84fcc17178c","name":"C=US, O=Let's Encrypt, CN=YR1"},
+		"not_before":"2026-09-05T07:11:30Z",
+		"not_after":"2026-12-04T07:11:29Z",
+		"revoked":false
+	}
+]

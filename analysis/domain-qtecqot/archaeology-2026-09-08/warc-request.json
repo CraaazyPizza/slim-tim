@@ -1,0 +1,11 @@
+{
+  "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-43/segments/1759648358434.74/warc/CC-MAIN-20251009100738-20251009130738-00045.warc.gz",
+  "range": [
+    211175730,
+    211178362
+  ],
+  "utc": "2026-09-08T09:28:06.926655+00:00",
+  "exit": 0,
+  "status": "206",
+  "error": ""
+}

@@ -1,0 +1,190 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2025-10-09T11:03:14Z
+WARC-Record-ID: <urn:uuid:668a1bf4-38d3-4a24-874d-c16b0665137a>
+Content-Length: 4914
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:66479a2e-99dd-4e82-a463-113f15db0870>
+WARC-Concurrent-To: <urn:uuid:49dc4cb8-7b65-4cae-a2c3-d196f7f8c4ff>
+WARC-IP-Address: 74.208.236.215
+WARC-Target-URI: https://detomaso.org/
+WARC-Protocol: h2
+WARC-Protocol: tls/1.2
+WARC-Cipher-Suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+WARC-Payload-Digest: sha1:IB6PA2IB7BBUEUPQGJHCZFVH5BYGJ74Y
+WARC-Block-Digest: sha1:UL7E4OFOQEJNDYOS7273DJA2KE7DKNCJ
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 
+content-type: text/html; charset=UTF-8
+x-ws-ratelimit-limit: 1000
+x-ws-ratelimit-remaining: 998
+date: Thu, 09 Oct 2025 11:03:14 GMT
+server: Apache
+X-Crawler-content-encoding: gzip
+Content-Length: 4689
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="robots" content="index,follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="cars, exotic, marketplace, registry, detomaso, de tomaso, pantera, mangusta, vallelunga, italian, ford">
+<meta name="description" content="DeTomaso.org | The Preeminent Vehicle Registry for Classic DeTomaso Automobiles.  Celebrating Legends!">
+
+<link rel="shortcut icon" href="i/favicon.ico" type="image/x-icon">
+<title>DeTomaso.org | The Preeminent DeTomaso Vehicle Registry </title>
+
+<!-- STYLESHEETS -->
+<link rel="stylesheet" type="text/css" href="css/core.css" />
+<link rel="stylesheet" type="text/css" href="css/swal.css" />
+
+<style type="text/css">
+html, body {
+  height: 100%;
+  margin: 0; 
+}
+.full-height {
+  height: 100%;
+  background-image:radial-gradient(circle,#d789a6,#000000);
+  align-content:center;
+  text-align:center;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 630px;
+}
+
+.footer {
+  flex: 0 0 76px;
+  margin-top: auto;
+}
+
+</style>
+
+<!-- JAVASCRIPT -->
+<!-- <script language="javascript" type="text/javascript" src="js/swal.js"></script> -->
+<!-- <script language="javascript" type="text/javascript" src="js/jquery-3.4.1.min.js"></script> -->
+<script language="javascript" type="text/javascript">
+function setCookie(key, value) {
+    var expires = new Date();
+    expires.setTime(expires.getTime() + (365 * 24 * 60 * 60 * 1000));
+    document.cookie = key + '=' + value + ';expires=' + expires.toUTCString();
+}
+
+$(document).ready(function(){   
+    setTimeout(function () {
+        $("#cookieConsent").fadeIn(200);
+     }, 4000);
+    $("#closeCookieConsent, .cookieConsentOK").click(function() {
+        $("#cookieConsent").fadeOut(200);
+    }); 
+}); 
+
+function Showme(id) {
+    var x = document.getElementById(id);
+    x.style.display = "block";    
+}
+
+function Hideme(id) {
+    var x = document.getElementById(id);
+    x.style.display = "none";
+}
+
+
+function salert(mode)
+{
+	if (mode == 'success')
+		swal("Success!", "Look for an information packet in the near future", "success");
+}
+
+
+$(function() {
+  $('#bookmarkme').click(function() {
+    if (window.sidebar && window.sidebar.addPanel) { // Mozilla Firefox Bookmark
+      window.sidebar.addPanel(document.title, window.location.href, '');
+    } else if (window.external && ('AddFavorite' in window.external)) { // IE Favorite
+      window.external.AddFavorite(location.href, document.title);
+    } else if (window.opera && window.print) { // Opera Hotlist
+      this.title = document.title;
+      return true;
+    } else { // webkit - safari/chrome
+      alert('Press ' + (navigator.userAgent.toLowerCase().indexOf('mac') != -1 ? 'Command/Cmd' : 'CTRL') + ' + D to bookmark this page.');
+    }
+  });
+});
+
+
+function BMClick(){
+  alert('Press Ctrl + D to bookmark this page');
+}
+
+function fadeGo() {
+const element = document.getElementById('gobutton');
+console.log(element.style);
+  // Initilize the opacity with 0.1
+  let initOpacity = 0.1;
+  element.style.display = 'block';
+  // Update the opacity with 0.1 every 10 milliseconds
+  const timer = setInterval(function () {
+    if (initOpacity >= 1) {
+      clearInterval(timer);
+    }
+    element.style.opacity = initOpacity;
+    element.style.filter = 'alpha(opacity=' + initOpacity * 100 + ")";
+    initOpacity += initOpacity * 0.1;
+  }, 40);
+}
+
+
+</script>
+
+</head>
+
+<body  style="font-family:'Exo 2',arial,tahoma;font-size:16px;color:#ffffff;font-weight:300">
+
+<div class="full-height">
+
+    <center>
+
+
+    <form action="search" method="post">
+    <input type="hidden" name="mode" value="form"> 
+
+    <div class="al ub fs20 fcwhite fw200"   style="top:20px;width:100%;background:#444444;opacity:0.8;height:42px;text-align:center;padding-top:13px">
+    <a href="#" onClick = "BMClick();" title="bookmark this page"><u>Bookmark</u></a> DeTomaso.org as your default DeTomaso Registry! &nbsp;&nbsp;&nbsp;&nbsp;
+    </div>
+
+    <div class="alr" style="width:732px;left:-15px;height:331px;top:10px;z-index:1">
+        <!-- <img src="i/logo.png" title="Shopping made Smooth"> -->
+    </div>
+
+    <div class="alr" style="width:600px;top:-110px;left:32px;height:100%;z-index:2;text-align:left;border:0px solid">
+
+        <blockquote class = "e2 fw600 fs40 fcwhite" style="text-shadow: 2px 2px #444444">
+            The world's preeminent DeTomaso Automobile Registry is 
+            Coming Soon!  <p>
+                <font size=2>Vallelunga | Mangusta | Longchamp | Deauville | Pantera | Guara</font>
+        </blockquote>
+
+    </div>
+
+    </form>
+    </center>
+
+
+</div>
+
+
+	
+
+</body>
+</html>
+
+
+

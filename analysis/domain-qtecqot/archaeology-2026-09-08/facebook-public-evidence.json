@@ -1,0 +1,39 @@
+{
+  "acquired_utc": "2026-09-08T11:28:48.528818+00:00",
+  "source_urls": {
+    "page": "https://www.facebook.com/detomaso.org",
+    "transparency": "https://www.facebook.com/detomaso.org/about_profile_transparency",
+    "reel": "https://www.facebook.com/reel/1745964936337693",
+    "comment": "https://www.facebook.com/Truthcapsuletv/posts/122128116518775502?comment_id=27872056109118076"
+  },
+  "page_id": "107626098743894",
+  "page_summary_creation_date": "2022-08-27",
+  "page_history_creation_date": "2022-08-28",
+  "page_history_original_name": "Zzuss.com",
+  "page_history_rename": {
+    "name": "DeTomaso.org",
+    "date": "2024-03-27"
+  },
+  "comment": {
+    "author_page_name": "DeTomaso.org",
+    "text": "The blurred out photo Chris showed him on his phone is reportedly a still frame from one of qtecqot's videos.",
+    "displayed_tooltip": "Sunday, August 23, 2026 at 1:18 AM",
+    "display_timezone": "UTC",
+    "timestamp_minute_precision": "2026-08-23T01:18Z",
+    "tooltip_association_verified": true
+  },
+  "reel_post_id": "122128116518775502",
+  "reel_media_id": "1745964936337693",
+  "reel_post_creation_unix": 1787385722,
+  "reel_post_creation_utc": "2026-08-22T08:02:02Z",
+  "timezone_control": "Browser launched without timezone override; separate default-context Intl.DateTimeFormat reports UTC; displayed reel 08:02 agrees with its epoch timestamp.",
+  "source_capture_sha256": {
+    "capture-01.html": "4307c7326f130a524af9083d56684d89e804e96c27035a7603f59d81ba86edd4",
+    "capture-02.html": "d8bee8091f4b5b3c57897103f5a483555e0eb8d3914b1b1f9598845d08c7acf7",
+    "capture-03.html": "4fd4f2a918024de7967fd4baa84be5527aca9a598e5e401a9d87dcf34252ea31",
+    "capture-08.html": "fe0369004ea75d7d4dd0a22cc2f50dd77cd137ff185ab02be45397e7f0a563ad",
+    "capture-09.html": "910506332b03eab319feb523c9d323e1ae2b74c2fd33bb15d4dbe63f05901dd7",
+    "capture-12.html": "e049438426c62b040a46f85a53d9a424fd6bfe188a556e51e9e020b8e8fcf116"
+  },
+  "handling": "Raw authenticated browser captures retained only in a private temporary directory, not the repository. This file includes selected public page facts only. Cookies are not copied."
+}

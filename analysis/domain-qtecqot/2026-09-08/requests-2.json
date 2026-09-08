@@ -1,0 +1,98 @@
+[
+  {
+    "key": "alias",
+    "url": "https://qtecqot.detomaso.org/",
+    "utc": "2026-09-08T09:05:45.052182+00:00",
+    "exit": 0,
+    "result": "200 https://qtecqot.detomaso.org/",
+    "error": ""
+  },
+  {
+    "key": "alias_logo",
+    "url": "https://qtecqot.detomaso.org/i/logo.png",
+    "utc": "2026-09-08T09:05:44.584347+00:00",
+    "exit": 0,
+    "result": "200 https://qtecqot.detomaso.org/i/logo.png",
+    "error": ""
+  },
+  {
+    "key": "registrar",
+    "url": "https://rdap.instra.com/domain/QTECQOT.COM",
+    "utc": "2026-09-08T09:05:44.782044+00:00",
+    "exit": 0,
+    "result": "200 https://rdap.instra.com/domain/QTECQOT.COM",
+    "error": ""
+  },
+  {
+    "key": "crt_exact",
+    "url": "https://crt.sh/?q=qtecqot.com&output=json",
+    "utc": "2026-09-08T09:05:45.498304+00:00",
+    "exit": 0,
+    "result": "404 https://crt.sh/?q=qtecqot.com&output=json",
+    "error": ""
+  },
+  {
+    "key": "ip_rdap",
+    "url": "https://rdap.db.ripe.net/ip/84.75.144.0",
+    "utc": "2026-09-08T09:05:44.974332+00:00",
+    "exit": 0,
+    "result": "200 https://rdap.db.ripe.net/ip/84.75.144.0",
+    "error": ""
+  },
+  {
+    "key": "alias_dns",
+    "url": "https://dns.google/resolve?name=qtecqot.detomaso.org&type=A",
+    "utc": "2026-09-08T09:05:44.975910+00:00",
+    "exit": 0,
+    "result": "200 https://dns.google/resolve?name=qtecqot.detomaso.org&type=A",
+    "error": ""
+  },
+  {
+    "key": "parent_dns",
+    "url": "https://dns.google/resolve?name=detomaso.org&type=A",
+    "utc": "2026-09-08T09:05:45.162769+00:00",
+    "exit": 0,
+    "result": "200 https://dns.google/resolve?name=detomaso.org&type=A",
+    "error": ""
+  },
+  {
+    "key": "parent_ns",
+    "url": "https://dns.google/resolve?name=detomaso.org&type=NS",
+    "utc": "2026-09-08T09:05:45.168473+00:00",
+    "exit": 0,
+    "result": "200 https://dns.google/resolve?name=detomaso.org&type=NS",
+    "error": ""
+  },
+  {
+    "key": "parent",
+    "url": "https://detomaso.org/",
+    "utc": "2026-09-08T09:05:45.562620+00:00",
+    "exit": 0,
+    "result": "200 https://detomaso.org/",
+    "error": ""
+  },
+  {
+    "key": "index_php",
+    "url": "https://qtecqot.com/index.php",
+    "utc": "2026-09-08T09:05:45.481597+00:00",
+    "exit": 0,
+    "result": "200 https://qtecqot.com/index.php",
+    "error": ""
+  },
+  {
+    "key": "index_html",
+    "url": "https://qtecqot.com/index.html",
+    "utc": "2026-09-08T09:05:45.437186+00:00",
+    "exit": 0,
+    "result": "404 https://qtecqot.com/index.html",
+    "error": ""
+  },
+  {
+    "key": "images_dir",
+    "url": "https://qtecqot.com/i/",
+    "utc": "2026-09-08T09:05:45.735899+00:00",
+    "exit": 0,
+    "result": "403 https://qtecqot.com/i/",
+    "error": ""
+  }
+]

@@ -1,0 +1,153 @@
+{
+  "analysis/domain-qtecqot/2026-09-08/rdap.body": {
+    "source_sha256": "728eafdfcf79cc3022132fedff9fb59cf4f76cfaa546bc956b1a5a9a9f80be7f",
+    "selected_fields": {
+      "ldhName": "QTECQOT.COM",
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2026-08-06T13:17:08Z"
+        },
+        {
+          "eventAction": "expiration",
+          "eventDate": "2027-08-06T13:17:08Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2026-09-05T07:41:10Z"
+        },
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2026-09-08T09:04:35Z"
+        }
+      ],
+      "nameservers": [
+        {
+          "objectClassName": "nameserver",
+          "ldhName": "NS1.NACA1.ARMADASERVERS.COM"
+        },
+        {
+          "objectClassName": "nameserver",
+          "ldhName": "NS2.NACA1.ARMADASERVERS.COM"
+        }
+      ]
+    }
+  },
+  "analysis/domain-qtecqot/2026-09-08/parent_rdap.body": {
+    "source_sha256": "597b49f0424e2ab81641542906adf09d1f2cebd265dc1c90e1fc3fc6787bcb20",
+    "selected_fields": {
+      "ldhName": "detomaso.org",
+      "events": [
+        {
+          "eventAction": "expiration",
+          "eventDate": "2028-05-29T11:17:11.912Z"
+        },
+        {
+          "eventAction": "registration",
+          "eventDate": "2026-05-29T11:17:11.912Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2026-09-05T06:48:41.77Z"
+        },
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2026-09-08T09:07:41.959Z"
+        }
+      ],
+      "nameservers": [
+        {
+          "ldhName": "ns1.naca1.armadaservers.com",
+          "unicodeName": "ns1.naca1.armadaservers.com",
+          "objectClassName": "nameserver",
+          "handle": "16aa1d26c41a48c9a5b660e372c3c789-LROR",
+          "status": [
+            "associated"
+          ]
+        },
+        {
+          "ldhName": "ns2.naca1.armadaservers.com",
+          "unicodeName": "ns2.naca1.armadaservers.com",
+          "objectClassName": "nameserver",
+          "handle": "b89dccdb96404318a0c509bb9b0de92e-LROR",
+          "status": [
+            "associated"
+          ]
+        }
+      ]
+    }
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/zzuss_rdap.body": {
+    "source_sha256": "9644ce24ea424cd75817d4b24cd29ef3e94eff2f0af390409852de43e4eabc9a",
+    "selected_fields": {
+      "ldhName": "ZZUSS.COM",
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2026-07-22T03:18:15Z"
+        },
+        {
+          "eventAction": "expiration",
+          "eventDate": "2027-07-22T03:18:15Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2026-07-22T03:18:15Z"
+        },
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2026-09-08T11:24:49Z"
+        }
+      ],
+      "nameservers": [
+        {
+          "objectClassName": "nameserver",
+          "ldhName": "NS1.JULYDNS.COM"
+        },
+        {
+          "objectClassName": "nameserver",
+          "ldhName": "NS2.JULYDNS.COM"
+        }
+      ]
+    }
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/parking_detomaso_org.body": {
+    "source_sha256": "194d009fcb2baccf9c0510ba7f2da6c94b2abd407a6f7f11db7a37d633d32700",
+    "selected_fields": {
+      "observed_text": "Domain parked by OnlyDomains"
+    }
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/parking_qtecqot_com.body": {
+    "source_sha256": "3a2d5c4cca93c794188160ef8dacc21e324994304355f2fc9076c4733048c6da",
+    "selected_fields": {
+      "observed_text": "Domain parked by OnlyDomains"
+    }
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/ovh_ip_rdap.body": {
+    "source_sha256": "4d5d9c07a7c8f350f26fa537694165336cc3db4cbec2cead0c21cd0dc6214216",
+    "selected_fields": {
+      "name": "OVH-CUST-9663240",
+      "startAddress": "198.50.252.64",
+      "endAddress": "198.50.252.71",
+      "handle": "NET-198-50-252-64-1",
+      "organization_names": [
+        "Instra Corporation Pty Ltd"
+      ]
+    }
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/zzuss_root_2022.body": {
+    "source_sha256": "dc27a45537af1916738fd46135519d4ad72845d09ca04e45d40b4a1c5785ff35",
+    "selected_fields": {
+      "title": "ZZuss.com | We're Indexing the Things you Buy! ",
+      "logo_element": "<img src=\"i/logo.png\" title=\"Shopping made Smooth\">"
+    }
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/zzuss_root_2024.body": {
+    "source_sha256": "7a16750364308761a4ca09df1e36ecfcbf2312027996274378e2debb505a4339",
+    "selected_fields": {
+      "title": "ZZuss.com | We're Indexing the Things you Buy! ",
+      "shared_inline_script": "\nfunction setCookie(key, value) {\n    var expires = new Date();\n    expires.setTime(expires.getTime() + (365 * 24 * 60 * 60 * 1000));\n    document.cookie = key + '=' + value + ';expires=' + expires.toUTCString();\n}\n\n$(document).ready(function(){   \n    setTimeout(function () {\n        $(\"#cookieConsent\").fadeIn(200);\n     }, 4000);\n    $(\"#closeCookieConsent, .cookieConsentOK\").click(function() {\n        $(\"#cookieConsent\").fadeOut(200);\n    }); \n}); \n\nfunction Showme(id) {\n    var x = document.getElementById(id);\n    x.style.display = \"block\";    \n}\n\nfunction Hideme(id) {\n    var x = document.getElementById(id);\n    x.style.display = \"none\";\n}\n\n\nfunction salert(mode)\n{\n\tif (mode == 'success')\n\t\tswal(\"Success!\", \"Look for an information packet in the near future\", \"success\");\n}\n\n\n$(function() {\n  $('#bookmarkme').click(function() {\n    if (window.sidebar && window.sidebar.addPanel) { // Mozilla Firefox Bookmark\n      window.sidebar.addPanel(document.title, window.location.href, '');\n    } else if (window.external && ('AddFavorite' in window.external)) { // IE Favorite\n      window.external.AddFavorite(location.href, document.title);\n    } else if (window.opera && window.print) { // Opera Hotlist\n      this.title = document.title;\n      return true;\n    } else { // webkit - safari/chrome\n      alert('Press ' + (navigator.userAgent.toLowerCase().indexOf('mac') != -1 ? 'Command/Cmd' : 'CTRL') + ' + D to bookmark this page.');\n    }\n  });\n});\n\n\nfunction BMClick(){\n  alert('Press Ctrl + D to bookmark this page');\n}\n\nfunction fadeGo() {\nconst element = document.getElementById('gobutton');\nconsole.log(element.style);\n  // Initilize the opacity with 0.1\n  let initOpacity = 0.1;\n  element.style.display = 'block';\n  // Update the opacity with 0.1 every 10 milliseconds\n  const timer = setInterval(function () {\n    if (initOpacity >= 1) {\n      clearInterval(timer);\n    }\n    element.style.opacity = initOpacity;\n    element.style.filter = 'alpha(opacity=' + initOpacity * 100 + \")\";\n    initOpacity += initOpacity * 0.1;\n  }, 40);\n}\n\n\n",
+      "block_sha256": "b878adbf72587833fd74a4e0f6ddfda45d2bd6543e7acfb61a212fc877a30ce8"
+    }
+  }
+}

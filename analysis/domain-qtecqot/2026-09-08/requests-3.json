@@ -1,0 +1,26 @@
+[
+  {
+    "key": "parent_image",
+    "url": "https://detomaso.org/i/comingsoon.jpg",
+    "utc": "2026-09-08T09:06:59.532533+00:00",
+    "exit": 0,
+    "result": "200",
+    "error": ""
+  },
+  {
+    "key": "parent_wayback",
+    "url": "https://web.archive.org/cdx/search/cdx?url=detomaso.org%2F&output=json&filter=statuscode%3A200&collapse=timestamp%3A4",
+    "utc": "2026-09-08T09:07:04.821054+00:00",
+    "exit": 0,
+    "result": "200",
+    "error": ""
+  },
+  {
+    "key": "parent_crt",
+    "url": "https://crt.sh/?q=%25.detomaso.org&output=json",
+    "utc": "2026-09-08T09:06:59.980961+00:00",
+    "exit": 0,
+    "result": "404",
+    "error": ""
+  }
+]

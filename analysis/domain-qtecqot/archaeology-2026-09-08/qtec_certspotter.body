@@ -1,0 +1,13 @@
+[
+	{
+		"id":"16998521739",
+		"tbs_sha256":"288e08318fcf40a54ed414ca1b6b13a0784cb6318ff3ae3cff33d26554c6c2c2",
+		"cert_sha256":"7624c4b449be95acf1b283d1a715018e53c8a5814e67ecc4999b0e2ca81821d5",
+		"dns_names":["*.qtecqot.com","qtecqot.com","qtecqot.detomaso.org","www.qtecqot.detomaso.org"],
+		"pubkey_sha256":"eacdd03ea6d3cada36ed07eb83c951cdc9d69d744e0bac1730e5093d9d6ee17d",
+		"issuer":{"friendly_name":"Let's Encrypt","pubkey_sha256":"2e8307068b6db620e4a39d068b5dee5d6ef5788cbb2c0b6d23ead84fcc17178c","name":"C=US, O=Let's Encrypt, CN=YR1"},
+		"not_before":"2026-09-05T07:11:30Z",
+		"not_after":"2026-12-04T07:11:29Z",
+		"revoked":false
+	}
+]
