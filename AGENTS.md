@@ -53,6 +53,9 @@ identified as AV1 tile artefacts. `bin/frames` makes frames; `frames/README.md` 
 
 ## Local facts
 
+- Live monitors run in `../new-skinny-bob-capture` on the local-only `local/capture`
+  branch. Keep `main` for reviewed publication; do not merge the capture branch.
+  [watch/README.md](watch/README.md) documents operation and backups.
 - **`python3.12`**, not `python3`.
 - `analysis/` is one-off scripts with absolute paths, not a pipeline — nothing reruns end to
   end. `analysis/README.md` maps it and explains why a referenced file may be missing.

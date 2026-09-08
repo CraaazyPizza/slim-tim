@@ -588,12 +588,13 @@ def wayback_save(sid):
 
 
 def git_commit(msg):
-    """Get the capture off this box. Only touches watch/x/."""
+    """Checkpoint X captures locally without consuming unrelated staged work."""
     import subprocess
     try:
         subprocess.run(["git", "-C", os.path.dirname(ROOT), "add", "watch/x"],
                        check=True, capture_output=True, timeout=60)
-        r = subprocess.run(["git", "-C", os.path.dirname(ROOT), "commit", "-m", msg],
+        r = subprocess.run(["git", "-C", os.path.dirname(ROOT), "commit", "--only",
+                            "-m", msg, "--", "watch/x"],
                            capture_output=True, timeout=60, text=True)
         return "committed" if r.returncode == 0 else f"nothing to commit ({r.stdout.strip()[:60]})"
     except Exception as e:

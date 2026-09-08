@@ -33,12 +33,13 @@
 # Usage:  keeper.sh [boot]     "boot" forces a catch-up pass regardless of staleness.
 # Cron:   see the @reboot and hourly lines in crontab.
 
-REPO="/home/user/new-skinny-bob"
+REPO="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 LOG="$REPO/watch/x/keeper.log"
 LOCK="$REPO/watch/x/.keeper.lock"
 CHECKLOG="$REPO/watch/x/check.log"
 HEALTH="$REPO/watch/x/health.json"
 VIEWER_LOG="$REPO/watch/x/viewer-server.log"
+PUSH_HOLD="$(git -C "$REPO" rev-parse --git-path qtecqot-no-autopush)"
 PUBLISH_BRANCH="main"           # where this repo's work actually lives
 STALE_MIN=10                    # a */2 job silent this long is not idle, it is broken
 
@@ -83,7 +84,7 @@ ensure_viewer() {
   say "offline viewer is not running -- starting it on 127.0.0.1:8765"
   cd "$REPO/watch" || return 1
   /usr/bin/setsid $PY serve_timeline.py --bind 127.0.0.1 --port 8765 \
-    >> "$VIEWER_LOG" 2>&1 < /dev/null &
+    >> "$VIEWER_LOG" 2>&1 < /dev/null 9>&- &
 }
 
 # --- 4. is the watcher succeeding, not merely firing -------------------------------
@@ -112,6 +113,19 @@ catch_up() {
 # --- 3. get the captures off this disk ---------------------------------------------
 flush() {
   cd "$REPO" || return 1
+
+  # Capture branches can contain unreviewed material. They never publish to main.
+  if [ "$($GIT branch --show-current)" != "$PUBLISH_BRANCH" ]; then
+    say "local capture branch; automatic publication disabled"
+    return 0
+  fi
+
+  # A local, untracked hold lets a human keep reviewed work private without
+  # disabling capture, health checks, or local commits. Remove the file to resume.
+  if [ -e "$PUSH_HOLD" ]; then
+    say "automatic push held by $PUSH_HOLD; commits remain local"
+    return 0
+  fi
 
   # GITHUB_TOKEN resolves to the wrong account on this box. Cron does not have it in
   # its environment today, but unset it anyway so this keeps working if that changes.

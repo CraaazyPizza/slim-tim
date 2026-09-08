@@ -25,7 +25,7 @@ REPO = ROOT.parent
 CONFIG = ROOT / "timeline" / "publication.json"
 ALLOWED_MEDIA_ROOTS = ((ROOT / "x" / "media").resolve(),
                        (REPO / "qtecqot-x-recovered" / "media").resolve())
-PUBLIC_SOURCE_HOSTS = {"web.archive.org"}
+PUBLIC_SOURCE_HOSTS = {"web.archive.org", "www.youtube.com", "youtube.com"}
 
 
 def sha256(path: Path) -> str:

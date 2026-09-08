@@ -47,9 +47,7 @@ Thumbs.db
 watch/*.log
 
 # xwatch: rotating logs. The evidence (raw/, media/, state.json, CHANGELOG.md) is tracked.
-watch/x/check.log
-watch/x/cron.log
-watch/x/keeper.log
+watch/x/*.log
 watch/x/.keeper.lock
 watch/x/.xwatch.lock
 watch/x/state.json.bak
@@ -73,3 +71,11 @@ qtecqot-x-recovered/image copy*.png
 qtecqot-x-recovered/Screenshot*.png
 qtecqot-x-recovered/REDDIT_DRAFT.md
 qtecqot-x-recovered/PREDICTIONS.md
+
+# Domain research has a reviewed, explicitly enumerated publication manifest.
+# Existing published files remain tracked; add new evidence only after review.
+/analysis/domain-qtecqot/
+
+# Original user attachments stay local; the reviewed crop/logo are tracked below.
+/chrome_yQEypwwsdS.png
+/logo.png

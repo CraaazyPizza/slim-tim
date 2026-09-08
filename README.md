@@ -227,6 +227,11 @@ careful.
 | `docs/PITFALLS.md` | the same notes at length: five hallucinations, and the habits that catch them |
 | `requirements.txt` | the pinned Python dependencies, same as the Codespace image |
 
+The [monitor operations guide](watch/README.md) explains the separate local capture
+checkout and how reviewed evidence reaches GitHub. The
+[domain investigation index](analysis/domain-qtecqot/README.md) covers the September 8
+qtecqot / DeTomaso / Zzuss research.
+
 `analysis/` is a record of what was actually run, not a tidy library. Directory
 names say what the work was about: `cyrillic/`, `hand-proportions/`,
 `timecode-ticks/`, `symbol-panel/`, `corner-dots/`, `compare-eras/`. Some of it is
