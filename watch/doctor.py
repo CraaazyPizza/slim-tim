@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import shutil
 import subprocess
 import sys
 import urllib.request
@@ -32,6 +33,11 @@ def main() -> int:
         state = json.loads((XDIR / "state.json").read_text())
         statuses = state["handles"]["qtecqot"]["statuses"]
         passes.append(f"state JSON valid: {len(statuses)} known status IDs")
+        full = state["handles"]["qtecqot"].get("official_x", {}).get("backfilled_at")
+        if not full or age_minutes(full) > 90:
+            warnings.append(f"full X timeline enumeration stale or missing: {full}")
+        else:
+            passes.append(f"full X timeline enumeration current: {age_minutes(full):.1f} minutes")
     except Exception as exc:
         failures.append(f"state JSON unusable: {type(exc).__name__}: {exc}")
 
@@ -84,6 +90,11 @@ def main() -> int:
         with urllib.request.urlopen("http://127.0.0.1:8765/timeline/data.json", timeout=3) as response:
             viewer = json.loads(response.read())
         passes.append(f"localhost viewer responding: {viewer['counts']['entries']} entries")
+        if age_minutes(viewer["generated_at"]) > 10:
+            failures.append("viewer data is stale despite the server responding")
+        missing = viewer["counts"].get("missing_media_assets", 0)
+        if missing:
+            warnings.append(f"viewer identifies {missing} expected attachments without local bytes")
     except Exception as exc:
         failures.append(f"localhost viewer unavailable: {type(exc).__name__}: {exc}")
 
@@ -91,6 +102,26 @@ def main() -> int:
         passes.append("official X API bearer token configured (value not displayed)")
     else:
         warnings.append("official X API bearer token not configured; reply coverage is degraded")
+
+    try:
+        youtube = json.loads((ROOT / "youtube" / "index.json").read_text())
+        if age_minutes(youtube["generated_at"]) > 120:
+            failures.append("YouTube content capture is stale (>120 minutes)")
+        else:
+            passes.append(f"YouTube index current: {len(youtube['videos'])} videos")
+        for vid, entry in youtube["videos"].items():
+            if not entry.get("download", {}).get("files"):
+                warnings.append(f"YouTube {vid}: no completed video download")
+            for leg, detail in entry.get("errors", {}).items():
+                warnings.append(f"YouTube {vid} {leg}: {detail}")
+    except Exception as exc:
+        warnings.append(f"YouTube content index unavailable: {type(exc).__name__}")
+
+    free = shutil.disk_usage(ROOT).free / 1024**3
+    if free < 1:
+        failures.append(f"archive disk nearly full: {free:.1f} GiB free")
+    elif free < 10:
+        warnings.append(f"archive disk space low: {free:.1f} GiB free")
 
     for line in passes:
         print(f"PASS  {line}")

@@ -9,6 +9,7 @@ and observed third-party timeline items distinct.
 from __future__ import annotations
 
 import json
+import archive_assets
 import re
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -112,7 +113,7 @@ def referenced_media(v2: dict, kind: str) -> list[dict]:
         if media.get("type") in ("video", "animated_gif"):
             variants = [v for v in media.get("variants") or []
                         if v.get("content_type") == "video/mp4"]
-            variants.sort(key=lambda v: v.get("bit_rate") or 0, reverse=True)
+            variants.sort(key=lambda v: v.get("bit_rate") or v.get("bitrate") or 0, reverse=True)
             if variants:
                 url = variants[0].get("url")
         found.append({"kind": media.get("type") or "media", "url": url,
@@ -120,10 +121,26 @@ def referenced_media(v2: dict, kind: str) -> list[dict]:
     return found
 
 
-def local_media(status_id: str, allow: bool) -> list[dict]:
+def local_media(status_id: str, allow: bool, expected=None) -> list[dict]:
     if not allow:
         return []
     files = []
+    manifest = archive_assets.manifest_path(XDIR / "media", status_id)
+    if manifest.exists():
+        assets = read_json(manifest)["assets"]
+        wanted = [archive_assets.canonical_url(m["url"]) for m in expected or [] if m.get("url")]
+        for url in dict.fromkeys(wanted):
+            item = assets.get(url) or {}
+            path = XDIR / "media" / item.get("file", ".missing")
+            if item.get("status") == "held" and path.is_file():
+                kind = "video" if path.suffix in (".mp4", ".webm", ".mov") else "image"
+                files.append({"kind": kind, "src": f"../x/media/{path.name}", "url": url,
+                              "label": "URL-matched archived attachment", "bytes": path.stat().st_size,
+                              "sha256": item.get("sha256")})
+            else:
+                files.append({"kind": "missing", "url": url, "label": "Asset unavailable locally",
+                              "gone": item.get("status") == "unavailable"})
+        return files
     for path in sorted((XDIR / "media").glob(f"{status_id}_*")):
         suffix = path.suffix.lower()
         if suffix in (".jpg", ".jpeg", ".png", ".webp", ".gif"):
@@ -215,7 +232,7 @@ def normalize(status_id: str, state_meta: dict, current: dict | None,
         author = {"handle": fx_handle or v2_author.get("username") or ACCOUNT,
                   "name": fx_author.get("name") or v2_author.get("name") or ACCOUNT,
                   "avatar": fx_author.get("avatar_url") or v2_author.get("profile_image_url")}
-        text = fx.get("text") or expanded_text(v2_data)
+        text = expanded_text(v2_data) if official else (fx.get("text") or expanded_text(v2_data))
         metric_source = fx or v2_data.get("public_metrics") or {}
 
     wrapper_at = iso_time(v2_data.get("created_at"))
@@ -230,14 +247,13 @@ def normalize(status_id: str, state_meta: dict, current: dict | None,
 
     is_explicit_timeline_record = bool(v2 or fx_handle.lower() == ACCOUNT or
                                        (fx.get("reposted_by") or {}).get("screen_name") == ACCOUNT)
-    allow_media = bool(current) or kind == "repost"
-    media = local_media(status_id, allow_media)
     remote_media = referenced_media(v2, kind) if v2 else []
     if current:
         all_media = ((fx.get("media") or {}).get("all") or [])
         remote_media = [{"kind": item.get("type") or "media", "url": item.get("url"),
                          "label": "media URL in captured record"} for item in all_media]
 
+    media = local_media(status_id, bool(remote_media) or bool(current and not v2), remote_media)
     missing = []
     if len(media) < len(remote_media):
         for item in remote_media[len(media):]:
@@ -312,7 +328,25 @@ def normalize(status_id: str, state_meta: dict, current: dict | None,
     if kind in ("post", "reply", "repost"):
         canonical_url = f"https://x.com/{ACCOUNT}/status/{status_id}"
 
+    context = []
+    for ref in refs:
+        if ref.get("type") in ("retweeted", "reposted"):
+            continue
+        post = v2_tweets.get(str(ref.get("id"))) or {}
+        user = v2_users.get(str(post.get("author_id"))) or {}
+        context.append({"id": str(ref.get("id")), "relation": ref.get("type"),
+                        "author_handle": user.get("username"), "text": expanded_text(post),
+                        "media": local_media(f"{status_id}-context", True,
+                            referenced_media({"data": post, "includes": v2_includes}, "post")),
+                        "captured": bool(post)})
+    quote = fx.get("quote") or {}
+    if quote and str(quote.get("id")) not in {c["id"] for c in context}:
+        context.append({"id": str(quote.get("id")), "relation": "quoted",
+                        "author_handle": (quote.get("author") or {}).get("screen_name"),
+                        "text": quote.get("text"), "captured": True})
+
     return {
+        "context": context,
         "id": status_id,
         "status_id": status_id,
         "kind": kind,
@@ -499,12 +533,21 @@ def build_data() -> dict:
             },
             "detection_floor": (
                 "The schedule runs every 2 minutes. With official X configured, each delta poll "
-                "can enumerate up to 100 new posts/replies since the prior ID; a five-item edit "
+                "drains all returned pages since the prior ID; an hourly full timeline and five-item edit "
                 "probe runs every 10 minutes. Known statuses are swept at least every 30 minutes "
                 "and immediately when profile counters move. A post created and deleted entirely "
                 "between polls can still evade body capture, and no source can prove that such an "
                 "event did not occur."
             ),
+        },
+        "archive": {
+            "youtube": read_json(ROOT / "youtube" / "index.json") if (ROOT / "youtube" / "index.json").exists() else {},
+            "profile": "../x/profiles/qtecqot.json" if (XDIR / "profiles" / "qtecqot.json").exists() else None,
+            "profile_revisions": len(list((XDIR / "revisions" / "profile-qtecqot").glob("*.json"))),
+            "full_enumeration": (handle_state.get("official_x") or {}).get("backfilled_at"),
+            "limits": ["X: public posts/replies/reposts, supplied reply/quote context, media, profile revisions and following-list snapshots. Private likes, DMs and content deleted between polls are not observable.",
+                       "YouTube: channel RSS, watch pages, descriptions, player metadata, thumbnails, best available AVC video/audio and daily comment extraction. Each failing component is shown below.",
+                       "Other platforms: no verified Instagram account or broader web-presence monitor is configured."],
         },
         "entries": entries,
     }
@@ -547,6 +590,7 @@ HTML = r'''<!doctype html>
     <div class="bio-line" id="profileStats"></div>
     <div class="warning hidden" id="healthWarning"></div>
   </header>
+  <section class="system" id="archiveCoverage"></section>
   <section class="summary" id="summary"></section>
   <section class="system" id="systemHealth"></section>
   <section class="controls" aria-label="Timeline controls">
@@ -597,6 +641,7 @@ function renderEntry(entry){const article=el('article','entry'+(entry.state==='d
   if(entry.kind==='reply'){const ctx=el('div','reply-context');ctx.append(document.createTextNode('Replying to '+(entry.parent_handle?'@'+entry.parent_handle:'status')));if(entry.parent_id){const p=el('a','', ' '+entry.parent_id);p.href='#status-'+entry.parent_id;ctx.append(p)}main.append(ctx)}
   if(entry.kind==='repost'||entry.kind==='timeline_item')main.append(el('div','reply-context','Reposted/timeline content originally by @'+(entry.author?.handle||'unknown')+'. Engagement below belongs to the original post.'));
   const text=el('div','text');appendLinkedText(text,entry.text||'[No text; media-only post]');main.append(text);renderMedia(entry,main);
+  for(const ctx of entry.context||[]){const box=el('details','reply-context');box.append(el('summary','',(ctx.relation||'Context')+' · '+(ctx.author_handle?'@'+ctx.author_handle:ctx.id)));box.append(el('div','text',ctx.captured?(ctx.text||'[Media-only context; see raw record]'):'Context body was not supplied by the source.'));const link=el('a','','Open context on X');link.href='https://x.com/i/status/'+ctx.id;link.target='_blank';link.rel='noreferrer';box.append(link);renderMedia(ctx,box);main.append(box)}
   if(entry.archive_note){const note=el('div','archive-note');note.append(el('strong','','Archive note: '),document.createTextNode(entry.archive_note));if(entry.related_status_id){const related=el('a','',entry.related_status_label||'Related status');related.href='#status-'+entry.related_status_id;note.append(related)}main.append(note)}
   const metrics=el('div','metrics');for(const [name,value] of Object.entries(entry.metrics||{})){const m=el('span','metric');m.title=name;m.append(el('span','',metricIcon(name)),el('span','',num(value)));metrics.append(m)}if(metrics.children.length)main.append(metrics);
   if(entry.state==='deleted'){const note=el('div','deleted-note');note.append(el('strong','',entry.status_id?'Deleted status. ':'Deleted screenshot-only status. '),document.createTextNode(entry.deletion_label||'Deletion time unknown.'));main.append(note)}
@@ -611,6 +656,19 @@ function matches(entry,query){if(!query)return true;const hay=[entry.text,entry.
 function inFilter(entry){if(active==='all')return true;if(active==='deleted')return entry.state==='deleted';if(active==='media')return entry.media?.some(m=>m.src);if(active==='missing')return entry.media?.some(m=>m.kind==='missing');if(active==='reposts')return ['repost','timeline_item'].includes(entry.kind);return entry.kind===active}
 function render(){const query=search.value.trim().toLowerCase();let entries=DATA.entries.filter(e=>inFilter(e)&&matches(e,query));entries.sort((a,b)=>(a.timeline_at||'').localeCompare(b.timeline_at||'')*(sort.value==='oldest'?1:-1));timeline.replaceChildren(...entries.map(renderEntry));if(!entries.length)timeline.append(el('div','empty','No archived entries match.'));document.querySelector('#resultCount').textContent=entries.length+' of '+DATA.entries.length+' entries shown'}
 
+const coverage=document.querySelector('#archiveCoverage');
+if(DATA.publication){coverage.append(el('strong','','Reviewed public snapshot · '+time(DATA.publication.reviewed_at)),el('p','',DATA.publication.note))}
+else {const a=DATA.archive||{};coverage.append(el('h2','','Archive coverage'),el('p','','Local archive built '+time(DATA.generated_at)+'. Last full X enumeration: '+time(a.full_enumeration)+'.'));
+for(const limit of a.limits||[])coverage.append(el('p','',limit));
+if(a.profile){const link=el('a','','Saved X profile · '+a.profile_revisions+' revisions');link.href=a.profile;coverage.append(link)}
+const yt=a.youtube||{};coverage.append(el('h2','','YouTube · '+Object.keys(yt.videos||{}).length+' known videos'));
+for(const [id,v] of Object.entries(yt.videos||{})){const box=el('details');box.append(el('summary','',v.title||id));box.append(el('p','','Page last captured: '+time(v.captured_at)+'. Comments held: '+(v.comments?.comments_held??'not captured')+'.'));
+for(const [label,file] of [['Description','description.txt'],['Metadata',v.captured_at?'latest.json':'rss-latest.json']]){const link=el('a','',label+' · ');link.href='../youtube/videos/'+id+'/'+file;box.append(link)}
+if(v.comments?.captured_at){const link=el('a','','Read archived comments · ');link.href='../youtube/videos/'+id+'/comments/'+v.comments.captured_at.slice(0,10)+'/index.html';box.append(link)}
+for(const f of v.download?.files||[]){const link=el('a','','Saved video ('+bytes(f.bytes)+') · ');link.href='../youtube/videos/'+id+'/download/'+f.file;box.append(link)}
+for(const [leg,error] of Object.entries(v.errors||{}))box.append(el('p','deleted-note',leg+': '+error));coverage.append(box)}
+for(const [key,value] of Object.entries(yt.errors||{})){if(!yt.videos?.[key])coverage.append(el('p','deleted-note',key+': '+JSON.stringify(value)))}
+}
 document.querySelector('#profileName').textContent=DATA.account.name;const ps=document.querySelector('#profileStats');for(const [label,value] of [['followers',DATA.account.followers],['following',DATA.account.following],['posts now',DATA.account.posts],['likes given',DATA.account.likes]]){const span=el('span');span.append(el('strong','',num(value)),' '+label);ps.append(span)}
 const summaryItems=[['entries',DATA.counts.entries],['deleted',DATA.counts.deleted],['replies',DATA.counts.replies],['reposts',DATA.counts.reposts],['with media',DATA.counts.with_media]];const summary=document.querySelector('#summary');for(const [label,value] of summaryItems){const s=el('div','stat');s.append(el('b','',String(value)),el('span','',label));summary.append(s)}
 if(DATA.health.reply_discovery_degraded){const warning=document.querySelector('#healthWarning');warning.classList.remove('hidden');warning.append(el('strong','','Coverage warning: '),document.createTextNode(DATA.health.coverage_note+(DATA.health.reply_discovery_failure_since?' Failure recorded since '+time(DATA.health.reply_discovery_failure_since)+'.':'')))}

@@ -11,6 +11,20 @@ I'm not working on these right now. Take any of them.
 
 ---
 
+## Current uploader checks and archive coverage
+
+The September 8 [presence audit](reports/qtecqot-presence-audit-2026-09-08.md) tracks
+new release promises, the mantis-background claim, description clues, and the reported
+change in email delivery behavior. It also records what the repaired watcher actually
+archives and what is still inaccessible.
+
+**`[H]` Fourth 2026 upload:** `bg1BmaF6AJA`, published August 25. Its description is
+archived, but its video/comments require an age-verified YouTube session. Once captured,
+map its fragments and score the earlier Tape 7/colour prediction. Existing seven-video
+measurements do not yet cover this release.
+
+---
+
 ## Start here: rerun the soft calls on the better copy
 
 **`[H]`** Everything in this repo was measured on the thinner of two available copies of the

@@ -92,6 +92,7 @@ def copy_reviewed_media(entry: dict, output: Path, reviewed_hashes: set[str],
 def sanitize_entry(entry: dict, output: Path, reviewed_hashes: set[str],
                    assets: dict[str, dict]) -> dict:
     result = copy.deepcopy(entry)
+    result.pop("context", None)  # Context requires its own publication review.
     author = result.get("author") or {}
     handle = author.get("handle") or "unknown"
     # Handles are timeline context. Remote avatars and real-name display fields are
@@ -128,6 +129,7 @@ def build(output: Path) -> dict:
     reviewed_hashes = set(config["include_asset_sha256"])
 
     data = build_timeline.build_data()
+    data.pop("archive", None)  # Local YouTube/profile records are not implicitly published.
     held = {entry["id"]: entry for entry in data["entries"]}
     missing = [status_id for status_id in included_ids if status_id not in held]
     if missing:
@@ -173,7 +175,7 @@ def build(output: Path) -> dict:
     notice = ("<section class=\"system\"><strong>Public snapshot.</strong> "
               "Every included entry and media asset was reviewed before publication. "
               "The local watcher continues updating separately.</section>")
-    html = html.replace("<main>", "<main>" + notice, 1)
+    html = html.replace('<main class="shell">', '<main class="shell">' + notice, 1)
 
     (output / ".nojekyll").write_text("", encoding="utf-8")
     (output / "data.json").write_text(json_text + "\n", encoding="utf-8")

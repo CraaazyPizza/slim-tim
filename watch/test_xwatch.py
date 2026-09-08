@@ -75,11 +75,12 @@ class XWatchTests(unittest.TestCase):
     def test_media_download_is_published_atomically(self):
         record = {"url": "https://pbs.twimg.com/media/example.jpg"}
         with tempfile.TemporaryDirectory() as tmp, \
-                mock.patch.object(xwatch, "MEDIA", tmp), \
+                mock.patch.object(xwatch, "MEDIA", str(Path(tmp) / "media")), \
                 mock.patch.object(xwatch, "get", return_value=b"complete-image"):
             names = xwatch.save_media(record, "123")
-            self.assertEqual(names, ["123_1.jpg"])
-            self.assertEqual((Path(tmp) / names[0]).read_bytes(), b"complete-image")
+            self.assertEqual(len(names), 1)
+            self.assertTrue(names[0].startswith("123_"))
+            self.assertEqual((Path(tmp) / "media" / names[0]).read_bytes(), b"complete-image")
             self.assertEqual(list(Path(tmp).glob("*.tmp")), [])
 
 

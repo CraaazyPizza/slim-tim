@@ -19,6 +19,54 @@ class Response(io.BytesIO):
 
 
 class XApiClientTests(unittest.TestCase):
+    def test_following_paginates_without_restricted_fields(self):
+        calls = []
+        def opener(request, timeout):
+            query = urllib.parse.parse_qs(urllib.parse.urlsplit(request.full_url).query)
+            self.assertNotIn("parody", query["user.fields"][0].split(","))
+            calls.append(query)
+            result = {"data": [{"id": str(len(calls))}], "meta": {}}
+            if len(calls) == 1:
+                result["meta"]["next_token"] = "next"
+            return Response(json.dumps(result).encode())
+        result = xapi_client.get_following("42", "token", opener=opener)
+        self.assertEqual(len(result), 2)
+        self.assertEqual(calls[1]["pagination_token"], ["next"])
+
+    def test_delta_drains_pages_and_keeps_same_since_cursor(self):
+        calls, saved = [], []
+        def opener(request, timeout):
+            query = urllib.parse.parse_qs(urllib.parse.urlsplit(request.full_url).query)
+            calls.append(query)
+            payload = ({"data": [{"id": "3"}], "meta": {"next_token": "page2"}}
+                       if len(calls) == 1 else {"data": [{"id": "2"}], "meta": {}})
+            return Response(json.dumps(payload).encode())
+        result = xapi_client.get_user_posts("42", "token", "now", full_backfill=False,
+                                            since_id="1", opener=opener,
+                                            on_page=lambda payload, page: saved.append(payload))
+        self.assertEqual(set(result.records), {"2", "3"})
+        self.assertTrue(result.complete)
+        self.assertEqual(result.newest_id, "3")
+        self.assertEqual(len(saved), 2)
+        self.assertEqual([q["since_id"] for q in calls], [["1"], ["1"]])
+
+    def test_partial_failure_keeps_received_page(self):
+        saved = []
+        def opener(request, timeout):
+            if saved:
+                raise TimeoutError("second page failed")
+            return Response(json.dumps({"data": [{"id": "3"}], "meta": {"next_token": "next"}}).encode())
+        with self.assertRaises(xapi_client.XApiError):
+            xapi_client.get_user_posts("42", "token", "now", full_backfill=False, since_id="1",
+                                       opener=opener, on_page=lambda payload, page: saved.append(payload))
+        self.assertEqual(saved[0]["data"][0]["id"], "3")
+
+    def test_http_200_error_is_not_empty_success(self):
+        def opener(request, timeout):
+            return Response(b'{"errors":[{"detail":"unavailable"}]}')
+        with self.assertRaises(xapi_client.XApiError):
+            xapi_client.get_user_posts("42", "token", "now", full_backfill=True, opener=opener)
+
     def test_credentials_file_is_parsed_without_shell_evaluation(self):
         with tempfile.TemporaryDirectory() as tmp:
             path = Path(tmp) / "watch.env"
@@ -100,7 +148,7 @@ class XApiClientTests(unittest.TestCase):
         self.assertEqual(record["includes"]["posts"][0]["id"], "2000000000000000000")
         self.assertEqual(record["includes"]["media"][0]["media_key"], "3_video")
 
-    def test_recent_poll_is_one_page_even_if_next_token_exists(self):
+    def test_edit_probe_is_one_page_even_if_next_token_exists(self):
         payload = {
             "data": [{"id": "2000000000000000002", "text": "latest", "author_id": "42"}],
             "meta": {"newest_id": "2000000000000000002", "next_token": "ignored"},
@@ -113,12 +161,12 @@ class XApiClientTests(unittest.TestCase):
 
         result = xapi_client.get_user_posts(
             "42", "token", "now", full_backfill=False, max_results=5,
-            since_id="2000000000000000001", opener=opener)
+            opener=opener)
         self.assertEqual(len(calls), 1)
         self.assertFalse(result.complete)
         self.assertEqual(result.result_count, 1)
         query = urllib.parse.parse_qs(urllib.parse.urlparse(calls[0]).query)
-        self.assertEqual(query["since_id"], ["2000000000000000001"])
+        self.assertNotIn("since_id", query)
 
 
 if __name__ == "__main__":

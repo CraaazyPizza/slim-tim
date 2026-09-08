@@ -17,7 +17,10 @@ Usage:  python3.12 watch/watch.py            # fetch, snapshot, diff, log
         python3.12 watch/watch.py --quiet    # only print when something changed
 Exit code 10 = something changed (useful for cron/alerting).
 """
-import json, os, sys, urllib.request, xml.etree.ElementTree as ET
+import fcntl, json, os, sys, urllib.request, xml.etree.ElementTree as ET
+from pathlib import Path
+import archive_assets
+import youtube_archive
 from datetime import datetime, timezone
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -50,6 +53,8 @@ def parse(xml):
                "updated": e.findtext('a:updated', namespaces=NS)}
         g = e.find('media:group', NS)
         if g is not None:
+            rec["description"] = g.findtext("media:description", namespaces=NS)
+            rec["thumbnails"] = [dict(t.attrib) for t in g.findall("media:thumbnail", NS)]
             c = g.find('media:community', NS)
             if c is not None:
                 st = c.find('media:statistics', NS); sr = c.find('media:starRating', NS)
@@ -78,9 +83,11 @@ def diff(name, old, new):
             ch.append(f"★★ {name}/{vid}: TITLE CHANGED {o['title']!r} -> {n['title']!r}")
         if o["updated"] != n["updated"]:
             ch.append(f"★★ {name}/{vid}: METADATA EDITED (updated {o['updated']} -> {n['updated']}) "
-                      f"— check the description")
+                      f"— captured description and watch page are checked below")
         if o["published"] != n["published"]:
             ch.append(f"★★ {name}/{vid}: PUBLISHED TIME CHANGED {o['published']} -> {n['published']}")
+        if "description" in o and o.get("description") != n.get("description"):
+            ch.append(f"★★ {name}/{vid}: DESCRIPTION CHANGED — prior/current text retained in snapshots")
         for k in ("views", "likes"):
             if k in o and k in n and o[k] != n[k]:
                 ch.append(f"    {name}/{vid}: {k} {o[k]} -> {n[k]} ({n[k]-o[k]:+d})")
@@ -91,20 +98,27 @@ def latest_snapshot():
     the runs where something changed, so compare against latest.json."""
     p = os.path.join(ROOT, "latest.json")
     if os.path.exists(p):
-        return json.load(open(p))
+        return json.loads(Path(p).read_text())
     files = sorted(f for f in os.listdir(SNAPS) if f.endswith(".json"))
     return json.load(open(os.path.join(SNAPS, files[-1]))) if files else None
 
 def main():
     quiet = "--quiet" in sys.argv
     os.makedirs(SNAPS, exist_ok=True)
+    lock_file = open(os.path.join(ROOT, ".youtube.lock"), "w")
+    try:
+        fcntl.flock(lock_file, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except BlockingIOError:
+        return 0
     now = datetime.now(timezone.utc)
     stamp = now.strftime("%Y-%m-%dT%H%M%SZ")
     prev = latest_snapshot()
-    cur = {"fetched_utc": now.isoformat(), "channels": {}, "errors": {}}
+    cur = {"fetched_utc": now.isoformat(), "channels": dict((prev or {}).get("channels") or {}), "errors": {}}
     for name, cid in CHANNELS.items():
         try:
-            cur["channels"][name] = parse(fetch(cid))
+            body = fetch(cid)
+            archive_assets.atomic_bytes(Path(ROOT) / "youtube" / "feeds" / name / f"{stamp}.xml", body)
+            cur["channels"][name] = parse(body)
         except Exception as e:
             # A fetch failure is NOT evidence of absence -- record it as an error.
             cur["errors"][name] = f"{type(e).__name__}: {e}"
@@ -122,19 +136,35 @@ def main():
     # Keep a snapshot file only when something changed; otherwise just record the check.
     # Avoids accumulating ~48 identical 2 KB files a day.
     if lines:
-        json.dump(cur, open(os.path.join(SNAPS, f"{stamp}.json"), "w"), indent=1)
-    json.dump(cur, open(os.path.join(ROOT, "latest.json"), "w"), indent=1)
+        archive_assets.atomic_json(Path(SNAPS) / f"{stamp}.json", cur)
+    archive_assets.atomic_json(Path(ROOT) / "latest.json", cur)
+    events, capture_errors = youtube_archive.run(
+        ((cur["channels"].get("qtecqot") or {}).get("videos") or {}), retry="--retry" in sys.argv)
+    lines.extend(events)
+    real.extend(events)
+    for vid, detail in capture_errors.items():
+        lines.append(f"    ! YouTube capture {vid}: {detail}")
     with open(os.path.join(ROOT, "checks.log"), "a") as w:
         w.write(f"{now.isoformat()} changes={len(lines)} errors={len(cur['errors'])}\n")
     if lines:
         with open(CHANGELOG, "a") as w:
             w.write(f"\n## {now.isoformat()}\n\n")
             for l in lines: w.write(f"- {l}\n")
+    if "--commit" in sys.argv:
+        import subprocess
+        # Explicit evidence roots; unrelated staged work stays staged.
+        paths = ["watch/youtube", "watch/snapshots", "watch/latest.json", "watch/CHANGELOG.md"]
+        subprocess.run(["git", "add", "--", *paths], cwd=Path(ROOT).parent, check=True)
+        changed = subprocess.run(["git", "diff", "HEAD", "--quiet", "--", *paths], cwd=Path(ROOT).parent)
+        if changed.returncode:
+            subprocess.run(["git", "commit", "--only", "-m", f"youtube: archive checkpoint {stamp}",
+                            "--", *paths], cwd=Path(ROOT).parent, check=True)
     if lines and (not quiet or real):
         print(f"[{now.isoformat()}] {len(lines)} change line(s):")
         for l in lines: print("  " + l)
     elif not quiet:
         print(f"[{now.isoformat()}] no changes")
+    lock_file.close()
     return 10 if real else 0
 
 if __name__ == "__main__":

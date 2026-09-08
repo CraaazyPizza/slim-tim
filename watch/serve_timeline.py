@@ -28,14 +28,17 @@ class ArchiveHandler(SimpleHTTPRequestHandler):
             clean = "/timeline/"
         if clean.startswith("/timeline/"):
             relative = os.path.join("watch", clean.lstrip("/"))
-        elif clean.startswith("/x/"):
+            allowed = os.path.join(REPO, "watch", "timeline")
+        elif clean.startswith(("/x/", "/youtube/")):
             relative = os.path.join("watch", clean.lstrip("/"))
+            allowed = os.path.join(REPO, "watch", clean.split("/")[1])
         elif clean.startswith("/qtecqot-x-recovered/"):
             relative = clean.lstrip("/")
+            allowed = os.path.join(REPO, "qtecqot-x-recovered")
         else:
             return os.path.join(REPO, ".route-not-found")
         target = os.path.realpath(os.path.join(REPO, relative))
-        if os.path.commonpath((REPO, target)) != REPO:
+        if os.path.commonpath((allowed, target)) != allowed:
             return os.path.join(REPO, ".route-not-found")
         return target
 

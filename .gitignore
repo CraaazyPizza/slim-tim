@@ -79,3 +79,8 @@ qtecqot-x-recovered/PREDICTIONS.md
 # Original user attachments stay local; the reviewed crop/logo are tracked below.
 /chrome_yQEypwwsdS.png
 /logo.png
+
+# YouTube capture lock and downloader partials are runtime files.
+watch/.youtube.lock
+watch/youtube/**/*.part
+watch/youtube/**/*.ytdl

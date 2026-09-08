@@ -41,7 +41,7 @@ MEDIA_FIELDS = (
 )
 USER_FIELDS = (
     "created_at,description,entities,id,is_identity_verified,location,name,parody,"
-    "profile_banner_url,profile_image_url,protected,public_metrics,url,username,verified,"
+    "pinned_post_id,profile_banner_url,profile_image_url,protected,public_metrics,url,username,verified,"
     "verified_followers_count,verified_type,withheld"
 )
 POLL_FIELDS = "duration_minutes,end_datetime,id,options,voting_status"
@@ -54,6 +54,31 @@ class XApiError(RuntimeError):
     def __init__(self, message: str, status: int | None = None):
         super().__init__(message)
         self.status = status
+
+
+def get_following(user_id, token, *, opener=urllib.request.urlopen):
+    """Return complete public following pages, or raise without a false empty set."""
+    pages, seen = [], set()
+    cursor = None
+    while True:
+        # These two fields need additional access on the following endpoint;
+        # asking for them produces per-field errors even with all IDs returned.
+        fields = ",".join(f for f in USER_FIELDS.split(",")
+                          if f not in ("parody", "verified_followers_count"))
+        params = {"max_results": "1000", "user.fields": fields}
+        if cursor:
+            params["pagination_token"] = cursor
+        payload = _request_json(f"{API_BASE}/users/{user_id}/following?{urllib.parse.urlencode(params)}",
+                                token, 30, opener)
+        if not isinstance(payload, dict) or not isinstance(payload.get("meta"), dict) or payload.get("errors"):
+            raise XApiError("following response incomplete or invalid")
+        pages.append(payload)
+        cursor = payload["meta"].get("next_token")
+        if not cursor:
+            return pages
+        if cursor in seen:
+            raise XApiError("following pagination token repeated")
+        seen.add(cursor)
 
 
 @dataclass
@@ -171,6 +196,7 @@ def _request_json(url: str, token: str, timeout: int,
 def get_user_posts(user_id: str, token: str, captured_at: str, *,
                    full_backfill: bool, max_results: int = 100, timeout: int = 30,
                    since_id: str | None = None,
+                   on_page: Callable | None = None,
                    opener: Callable = urllib.request.urlopen) -> TimelineResult:
     """Fetch replies and posts, optionally paginating the full current timeline."""
     if not token:
@@ -180,6 +206,7 @@ def get_user_posts(user_id: str, token: str, captured_at: str, *,
     newest_id = oldest_id = None
     pagination_token = None
     complete = False
+    seen_tokens = set()
     while True:
         params = {
             "max_results": str(max_results),
@@ -197,17 +224,31 @@ def get_user_posts(user_id: str, token: str, captured_at: str, *,
         url = f"{API_BASE}/users/{user_id}/tweets?{urllib.parse.urlencode(params)}"
         payload = _request_json(url, token, timeout, opener)
         pages += 1
+        # Persist each page before requesting the next: a later failure must not
+        # erase bodies already received, nor advance the caller's since cursor.
+        if on_page:
+            on_page(payload, pages)
+        if not isinstance(payload, dict) or not isinstance(payload.get("meta"), dict):
+            raise XApiError("timeline response has no valid metadata")
+        if payload.get("data") is not None and not isinstance(payload["data"], list):
+            raise XApiError("timeline response data is not a list")
+        if payload.get("errors") and not payload.get("data"):
+            raise XApiError("timeline returned errors without data")
         for tweet in payload.get("data") or []:
             sid = str(tweet.get("id") or "")
             if sid:
                 records[sid] = slice_record(tweet, payload, captured_at)
         meta = payload.get("meta") or {}
-        newest_id = newest_id or meta.get("newest_id")
-        oldest_id = meta.get("oldest_id") or oldest_id
+        valid_ids = [sid for sid in records if sid.isdigit()]
+        newest_id = max(valid_ids, key=int) if valid_ids else newest_id
+        oldest_id = min(valid_ids, key=int) if valid_ids else oldest_id
         pagination_token = meta.get("next_token")
-        if not full_backfill or not pagination_token:
+        if not pagination_token or (not full_backfill and not since_id):
             complete = not pagination_token
             break
+        if pagination_token in seen_tokens:
+            raise XApiError("timeline repeated a pagination token; cursor not advanced")
+        seen_tokens.add(pagination_token)
     return TimelineResult(
         records=records,
         pages=pages,
