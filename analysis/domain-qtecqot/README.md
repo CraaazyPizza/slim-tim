@@ -9,6 +9,10 @@ Read the reports in order:
 2. [Website archaeology and parking-IP correction](../../reports/qtecqot-domain-archaeology-2026-09-08.md)
 3. [Facebook chronology and Zzuss predecessor](../../reports/qtecqot-facebook-zzuss-2026-09-08.md)
 
+[Original July 24 video frame showing the lower-panel mark](2026-09-08/interior-avc-f01694.png)
+and [website logo](2026-09-08/logo.png): a visible resemblance, not an established
+exact match or evidence of copying direction.
+
 The third report supersedes earlier unresolved Facebook-date statements.
 The comment was displayed as August 23, 2026 at 01:18 UTC, to minute precision,
 after qtecqot's August 21 public X post. The shared August IP belongs to registrar

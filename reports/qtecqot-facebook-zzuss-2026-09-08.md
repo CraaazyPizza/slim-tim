@@ -130,6 +130,9 @@ These metadata fields identify what those files claim as export software. They
 do not establish a particular creator, an export date, use of that software today,
 or the production software behind the qtecqot logo. The latter file's complete
 PNG chunk stream contains no software metadata, as documented in the first report.
+Compare the [website logo](../analysis/domain-qtecqot/2026-09-08/logo.png) with
+the [similar mark in the original July 24 frame](../analysis/domain-qtecqot/2026-09-08/interior-avc-f01694.png).
+The visual resemblance does not establish exact artwork identity or its source.
 
 ## Current Zzuss.com is a separate attribution problem
 

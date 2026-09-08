@@ -102,13 +102,18 @@ has no possible pixel-encoded message. No steganographic absence claim is made.
 The filter and chunking choices are insufficient to attribute an editor or
 generator. An editor/exporter can omit metadata without a separate stripping step.
 
-The logo resembles the lower panel mark in original AVC frame 1694 of
+The logo resembles the lower panel mark in [original AVC frame 1694](../analysis/domain-qtecqot/2026-09-08/interior-avc-f01694.png) of
 `l9RAhmPHM_A`. An unmodified frame was decoded with ffmpeg 4.4.2 and saved as
 `interior-avc-f01694.png`. This inspection does not establish exact artwork identity,
 copy direction, a script reading, or access to unpublished footage. The July 24
 video already predates the August 6 domain registration, leaving reconstruction
 from public footage as an available explanation. No new independent vision
 assessment or quantitative matching experiment was performed in this pass.
+
+![Original July 24 video frame showing the lower-panel mark](../analysis/domain-qtecqot/2026-09-08/interior-avc-f01694.png)
+
+[Website logo for comparison](../analysis/domain-qtecqot/2026-09-08/logo.png).
+The resemblance does not establish exact artwork identity or copying direction.
 
 ## Page content and bounded endpoint checks
 

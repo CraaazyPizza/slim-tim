@@ -174,8 +174,9 @@ Historical nameserver/WHOIS changes could still narrow continuity. The later
 Facebook report supplies Page Transparency and the exact displayed comment time. A verified reciprocal
 endorsement from the established qtecqot accounts would address official affiliation.
 
-The custom logo's public appearance in the July 24 footage precedes domain
-registration by about 13 days. Domain registration itself precedes the latest
+A [similar lower-panel mark in the July 24 footage](../analysis/domain-qtecqot/2026-09-08/interior-avc-f01694.png)
+predates domain registration by about 13 days. An exact match to the website logo
+has not been established. Domain registration itself precedes the latest
 video, but none of the inspected records dates the **custom logo page** before
 that release. A clean reconstruction from public footage remains possible.
 
