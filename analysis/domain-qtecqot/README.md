@@ -44,4 +44,4 @@ captures, cookies, and the full desktop screenshot are not part of this publicat
 
 [Three-frame overlays and the left-bend comparison](../../reports/qtecqot-logo-comparison-2026-09-08.md#does-the-left-bend-actually-disagree) show why a mismatch apparent in one frame is less persuasive in another.
 
-[Public operator and contact follow-up](../../reports/detomaso-public-operator-followup-2026-09-08.md): bounced support address, current contact-page checks, unverified X handle, and the separate `.com` parking redirect.
+[Public operator and contact follow-up](../../reports/detomaso-public-operator-followup-2026-09-08.md): current contact-page checks, mail routing, and the limits of attributing historical branding to a current operator.
