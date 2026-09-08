@@ -120,8 +120,8 @@
     "bytes": 1940
   },
   "analysis/domain-qtecqot/README.md": {
-    "sha256": "e2741dddd83b46c8de87fe971fc541bbe8c2466e78ee1b178a1153b07bee17fc",
-    "bytes": 2912
+    "sha256": "f3862e8d3a43992b84ccbed06ae2ae5fb308fcba4e743be01a4d605c2979d0ff",
+    "bytes": 3134
   },
   "analysis/domain-qtecqot/archaeology-2026-09-08/detomaso-facebook-comment-crop.png": {
     "sha256": "de153951f8d9c40ea05e19e7df7409840c34459d23b554c09bb7a443b3a4ec63",
@@ -226,5 +226,9 @@
   "reports/qtecqot-facebook-zzuss-2026-09-08.md": {
     "sha256": "0945ae19b526efdf74361aaa7be40cd017b1f1d624e48979ca63853d8a901dd9",
     "bytes": 8845
+  },
+  "reports/detomaso-public-operator-followup-2026-09-08.md": {
+    "sha256": "edb522ece597e14f73224f07220e498b694a7c546783b95e6a45ed4075db5cdb",
+    "bytes": 4276
   }
 }

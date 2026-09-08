@@ -43,3 +43,5 @@ captures, cookies, and the full desktop screenshot are not part of this publicat
 [Logo comparison report and improved reconstructions](../../reports/qtecqot-logo-comparison-2026-09-08.md) compare two original AVC views with the website artwork and the older extraction.
 
 [Three-frame overlays and the left-bend comparison](../../reports/qtecqot-logo-comparison-2026-09-08.md#does-the-left-bend-actually-disagree) show why a mismatch apparent in one frame is less persuasive in another.
+
+[Public operator and contact follow-up](../../reports/detomaso-public-operator-followup-2026-09-08.md): bounced support address, current contact-page checks, unverified X handle, and the separate `.com` parking redirect.
