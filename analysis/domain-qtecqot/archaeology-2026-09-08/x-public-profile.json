@@ -1,0 +1,10 @@
+{
+  "source": "https://api.x.com/2/users/by/username/detomaso_org?user.fields=description,url,entities,created_at",
+  "checked_date_utc": "2026-09-08",
+  "user_id": "1771076487443320832",
+  "username": "DeTomaso_org",
+  "created_at": "2024-03-22T07:28:46.000Z",
+  "profile_url": "https://x.com/DeTomaso_org",
+  "website_expanded_url": "https://www.detomaso.org",
+  "bio_summary": "Vehicle registry and automobile marketplace."
+}

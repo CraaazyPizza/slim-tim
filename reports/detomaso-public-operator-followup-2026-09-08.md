@@ -12,10 +12,13 @@
 | `support@detomaso.org` | A reported delivery failure gives `550: No Such User Here`. | This concerns that recipient, not the domain as a whole. The original message headers were not independently inspected. |
 | Domain MX | Google DNS returned `0 detomaso.org.` | Published mail routing points to the domain itself. This does not validate any particular mailbox or identify its administrator. |
 | [Facebook page](https://www.facebook.com/detomaso.org) | Previously captured page explicitly links to detomaso.org. | A direct public association between that Facebook page and the website. |
+| [X profile @DeTomaso_org](https://x.com/DeTomaso_org) | Official X API profile data explicitly links to `https://www.detomaso.org`; bio describes a vehicle registry and marketplace. | A direct public association with the registry website, not authentication of an affiliation with the video uploader. |
 
 DNS query: [detomaso.org MX](https://dns.google/resolve?name=detomaso.org&type=MX).
 
 A missing recipient can reflect an outdated contact, a placeholder address, a removed mailbox or a configuration problem.
+
+The X account was created on **March 22, 2024, at 07:28:46 UTC**, five calendar days before the Facebook page's recorded rename to DeTomaso.org. That timing is consistent with the registry branding appearing across the two platforms in the same period. It does not establish who controlled either account. [Selected public profile fields](../analysis/domain-qtecqot/archaeology-2026-09-08/x-public-profile.json).
 
 ## Historical branding is not an identity
 

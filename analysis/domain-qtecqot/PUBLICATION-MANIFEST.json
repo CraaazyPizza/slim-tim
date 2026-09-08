@@ -228,7 +228,11 @@
     "bytes": 8845
   },
   "reports/detomaso-public-operator-followup-2026-09-08.md": {
-    "sha256": "73b88ecf4932e1121df750109c9515c54daf243ff08d5febcb6d8b2898405ae2",
-    "bytes": 2884
+    "sha256": "4080594700263fb8299cd844374e4ec5ed6f23e91eb75bf6855c2de1b5904efa",
+    "bytes": 3603
+  },
+  "analysis/domain-qtecqot/archaeology-2026-09-08/x-public-profile.json": {
+    "sha256": "111308c37160add74d482f1f3e6e71e9b192c9e1693749e0b2d2db91693724c5",
+    "bytes": 429
   }
 }
