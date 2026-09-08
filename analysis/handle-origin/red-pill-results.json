@@ -1,0 +1,56 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=bg1BmaF6AJA",
+  "source_channel_id": "UCw1EA-KJud9OmMA5p7_MWgw",
+  "source_description_sha256": "d1bf2a3547951d322d780f449d23c86c04a5db00d9c0c8a364236227d97b41b6",
+  "base64_chars": 128,
+  "decoded_bytes": 96,
+  "decoded_sha256": "48cd09a278502fee33b38159ec08e82f2097d2141947f491759a70cc286c30ad",
+  "decoded_hex": "6918328cf8b29c06c943528f0085a8059bb180abb3057e1aa9f93c5da26c2dc7c9488db29a8e406f058f244fa6b8c0bc64fd860471c787d72074d8c86c3a7fc45a79c4f93dd45d2ef25963dd7ee6a53cc6ccc740d3e6cb6a518aaf8047618e24",
+  "openssl_salted_header": false,
+  "passwords": [
+    "qtecqot",
+    "Qtecqot",
+    "QTECQOT",
+    "quetzalcoatl",
+    "Quetzalcoatl",
+    "QUETZALCOATL",
+    "Quetzalcóatl",
+    "Quetzalcōātl",
+    "quetzalcouatl",
+    "quetzalcohuatl",
+    "ivan0135",
+    "Ivan0135",
+    "0135",
+    "serpo",
+    "SERPO",
+    "skinnybob",
+    "Skinny Bob",
+    "slimtim",
+    "Slim Tim",
+    "mantis",
+    "red pill",
+    "redpill",
+    "blue pill",
+    "bluepill",
+    "disclosure",
+    "deadmansswitch",
+    "Deadman's Switch",
+    "¯\\_(ツ)_/¯",
+    "QTE C QOT",
+    "qtecqot.com"
+  ],
+  "positive_controls": [
+    "SHA256-key/AES-CBC/prefix-IV",
+    "SHA256-key/AES-GCM/prefix-nonce/tag-last"
+  ],
+  "recognition_floor": "UTF-8 text >=16 characters with >=95% printable characters, or valid authentication tag. Short, binary, compressed, or damaged plaintext can fail this filter.",
+  "results": {
+    "counts": {
+      "plaintext_candidates": 6840,
+      "authenticated_attempts": 3360,
+      "padding_valid": 52
+    },
+    "hits": []
+  },
+  "limits": "No algorithm, KDF, salt, IV, authentication layout or plaintext type is established. These finite failed recipes do not exclude any password in an untested recipe."
+}

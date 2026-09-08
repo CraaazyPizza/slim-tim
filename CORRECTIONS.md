@@ -9,6 +9,25 @@ Newest first. "Ours" = a claim we made; "outside" = a claim someone else made th
 
 ---
 
+## 2026-09-08 — the handle's origin was never established
+
+**Was:** the account dossier called `qtecqot` unpronounceable and “perfectly
+unsearchable,” invoked a password generator, and dated its first public appearance
+to May 25. The failed transformation list did not establish any of those conclusions.
+
+**Now:** the handle's meaning remains unknown. Its distinctive spelling permits
+exact search; failed finite decodes cannot distinguish a random string from a private
+mnemonic or an untested encoding. The already-recovered April 28 post predates the
+May 25 claim. The original handle paragraph has been replaced.
+
+A new [reproducible investigation](reports/qtecqot-handle-2026-09-08.md) tests the
+Quetzalcoatl suggestion, an exact radio-signal partition, and possible passwords for
+the latest video's public Base64 block. None yielded a validated meaning. An earlier
+web-search miss also failed to find the actual Reddit Quetzalcoatl comment, which
+Reddit's own comment search retrieved; search silence was a coverage limit.
+
+---
+
 ## 2026-08-02 (later) — the replies, caught by a reader
 
 A commenter on the Reddit post asked whether the dossier takes qtecqot's **replies** into

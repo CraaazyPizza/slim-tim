@@ -40,13 +40,14 @@ by handle only.
 | **YouTube comments made, all time** | **2**, both on ivan0135's video `RsQCXN4o4Ps`, neither on his own channel. One top-level; **the other a nested reply**, and it carries "5 of 8 completed" — the sentence §6.1's whole counter reading rests on. See §4.4 |
 | **replies to anyone, ever** | **8** — one YouTube comment (§5.3) and seven X posts, four of them addressed to three other accounts. **Corrected 2026-08-02**; this row read "1 … nothing since" and was wrong. See §9 |
 
-**The handle itself.** "qtecqot" had essentially zero web footprint before 2026-05-25. It survives
-no standard decode — Caesar (all 25 shifts), Atbash, reversal, QWERTY-neighbour shift, Russian
-keyboard-layout transliteration, T9, dictionary anagram: nothing. But it is not keyboard mash
-either. Seven letters with a near-doubled skeleton, `q·t·e·c | q·o·t` — both halves open on `q`
-and close on `t`. Two `q`s with no `u` makes it unpronounceable and, more usefully to its owner,
-**perfectly unsearchable**. That is what a password generator gives you, and it is the property
-that makes the registration dates in §2 load-bearing.
+**The handle itself — corrected 2026-09-08.** Its intended meaning is unknown. The recovered
+April 28 first post already carries `qtecqot`, superseding the earlier May 25 first-appearance
+claim. Failed letter transformations do not establish a password-generator origin, randomness,
+or lack of meaning; a distinctive string is useful for exact search. A reproducible new pass
+records finite cipher and dictionary checks, the proposed Quetzalcoatl allusion, the exact
+radio-signal partition `QTE C QOT` and its grammatical limitations, and tests of candidate
+passwords against the fourth 2026 video's public “red pill” block. None establishes a meaning.
+See [the handle investigation](qtecqot-handle-2026-09-08.md).
 
 **On "based in United States".** X shows an "Account is based in" panel for this account. The
 profile's own `location` field is an **empty string** — he never typed a country. That panel is

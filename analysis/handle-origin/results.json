@@ -1,0 +1,293 @@
+{
+  "handle": "qtecqot",
+  "dictionary_url": "https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt",
+  "dictionary_sha256": "3ed0c94610d8bcf7c11bbb49c56aa49c7234d32b66824df91f554169e572da48",
+  "dictionary_entries": 370105,
+  "seven_letter_entries": 41998,
+  "pattern_first_indices": [
+    0,
+    1,
+    2,
+    3,
+    0,
+    5,
+    1
+  ],
+  "same_pattern_candidates": [
+    "amoraim",
+    "apocarp",
+    "ascians",
+    "ashcans",
+    "ashlars",
+    "ashrams",
+    "astrals",
+    "athwart",
+    "capicha",
+    "cenacle",
+    "ceviche",
+    "debadge",
+    "enthean",
+    "eschews",
+    "flawful",
+    "georgie",
+    "granger",
+    "grudger",
+    "imagism",
+    "imbrium",
+    "imonium",
+    "isatins",
+    "itacist",
+    "italiot",
+    "khirkah",
+    "lamblia",
+    "lavolta",
+    "macumba",
+    "manumea",
+    "marimba",
+    "monumbo",
+    "odacoid",
+    "osmious",
+    "prespur",
+    "prosper",
+    "reburse",
+    "recarve",
+    "recurse",
+    "recurve",
+    "reforce",
+    "reforge",
+    "remorse",
+    "repurge",
+    "resurge",
+    "roberto",
+    "rosario",
+    "serosae",
+    "tabitha",
+    "talitha",
+    "thratch",
+    "thrutch",
+    "tractor",
+    "traitor",
+    "tranter",
+    "treator",
+    "trouter",
+    "truster",
+    "trustor",
+    "tryster",
+    "unchurn"
+  ],
+  "affine_candidate_count": 624,
+  "affine_dictionary_hits": {},
+  "caesar": {
+    "0": "qtecqot",
+    "1": "rufdrpu",
+    "2": "svgesqv",
+    "3": "twhftrw",
+    "4": "uxigusx",
+    "5": "vyjhvty",
+    "6": "wzkiwuz",
+    "7": "xaljxva",
+    "8": "ybmkywb",
+    "9": "zcnlzxc",
+    "10": "adomayd",
+    "11": "bepnbze",
+    "12": "cfqocaf",
+    "13": "dgrpdbg",
+    "14": "ehsqech",
+    "15": "fitrfdi",
+    "16": "gjusgej",
+    "17": "hkvthfk",
+    "18": "ilwuigl",
+    "19": "jmxvjhm",
+    "20": "knywkin",
+    "21": "lozxljo",
+    "22": "mpaymkp",
+    "23": "nqbznlq",
+    "24": "orcaomr",
+    "25": "psdbpns"
+  },
+  "atbash": "jgvxjlg",
+  "reversal": "toqcetq",
+  "anagrams": [],
+  "phone_digits": "7832768",
+  "phone_dictionary_hits": [],
+  "layouts": {
+    "qwerty-to-russian": "йеусйще",
+    "qwerty-ordinal-to-alphabet": "aecvaie",
+    "alphabet-to-qwerty-ordinal": "jztejgz",
+    "qwerty-to-dvorak": "'y.j'ry",
+    "qwerty-to-colemak": "qgfcqyg",
+    "qwerty-horizontal--1": "?rwx?ir",
+    "qwerty-horizontal-1": "wyrvwpy"
+  },
+  "keyed": {
+    "ivan": {
+      "vigenere-decrypt": "iyepitt",
+      "vigenere-encrypt": "yoepyjt",
+      "beaufort": "scwlshh"
+    },
+    "serpo": {
+      "vigenere-decrypt": "ypnncwp",
+      "vigenere-encrypt": "ixvregx",
+      "beaufort": "clnnyel"
+    },
+    "skinnybob": {
+      "vigenere-decrypt": "yjwpdqs",
+      "vigenere-encrypt": "idmpdmu",
+      "beaufort": "crelxki"
+    },
+    "slimtim": {
+      "vigenere-decrypt": "yiwqxgh",
+      "vigenere-encrypt": "iemojwf",
+      "beaufort": "csekdut"
+    },
+    "disclosure": {
+      "vigenere-decrypt": "nlmafab",
+      "vigenere-encrypt": "tbwebcl",
+      "beaufort": "npoavaz"
+    },
+    "deadmansswitch": {
+      "vigenere-decrypt": "npezeog",
+      "vigenere-encrypt": "txefcog",
+      "beaufort": "nlwbwmu"
+    },
+    "mantis": {
+      "vigenere-decrypt": "etrjiwh",
+      "vigenere-encrypt": "ctrvygf",
+      "beaufort": "whjrset"
+    },
+    "quetzalcoatl": {
+      "vigenere-decrypt": "azajroi",
+      "vigenere-encrypt": "gnivpoe",
+      "beaufort": "abarjms"
+    },
+    "kgb": {
+      "vigenere-decrypt": "gndsknj",
+      "vigenere-encrypt": "azfmwpd",
+      "beaufort": "unxiqnr"
+    },
+    "tape": {
+      "vigenere-decrypt": "xtpyxoe",
+      "vigenere-encrypt": "jttgjoi",
+      "beaufort": "dhlcdmw"
+    },
+    "seven": {
+      "vigenere-decrypt": "ypjydwp",
+      "vigenere-encrypt": "ixzgdgx",
+      "beaufort": "clrcxel"
+    },
+    "eight": {
+      "vigenere-decrypt": "mlyvxkl",
+      "vigenere-encrypt": "ubkjjsb",
+      "beaufort": "opcfdqp"
+    }
+  },
+  "digit_keyed": {
+    "0135": {
+      "-1": "qsbxqnq",
+      "1": "quhhqpw"
+    },
+    "135": {
+      "-1": "pqzbnjs",
+      "1": "rwjdttu"
+    },
+    "2011": {
+      "-1": "otdboos",
+      "1": "stfdsou"
+    },
+    "2026": {
+      "-1": "otcwoor",
+      "1": "stgisov"
+    },
+    "20260421": {
+      "-1": "otcwqkr",
+      "1": "stgiqsv"
+    },
+    "20260422": {
+      "-1": "otcwqkr",
+      "1": "stgiqsv"
+    },
+    "20260428": {
+      "-1": "otcwqkr",
+      "1": "stgiqsv"
+    },
+    "20260525": {
+      "-1": "otcwqjr",
+      "1": "stgiqtv"
+    },
+    "1234567": {
+      "-1": "prbylim",
+      "1": "rvhgvua"
+    },
+    "5678": {
+      "-1": "lnxulim",
+      "1": "vzlkvua"
+    }
+  },
+  "keyed_dictionary_hits": [],
+  "base64_hex": "aad79caa8b",
+  "base32_hex": "84c8283a",
+  "positive_controls": {
+    "caesar": true,
+    "affine": true,
+    "reversed-affine": true,
+    "T9-contact": true
+  },
+  "detection_scope": "Exact dictionary matches in the enumerated finite families only.",
+  "corpus": {
+    "timeline_sha256": "6a92c787f9ab5a5ee43547195e1d12a2f2afb8ab3b799819b07df4a936ae7fcd",
+    "generated_at": "2026-09-08T15:42:03.765315+00:00",
+    "entry_count": 54,
+    "authored_x_count": 44,
+    "authored_x_ids": [
+      "2049004250995507595",
+      "2052271474304750075",
+      "2058847096904855681",
+      "2058848196907200562",
+      "2066148832728207700",
+      "2066149533432807512",
+      "2066151685723169249",
+      "2066383587763769681",
+      "2066383721474019678",
+      "2082002737362039094",
+      "2082380299598753907",
+      "2083134567695925347",
+      "2083135181737914543",
+      "2083320140276674766",
+      "2083396597241835761",
+      "2083398773242573299",
+      "2083755876188627359",
+      "2083902015831511168",
+      "2083903785219551469",
+      "2084050441407746143",
+      "2084781836652470559",
+      "2084784908011286798",
+      "2084832703879446703",
+      "2085502958377353223",
+      "2085504226428616735",
+      "2085924608360972476",
+      "2085936361543229811",
+      "2086258073510056420",
+      "2086662087858925949",
+      "2087740944724672612",
+      "2087741364301910140",
+      "2088126540295155850",
+      "2088127889787298139",
+      "2088131701147078859",
+      "2089582396282929312",
+      "2089673097855275237",
+      "2090935518397907328",
+      "2090997307349315801",
+      "2091394418234523693",
+      "2092174321724858769",
+      "2092183709256696250",
+      "2094213912002777456",
+      "2094652429757501949",
+      "2096497751463002292"
+    ],
+    "whitespace_word_count": 869,
+    "literal_term_pattern": "\\b(?:quetzal\\w*|aztec\\w*|nahua\\w*|kukul\\w*|serpent\\w*|feather\\w*|qte|qot|qtc|radio\\w*|bearing\\w*|callsign\\w*)\\b",
+    "literal_term_hit_ids": [],
+    "within_post_word_initial_hit_ids": [],
+    "scope": "Held text only; excludes media, uncaptured deletions, reposts and manual entries."
+  }
+}
