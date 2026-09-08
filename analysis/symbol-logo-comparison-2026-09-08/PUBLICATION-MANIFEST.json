@@ -100,11 +100,35 @@
     "bytes": 332053
   },
   "analysis/symbol-logo-comparison-2026-09-08/verification.json": {
-    "sha256": "d4aaadb03e4db747ba73cde0a5ce53c4af89a3c7f0bbaa76a0510cc1cfeff544",
-    "bytes": 298
+    "sha256": "d5e05c48100b329e4dcbf3a372d2f8492b82659530d756d428b11d65dbc7b9fe",
+    "bytes": 421
   },
   "reports/qtecqot-logo-comparison-2026-09-08.md": {
-    "sha256": "d89c84c8bbae2b3d02429619c0d51952b54ee860485758b4bc9d66d1ea2b3835",
-    "bytes": 8528
+    "sha256": "6efd66be8471efe62562b0d1165c8a5a877cf3310edb44e0c8401e6cf853c703",
+    "bytes": 12748
+  },
+  "analysis/symbol-logo-comparison-2026-09-08/compare_multiple_frames.py": {
+    "sha256": "ea71aeb9bf7be00354422ca5f94b8a18281f55be23c436dc89375dad19eb5f94",
+    "bytes": 6348
+  },
+  "analysis/symbol-logo-comparison-2026-09-08/multiple-frame-metrics.json": {
+    "sha256": "986e6ae9c40404105fa21e7f2c9e3207dcb615a3cc0d01ae083f61926d307749",
+    "bytes": 2874
+  },
+  "analysis/symbol-logo-comparison-2026-09-08/raw-crop-f01210.png": {
+    "sha256": "9815cac48e5f46b9b06a34cff19720f468fe9f16cf693985f97516540adcf627",
+    "bytes": 37995
+  },
+  "analysis/symbol-logo-comparison-2026-09-08/raw-crop-f01600.png": {
+    "sha256": "f442ba6f1e9f57af130bc0831fbcdf4c0d64f3e86b1680c0d8fd47b7fd95454c",
+    "bytes": 43610
+  },
+  "analysis/symbol-logo-comparison-2026-09-08/raw-crop-f01694.png": {
+    "sha256": "8dfb19c7c241fc871123d3c67e82462b4ffbb9ce3e35ce63be619399b1ba7da3",
+    "bytes": 33463
+  },
+  "analysis/symbol-logo-comparison-2026-09-08/website-fit-multiple-frames.png": {
+    "sha256": "88f4fdee099debe8637cb9b7c5736f3df3b605277b8a46ed75afbd602c8d745f",
+    "bytes": 515843
   }
 }

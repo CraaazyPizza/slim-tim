@@ -1,0 +1,115 @@
+{
+  "method": "Separate global affine + Gaussian blur fits; constant gain and planar background; soft-L1 residual; no local deformation or origin classification.",
+  "display_stretch_dn": [
+    10,
+    120
+  ],
+  "overlay": "50% contour of unblurred warped website raster; not a source edge measurement",
+  "website_foreground_bbox_threshold80": [
+    67,
+    25,
+    273,
+    258
+  ],
+  "views": [
+    {
+      "frame_1based": 1210,
+      "crop_xyxy": [
+        700,
+        470,
+        1000,
+        800
+      ],
+      "raw_crop_sha256": "9815cac48e5f46b9b06a34cff19720f468fe9f16cf693985f97516540adcf627",
+      "affine_and_blur_parameters": [
+        0.8070877776263219,
+        -0.01596207035907755,
+        0.00721338225737867,
+        0.7915586559970601,
+        21.53577092225917,
+        19.864390459757217,
+        2.9949779492422417
+      ],
+      "gain_and_background": [
+        48.778931059786075,
+        29.048780599823804,
+        8.924900126440091,
+        -6.3070562777269865
+      ],
+      "converged": true,
+      "rmse_dn_masked": 8.637547100820278,
+      "detail_box_xyxy": [
+        56.05033034186448,
+        121.11540523478834,
+        134.22249216341015,
+        224.73400087249615
+      ]
+    },
+    {
+      "frame_1based": 1600,
+      "crop_xyxy": [
+        680,
+        320,
+        980,
+        680
+      ],
+      "raw_crop_sha256": "f442ba6f1e9f57af130bc0831fbcdf4c0d64f3e86b1680c0d8fd47b7fd95454c",
+      "affine_and_blur_parameters": [
+        1.0211389721548227,
+        -0.0014959963100713515,
+        -0.01991760638812811,
+        1.0079266561035563,
+        -20.110551190692302,
+        8.501006057367,
+        2.316904054937906
+      ],
+      "gain_and_background": [
+        63.31428361669545,
+        28.35169565023868,
+        -0.6849432763099403,
+        7.639448489161186
+      ],
+      "converged": true,
+      "rmse_dn_masked": 8.266938848881148,
+      "detail_box_xyxy": [
+        30.791268042629582,
+        137.0214490814082,
+        122.42807570602464,
+        264.2479804194506
+      ]
+    },
+    {
+      "frame_1based": 1694,
+      "crop_xyxy": [
+        680,
+        570,
+        980,
+        900
+      ],
+      "raw_crop_sha256": "8dfb19c7c241fc871123d3c67e82462b4ffbb9ce3e35ce63be619399b1ba7da3",
+      "affine_and_blur_parameters": [
+        0.9658362308232926,
+        -0.037599257775658916,
+        0.024614698582467336,
+        0.9102958532363438,
+        -19.057961664352934,
+        20.918878432419042,
+        2.1086023151731914
+      ],
+      "gain_and_background": [
+        42.708597382583555,
+        28.375262733735077,
+        2.9443279351266365,
+        -13.831452957539524
+      ],
+      "converged": true,
+      "rmse_dn_masked": 11.047352271486025,
+      "detail_box_xyxy": [
+        19.68039403000819,
+        139.8371798004552,
+        111.23685225408286,
+        257.141273291044
+      ]
+    }
+  ]
+}

@@ -16,6 +16,24 @@ Frame 1694 gives a different view: the upper portions are clearer, while the low
 
 This is a positive observation of broad strokes, not a recovery of precise edges. Projection, shading, blur, compression and changes within the footage have not been disentangled. No calibrated test for the absence of an individual stroke was performed.
 
+## Does the left bend actually disagree?
+
+**Visual judgment: the lower bend of the left, reversed-D-shaped group is a substantially better match in frame 1600 than the original frame-1694 overlay suggests. It is not persuasive evidence of a careless redraw.** The outline follows the earlier frame's curved side, transition into the upright and downward tail closely at the displayed resolution. Exact boundary identity is not established.
+
+![Website aligned separately to three AVC frames, with enlarged views of the left lower bend](../analysis/symbol-logo-comparison-2026-09-08/website-fit-multiple-frames.png)
+
+Read each row from left to right: source crop, fitted website raster, website boundary over the source, then an enlarged view of the cyan box. Frames 1210, 1600 and 1694 are separate observations from the same video. Each gets one global affine alignment; the highlighted bend is not moved or reshaped independently. The source columns use a 10–120 DN display stretch, retaining more faint signal than the earlier 25–130 DN figure. The saved raw crops retain original decoded RGB values.
+
+In frame 1694, the visible lower bend looks blunter and shorter than the website outline, while several upper strokes agree well. But the lower portions of the central and right strokes are also much weaker in that frame. Frame 1600 shows both the left tail and the other lower curves clearly. Frame 1210 offers another view with a visible bend and fainter tail. A single bright segment should not be treated as the full boundary of the underlying design.
+
+The visual comparison therefore supports strong overall resemblance, with some apparent discrepancies depending on the frame. It does **not** establish that illumination alone caused those changes: blur, shading, projection, compression and changes within the footage remain possible contributors. The fits use a constant foreground gain and a sloping background, not a model of spatially varying illumination on the strokes. They also do not correct full perspective. Residual offsets can reflect those limitations as well as differences in the artwork.
+
+The orange line is the 50% boundary of the transformed, unblurred website raster, not a measured edge in the source. The original single-frame figure used a 35% contour of the blurred template; its line position consequently differs even before changing the alignment. Neither contour is a confidence boundary. No detection floor or calibrated test of local geometric differences was run, so the apparent agreement cannot exclude a small redraw alteration.
+
+A traced and cleaned-up version remains plausible, as does use of common source artwork. **The left bend does not currently distinguish those explanations.** Establishing a genuine local design difference would require a repeatable offset after testing registration, blur and illumination choices, with injected differences to measure sensitivity. This figure is a visual comparison, not that completed attribution test.
+
+[Multi-frame comparison script](../analysis/symbol-logo-comparison-2026-09-08/compare_multiple_frames.py), [fit settings and parameters](../analysis/symbol-logo-comparison-2026-09-08/multiple-frame-metrics.json), original RGB crops: [1210](../analysis/symbol-logo-comparison-2026-09-08/raw-crop-f01210.png), [1600](../analysis/symbol-logo-comparison-2026-09-08/raw-crop-f01600.png), [1694](../analysis/symbol-logo-comparison-2026-09-08/raw-crop-f01694.png).
+
 ## Better line art, with its limits visible
 
 A separate reconstruction agent received the original AVC source, the target panel location and the frame number. It was instructed not to inspect the website logo, old reconstructions or prior symbol interpretations. It completed its outputs before comparison with those references. This reduces reference-driven tracing; it is not an independent source of footage or a statistical validation.
@@ -35,6 +53,10 @@ The [July symbol report](agent_symbols.md) includes a [145-frame aligned extract
 
 The older pipeline used the AV1 copy. Reproducing its `single_best_frame.png` from that source yielded identical pixels (1,298,700 values compared), supporting that source lineage. Its line-art pipeline deliberately retained only high-agreement bright areas, then applied morphological filtering. This left detached pieces and shortened strokes. The website logo connects or extends several of those areas. It is therefore not an unchanged copy of that fragmented line-art image; producing it from that image would require further editing.
 
+![Original frame crop, older grayscale extraction, older conservative line art and website logo](../analysis/symbol-logo-comparison-2026-09-08/source-comparison.png)
+
+*The older line-art panel shows how thresholding broke up a shape that is more complete in the grayscale extraction. The website is not an unchanged copy of those disconnected pieces.*
+
 The older grayscale extraction is a more plausible tracing reference than the broken silhouette: it retains broader curves visible in the video. However, those curves also appear in raw frame 1600. Their presence in the website logo cannot identify GitHub as the intermediate source. Visual inspection has not supplied a positive, distinctive processing fingerprint that attributes the website artwork to the older extraction; no calibrated exclusion test was performed.
 
 ## What each proposed route explains
@@ -52,5 +74,9 @@ The website file is a 343 × 270 PNG. Smooth boundaries at that size are consist
 ## Supplementary fit and reproducibility
 
 [The source comparison](../analysis/symbol-logo-comparison-2026-09-08/source-comparison.png) shows the older line art explicitly. A [supplementary fit](../analysis/symbol-logo-comparison-2026-09-08/website-fit-to-frame.png) applies an affine transform, Gaussian blur, gain and a background plane to the website raster to compare it with frame 1694. This is a conditional illustration of resemblance, **not an identity or origin classifier**; its residual depends on the selected crop, mask and model. It should not override the additional lower-stroke evidence in frame 1600.
+
+![Earlier single-frame fit to frame 1694, retained for comparison with the three-frame figure](../analysis/symbol-logo-comparison-2026-09-08/website-fit-to-frame.png)
+
+*This earlier figure emphasizes the brighter upper strokes. Its lower-stroke discrepancies should be read alongside frame 1600 above, rather than interpreted on their own. It also uses a different display stretch and contour definition.*
 
 [Comparison script](../analysis/symbol-logo-comparison-2026-09-08/compare.py), [fit parameters](../analysis/symbol-logo-comparison-2026-09-08/comparison-metrics.json), [selected-file hashes](../analysis/symbol-logo-comparison-2026-09-08/PUBLICATION-MANIFEST.json). Source frames were decoded with ffmpeg 4.4.2. Reconstruction scripts require the original AVC video at the documented repository path and the shared locked Python environment.

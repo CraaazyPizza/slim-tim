@@ -4,5 +4,7 @@
   "frame_1694_matches_previously_published_frame": true,
   "crop_1600_preserves_original_pixels": true,
   "crop_1694_preserves_original_pixels": true,
-  "python_scripts_parse": true
+  "python_scripts_parse": true,
+  "three_frame_comparison_crops_match_original_rgb_pixels": true,
+  "three_frame_fits_converged_with_positive_gain": true
 }
